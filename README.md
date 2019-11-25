@@ -18,7 +18,8 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
  #### Code:
  - [ ] resolve Throtteling errors, using limit headers values
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight)
- - [ ] add jewel types for search/filter like: hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
+ - [ ] add jewel types for search/filter like: 
+ 
   ```
   { 
     "jewelTypes":[
@@ -32,6 +33,9 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
     ]
   }
   ```
+  hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
+  
+  
   - [ ] Probably hard as fuck for me. Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!)
   **"Potential"** problems :
   * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. 
