@@ -5,17 +5,17 @@ to have all in one place remotely avaiable
 
 [GitKraken board](https://app.gitkraken.com/glo/board/XdYli-AbPwAPFRzD)
 
-#### TODO
+---
+
+### TODO
 mostly the same as in glo boards, thus its easier sometimes for me to add here, and update there :)
 
-Planned improvements:
- Design:
+#### Planned improvements:
+#### Design:
  - [ ] move menu
- - [ ] create help menu/panel
+ - [ ] create help menu/panel 
   
-  
-  
- Code:
+ #### Code:
  - [ ] resolve Throtteling errors, using limit headers values
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight)
  - [ ] add jewel types for search/filter like: 
@@ -32,6 +32,13 @@ Planned improvements:
     ]
   }
   ```
+  - [ ] Probably hard as fuck for me. Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!)
+  **"Potential"** problems :
+  * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. 
+    * (And i was secretly thinking about porting it to mobile one day, foolish me!) 
+  * there is fuckton of mods - how to even "ugryźć to" 
+  
+  
   
   Both: 
  - [ ] experiment with icons for every row/ or for row with Jewels
