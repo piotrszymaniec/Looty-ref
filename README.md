@@ -18,7 +18,7 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
  #### Code:
  - [ ] resolve Throtteling errors, using limit headers values
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight)
- - [ ] add jewel types for search/filter like: 
+ - [ ] add jewel types for search/filter like: hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
   ```
   { 
     "jewelTypes":[
