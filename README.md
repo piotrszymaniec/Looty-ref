@@ -34,3 +34,4 @@ Planned improvements:
   
   Both: 
  - [ ] experiment with icons for every row/ or for row with Jewels
+ - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in Readct - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) 
