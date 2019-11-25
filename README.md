@@ -23,8 +23,9 @@ Planned improvements:
   { 
     "jewelTypes":[
     "Searching Eye Abyss Jewel",
-    "Murdering Eye Abyss Jewel",
-    " ... Eye Abyss Jewel",
+    "Murderous Eye Abyss Jewel",
+    "Ghastly Eye Abyss Jewel",
+    "Hypnotic Eye Abyss Jewel",
     "Crimson Jewel",
     "Viridian Jewel",
     "Cobalt Jewel"
@@ -34,4 +35,4 @@ Planned improvements:
   
   Both: 
  - [ ] experiment with icons for every row/ or for row with Jewels
- - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in Readct - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) 
+ - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) 
