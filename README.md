@@ -34,7 +34,7 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
   }
   ```
   hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
-  
+  - [ ] Make more visible information when making new Select Column save -> "New: column_filter_name" -> something maybe tooltip
   
   - [ ] Probably hard as fuck for me. Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!)
   **"Potential"** problems :
