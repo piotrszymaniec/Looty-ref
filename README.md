@@ -95,3 +95,7 @@ Still I coul glue it to Jewel type like "Abyss Jewel" so user can filter it that
   Other: 
  - [ ] experiment with icons for every row/ or for row with Jewels
  - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) ... hmm is it worth using in here?
+ 
+ ### UX part
+ - Think about making look'n feel of looty API to be straight familiar to old PoE gamer. What it means that UI has to have known elements of usability of popular PoE tools: PoB, pathofexile.com/trade/, poe.trade, PoETradeMacro. Then its less of inventing the wheel.
+ - Consistency between elements usage, like: column filter auto-completion, so other input boxes should have it if its **comfortable** for user.
