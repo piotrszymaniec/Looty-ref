@@ -74,14 +74,13 @@ Ad. there is error because of this fragment of item json (which is not parsed by
 Still I coul glue it to Jewel type like "Abyss Jewel" so user can filter it that way, instead of leaving it like now.
 
   
-  - [ ] Make more visible information when making new Select Column save -> "New: column_filter_name" -> something maybe tooltip
-  
+  - [ ] Make more visible information when making new Select Column save -> "New: column_filter_name" -> something maybe tooltip  
   - [ ] Probably hard as fuck for me. Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!)
   
   **"Potential"** problems :
-  * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. *Wink wink with* side menu maybe...
+  * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. *Wink wink with* side menu maybe
     * (And i was secretly thinking about porting it to mobile one day, foolish me!) 
-  * there is fuckton of mods - how to even ...
+
   
   
   Other: 
