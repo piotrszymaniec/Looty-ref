@@ -14,6 +14,32 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
 #### Design:
  - [ ] move menu
  - [ ] create help menu/panel 
+ - [ ] Solve problem with column selection, other words big soup of mods you can have as columns
+ 
+ thus
+ 
+ ### User selecting mods/affixes for columns
+ 
+ Several problems with that. As of current version:
+ * tight space for choosing mods
+ * categories not visible enough and/or eyebaling left for cat. name and right for desired mod and shorthands because of lack of space, often lead to sacrifices in cost of readability.
+
+Readability has to be improven. Random thoughts below.
+
+left menu with accordion (open/close) with similar categories as of now : General, Defense, i'd do this as parent of resists.
+
+- General
+  - location
+  - name 
+  - rarity
+  - ...
+- Defense
+  - resists
+  - regen
+- Offense
+- ...
+
+ mockup 
   
  #### Code:
  - [ ] resolve Throtteling errors, using limit headers values
@@ -33,17 +59,31 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
     ]
   }
   ```
-  hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
+hmm *looty does show this info*, **but** if we choose column tpeln, id say its very ambigous... Solution? when user choose column type than propose tpeln , or add it to default view
+Ad. there is error because of this fragment of item json (which is not parsed by Looty yet) :
+```
+{
+...
+  properties: [{
+    displayMode: 0,
+    name: "Abyss"
+  }]
+  ...
+}
+```
+Still I coul glue it to Jewel type like "Abyss Jewel" so user can filter it that way, instead of leaving it like now.
+
+  
   - [ ] Make more visible information when making new Select Column save -> "New: column_filter_name" -> something maybe tooltip
   
   - [ ] Probably hard as fuck for me. Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!)
+  
   **"Potential"** problems :
-  * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. 
+  * How am i going to figure out where the hell all those mods fit into Select Column panel ?! now it takes whole screen on my laptop. *Wink wink with* side menu maybe...
     * (And i was secretly thinking about porting it to mobile one day, foolish me!) 
-  * there is fuckton of mods - how to even "ugryźć to" 
+  * there is fuckton of mods - how to even ...
   
   
-  
-  Both: 
+  Other: 
  - [ ] experiment with icons for every row/ or for row with Jewels
- - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) 
+ - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) ... hmm is it worth using in here?
