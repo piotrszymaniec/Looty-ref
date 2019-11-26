@@ -45,8 +45,8 @@ left menu with accordion (open/close) with similar categories as of now : Genera
   - regen
 - Offense
 - ...
-
- mockup 
+  
+  <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/affix_column_selection_test-0.1.png" alt="drawing" width="40%"/>
   
  #### Code:
  - [ ] resolve Throtteling errors, using limit headers values. Limit is 45 requests per 60s. 
