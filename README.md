@@ -49,7 +49,9 @@ left menu with accordion (open/close) with similar categories as of now : Genera
  mockup 
   
  #### Code:
- - [ ] resolve Throtteling errors, using limit headers values
+ - [ ] resolve Throtteling errors, using limit headers values. Limit is 45 requests per 60s. 
+Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
+
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight)
  - [ ] add jewel types for search/filter like: 
  
