@@ -15,7 +15,14 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
  - [ ] move menu
  - [ ] create help menu/panel 
  - [ ] Solve problem with column selection, other words big soup of mods you can have as columns
- 
+ - [ ] Hovering Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
+```
+Why its not working:
+Looty is authorized to fetch you item data upon sending your POESESSID.
+It takes it from chrome localStorage - thats feature of every extension which registers it in manifest.json being part of ext.
+To be able to do that you have to visit pathofexile.com site even once first. Then its sits in browser storage.
+Third party aps can't do that, thus you give them this yourself.
+```
  thus
  
  ### User selecting mods/affixes for columns
@@ -42,7 +49,9 @@ left menu with accordion (open/close) with similar categories as of now : Genera
  mockup 
   
  #### Code:
- - [ ] resolve Throtteling errors, using limit headers values
+ - [ ] resolve Throtteling errors, using limit headers values. Limit is 45 requests per 60s. 
+Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
+
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight)
  - [ ] add jewel types for search/filter like: 
  
@@ -86,3 +95,7 @@ Still I coul glue it to Jewel type like "Abyss Jewel" so user can filter it that
   Other: 
  - [ ] experiment with icons for every row/ or for row with Jewels
  - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) ... hmm is it worth using in here?
+ 
+ ### UX part
+ - Think about making look'n feel of looty API to be straight familiar to old PoE gamer. What it means that UI has to have known elements of usability of popular PoE tools: PoB, pathofexile.com/trade/, poe.trade, PoETradeMacro. Then its less of inventing the wheel.
+ - Consistency between elements usage, like: column filter auto-completion, so other input boxes should have it if its **comfortable** for user.
