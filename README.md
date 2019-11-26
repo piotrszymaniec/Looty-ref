@@ -15,7 +15,14 @@ mostly the same as in glo boards, thus its easier sometimes for me to add here, 
  - [ ] move menu
  - [ ] create help menu/panel 
  - [ ] Solve problem with column selection, other words big soup of mods you can have as columns
- 
+ - [ ] Hovering Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
+```
+Why its not working:
+Looty is authorized to fetch you item data upon sending your POESESSID.
+It takes it from chrome localStorage - thats feature of every extension which registers it in manifest.json being part of ext.
+To be able to do that you have to visit pathofexile.com site even once first. Then its sits in browser storage.
+Third party aps can't do that, thus you give them this yourself.
+```
  thus
  
  ### User selecting mods/affixes for columns
