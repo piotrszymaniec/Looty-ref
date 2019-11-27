@@ -49,7 +49,7 @@ left menu with accordion (open/close) with similar categories as of now : Genera
   <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/affix_column_selection_test-0.1.png" alt="drawing" width="40%"/>
  
  #### Thumbnail idea:
-   <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/panel_page_thumbnail_view-0.1.png" alt="drawing" width="70%"/>
+   <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/mod_panel_page_thumbnail_view-0.1.png" alt="drawing" width="70%"/>
 
  #### Code:
  - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
