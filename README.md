@@ -9,6 +9,7 @@ to have all in one place remotely avaiable
 
 ### TODO
 mostly the same as in glo boards, thus its easier sometimes for me to add here, and update there :)
+read https://github.com/mleibman/SlickGrid/wiki - read beginer introduction 
 
 #### Planned improvements:
 #### Design:
@@ -52,6 +53,7 @@ left menu with accordion (open/close) with similar categories as of now : Genera
    <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/mod_panel_page_thumbnail_view-0.1.png" alt="drawing" width="70%"/>
 
  #### Code:
+ - [ ] add experiance progress bar of gems (?maybe characters too)
  - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
 
