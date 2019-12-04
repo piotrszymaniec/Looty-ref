@@ -1,0 +1,25 @@
+curl -X GET "https://www.pathofexile.com/character-window/get-items?accountName=suni3mo&character=jowixawilczakrolowa" -H "accept: application/json" -H "Cookie: POESESSID= something"
+
+cache-control: no-cache 
+cf-cache-status: DYNAMIC 
+cf-ray: 53f99246685bcefc-IAD 
+content-encoding: br 
+content-length: 14619 
+content-type: application/json; charset=utf-8 
+date: Wed, 04 Dec 2019 00:12:54 GMT 
+etag: W/"391b-sT7Puy/jYBi7GQrD/ByphL1fzIo" 
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+expires: -1 
+pragma: no-cache 
+server: cloudflare 
+status: 200, 200 OK 
+via: 1.1 7ed7afde326861e358c3c83359e99895.cloudfront.net (CloudFront) 
+x-amz-cf-id: K2ZDWwThIHZrNuV4re64Tg1BaNHOOVwIbL5c8bvPBEkEIwcx4-0W_A== 
+x-amz-cf-pop: FRA6-C1 
+x-cache: Miss from cloudfront 
+x-frame-options: SAMEORIGIN 
+x-powered-by: Express, Phusion Passenger 5.3.4 
+x-rate-limit-account: 45:60:60,240:240:900 
+x-rate-limit-account-state: 1:60:0,1:240:0 
+x-rate-limit-policy: backend-item-request-limit 
+x-rate-limit-rules: Account

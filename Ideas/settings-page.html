@@ -1,0 +1,104 @@
+<html ng-app=""><head>
+    <title>Looty!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:300,700,500italic,900,300italic,400italic,900italic,100italic,100,500,400,700italic" rel="stylesheet" type="text/css">
+    
+  <link rel="stylesheet" href="jslib/slickgrid/css/smoothness/jquery-ui-1.8.16.custom.css">
+  <link rel="stylesheet" href="jslib/slickgrid/slick.grid.css">
+  <link rel="stylesheet" href="jslib/font-awesome-4.2.0/css/font-awesome.css">
+  <link rel="stylesheet" href="jslib/select2/select2.css">
+    
+    <link rel="stylesheet" href="less/alerter.css">
+<link rel="stylesheet" href="less/item-detail.css">
+<link rel="stylesheet" href="less/lootview.css">
+<link rel="stylesheet" href="less/main.css">
+<link rel="stylesheet" href="less/poebuilder.css">
+<link rel="stylesheet" href="less/views-menu.css">
+<link rel="stylesheet" href="less/material/buttons.css">
+<link rel="stylesheet" href="less/material/colors.css">
+
+<style type="text/css" rel="stylesheet">.slickgrid_335837 .slick-header-column { left: 1000px; } .slickgrid_335837 .slick-top-panel { height:25px; } .slickgrid_335837 .slick-headerrow-columns { height:30px; } .slickgrid_335837 .slick-cell { height:20px; } .slickgrid_335837 .slick-row { height:25px; } .slickgrid_335837 .l0 { } .slickgrid_335837 .r0 { } .slickgrid_335837 .l1 { } .slickgrid_335837 .r1 { } .slickgrid_335837 .l2 { } .slickgrid_335837 .r2 { } .slickgrid_335837 .l3 { } .slickgrid_335837 .r3 { } .slickgrid_335837 .l4 { } .slickgrid_335837 .r4 { } .slickgrid_335837 .l5 { } .slickgrid_335837 .r5 { } .slickgrid_335837 .l6 { } .slickgrid_335837 .r6 { } .slickgrid_335837 .l7 { } .slickgrid_335837 .r7 { } .slickgrid_335837 .l8 { } .slickgrid_335837 .r8 { } .slickgrid_335837 .l9 { } .slickgrid_335837 .r9 { } .slickgrid_335837 .l10 { } .slickgrid_335837 .r10 { } .slickgrid_335837 .l11 { } .slickgrid_335837 .r11 { } .slickgrid_335837 .l12 { } .slickgrid_335837 .r12 { } .slickgrid_335837 .l13 { } .slickgrid_335837 .r13 { } .slickgrid_335837 .l14 { } .slickgrid_335837 .r14 { } .slickgrid_335837 .l15 { } .slickgrid_335837 .r15 { } .slickgrid_335837 .l16 { } .slickgrid_335837 .r16 { } .slickgrid_335837 .l17 { } .slickgrid_335837 .r17 { } .slickgrid_335837 .l18 { } .slickgrid_335837 .r18 { } .slickgrid_335837 .l19 { } .slickgrid_335837 .r19 { } .slickgrid_335837 .l20 { } .slickgrid_335837 .r20 { } .slickgrid_335837 .l21 { } .slickgrid_335837 .r21 { } .slickgrid_335837 .l22 { } .slickgrid_335837 .r22 { } .slickgrid_335837 .l23 { } .slickgrid_335837 .r23 { } .slickgrid_335837 .l24 { } .slickgrid_335837 .r24 { } .slickgrid_335837 .l25 { } .slickgrid_335837 .r25 { }</style>
+<style>
+label {
+    /* position: absolute; */
+    /* margin-top: -10px; */
+}
+
+div#footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.form {
+    width: 80%;
+    text-align: right;
+}
+
+
+input.name {
+    margin-bottom: 0.5em;
+}    
+</style>
+
+</head>
+<body>
+
+<div id="header">
+    <div id="alerter"><div class="info">Downloaded some data from pathofexile.com! If you like Looty please comment <a target="_blank" href="http://www.pathofexile.com/forum/view-thread/832233">here</a> so more people find out about it! </div></div>
+
+
+
+    <menu-bar class="views-menu">
+        <menu-item><a class="view-btn home" href="#/home">Home</a></menu-item>
+        <!--<menu-item><a class="view-btn underlay" href="#/underlay">Underlay</a></menu-item>-->
+        <menu-item><a class="view-btn xp" href="#/xp">XP</a></menu-item>
+        <menu-item><a class="view-btn wealth" href="#/wealth">Wealth</a></menu-item>
+        <menu-item><a class="view-btn maps" href="#/maps">Maps</a></menu-item>
+        <menu-item><a class="view-btn poebuilder" href="#/poebuilder">PoeBuilder</a></menu-item>
+        <menu-item><a class="view-btn standard grid" href="#/standard-grid">Standard</a></menu-item>
+        <menu-item><a class="view-btn hardcode grid" href="#/hardcore-grid">Hardcore</a></menu-item>
+        <menu-item><a class="view-btn settings" href="#/settings">Settings</a></menu-item>
+    <menu-item><a class="view-btn grid" href="#/blight-grid">Blight</a></menu-item></menu-bar>
+</div>
+
+
+<div id="content"><div class="form"><label>Override Account Name (try manually entering your account name here if you have issues):<input type="text" name="name" required="" minlength="4" maxlength="50" size="20" value="Override Account entry" class="name"><button>Save</button></label> <br><span>Override Realm Name (try manually entering your realm name here, for ps4 it's sony):</span> <input type="text" name="name" required="" minlength="4" maxlength="50" size="20" value="Override Realm Name" class="name"><button>Save</button></div></div>
+
+
+<div id="footer">
+    <div style="display:inline-block;color:gold">
+        <div style="display:inline-block;-webkit-transform:scaleX(-1);transform:scaleX(-1)">
+            <a target="_blank" href="http://www.gnu.org/licenses/gpl-2.0.html">©</a>
+        </div>
+        <a target="_blank" href="http://blog.jackman.biz" style="color:gold">&nbsp;Benjamin Jackman Designed 2014.</a>
+        <!--Third Party Sites:-->
+        <!--<a target="_blank" href="http://poebuilder.com" style="color:gold">&nbsp;poebuilder.com</a>-->
+    </div>
+</div>
+
+
+<script type="text/javascript" src="jslib/jailed/0.2.0/jailed.js"></script>
+<script type="text/javascript" src="jslib/d3.js"></script>
+<script type="text/javascript" src="jslib/jquery.js"></script>
+<script type="text/javascript" src="jslib/jquery-migrate.js"></script>
+<script type="text/javascript" src="jslib/react/0.12.1/react-with-addons.js"></script>
+<script type="text/javascript" src="jslib/signals.js"></script>
+<script type="text/javascript" src="jslib/crossroads.js"></script>
+<script type="text/javascript" src="jslib/hasher.js"></script>
+<script type="text/javascript" src="jslib/esprima.js"></script>
+<script type="text/javascript" src="jslib/vm.js"></script>
+<script type="text/javascript" src="jslib/select2/select2.js"></script>
+<script type="text/javascript" src="jslib/filesaver.js"></script>
+<script type="text/javascript" src="jslib/slickgrid/lib/jquery.event.drag-2.0.min.js"></script>
+<script type="text/javascript" src="jslib/slickgrid/lib/jquery.event.drop-2.0.min.js"></script>
+<script type="text/javascript" src="jslib/slickgrid/slick.core.js"></script>
+<script type="text/javascript" src="jslib/slickgrid/slick.grid.js"></script>
+<script type="text/javascript" src="jslib/slickgrid/slick.dataview.js"></script>
+    
+<script type="text/javascript" src="looty-opt.js"></script>
+
+<script type="text/javascript" src="jslib/startup.js"></script>
+    
+
+
+<span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible">No matches found</span><div id="select2-drop-mask" class="select2-drop-mask" style="display: none;"></div><div class="select2-drop select2-display-none select2-with-searchbox select2-drop-active" style="left: 485.313px; width: 220px; top: 78px; bottom: auto; display: none;">   <div class="select2-search">       <label for="s2id_autogen4_search" class="select2-offscreen"></label>       <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-4" id="s2id_autogen4_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-4"></ul></div></body></html>
