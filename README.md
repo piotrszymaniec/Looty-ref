@@ -87,7 +87,7 @@ There is error because of this fragment of item json (which is not parsed by Loo
   ...
 }
 ```
-Still I could glue it to Jewel type like "Abyss Jewel" so user can filter it that way, instead of leaving it like now without this posiibility.
+~~Still I could glue it to Jewel type like "Abyss Jewel" so user can filter it that way, instead of leaving it like now without this posiibility.~~ Done!
 
   
   - [ ] When making new "Select Column *save*"  its not obvious that you have to click name entered. Sadly when you click somewhere else, thinking "its written so i can click save and vuala" - nope you have to click on its name which is selected in blue, and then as it will appear in input box it stays there so you can click save... 
