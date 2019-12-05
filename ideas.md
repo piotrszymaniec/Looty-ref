@@ -43,6 +43,7 @@ stashTabs.tabs[x].i
 class for translation state A->B - 
 ?is there already class i can use? or i need to work with js object?
 
+#### and other way around
 
 
 ### item copied from poe, paste and make filters:
@@ -50,6 +51,7 @@ class for translation state A->B -
 ?shift+crl+v 
 ?some switch-box in settings what to do with pasted items into filters
 
+could be useful to check if some "GreAt looking item" is realy great :)
 ### Favorites Items - so you can save those what you like to <3 list
 
 <3 items are always favoured 
