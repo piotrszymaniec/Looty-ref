@@ -50,3 +50,13 @@ class for translation state A->B -
 ?shift+crl+v 
 ?some switch-box in settings what to do with pasted items into filters
 
+### Favorites Items - so you can save those what you like to <3 list
+
+<3 items are always favoured 
+  ?different color background/fonts
+  ?with border
+  ?with heart left most (youd have to save there extra space for icon)
+  ?
+
+?and search against this item/s
+?track when they change stash/tab placement (items have own id, so work with this...)
