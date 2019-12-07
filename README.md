@@ -52,6 +52,7 @@ left menu with accordion (open/close) with similar categories as of now : Genera
 
  #### Thumbnail idea:
    <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/mod_panel_page_thumbnail_view-0.1.png" alt="drawing" width="60%"/>
+   
 ---
 
  #### Code:
