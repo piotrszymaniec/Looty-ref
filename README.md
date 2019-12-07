@@ -1,35 +1,35 @@
 ## Looty-ref
 
 Library of ideas for my endavours, tinkering with [Looty](https://github.com/benjaminjackman/looty/) stash manager
-to have all in one place remotely avaiable
-
-[GitKraken board](https://app.gitkraken.com/glo/board/XdYli-AbPwAPFRzD)
-
+to have all in one place remotely available
 ---
 
 ### TODO
-mostly the same as in glo boards, thus its easier sometimes for me to add here, and update there :)
-read https://github.com/mleibman/SlickGrid/wiki - read beginer introduction 
 
-#### Planned improvements:
-#### Design:
+[ ] Lets read https://github.com/mleibman/SlickGrid/wiki - beginer introduction to understand its capabilities
+
+### Planned improvements:
+### Design:
  - [ ] move menu
  - [ ] create help menu/panel 
- - [ ] Solve problem with column selection, other words big soup of mods you can have as columns
- - [ ] Hovering Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
+ - [ ] Solve "problem" with column selection, other words big soup of mods you can have as columns
+ - [ ] Alerter Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
 ```
 Why its not working:
 Looty is authorized to fetch you item data upon sending your POESESSID.
 It takes it from chrome localStorage - thats feature of every extension which registers it in manifest.json being part of ext.
 To be able to do that you have to visit pathofexile.com site even once first. Then its sits in browser storage.
 Third party aps can't do that, thus you give them this yourself.
+
+but shorter
 ```
  
- ### User selecting mods/affixes for columns
+ #### User selecting mods/affixes for columns
  
  Several problems with that. As of current version:
  * tight space for choosing mods
  * categories not visible enough and/or eyebaling left for cat. name and right for desired mod and shorthands because of lack of space, often lead to sacrifices in cost of readability.
+ * maybe group it in more general sets like below
 
 Readability has to be improven. Random thoughts below.
 
@@ -45,12 +45,14 @@ left menu with accordion (open/close) with similar categories as of now : Genera
   - resists
   - regen
 - Offense
+- Utility
 - ...
   
-  <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/affix_column_selection_test-0.1.png" alt="drawing" width="40%"/>
- 
+  <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/affix_column_selection_test-0.1.png" alt="drawing" width="25%"/>
+
  #### Thumbnail idea:
-   <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/mod_panel_page_thumbnail_view-0.1.png" alt="drawing" width="70%"/>
+   <img src="https://github.com/Traf27/Looty-ref/blob/master/READMEpics/mod_panel_page_thumbnail_view-0.1.png" alt="drawing" width="60%"/>
+---
 
  #### Code:
  - [ ] add experiance progress bar of gems (?maybe characters too)
