@@ -2,7 +2,6 @@
 
 Library of ideas for my endavours, tinkering with [Looty](https://github.com/benjaminjackman/looty/) stash manager
 to have all in one place remotely available
----
 
 ### TODO
 
