@@ -6,6 +6,9 @@
  - [ ] make that league buttons remeber state - you see what league you are in
  - [ ] Solve "problem" with column selection, other words big soup of mods you can have as columns
  - [x] Alerter Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
+ - [ ] When making new "Select Column *save*"  its not obvious that you have to click name entered. Sadly when you click somewhere else, thinking "its written so i can click save and vuala" - nope you have to click on its name which is selected in blue, and then as it will appear in input box it stays there so you can click save...  Maybe tooltip, or/and just explain in tutorial
+ - [ ] experiment with icons for every row/ or for row with Jewels
+ - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) ... hmm is it worth using in here
  
  #### User selecting mods/affixes for columns
  
@@ -74,6 +77,10 @@ with similar categories:
   
 ---
 
+### UX part
+ - Think about making look'n feel of looty API to be straight familiar to old PoE gamer. What it means that UI has to have known elements of usability of popular PoE tools: PoB, pathofexile.com/trade/, poe.trade, PoETradeMacro. Then its less of inventing the wheel.
+ - Consistency between elements usage, like: column filter auto-completion, so other input boxes should have it if its **comfortable** for user.
+ 
 ### Resources:
 
 make [gitbook](https://app.gitbook.com/@traf27/s/looty/~/drafts/-LvYvY0VsDZr7-TKZQSW/) for looty 
