@@ -5,7 +5,8 @@ to have all in one place remotely available
 
 ### TODO
 
-- [ ] Lets read https://github.com/mleibman/SlickGrid/wiki - beginer introduction to understand its capabilities
+- [ ] read [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
+- [ ] read [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
 
  #### Code:
  - [ ] add experiance progress bar of gems (?maybe characters too)
