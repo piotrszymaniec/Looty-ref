@@ -1,3 +1,4 @@
+```
 <div class="info">
   <i class="fa fa-question-circle"></i> 
     Click to select/unselect characters/tabs. Shift+Click will refresh them from the server.
@@ -18,11 +19,11 @@
   margin-bottom: 1em;
   border-radius: 6px;
 }
-
+```
 
 
 wyciagnac rzecz wspolna i wstawic do selektora #alerter
-
+```
 #alerter .warn {
   background: #ffff00;
   color: black;
@@ -45,3 +46,4 @@ wyciagnac rzecz wspolna i wstawic do selektora #alerter
   margin: 5px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
+```
