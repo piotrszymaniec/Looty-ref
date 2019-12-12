@@ -26,10 +26,14 @@
 - ⚒ Physical
 - ☠ Poison 
 - ⚔︎ melee
-- ⚝ magic ✨ 🧙
+- ⚝ magic ✨ 🧙  <i class="fas fa-magic"></i>  <- wand
 - 💎 gem
 - 💫 stun
 - 🛡️ shield/armor
+- ⏳ time ⏰ ⏱️ ⏲️ 🕰️
+-  flask  <i class="fa fa-flask"></i> 
+- bleed (drop) <i class="fas fa-tint"></i>
+- broom <i class="fas fa-broom"></i>
  
 
 Readability has to be improven. Random thoughts below.
