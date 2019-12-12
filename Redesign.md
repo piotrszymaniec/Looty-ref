@@ -16,6 +16,21 @@
  * tight space for choosing mods
  * categories not visible enough and/or eyebaling left for cat. name and right for desired mod and shorthands because of lack of space, often lead to sacrifices in cost of readability.
  * maybe group it in more general sets like below
+ 
+ Use icons for dmg types/resistances
+
+🔥 ♨ Fire
+⚡ Lightning
+❄ Ice
+☣ Chaos ☢
+⚒ Physical
+☠ Poison 
+⚔︎ melee
+⚝ magic ✨
+💎 gem
+💫 stun
+🛡 shield/armor
+ 
 
 Readability has to be improven. Random thoughts below.
 
@@ -86,12 +101,7 @@ with similar categories:
 make [gitbook](https://app.gitbook.com/@traf27/s/looty/~/drafts/-LvYvY0VsDZr7-TKZQSW/) for looty 
 [link to character avatars sprite ](https://www.pathofexile.com/image/gen/inventory-sprite.png?1575514741117)
 
-Use icons for dmg types/resistances
-♨ Fire
-⚡ Lightning
-❄ Ice
-☣ Chaos
-⚒ Physical
+
 
 ---
 
