@@ -26,7 +26,7 @@
 - ⚒ Physical
 - ☠ Poison 
 - ⚔︎ melee
-- ⚝ magic ✨
+- ⚝ magic ✨ 🧙
 - 💎 gem
 - 💫 stun
 - 🛡️ shield/armor
