@@ -19,17 +19,17 @@
  
  Use icons for dmg types/resistances
 
-🔥 ♨ Fire
-⚡ Lightning
-❄ Ice
-☣ Chaos ☢
-⚒ Physical
-☠ Poison 
-⚔︎ melee
-⚝ magic ✨
-💎 gem
-💫 stun
-🛡 shield/armor
+- 🔥 ♨ Fire
+- ⚡ Lightning
+- ❄ Ice
+- ☣ Chaos ☢
+- ⚒ Physical
+- ☠ Poison 
+- ⚔︎ melee
+- ⚝ magic ✨
+- 💎 gem
+- 💫 stun
+- 🛡️ shield/armor
  
 
 Readability has to be improven. Random thoughts below.
