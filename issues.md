@@ -1,3 +1,3 @@
 ## Issues
 
-**csv brakes location into loc, rairty, name , instead treat it like loc only
+nevermind ... delimiter was comma not smt else :>
