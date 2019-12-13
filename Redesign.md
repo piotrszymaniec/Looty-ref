@@ -19,12 +19,12 @@
  
  Use icons for dmg types/resistances
 
-- 🔥 ♨ Fire
+- 🔥 ♨ Fire <i class="fas fa-fire"></i>
 - ⚡ Lightning
 - ❄ Ice
 - ☣ Chaos ☢
 - ⚒ Physical
-- ☠ Poison 
+- ☠ Poison  <i class="fas fa-skull-crossbones"></i>
 - ⚔︎ melee
 - ⚝ magic ✨ 🧙  <i class="fas fa-magic"></i>  <- wand
 - 💎 gem
@@ -34,7 +34,9 @@
 -  flask  <i class="fa fa-flask"></i> 
 - bleed (drop) <i class="fas fa-tint"></i>
 - broom <i class="fas fa-broom"></i>
- 
+- filter <i class="fas fa-filter"></i>
+- vial <i class="fas fa-vial"></i> 
+- burn <i class="fas fa-burn"></i>
 
 Readability has to be improven. Random thoughts below.
 
