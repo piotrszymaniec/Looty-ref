@@ -37,6 +37,7 @@
 - filter <i class="fas fa-filter"></i>
 - vial <i class="fas fa-vial"></i> 
 - burn <i class="fas fa-burn"></i>
+- 🏹 bow
 
 Readability has to be improven. Random thoughts below.
 
