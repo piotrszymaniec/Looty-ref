@@ -1,0 +1,83 @@
+
+
+
+.col-div {
+  margin-right: 9px;
+  border-radius: 4px;
+}
+.group-div:first-child {
+  margin-right: 43px;
+}
+div div:first-child {
+  /*! margin-right: 22px; */
+}
+.group-name {
+  /*! width: 100em; */
+  display: inline-block;
+  width: 8em;
+  text-align: right;
+  margin-right: 1em;
+  background: #48434a;
+  color: #c4bfbf;
+  padding: 0.3em;
+  margin-bottom: 0.2em;
+  border-radius: 6px;
+  margin-left: 0.5em;
+}
+.col-btn {
+  border-radius: 4px;
+  /*! padding: 7px; */
+  background: #48434a;
+}
+.col-btn.select-all-btn {
+  margin-right: 4px;
+}
+.col-btn.select-all-btn {
+  background: #cca4a4;
+}
+.col-div.off-col {
+}
+.column-controls.col-div.off-col {
+  /*! background-color: #cacaca; */
+}
+.col-div.on-col {
+  /*! background-color: #cacaca; */
+}
+
+
+
+
+a.ls-btn {
+    background: #96825e;
+    border-radius: 5px;
+}
+
+a.ls-del-btn {
+    background: #6d6f6f;
+}
+
+a.ls-btn.ls-del-btn {}
+
+a.view-btn {
+    background: #b0e89800;
+    color: white;
+    font-size: 1.5em;
+}
+
+a.view-btn:hover {
+    background: none;
+    color: #f3ec0f;
+    text-aign: m;
+}
+
+a.ctrl-btn {
+    background: none;
+    color: white;
+}
+
+.load-save {float: right;margin-right: 2em;border-radius: 4px;padding-left: 1em;}
+
+.content .controls div {
+    /* size: 2em; */
+    /* color: aqua; */
+}
