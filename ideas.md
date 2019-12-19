@@ -1,7 +1,7 @@
 # Ideas
 
 ### Full text search
-concatanate bruteforce way all strings from item and store as column like "TextSearch"
+concatanate bruteforce way all strings from item and store as ?column like "TextSearch"
 where player can search via string matching
 
 Remember data like that: with item id as a key and concatenated content as value
