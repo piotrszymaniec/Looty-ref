@@ -14,7 +14,20 @@ to have all in one place remotely available
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight) [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)
  - [x] add jewel types for search/filter 
- 
+ - [ ] add optional properties : 
+* elder
+* shaper
+* unidentified
+* corrupted
+* veiled (how it is written in json structure)
+* crusader
+* ...
+* ...
+* has implicit ( column or checkbox? )
+* priced? Is there info for items priced individualy about their value?
+
+#### How to automatize adding future options, affixes ? What/is the pattern to forsee the structure ("extended" field im looking at you -_-). And how to organise interface to be future features proof space wise :) ?
+
 There is error because of this fragment of item json (which is not parsed by Looty yet) :
 ```
 {
