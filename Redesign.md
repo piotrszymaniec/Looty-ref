@@ -46,6 +46,10 @@ left menu with accordion (open/close)
 probably mod filter on top
 with similar categories:
 
+#### Menu Idea Spinn-off
+let acordion take whole window, or maybe better part of screen.
+and every accordion would be category, then its chilren would be wanted mods ... hmm
+
 - General
   - location
   - name 
