@@ -1,5 +1,9 @@
 # Ideas
 
+### Full text search
+concatanate bruteforce way all strings from item and store as column like "TextSearch"
+where player can search via string matching
+
 ### Handling large Quantity of tabs 
 that player has, to choose right form of refreshing his tabs:
 Problem - what if someone has 50, 100, 500 tabs? 
