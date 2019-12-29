@@ -1,5 +1,7 @@
 # Ideas
 
+- [ ] read how poe.ninja is translating item that you want to trade to official trade links ???
+
 ### Full text search
 concatanate bruteforce way all strings from item and store as ?column like "TextSearch"
 where player can search via string matching
