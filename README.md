@@ -9,6 +9,11 @@ to have all in one place remotely available
 - [ ] read [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
 
  #### Code:
+ - [ ] add last caching time
+ - [ ] add progress of retrieving stashes example: 5 of 25
+   - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
+ - [ ] add possibility to choose watched tabs, and those auto refresh on set timer (options or set value), rest will be refreshed only on hard reset(?) or.... ?how it is done now?
+ 
  - [ ] add experiance progress bar of gems (?maybe characters too)
  - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
