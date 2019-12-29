@@ -7,6 +7,8 @@ to have all in one place remotely available
 
 - [ ] read [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
 - [ ] read [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
+- [ ] read how looty caches data and rules of refreshing content[]()
+- [ ] read how columns are made, what makes column width not resizable. And how you can add html tags to value, for experiance progress tag
 
  #### Code:
  - [ ] add last caching time
