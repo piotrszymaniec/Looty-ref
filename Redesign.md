@@ -10,6 +10,19 @@
  - [ ] experiment with icons for every row/ or for row with Jewels
  - [ ] I have discovered [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and its counterpart in React - I'm in Love <3 (was thinking, how the heck will I style this redesign thing ...) ... hmm is it worth using in here
  
+ ## Refresh/Tabs - panel
+ 
+ - [ ] use ingame stash tabs icons before tab names - as in list view on the right side of stash
+  - [ ] quad tab, essence, currency, div, fragment, 
+ 
+ - [ ] change color and background style in local css of <a class="tab-btn" style=" ...."> in accordance to GGG list of pairs color -> bg ( source: their character profile page, stash view)
+ - [ ] get rid of excesive styling
+ - [ ] change mechanism of choosing tabs to refresh from horizontal to vertical list with filter on top. Click to change lists between "Main tabs list" and "tabs to Refresh"
+ - [ ] when filtered using filter on top of list, add buttons to move whole filtered results
+ 
+ 
+ ## Select Column - panel
+ 
  #### User selecting mods/affixes for columns
  
  Several problems with that. As of current version:
