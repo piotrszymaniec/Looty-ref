@@ -1,0 +1,118 @@
+.tabs {
+    width: max-content;
+    display: grid;
+    /* margin-top: 0; */
+    /* grid-column-start: 1; */
+    /* grid-column-end: span col4-start; */
+    /* grid-row-start: 2; */
+    /* grid-row-end: span 2; */
+    grid-gap: 0px 0px;
+    grid-auto-columns: max-content;
+    /* grid-row: none; */
+    height: 110px; 
+    overflow-x: hidden; 
+    overflow-x: auto;     
+}
+
+.refresh-pane .tab-btn, .refresh-pane .char-btn {
+    /* border-top-left-radius: 10px; */
+    /* border-top-right-radius: 10px; */
+    /* margin-left: -5px; */
+    /* margin-right: -5px; */
+    /* white-space: nowrap; */
+
+
+.refresh-pane .visible-loot-container {
+    border-color: #000603;
+    border-width: 1px;
+    border-style: unset;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+
+.view-btn, .ctrl-btn, .pane-btn, .ls-btn, .col-btn, .col-div, .upgrade-btn, .char-btn, .tab-btn, .show-all-btn, .hide-all-btn, .reload-all-btn, .reload-visible-btn, .refresh-characters-btn {
+    margin-right: 2px;
+    color: black;
+    /* padding-top: 2px; */
+    /* padding-bottom: 2px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 5px; */
+    background: #f4f4f4;
+    -webkit-transition: all 250ms;
+    -moz-transition: all 250ms;
+    transition: all 250ms;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+    a.tab-btn.visible-loot-container:hover {
+    /* opacity: 0.5; */
+    color: #ffffff;
+    /* mix-blend-mode: exclusion !important; */
+    background-color: black !important;
+}
+    a.tab-btn.visible-loot-container:hover:after {/* text-align: right; */position: absolute;
+    left: 0px;
+    content: 'a';}
+
+.refresh-pane .invisible-loot-container::before {
+    content: 'c';
+    position: absolute;
+    left: 0;}
+
+
+.refresh-pane .visible-loot-container {
+    border-color: #b3e5fc;
+    border-width: 2px;
+    border-style: solid;
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+}
+ 
+ .view-btn, .ctrl-btn, .pane-btn, .ls-btn, .col-btn, .col-div, .upgrade-btn, .char-btn, .tab-btn, .show-all-btn, .hide-all-btn, .reload-all-btn, .reload-visible-btn, .refresh-characters-btn {
+    margin-right: 2px;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 5px; */
+    background: #f4f4f4;
+    -webkit-transition: all 250ms;
+    -moz-transition: all 250ms;
+    transition: all 250ms;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.chars {
+    width: max-content;
+    display: grid;
+    /* margin-top: 0; */
+    /* grid-column-start: 1; */
+    /* grid-column-end: span col4-start; */
+    /* grid-row-start: 2; */
+    /* grid-row-end: span 2; */
+    grid-gap: 0px 0px;
+    grid-auto-columns: max-content;
+    /* grid-row: none; */
+    height: 110px; 
+    overflow-x: hidden; 
+    overflow-x: auto;     
+}
+
+.refresh-pane .tab-btn, .refresh-pane .char-btn {
+    /* border-top-left-radius: 10px; */
+    /* border-top-right-radius: 10px; */
+    margin-left: -5px;
+    margin-right: -5px;
+    white-space: nowrap;
+}
+.refresh-pane .visible-loot-container {
+    /* border-color: #b3e5fc;
+    border-width: 2px;
+    border-style: solid; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+}
