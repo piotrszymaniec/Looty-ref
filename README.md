@@ -37,7 +37,7 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
   ... //what and where
  }
  ```
- - [ ] 
+ 
  - [ ] add last caching time
  - [ ] add progress of retrieving stashes example: 5 of 25
    - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
@@ -79,4 +79,4 @@ There is error because of this fragment of item json (which is not parsed by Loo
  - [ ] parse not parsed properties, for jewels like Range, and put them in collapsed part of pannel by default
 
 #### Some maybe-will-useit
-[http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery]
+[http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery](Ajax onload onbeforeunload)
