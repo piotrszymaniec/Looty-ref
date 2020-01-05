@@ -79,4 +79,4 @@ There is error because of this fragment of item json (which is not parsed by Loo
  - [ ] parse not parsed properties, for jewels like Range, and put them in collapsed part of pannel by default
 
 #### Some maybe-will-useit
-(http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery)[http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery]
+[http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery]
