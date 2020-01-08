@@ -1,0 +1,50 @@
+.MaterialBtn {
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.MaterialBtn:hover {
+  background: #c2c2c2;
+}
+#alerter .info {
+  background: #12c700;
+  color: black;
+  font-weight: bold;
+  margin: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#alerter .warn {
+  background: #ffff00;
+  color: black;
+  font-weight: bold;
+  margin: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+#alerter a,
+#alerter a:visited {
+  color: #ff2d6f;
+  text-decoration: none;
+}
+#alerter .warn a:hover {
+  color: pink;
+}
+#alerter .error {
+  background: red;
+  color: white;
+  font-weight: bold;
+  margin: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
