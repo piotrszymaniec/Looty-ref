@@ -28,9 +28,10 @@ x how much we have QuadTab -> (x / 22t) * 60s =?
 
 time overal ? do we estimate avarage
 
-more accurate
-y items in quad tab costs n requests
-y items in Premium tab costs n requests
+~~more accurate~~
+~~y items in quad tab costs n requests~~
+~~y items in Premium tab costs n requests~~
+number of requests is constant,  2 per quad tab, 1 everything else (10/01/2020)
 
 but we dont know how much items is in future tabs we get ....
 
