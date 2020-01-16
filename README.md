@@ -6,6 +6,7 @@ to have all in one place remotely available
 ### Adding new Affixes
 
 files needed : 
+**AffixesParser.scala ComputedItem.scala ComputedItemProps.scala ProperItems.scala**
 AffixesParser.scala       - choosing to what group affix belong,  how ingame affix is worded, and deciding if it needs to be sumed/substracted/multiplied/divided by some other stat, or just how program is going to recognize this affix. Code excerpt
 
 ```
@@ -102,6 +103,20 @@ ComputedItemProps.scala   - front end interface - how affix will be named as cho
   IncreasedManaRegen !?= "Increased Mana Regeneration Rate"
   MinusToManaCostOfSkills !?= "Mana Cost of Skills"
 ```
+
+ProperItems.scala - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
+
+```
+object increased {
+    val movementSpeed = p1()
+
+
+    val manaRegenerationRate = p1()
+
+    val quantityOfItemsFound = p1()
+    val rarityOfItemsFound   = p1()
+```
+congratulation, new affix is being parsed!
 
 ### TODO
 
