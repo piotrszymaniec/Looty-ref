@@ -50,7 +50,9 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
  - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight) [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)
  - [x] add jewel types for search/filter 
- - [ ] add optional properties : 
+ - [ ] add ~~optional properties~~ influence property : 
+ 
+ 
 * elder
 * shaper
 * unidentified
