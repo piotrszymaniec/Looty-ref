@@ -39,7 +39,7 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
   ... //what and where
  }
  ```
- 
+ - [ ] add clickable row, to lit it
  - [ ] add last caching time
  - [ ] add progress of retrieving stashes example: 5 of 25
    - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
