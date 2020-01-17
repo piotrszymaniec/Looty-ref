@@ -19,6 +19,15 @@ to have all in one place remotely available
   
   })     
 ```
+and we could add hidden cell to grid row, with item id.
+
+And actualy we are not constrained by rowish look of pined item, it can be anything, anywhere: button on the right, dynamic list, or favoritelist  somewhere (like with your refresh dynamic-select)
+Yay so i got idea about 
+- [ ] wishlist -> item with better stats (choosen which one, from this on item, and maybe could add some) and thats a long shot but ...
+we could have a place to save item we wish to have upgrade for, and looty would request info from trade in a loop, abut items better than (anddd push messeges for us, ding! there is a upgrade to buy (list tooltip maybe?), and you click and send), within price constrains, and for example you could/should enter as much info as needed to lessen the counts ?
+or whatever, put there frames,
+
+I've already wrote code snipett for localStorage volatile data yay! :D
 Orrr I can add library like https://github.com/marcuswestin/store.js
 
  - [ ] check/add using  localStorage extension library/or raw for volatile states to persist through page refresh. With 
