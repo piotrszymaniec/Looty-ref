@@ -1,0 +1,1199 @@
+<html ng-app="">
+  <head>
+    <title>Looty!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:300,700,500italic,900,300italic,400italic,900italic,100italic,100,500,400,700italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="jslib/slickgrid/css/smoothness/jquery-ui-1.8.16.custom.css">
+    <link rel="stylesheet" href="jslib/slickgrid/slick.grid.css">
+    <link rel="stylesheet" href="jslib/font-awesome-4.2.0/css/font-awesome.css">
+    <link rel="stylesheet" href="jslib/select2/select2.css">
+    <link rel="stylesheet" href="less/alerter.css">
+    <link rel="stylesheet" href="less/item-detail.css">
+    <link rel="stylesheet" href="less/lootview.css">
+    <link rel="stylesheet" href="less/main.css">
+    <link rel="stylesheet" href="less/poebuilder.css">
+    <link rel="stylesheet" href="less/views-menu.css">
+    <link rel="stylesheet" href="less/material/buttons.css">
+    <link rel="stylesheet" href="less/material/colors.css">
+    <style type="text/css" rel="stylesheet">.slickgrid_624032 .slick-header-column { left: 1000px; } .slickgrid_624032 .slick-top-panel { height:25px; } .slickgrid_624032 .slick-headerrow-columns { height:30px; } .slickgrid_624032 .slick-cell { height:20px; } .slickgrid_624032 .slick-row { height:25px; } .slickgrid_624032 .l0 { } .slickgrid_624032 .r0 { } .slickgrid_624032 .l1 { } .slickgrid_624032 .r1 { } .slickgrid_624032 .l2 { } .slickgrid_624032 .r2 { } .slickgrid_624032 .l3 { } .slickgrid_624032 .r3 { } .slickgrid_624032 .l4 { } .slickgrid_624032 .r4 { } .slickgrid_624032 .l5 { } .slickgrid_624032 .r5 { } .slickgrid_624032 .l6 { } .slickgrid_624032 .r6 { } .slickgrid_624032 .l7 { } .slickgrid_624032 .r7 { } .slickgrid_624032 .l8 { } .slickgrid_624032 .r8 { } .slickgrid_624032 .l9 { } .slickgrid_624032 .r9 { } .slickgrid_624032 .l10 { } .slickgrid_624032 .r10 { } .slickgrid_624032 .l11 { } .slickgrid_624032 .r11 { } .slickgrid_624032 .l12 { } .slickgrid_624032 .r12 { } .slickgrid_624032 .l13 { } .slickgrid_624032 .r13 { } .slickgrid_624032 .l14 { } .slickgrid_624032 .r14 { } .slickgrid_624032 .l15 { } .slickgrid_624032 .r15 { } .slickgrid_624032 .l16 { } .slickgrid_624032 .r16 { } .slickgrid_624032 .l17 { } .slickgrid_624032 .r17 { } .slickgrid_624032 .l18 { } .slickgrid_624032 .r18 { } .slickgrid_624032 .l19 { } .slickgrid_624032 .r19 { } .slickgrid_624032 .l20 { } .slickgrid_624032 .r20 { } .slickgrid_624032 .l21 { } .slickgrid_624032 .r21 { } .slickgrid_624032 .l22 { } .slickgrid_624032 .r22 { } .slickgrid_624032 .l23 { } .slickgrid_624032 .r23 { } .slickgrid_624032 .l24 { } .slickgrid_624032 .r24 { } .slickgrid_624032 .l25 { } .slickgrid_624032 .r25 { } .slickgrid_624032 .l26 { } .slickgrid_624032 .r26 { }</style>
+    <style type="text/css" rel="stylesheet">.slickgrid_183343 .slick-header-column { left: 1000px; } .slickgrid_183343 .slick-top-panel { height:25px; } .slickgrid_183343 .slick-headerrow-columns { height:30px; } .slickgrid_183343 .slick-cell { height:20px; } .slickgrid_183343 .slick-row { height:25px; } .slickgrid_183343 .l0 { } .slickgrid_183343 .r0 { } .slickgrid_183343 .l1 { } .slickgrid_183343 .r1 { } .slickgrid_183343 .l2 { } .slickgrid_183343 .r2 { } .slickgrid_183343 .l3 { } .slickgrid_183343 .r3 { } .slickgrid_183343 .l4 { } .slickgrid_183343 .r4 { } .slickgrid_183343 .l5 { } .slickgrid_183343 .r5 { } .slickgrid_183343 .l6 { } .slickgrid_183343 .r6 { } .slickgrid_183343 .l7 { } .slickgrid_183343 .r7 { } .slickgrid_183343 .l8 { } .slickgrid_183343 .r8 { } .slickgrid_183343 .l9 { } .slickgrid_183343 .r9 { } .slickgrid_183343 .l10 { } .slickgrid_183343 .r10 { } .slickgrid_183343 .l11 { } .slickgrid_183343 .r11 { } .slickgrid_183343 .l12 { } .slickgrid_183343 .r12 { } .slickgrid_183343 .l13 { } .slickgrid_183343 .r13 { } .slickgrid_183343 .l14 { } .slickgrid_183343 .r14 { } .slickgrid_183343 .l15 { } .slickgrid_183343 .r15 { } .slickgrid_183343 .l16 { } .slickgrid_183343 .r16 { } .slickgrid_183343 .l17 { } .slickgrid_183343 .r17 { } .slickgrid_183343 .l18 { } .slickgrid_183343 .r18 { } .slickgrid_183343 .l19 { } .slickgrid_183343 .r19 { } .slickgrid_183343 .l20 { } .slickgrid_183343 .r20 { } .slickgrid_183343 .l21 { } .slickgrid_183343 .r21 { } .slickgrid_183343 .l22 { } .slickgrid_183343 .r22 { } .slickgrid_183343 .l23 { } .slickgrid_183343 .r23 { } .slickgrid_183343 .l24 { } .slickgrid_183343 .r24 { } .slickgrid_183343 .l25 { } .slickgrid_183343 .r25 { } .slickgrid_183343 .l26 { } .slickgrid_183343 .r26 { }</style>
+    <style type="text/css" rel="stylesheet">.slickgrid_19749 .slick-header-column { left: 1000px; } .slickgrid_19749 .slick-top-panel { height:25px; } .slickgrid_19749 .slick-headerrow-columns { height:30px; } .slickgrid_19749 .slick-cell { height:20px; } .slickgrid_19749 .slick-row { height:25px; } .slickgrid_19749 .l0 { } .slickgrid_19749 .r0 { } .slickgrid_19749 .l1 { } .slickgrid_19749 .r1 { } .slickgrid_19749 .l2 { } .slickgrid_19749 .r2 { } .slickgrid_19749 .l3 { } .slickgrid_19749 .r3 { } .slickgrid_19749 .l4 { } .slickgrid_19749 .r4 { } .slickgrid_19749 .l5 { } .slickgrid_19749 .r5 { } .slickgrid_19749 .l6 { } .slickgrid_19749 .r6 { } .slickgrid_19749 .l7 { } .slickgrid_19749 .r7 { } .slickgrid_19749 .l8 { } .slickgrid_19749 .r8 { } .slickgrid_19749 .l9 { } .slickgrid_19749 .r9 { } .slickgrid_19749 .l10 { } .slickgrid_19749 .r10 { } .slickgrid_19749 .l11 { } .slickgrid_19749 .r11 { } .slickgrid_19749 .l12 { } .slickgrid_19749 .r12 { } .slickgrid_19749 .l13 { } .slickgrid_19749 .r13 { } .slickgrid_19749 .l14 { } .slickgrid_19749 .r14 { } .slickgrid_19749 .l15 { } .slickgrid_19749 .r15 { } .slickgrid_19749 .l16 { } .slickgrid_19749 .r16 { } .slickgrid_19749 .l17 { } .slickgrid_19749 .r17 { } .slickgrid_19749 .l18 { } .slickgrid_19749 .r18 { } .slickgrid_19749 .l19 { } .slickgrid_19749 .r19 { } .slickgrid_19749 .l20 { } .slickgrid_19749 .r20 { } .slickgrid_19749 .l21 { } .slickgrid_19749 .r21 { } .slickgrid_19749 .l22 { } .slickgrid_19749 .r22 { } .slickgrid_19749 .l23 { } .slickgrid_19749 .r23 { } .slickgrid_19749 .l24 { } .slickgrid_19749 .r24 { } .slickgrid_19749 .l25 { } .slickgrid_19749 .r25 { } .slickgrid_19749 .l26 { } .slickgrid_19749 .r26 { }</style>
+    <style type="text/css" rel="stylesheet">.slickgrid_522408 .slick-header-column { left: 1000px; } .slickgrid_522408 .slick-top-panel { height:25px; } .slickgrid_522408 .slick-headerrow-columns { height:30px; } .slickgrid_522408 .slick-cell { height:20px; } .slickgrid_522408 .slick-row { height:25px; } .slickgrid_522408 .l0 { } .slickgrid_522408 .r0 { } .slickgrid_522408 .l1 { } .slickgrid_522408 .r1 { } .slickgrid_522408 .l2 { } .slickgrid_522408 .r2 { } .slickgrid_522408 .l3 { } .slickgrid_522408 .r3 { } .slickgrid_522408 .l4 { } .slickgrid_522408 .r4 { } .slickgrid_522408 .l5 { } .slickgrid_522408 .r5 { } .slickgrid_522408 .l6 { } .slickgrid_522408 .r6 { } .slickgrid_522408 .l7 { } .slickgrid_522408 .r7 { } .slickgrid_522408 .l8 { } .slickgrid_522408 .r8 { } .slickgrid_522408 .l9 { } .slickgrid_522408 .r9 { } .slickgrid_522408 .l10 { } .slickgrid_522408 .r10 { } .slickgrid_522408 .l11 { } .slickgrid_522408 .r11 { } .slickgrid_522408 .l12 { } .slickgrid_522408 .r12 { } .slickgrid_522408 .l13 { } .slickgrid_522408 .r13 { } .slickgrid_522408 .l14 { } .slickgrid_522408 .r14 { } .slickgrid_522408 .l15 { } .slickgrid_522408 .r15 { } .slickgrid_522408 .l16 { } .slickgrid_522408 .r16 { } .slickgrid_522408 .l17 { } .slickgrid_522408 .r17 { } .slickgrid_522408 .l18 { } .slickgrid_522408 .r18 { } .slickgrid_522408 .l19 { } .slickgrid_522408 .r19 { } .slickgrid_522408 .l20 { } .slickgrid_522408 .r20 { } .slickgrid_522408 .l21 { } .slickgrid_522408 .r21 { } .slickgrid_522408 .l22 { } .slickgrid_522408 .r22 { } .slickgrid_522408 .l23 { } .slickgrid_522408 .r23 { } .slickgrid_522408 .l24 { } .slickgrid_522408 .r24 { } .slickgrid_522408 .l25 { } .slickgrid_522408 .r25 { } .slickgrid_522408 .l26 { } .slickgrid_522408 .r26 { }</style>
+  </head>
+  <body>
+    <div id="header">
+      <div id="alerter">
+        <div class="info">Saved view: Gems</div>
+      </div>
+      <menu-bar class="views-menu">
+        <menu-item><a class="view-btn home" href="#/home">Home</a></menu-item>
+        <!--<menu-item><a class="view-btn underlay" href="#/underlay">Underlay</a></menu-item>-->
+        <menu-item><a class="view-btn xp" href="#/xp">XP</a></menu-item>
+        <menu-item><a class="view-btn wealth" href="#/wealth">Wealth</a></menu-item>
+        <menu-item><a class="maps view-btn" href="#/maps">Maps</a></menu-item>
+        <menu-item><a class="poebuilder view-btn" href="#/poebuilder">PoeBuilder</a></menu-item>
+        <menu-item><a class="Standard view-btn active" href="#/standard">Standard</a></menu-item>
+        <menu-item><a class="hardcode view-btn" href="#/hardcore">Hardcore</a></menu-item>
+        <menu-item><a class="view-btn settings" href="#/settings">Settings</a></menu-item>
+        <menu-item><a class="view-btn Metamorph" href="#/metamorph">Metamorph</a></menu-item>
+        <menu-item><a class="view-btn SSF-Standard" href="#/ssf-standard">SSF Standard</a></menu-item>
+      </menu-bar>
+    </div>
+    <div id="content">
+      <div class="navigation">
+        <ul role="tablist" class="nav nav-tabs main">
+          <li role="presentation" class="menu-search active"><a href="/trade/search/Metamorph" data-target="search" data-toggle="tab"><span>Search Listed Items</span></a></li>
+          <li role="presentation" class="menu-exchange"><a href="/trade/exchange/Metamorph" data-target="exchange" data-toggle="tab"><span>Bulk Item Exchange</span></a></li>
+        </ul>
+        <ul role="tablist" class="nav nav-tabs account">
+          <li role="presentation" class="menu-about"><a href="/trade/about" data-target="about" data-toggle="tab"><span>About</span></a></li>
+          <li role="presentation" class="menu-settings"><a href="/trade/settings" data-target="settings" data-toggle="tab"><span>Settings</span></a></li>
+        </ul>
+      </div>
+      <div id="controls">
+        <div>
+          <a href="javascript:void(0)" class="ctrl-btn clear-filters">Clear Filters</a><a href="javascript:void(0)" class="pane-btn upgrades">Upgrades</a><a href="javascript:void(0)" class="pane-btn refresh-tabs">Refresh/Tabs</a><a href="javascript:void(0)" class="pane-btn select-columns">Select Columns</a><a href="javascript:void(0)" class="ctrl-btn export-csv">Export Csv</a>
+          <div style="display:inline-block" class="load-save">
+            <span title="Views are customizable groups of columns" class="view-span">Views:</span>
+            <div class="select2-container" id="s2id_autogen19" style="width: 220px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-20">Gems</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen20" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-20" id="s2id_autogen20"></div>
+            <div tabindex="-1" title="" class="select2-offscreen"></div>
+            <a href="javascript:void(0)" class="ls-btn" title="Loads the view with the name">Load</a><a href="javascript:void(0)" class="ls-btn" title="Saves the currently visible columns as a view">Save</a><a href="javascript:void(0)" class="ls-btn" title="Saves the currently visible columns as well as any filters that are currently active">Save+Filters</a><a href="javascript:void(0)" class="ls-btn" title="Deletes the current view">Delete</a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="upgrades-pane">
+            <div>Use this pane to find upgrades for a character's items. Simply select a character then click on the item you wish to upgrade. The grid will show deltas of the values of other items.</div>
+            <div class="select2-container" id="s2id_autogen17" style="width: 180px;">
+              <a href="javascript:void(0)" class="select2-choice select2-default" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-18">Character</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen18" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-18" id="s2id_autogen18">
+              <div class="select2-drop select2-display-none select2-with-searchbox">
+                <div class="select2-search">       <label for="s2id_autogen18_search" class="select2-offscreen"></label>       <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-18" id="s2id_autogen18_search" placeholder="">   </div>
+                <ul class="select2-results" role="listbox" id="select2-results-18">   </ul>
+              </div>
+            </div>
+            <div tabindex="-1" title="" class="select2-offscreen"></div>
+            <div></div>
+            <div></div>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="refresh-pane">
+            Click to select/unselect characters/tabs. Shift+Click will refresh them from the server.<br>
+            <div class="chars">
+              <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">Arkhaar
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ArkharTheWanderer
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ColdHeartArkahra
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ColdShoulderTouch
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ColdTouchJovita
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">DeathBringerOMT
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">DragonReaverSlash
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">FieryReaver
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">FlameOfCrimsonStone
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">FlamingDragonReaver
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">FrenzyFS
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">Jowita
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">JowixaWilczaKrolowa
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">MaKaturo
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ObliWanKenobi
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">SmashingThroughThat
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">SzmataCoPoNiebieLata
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">ThatsContagious
+            </a> <a class="char-btn visible-loot-container" title="Show / hide this tab. Shift-Click to refresh it." href="javascript:void(0)">Traf_DivineIre
+            </a> 
+          </div>
+
+            <div class="tabs">Tabs: 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 0" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 170, 0);">Cash</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 1" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(115, 0, 85);">C「」</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 2" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(89, 0, 0);">F</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 3" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(192, 128, 255);">E</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 4" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(136, 136, 136);">M</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 5" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(136, 136, 136);"> (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 6" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(136, 136, 136);"> (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 7" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(136, 136, 136);"> (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 8" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(136, 136, 136);">M (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 9" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">1</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 10" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">♥ Moj Cyclone sprzet</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 11" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Equipment2</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 12" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Equipment1</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 13" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Cenne</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 14" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">AmuletsRings </a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 15" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">U1</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 16" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">✓✔✕✖✗✘☠</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 17" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">g i inne</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 18" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">¯\_(ツ)_/¯ old maps</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 19" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">♐</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 20" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦19-20 &amp; 20%</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 21" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 255, 128);">Przechodna</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 22" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦%</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 23" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 1+</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 24" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 25" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 26" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">J▼</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 27" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">Delve bazy</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 28" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">Delve Fossils</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 29" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">D (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 30" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">¯\_(ツ)_/¯</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 31" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">¯\_(ツ)_/¯</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 32" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">Flasks</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 33" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 34" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">3</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 35" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">Z (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 36" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">Z (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 37" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(90, 0, 179);">C (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 38" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">G (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 39" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">karczma pod świnka (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 40" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(192, 128, 255);">E (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 41" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Base (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 42" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">Karczma pod Świnka (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 43" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(90, 0, 179);">F (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 44" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">5:1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 45" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">Karczma Pod Świnka (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 46" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">? (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 47" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">Flask (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 48" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">Lab Craft + czy sprz praw (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 49" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(90, 0, 179);">C (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 50" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$Sell (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 51" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">Jewelry and acc (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 52" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">Delve i bazy (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 53" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">F% (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 54" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">Trade (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 55" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(204, 0, 154);">Karczma pod czarnym kotem (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 56" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">G (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 57" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 25 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 58" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">G% (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 59" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">J (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 60" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 20 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 61" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">G Vaal and lvled (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 62" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 10 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 63" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 245, 0);">Lvling (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 64" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">JovixaWilczaKrólowa (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 65" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 15 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 66" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(192, 128, 255);">P (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 67" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(90, 0, 179);">shaper/elder (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 68" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">J (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 69" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 5c (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 70" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">~b/o 2 alch (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 71" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">E (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 72" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Belts (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 73" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">~b/o 1 chaos (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 74" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">~b/o 3 chaos (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 75" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 7 icap (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 76" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">~b/o 4 chaos (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 77" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">3c (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 78" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">~b/o 7 chaos (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 79" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 255, 128);">% (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 80" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Helm (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 81" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 82" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ 6alch (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 83" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 84" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">do wyceny moze duzo (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 85" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ not sale (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 86" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Boots (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 87" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">moje (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 88" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 0, 0);">$ old (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 89" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Gloves (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 90" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">BodyA (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 91" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Weapons 2x3  (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 92" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">2h Weapons (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 93" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">3L Weapons (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 94" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(50, 50, 50);">Sell (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 95" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">¯\_(ツ)_/¯ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 96" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 94, 0);">Incinerate Char (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 97" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 94, 0);">ChaosRegalRecipe (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 98" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 94, 0);">Rin (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 99" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(99, 128, 0);">Arkahr (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 100" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(99, 128, 0);">Oliterate God (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 101" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 94, 0);">Chaos Recipe (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 102" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(191, 94, 0);">Amu (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 103" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">? Sell Shit ? (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 104" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(192, 128, 255);">F (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 105" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(255, 213, 0);">Bases Delve (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 106" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(240, 255, 128);">Prophecies (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 107" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 108" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 109" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼✂✂❤♡↯☁☼☀♢ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 110" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);"> (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 111" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼☣ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 112" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">▼℘ℑℜ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 113" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);"> (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 114" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 255, 128);">lvling (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 115" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 116" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 2 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 117" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 3 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 118" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 4 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 119" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 5 % (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 120" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 5a % (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 121" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 191, 0);">♦ 6 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 122" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">Nie Wyrzucac (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 123" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Cyclone (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 124" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">PC - Up Cr (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 125" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">Make Ready to Sale (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 126" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">recipe 5 to 1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 127" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">5 To 1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 128" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Vaal Regalias (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 129" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Occultists exchange stash (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 130" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">shaper&amp;misc (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 131" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">synth maybe valuable (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 132" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">lowbie (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 133" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">huntard items (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 134" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">unique (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 135" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">LootZrzut (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 136" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Lvl Up - Armor (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 137" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Bałagan (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 138" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Lvl Up - Weapons (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 139" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">craft or sell (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 140" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">Craft it (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 141" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(128, 179, 255);">misc+price (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 142" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Wep (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 143" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Chest (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 144" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">Acces (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 145" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">gloves (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 146" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">boots (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 147" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(221, 221, 221);">helm (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 148" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 149" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">1 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 150" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">2 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 151" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">❄❅❆ (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 152" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(124, 84, 54);">2 (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 153" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 255);">cyc leveling (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 154" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">ED leveling (Remove-only)</a> 
+              <a class="tab-btn visible-loot-container" href="javascript:void(0)" title="Show / hide this tab. Shift-Click to refresh it. the index of this tab is: 155" style="text-shadow: black -1px 0px, black 0px 1px, black 1px 0px, black 0px -1px; background-color: rgb(0, 0, 128);">Cyclon Stuff (Remove-only)</a> 
+          </div>
+            <a class="visible-loot-container show-all-btn" href="javascript:void(0)" title="Will show all inventories and stash tabs">Show All</a>
+            <a class="invisible-loot-container hide-all-btn" href="javascript:void(0)" title="Will Hide all inventories and stash tabs">Hide All</a>
+            <a class="reload-visible-btn" href="javascript:void(0)" title="Connects to GGG servers and refreshes the visible tabs">Refresh Shown</a>
+            <a class="reload-all-btn" href="javascript:void(0)" title="Use this button after you move or rename premium stash tabs, orhave changed several tabs. This will take some time, as GGG throttles the number of requests made per minuteto get this data.">Clear And Reload Everything For This League From Server</a>
+            <a class="refresh-characters-btn" href="javascript:void(0)" title="Refreshes character names and levels, shift click on them to refresh them">Refresh Character Levels But Not Inventories</a>
+          </div>
+        </div>
+        <div style="">
+          <div class="columns-controls">
+            <a href="javascript:void(0)" class="col-btn">All +</a><a href="javascript:void(0)" class="col-btn">All -</a><a href="javascript:void(0)" class="col-btn">Default</a>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">General:</span>
+              <div style="display:inline-block" title="Location: The name of the character / stash tab that contains the item." class="col-div on-col">loc</div>
+              <div style="display:inline-block" title="Rarity: Rarity of the item." class="col-div on-col">rarity</div>
+              <div style="display:inline-block" title="DisplayName: The name of the item" class="col-div on-col">name</div>
+              <div style="display:inline-block" title="TypeName: The name of the base item type" class="col-div on-col">type</div>
+              <div style="display:inline-block" title="Cosmetics: A list of all cosmetic effects applied to the item" class="col-div on-col">cosmetics</div>
+              <div style="display:inline-block" title="Sockets: The sockets sorted by number in group, then by color" class="col-div on-col">sockets</div>
+              <div style="display:inline-block" title="Misc: Gem level / Items in Stack / # of Sockets /  Map Level" class="col-div off-col">misc</div>
+              <div style="display:inline-block" title="Quality: The quality of the item" class="col-div off-col">qual</div>
+              <div style="display:inline-block" title="ItemLevel: The item level" class="col-div on-col">ilvl</div>
+              <div style="display:inline-block" title="ExplicitModCount: The number of explicit mods on an item" class="col-div off-col">emc</div>
+              <div style="display:inline-block" title="CraftedModCount: The number crafted mods on an item" class="col-div off-col">cmc</div>
+              <div style="display:inline-block" title="GemKeywords: The keywords on a skill gem" class="col-div off-col">kws</div>
+              <div style="display:inline-block" title="TypeLine: The type line of an item" class="col-div off-col">tpeln</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Score:</span>
+              <div style="display:inline-block" title="DefaultScore: An experimental score assigned to assess the desirability of the item" class="col-div off-col">score</div>
+              <div style="display:inline-block" title="CustomScore: The result of the user definable score" class="col-div off-col">custom</div>
+              <div style="display:inline-block" title="CustomScore2: Score according to semi-strict high value rules (roughly tier 2 and higher)" class="col-div off-col">custom2</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Defensive:</span>
+              <div style="display:inline-block" title="Armour: Armour" class="col-div on-col">AR</div>
+              <div style="display:inline-block" title="Evasion: Evasion" class="col-div on-col">EV</div>
+              <div style="display:inline-block" title="ArmourPlusEvasion: Armour + Evasion" class="col-div off-col">AR+EV</div>
+              <div style="display:inline-block" title="EnergyShield: Energy Shield" class="col-div on-col">ES</div>
+              <div style="display:inline-block" title="IncreasedMaxEnergyShield: Increased Max Energy Shield Includes Intelligence Bonus" class="col-div off-col">+%ES</div>
+              <div style="display:inline-block" title="IncreasedArmour: Increased Armour Rating" class="col-div off-col">+%AR</div>
+              <div style="display:inline-block" title="IncreasedEvasion: Increased Evasion Rating" class="col-div off-col">+%EV</div>
+              <div style="display:inline-block" title="BlockChance: Block Chance" class="col-div off-col">blk%</div>
+              <div style="display:inline-block" title="IncreasedBlockAndStunRecovery: Increased Block and Stun Recovery" class="col-div off-col">+bsrec</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Attack:</span>
+              <div style="display:inline-block" title="AttacksPerSecond: AttacksPerSecond" class="col-div off-col">aps</div>
+              <div style="display:inline-block" title="PlusToAccuracy: Flat bonus to accuracy + dexterity bonus" class="col-div off-col">+acc</div>
+              <div style="display:inline-block" title="IncreasedAccuracy: Increased Accuracy Rating" class="col-div off-col">+%acc</div>
+              <div style="display:inline-block" title="IncreasedAttackSpeed: Increased Attack Speed" class="col-div off-col">+%as</div>
+              <div style="display:inline-block" title="ArrowPierceChance: Chance of Arrows Piercing" class="col-div off-col">+%apc</div>
+              <div style="display:inline-block" title="WeaponRange: Weapon Range" class="col-div off-col">+weprng</div>
+              <div style="display:inline-block" title="IncreasedStunDurationOnEnemies: Increased Stun Duration on Enemies" class="col-div off-col">+sdure</div>
+              <div style="display:inline-block" title="ReducedEnemyStunThreshold: Reduced Stun Threshold" class="col-div off-col">+rest</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Dps:</span>
+              <div style="display:inline-block" title="DpsTotal: Total Dps or Average Damage for Non-Weapons" class="col-div on-col">dps</div>
+              <div style="display:inline-block" title="DpsPhysical: Physical Dps or Average Damage for Non-Weapons" class="col-div off-col">pDps</div>
+              <div style="display:inline-block" title="DpsElemental: Elemental Dps or Average Damage for Non-Weapons" class="col-div off-col">eDps</div>
+              <div style="display:inline-block" title="DpsFire: Fire Dps or Average Damage for Non-Weapons" class="col-div off-col">fDps</div>
+              <div style="display:inline-block" title="DpsCold: Cold Dps or Average Damage for Non-Weapons" class="col-div off-col">cDps</div>
+              <div style="display:inline-block" title="DpsLightning: Lightning Dps or Average Damage for Non-Weapons" class="col-div off-col">lDps</div>
+              <div style="display:inline-block" title="DpsChaos: Chaos Dps or Average Damage for Non-Weapons" class="col-div off-col">xDps</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">AverageDamage:</span>
+              <div style="display:inline-block" title="AvgTotal: Total Average Damage " class="col-div off-col">avg</div>
+              <div style="display:inline-block" title="AvgPhysical: Physical Average Damage" class="col-div off-col">pAvg</div>
+              <div style="display:inline-block" title="AvgFire: Fire Average Damage" class="col-div off-col">fAvg</div>
+              <div style="display:inline-block" title="AvgCold: Cold Average Damage" class="col-div off-col">cAvg</div>
+              <div style="display:inline-block" title="AvgLightning: Lightning Average Damage" class="col-div off-col">lAvg</div>
+              <div style="display:inline-block" title="AvgChaos: Chaos Average Damage" class="col-div off-col">xAvg</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Requirements:</span>
+              <div style="display:inline-block" title="RequiredLevel: Level Required to Equip the Item" class="col-div on-col">rLvl</div>
+              <div style="display:inline-block" title="RequiredDex: Dex Required to Equip the Item" class="col-div off-col">rDex</div>
+              <div style="display:inline-block" title="RequiredStr: Str Required to Equip the Item" class="col-div off-col">rStr</div>
+              <div style="display:inline-block" title="RequiredInt: Int Required to Equip the Item" class="col-div off-col">rInt</div>
+              <div style="display:inline-block" title="ReducedRequirements: Reduced Requirements" class="col-div off-col">rreq</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Efficiency:</span>
+              <div style="display:inline-block" title="MagicFind: Total of Increased Item Rarity and Increased Item Quantity" class="col-div on-col">mf</div>
+              <div style="display:inline-block" title="IncreasedItemRarity: Increased Rarity of Items Found" class="col-div off-col">iir</div>
+              <div style="display:inline-block" title="IncreasedItemQuantity: Increased Quantity of Items Found" class="col-div off-col">iiq</div>
+              <div style="display:inline-block" title="IncreasedMoveSpeed: Increased Movement Speed" class="col-div on-col">+%move</div>
+              <div style="display:inline-block" title="IncreasedProjectileSpeed: Increased Projectile Speed" class="col-div off-col">+%projSpeed</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Regen:</span>
+              <div style="display:inline-block" title="LifeLeech: Life Leech from Physical Attack Damage" class="col-div off-col">lleech</div>
+              <div style="display:inline-block" title="LifeGainOnHit: Life Gain on Hit" class="col-div off-col">lgoh</div>
+              <div style="display:inline-block" title="ManaGainOnHit: Mana Gain on Hit" class="col-div off-col">mgoh</div>
+              <div style="display:inline-block" title="LifeGainOnKill: Life Gain on Kill" class="col-div off-col">lgok</div>
+              <div style="display:inline-block" title="ManaGainOnKill: Mana Gain on Kill" class="col-div off-col">mgok</div>
+              <div style="display:inline-block" title="ManaLeech: Mana Leech from Physical Attack Damage" class="col-div off-col">mleech</div>
+              <div style="display:inline-block" title="LifeRegen: Life Regeneration Rate" class="col-div off-col">lireg</div>
+              <div style="display:inline-block" title="IncreasedManaRegen: Increased Mana Regeneration Rate" class="col-div off-col">+%mareg</div>
+              <div style="display:inline-block" title="MinusToManaCostOfSkills: Mana Cost of Skills" class="col-div off-col">-mcos</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Attributes:</span>
+              <div style="display:inline-block" title="PlusLife: Adds this amount of life (includes strength bonus)" class="col-div on-col">+life</div>
+              <div style="display:inline-block" title="IncreasedMaxLife: Increased Maximum Life" class="col-div on-col">+%Life</div>
+              <div style="display:inline-block" title="PlusMana: Adds this amount of mana (includes intelligence bonus)" class="col-div on-col">+mana</div>
+              <div style="display:inline-block" title="PlusDex: Adds this amount of dex" class="col-div off-col">+dex</div>
+              <div style="display:inline-block" title="PlusStr: Adds this amount of str" class="col-div off-col">+str</div>
+              <div style="display:inline-block" title="PlusInt: Adds this amount of int" class="col-div off-col">+int</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Resists:</span>
+              <div style="display:inline-block" title="PlusTotalResist: The total amount of resistance" class="col-div on-col">+SRes</div>
+              <div style="display:inline-block" title="PlusMaxResist: The highest amount of resistance" class="col-div off-col">+MRes</div>
+              <div style="display:inline-block" title="PlusFireResist: The amount of fire resistance" class="col-div on-col">+fRes</div>
+              <div style="display:inline-block" title="PlusColdResist: The amount of cold resistance" class="col-div on-col">+cRes</div>
+              <div style="display:inline-block" title="PlusLightningResist: The amount of lightning resistance" class="col-div on-col">+lRes</div>
+              <div style="display:inline-block" title="PlusChaosResist: The amount of chaos resistance" class="col-div off-col">+xRes</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Crit:</span>
+              <div style="display:inline-block" title="IncreasedCritChance: Increased Critical Strike Chance" class="col-div on-col">+%crit</div>
+              <div style="display:inline-block" title="IncreasedCritChanceSpells: Increased Critical Strike Chance For Spells" class="col-div on-col">+%spCrit</div>
+              <div style="display:inline-block" title="IncreasedGlobalCritChance: Increased Global Critical Strike Chance" class="col-div on-col">+%gcc</div>
+              <div style="display:inline-block" title="IncreasedGlobalCritMult: Increased Global Critical Strike Multiplier" class="col-div on-col">+%gcm</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Spells:</span>
+              <div style="display:inline-block" title="IncreasedCastSpeed: Increased Cast Speed" class="col-div on-col">+%cast</div>
+              <div style="display:inline-block" title="IncreasedSpellDamage: Increased Spell Damage" class="col-div on-col">+%spDmg</div>
+              <div style="display:inline-block" title="IncreasedElementalSpellDamage: Increased Elemental Damage + Spell Damage" class="col-div off-col">+%spElDmg</div>
+              <div style="display:inline-block" title="IncreasedFireSpellDamage: Increased Fire Damage + Elemental Damage + Spell Damage" class="col-div off-col">+%spFDmg</div>
+              <div style="display:inline-block" title="IncreasedColdSpellDamage: Increased Cold Damage + Elemental Damage + Spell Damage" class="col-div off-col">+%spCDmg</div>
+              <div style="display:inline-block" title="IncreasedLightningSpellDamage: Increased Lightning Damage + Elemental Damage + Spell Damage" class="col-div off-col">+%spLDmg</div>
+              <div style="display:inline-block" title="IncreasedChaosSpellDamage: Increased Chaos Damage + Spell Damage" class="col-div off-col">+%spXDmg</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">DamageToSpells:</span>
+              <div style="display:inline-block" title="AddsDamageToSpells: Adds Damage To Spells" class="col-div off-col">+DmgToSp</div>
+              <div style="display:inline-block" title="AddsFireDamageToSpells: Adds Fire Damage To Spells" class="col-div off-col">+FDmgToSp</div>
+              <div style="display:inline-block" title="AddsColdDamageToSpells: Adds Cold Damage To Spells" class="col-div off-col">+CDmgToSp</div>
+              <div style="display:inline-block" title="AddsLightningDamageToSpells: Adds Lightning Damage To Spells" class="col-div off-col">+LDmgToSp</div>
+              <div style="display:inline-block" title="AddsChaosDamageToSpells: Adds Chaos Damage To Spells" class="col-div off-col">+XDmgToSp</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">IncreasedDamage:</span>
+              <div style="display:inline-block" title="IncreasedElementalDamage: Increased Elemental Damage" class="col-div off-col">+%eleDmg</div>
+              <div style="display:inline-block" title="IncreasedElementalDamageWithWeapons: Increased Elemental Damage With Weapons" class="col-div off-col">+%eleWDmg</div>
+              <div style="display:inline-block" title="IncreasedFireDamage: Increased Fire Damage + Elemental Damage" class="col-div off-col">+%fDmg</div>
+              <div style="display:inline-block" title="IncreasedColdDamage: Increased Cold Damage + Elemental Damage" class="col-div off-col">+%cDmg</div>
+              <div style="display:inline-block" title="IncreasedLightningDamage: Increased Lightning Damage + Elemental Damage" class="col-div off-col">+%lDmg</div>
+              <div style="display:inline-block" title="IncreasedChaosDamage: Increased Chaos Damage" class="col-div off-col">+%xDmg</div>
+              <div style="display:inline-block" title="IncreasedPhysicalDamage: Increased Physical Damage" class="col-div off-col">+%pDmg</div>
+              <div style="display:inline-block" title="IncreasedBleedingDamage: Increased Bleeding Damage" class="col-div off-col">+%blDmg</div>
+              <div style="display:inline-block" title="IncreasedBurningDamage: Increased Burning Damage" class="col-div off-col">+%buDmg</div>
+              <div style="display:inline-block" title="IncreasedElementalAttackDamage: Increased Elemental Attack Damage" class="col-div off-col">+%eaDmg</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">Gems:</span>
+              <div style="display:inline-block" title="IncreasedGemLevelBow: Increased Bow Gem Level " class="col-div off-col">+gBow</div>
+              <div style="display:inline-block" title="IncreasedGemLevelMinion: Increased Minion Gem Level " class="col-div off-col">+gMinion</div>
+              <div style="display:inline-block" title="IncreasedGemLevelMelee: Increased Melee Gem Level " class="col-div off-col">+gMelee</div>
+              <div style="display:inline-block" title="IncreasedGemLevelSupport: Increased Support Gem Level " class="col-div off-col">+gSupport</div>
+              <div style="display:inline-block" title="IncreasedGemLevelAny: Increased Any Gem Level " class="col-div off-col">+gAny</div>
+              <div style="display:inline-block" title="IncreasedGemLevelFire: Increased Fire Gem Level " class="col-div off-col">+gFir</div>
+              <div style="display:inline-block" title="IncreasedGemLevelCold: Increased Cold Gem Level " class="col-div off-col">+gCol</div>
+              <div style="display:inline-block" title="IncreasedGemLevelLightning: Increased Lightning Gem Level " class="col-div off-col">+gLig</div>
+              <div style="display:inline-block" title="IncreasedGemLevelStrength: Increased Strength Gem Level " class="col-div off-col">+gStr</div>
+              <div style="display:inline-block" title="IncreasedGemLevelDexterity: Increased Dexterity Gem Level " class="col-div off-col">+gDex</div>
+              <div style="display:inline-block" title="IncreasedGemLevelIntelligence: Increased Intelligence Gem Level " class="col-div off-col">+gInt</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">FlaskMods:</span>
+              <div style="display:inline-block" title="FlaskExtraCharges: Flask Extra Charges" class="col-div off-col">fextrac</div>
+              <div style="display:inline-block" title="FlaskChargesUsed: Flask Charges Used" class="col-div off-col">freducc</div>
+              <div style="display:inline-block" title="FlaskChargesOnCriticalStrikeGiven: Flask Charges On Critical Strike Given" class="col-div off-col">fsurgeon</div>
+              <div style="display:inline-block" title="FlaskLifeRecoveryToMinions: Flask Life Recovery To Minions" class="col-div off-col">fminion</div>
+              <div style="display:inline-block" title="FlaskAmountAppliedInstantly: Flask Amount Applied Instantly" class="col-div off-col">f%instant</div>
+            </div>
+            <div class="group-div">
+              <a href="javascript:void(0)" class="col-btn">+</a><a href="javascript:void(0)" class="col-btn">-</a><span class="group-name">FlaskActions:</span>
+              <div style="display:inline-block" title="FlaskDispelsFrozenAndChilled: Flask Dispels FrozenAndChilled" class="col-div off-col">fafreeze</div>
+              <div style="display:inline-block" title="FlaskDispelsShocked: Flask Dispels Shocked" class="col-div off-col">fashock</div>
+              <div style="display:inline-block" title="FlaskDispelsBurning: Flask Dispels Burning" class="col-div off-col">faburn</div>
+              <div style="display:inline-block" title="FlaskRemovesBleeding: Flask Removes Bleeding" class="col-div off-col">fableed</div>
+              <div style="display:inline-block" title="FlaskCurseImmunity: Flask Curse Immunity" class="col-div off-col">facurse</div>
+              <div style="display:inline-block" title="FlaskKnockback: Flask adds Knockback" class="col-div off-col">fknock</div>
+              <div style="display:inline-block" title="FlaskInstant: Flask Instant Recovery" class="col-div off-col">finstant</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="grid" class="slickgrid_522408 ui-widget" style="overflow: hidden; outline: 0px; position: relative; height: 296px;">
+        <div tabindex="0" hidefocus="" style="position:fixed;width:0;height:0;top:0;left:0;outline:0;"></div>
+        <div class="slick-header ui-state-default" style="overflow:hidden;position:relative;">
+          <div class="slick-header-columns" style="left: -1000px; width: 2797px;" unselectable="on">
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408loc" title="The name of the character / stash tab that contains the item." style="width: 129px;">
+              <span class="slick-column-name">loc</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408rarity" title="Rarity of the item." style="width: 59px;">
+              <span class="slick-column-name">rarity</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408name" title="The name of the item" style="width: 159px;">
+              <span class="slick-column-name">name</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408type" title="The name of the base item type" style="width: 99px;">
+              <span class="slick-column-name">type</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408cosmetics" title="A list of all cosmetic effects applied to the item" style="width: 79px;">
+              <span class="slick-column-name">cosmetics</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408sockets" title="The sockets sorted by number in group, then by color" style="width: 99px;">
+              <span class="slick-column-name">sockets</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408ilvl" title="The item level" style="width: 49px;">
+              <span class="slick-column-name">ilvl</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408AR" title="Armour" style="width: 49px;">
+              <span class="slick-column-name">AR</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408EV" title="Evasion" style="width: 49px;">
+              <span class="slick-column-name">EV</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408ES" title="Energy Shield" style="width: 49px;">
+              <span class="slick-column-name">ES</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408dps" title="Total Dps or Average Damage for Non-Weapons" style="width: 49px;">
+              <span class="slick-column-name">dps</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408rLvl" title="Level Required to Equip the Item" style="width: 49px;">
+              <span class="slick-column-name">rLvl</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408mf" title="Total of Increased Item Rarity and Increased Item Quantity" style="width: 49px;">
+              <span class="slick-column-name">mf</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%move" title="Increased Movement Speed" style="width: 49px;">
+              <span class="slick-column-name">+%move</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+life" title="Adds this amount of life (includes strength bonus)" style="width: 49px;">
+              <span class="slick-column-name">+life</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%Life" title="Increased Maximum Life" style="width: 49px;">
+              <span class="slick-column-name">+%Life</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+mana" title="Adds this amount of mana (includes intelligence bonus)" style="width: 49px;">
+              <span class="slick-column-name">+mana</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+SRes" title="The total amount of resistance" style="width: 49px;">
+              <span class="slick-column-name">+SRes</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+fRes" title="The amount of fire resistance" style="width: 49px;">
+              <span class="slick-column-name">+fRes</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+cRes" title="The amount of cold resistance" style="width: 49px;">
+              <span class="slick-column-name">+cRes</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+lRes" title="The amount of lightning resistance" style="width: 49px;">
+              <span class="slick-column-name">+lRes</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%crit" title="Increased Critical Strike Chance" style="width: 49px;">
+              <span class="slick-column-name">+%crit</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%spCrit" title="Increased Critical Strike Chance For Spells" style="width: 49px;">
+              <span class="slick-column-name">+%spCrit</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%gcc" title="Increased Global Critical Strike Chance" style="width: 49px;">
+              <span class="slick-column-name">+%gcc</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable slick-header-column-sorted" id="slickgrid_522408+%gcm" title="Increased Global Critical Strike Multiplier" style="width: 49px;">
+              <span class="slick-column-name">+%gcm</span><span class="slick-sort-indicator slick-sort-indicator-asc"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%cast" title="Increased Cast Speed" style="width: 49px;">
+              <span class="slick-column-name">+%cast</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+            <div class="ui-state-default slick-header-column slick-header-sortable" id="slickgrid_522408+%spDmg" title="Increased Spell Damage" style="width: 49px;">
+              <span class="slick-column-name">+%spDmg</span><span class="slick-sort-indicator"></span>
+              <div class="slick-resizable-handle"></div>
+            </div>
+          </div>
+        </div>
+        <div class="slick-headerrow ui-state-default" style="overflow:hidden;position:relative;">
+          <div class="slick-headerrow-columns" style="width: 1680px;">
+            <div class="ui-state-default slick-headerrow-column l0 r0"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l1 r1"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l2 r2"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l3 r3"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l4 r4"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l5 r5"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l6 r6"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l7 r7"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l8 r8"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l9 r9"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l10 r10"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l11 r11"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l12 r12"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l13 r13"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l14 r14"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l15 r15"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l16 r16"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l17 r17"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l18 r18"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l19 r19"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l20 r20"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l21 r21"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l22 r22"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l23 r23"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l24 r24"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l25 r25"><input class="header-filter" type="text"></div>
+            <div class="ui-state-default slick-headerrow-column l26 r26"><input class="header-filter" type="text"></div>
+          </div>
+          <div style="display: block; height: 1px; position: absolute; top: 0px; left: 0px; width: 1680px;"></div>
+        </div>
+        <div class="slick-top-panel-scroller ui-state-default" style="overflow: hidden; position: relative; display: none;">
+          <div class="slick-top-panel" style="width:10000px"></div>
+        </div>
+        <div class="slick-viewport" style="width: 100%; overflow: auto; outline: 0px; position: relative; height: 250px;">
+          <div class="grid-canvas" style="height: 221650px; width: 1680px;">
+            <div class="ui-widget-content slick-row odd" style="top:325px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:12 y:10</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Bonechill Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">38</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:350px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:9</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Vaal Cold Snap</div>
+              <div class="slick-cell l3 r3">Skill Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">68</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21">6</div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:375px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:8</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Arcane Surge Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">16</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:400px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:7</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Blasphemy Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">68</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:425px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:6</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Frostbite</div>
+              <div class="slick-cell l3 r3">Skill Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">68</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:450px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:4</div>
+              <div class="slick-cell l1 r1">rare</div>
+              <div class="slick-cell l2 r2">Hate Chant</div>
+              <div class="slick-cell l3 r3">Arm Shield</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B-B-B</div>
+              <div class="slick-cell l6 r6">73</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9">238</div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">55</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17">100</div>
+              <div class="slick-cell l18 r18">44</div>
+              <div class="slick-cell l19 r19">41</div>
+              <div class="slick-cell l20 r20">15</div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:475px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:12</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Arctic Breath</div>
+              <div class="slick-cell l3 r3">Skill Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">35</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21">6</div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:500px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:11</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Cast when Damage Taken Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">R</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">38</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:525px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:11 y:1</div>
+              <div class="slick-cell l1 r1">rare</div>
+              <div class="slick-cell l2 r2">Maelström Crusher</div>
+              <div class="slick-cell l3 r3">Wep 1HSceptre</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B-B-B</div>
+              <div class="slick-cell l6 r6">70</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10">79</div>
+              <div class="slick-cell l11 r11">68</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16">21</div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21">6.2</div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26">67</div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:550px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:9</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Spell Cascade Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">67</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:575px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:8</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Efficacy Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">68</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:600px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:7</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Hypothermia Support</div>
+              <div class="slick-cell l3 r3">Support Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">G</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">58</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:625px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:2</div>
+              <div class="slick-cell l1 r1">unique</div>
+              <div class="slick-cell l2 r2">Malachai's Artifice</div>
+              <div class="slick-cell l3 r3">Ring</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">W</div>
+              <div class="slick-cell l6 r6">74</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">5</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17">-60</div>
+              <div class="slick-cell l18 r18">-20</div>
+              <div class="slick-cell l19 r19">-20</div>
+              <div class="slick-cell l20 r20">-20</div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:650px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:12</div>
+              <div class="slick-cell l1 r1">rare</div>
+              <div class="slick-cell l2 r2">Hypnotic Bliss</div>
+              <div class="slick-cell l3 r3">Jewel</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5"></div>
+              <div class="slick-cell l6 r6">70</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11"></div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17">24</div>
+              <div class="slick-cell l18 r18">12</div>
+              <div class="slick-cell l19 r19">12</div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:675px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:11</div>
+              <div class="slick-cell l1 r1">gem</div>
+              <div class="slick-cell l2 r2">Frost Bomb</div>
+              <div class="slick-cell l3 r3">Skill Gem</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">B</div>
+              <div class="slick-cell l6 r6"></div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10"></div>
+              <div class="slick-cell l11 r11">67</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21">6</div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:700px">
+              <div class="slick-cell l0 r0">❄❅❆ (Remove-only) s:151 x:10 y:1</div>
+              <div class="slick-cell l1 r1">rare</div>
+              <div class="slick-cell l2 r2">Glyph Loop</div>
+              <div class="slick-cell l3 r3">Ring</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">R</div>
+              <div class="slick-cell l6 r6">63</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10">8</div>
+              <div class="slick-cell l11 r11">39</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17">35</div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20">35</div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row odd" style="top:725px">
+              <div class="slick-cell l0 r0">✓✔✕✖✗✘☠ s:16 x:9 y:7</div>
+              <div class="slick-cell l1 r1">unique</div>
+              <div class="slick-cell l2 r2">Quill Rain</div>
+              <div class="slick-cell l3 r3">Wep Bow</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">G-G G G</div>
+              <div class="slick-cell l6 r6">28</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8"></div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10">66</div>
+              <div class="slick-cell l11 r11">5</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13"></div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21">5</div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+            <div class="ui-widget-content slick-row even" style="top:750px">
+              <div class="slick-cell l0 r0">✓✔✕✖✗✘☠ s:16 x:9 y:4</div>
+              <div class="slick-cell l1 r1">unique</div>
+              <div class="slick-cell l2 r2">Foxshade</div>
+              <div class="slick-cell l3 r3">Arm Chest</div>
+              <div class="slick-cell l4 r4"></div>
+              <div class="slick-cell l5 r5">G-G</div>
+              <div class="slick-cell l6 r6">28</div>
+              <div class="slick-cell l7 r7"></div>
+              <div class="slick-cell l8 r8">400</div>
+              <div class="slick-cell l9 r9"></div>
+              <div class="slick-cell l10 r10">9</div>
+              <div class="slick-cell l11 r11">25</div>
+              <div class="slick-cell l12 r12"></div>
+              <div class="slick-cell l13 r13">10</div>
+              <div class="slick-cell l14 r14"></div>
+              <div class="slick-cell l15 r15"></div>
+              <div class="slick-cell l16 r16"></div>
+              <div class="slick-cell l17 r17"></div>
+              <div class="slick-cell l18 r18"></div>
+              <div class="slick-cell l19 r19"></div>
+              <div class="slick-cell l20 r20"></div>
+              <div class="slick-cell l21 r21"></div>
+              <div class="slick-cell l22 r22"></div>
+              <div class="slick-cell l23 r23"></div>
+              <div class="slick-cell l24 r24"></div>
+              <div class="slick-cell l25 r25"></div>
+              <div class="slick-cell l26 r26"></div>
+            </div>
+          </div>
+        </div>
+        <div tabindex="0" hidefocus="" style="position:fixed;width:0;height:0;top:0;left:0;outline:0;"></div>
+      </div>
+      <div id="item-details" style="display: none; top: 365.264px; left: 395px;">
+        <div class="item-detail frame-type-rare" style="">
+          <div style="padding:5px">
+            <img src="https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8.png?scale=1&amp;w=2&amp;h=3&amp;v=f1b80e8b35ecb64cf2441a9ef9a39562"><br>
+            <span class="item-name">Maelström Crusher</span><br>
+            <hr>
+            Void Sceptre
+            <br>
+            <hr>
+            Location: ❄❅❆ (Remove-only) s:151 x:11 y:1
+            <hr>
+            Sockets: B-B-B
+            <hr>
+            Sceptre <br>Physical Damage 50-76<br>Critical Strike Chance 6.20%<br>Attacks per Second 1.25<br>Weapon Range 11
+            <hr>
+            Item Level: 70
+            <hr>
+            Requires Level 68, Str 104, Int 122
+            <hr>
+            40% increased Elemental Damage
+            <hr>
+            27% increased Spell Damage<br>23% increased Cold Damage<br>8% reduced Enemy Stun Threshold<br>+21 to maximum Mana<br>49% increased Mana Regeneration Rate
+            <hr>
+            40% increased Spell Damage
+            <span class="authors-note">Shift+Clicking refreshes (char/tab) item is in.</span>
+          </div>
+        </div>
+        <div style="display: none;"></div>
+      </div>
+    </div>
+    <div id="footer">
+      <div style="display:inline-block;color:gold">
+        <div style="display:inline-block;-webkit-transform:scaleX(-1);transform:scaleX(-1)">
+          <a target="_blank" href="http://www.gnu.org/licenses/gpl-2.0.html">©</a>
+        </div>
+        <a target="_blank" href="http://blog.jackman.biz" style="color:gold">&nbsp;Benjamin Jackman Designed 2014.</a>
+        <!--Third Party Sites:-->
+        <!--<a target="_blank" href="http://poebuilder.com" style="color:gold">&nbsp;poebuilder.com</a>-->
+      </div>
+    </div>
+    <script type="text/javascript" src="jslib/jailed/0.2.0/jailed.js"></script>
+    <script type="text/javascript" src="jslib/d3.js"></script>
+    <script type="text/javascript" src="jslib/jquery.js"></script>
+    <script type="text/javascript" src="jslib/jquery-migrate.js"></script>
+    <script type="text/javascript" src="jslib/react/0.12.1/react-with-addons.js"></script>
+    <script type="text/javascript" src="jslib/signals.js"></script>
+    <script type="text/javascript" src="jslib/crossroads.js"></script>
+    <script type="text/javascript" src="jslib/hasher.js"></script>
+    <script type="text/javascript" src="jslib/esprima.js"></script>
+    <script type="text/javascript" src="jslib/vm.js"></script>
+    <script type="text/javascript" src="jslib/persistReload.js"></script>
+    <script type="text/javascript" src="jslib/select2/select2.js"></script>
+    <script type="text/javascript" src="jslib/filesaver.js"></script>
+    <script type="text/javascript" src="jslib/slickgrid/lib/jquery.event.drag-2.0.min.js"></script>
+    <script type="text/javascript" src="jslib/slickgrid/lib/jquery.event.drop-2.0.min.js"></script>
+    <script type="text/javascript" src="jslib/slickgrid/slick.core.js"></script>
+    <script type="text/javascript" src="jslib/slickgrid/slick.grid.js"></script>
+    <script type="text/javascript" src="jslib/slickgrid/slick.dataview.js"></script>
+    <script type="text/javascript" src="looty-opt.js"></script>
+    <script type="text/javascript" src="jslib/startup.js"></script>
+    <span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><span role="status" aria-live="polite" class="select2-hidden-accessible">2 results are available, use up and down arrow keys to navigate.</span>
+    <div id="select2-drop-mask" class="select2-drop-mask" style="display: none;"></div>
+    <div class="select2-drop select2-display-none select2-with-searchbox select2-drop-active" style="left: 842.516px; width: 220px; top: 59px; bottom: auto; display: none;">
+      <div class="select2-search">       <label for="s2id_autogen20_search" class="select2-offscreen"></label>       <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-20" id="s2id_autogen20_search" placeholder="" aria-activedescendant="select2-result-label-36">   </div>
+      <ul class="select2-results" role="listbox" id="select2-results-20"></ul>
+    </div>
+  </body>
+</html>
