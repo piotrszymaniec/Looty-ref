@@ -112,3 +112,33 @@ object increased {
     val rarityOfItemsFound   = p1()
 ```
 congratulation, new affix is being parsed!
+
+
+### Handling key press event
+excerpt from [LootView.scala](https://github.com/benjaminjackman/looty/blob/master/looty/src/main/scala/looty/views/LootView.scala)
+
+```
+   el.append(reloadAllBtn)
+
+
+    val title = "Show / hide this tab. Shift-Click to refresh it."
+
+    def addCon(conId: LootContainerId, button: JQuery, el: JQuery)(refreshFn: => Unit) {
+      val con = new Container(conId, button, initialVisible = true, refreshFn = () => refreshFn)
+      button.addClass("loading")
+      button.addClass("visible-loot-container")
+      containers.addContainer(con)
+      Filters.setContainer(con.id, visible = con.visible)
+      el.append(button)
+      el.append(" ")
+      button.on("click", (e: js.Dynamic) => {
+        //Filter the grid to show only that tab
+        if (e.shiftKey.asInstanceOf[js.Boolean]) {
+          con.refresh()
+        } else {
+          con.toggle()
+        }
+        false
+      })
+    }
+    ```
