@@ -1,9 +1,43 @@
-### Adding new Affixes
 
-files needed : 
-**AffixesParser.scala ComputedItem.scala ComputedItemProps.scala ProperItems.scala**
-AffixesParser.scala       - choosing to what group affix belong,  how ingame affix is worded, and deciding if it needs to be sumed/substracted/multiplied/divided by some other stat, or just how program is going to recognize this affix. Code excerpt
+[Example]() - adding % increased maximum life, property 
 
+## Adding new Affixes
+
+#### Files needed : 
+  
+1. **/model/parsers/AffixesParser.scala** - choosing to what group affix belong,  how ingame affix is worded, and deciding if it needs to be sumed/substracted/multiplied/divided by some other stat, or just how program is going to recognize this affix
+1. **/model/ComputedItem.scala** - adding affix as some variable to designed section/type.
+1. **/model/ComputedItemProps.scala** - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
+1. **/mods/ProperItems.scala** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
+
+
+### Example - adding % increased maximum life, property 
+
+#### AffixesParser.scala
+
+    increased("maximum Life")(_.increased.maximumLife += _)
+
+#### ComputedItem.scala 
+
+    var maximumLife                    = 0.0
+
+#### ComputedItemProps.scala
+
+    val IncreasedMaxLife      = pno("IncreasedMaxLife", "+%Life")(Attributes)(_.increased.maximumLife)
+    
+    IncreasedMaxLife ?= "Increased Maximum Life"
+    
+Note: Still, I have not figured out what functions names pno(), nno(), and boo() means... but its clearly comparing values for filters. Though why that particular names?
+
+#### ProperItems.scala
+
+    val maximumLife = p1()
+
+---
+
+### More Code excerpts
+
+**AffixesParser.scala**  
 ```
 def increased(name: String)(f: (ComputedItem, Double) => Unit) = { regex1(s"^([.+-\\d]+)%* increased $name$$")(f) }
   def reduced(name: String)(f: (ComputedItem, Double) => Unit) = { regex1(s"^([.+-\\d]+)%* reduced $name$$")(f) }
@@ -24,7 +58,7 @@ def increased(name: String)(f: (ComputedItem, Double) => Unit) = { regex1(s"^([.
 ```
 
 
-ComputedItem.scala        - adding affix as some variable to designed section/type. Code excerpt
+**ComputedItem.scala**  - adding affix as some variable to designed section/type. Code excerpt
 
 ```
   object leech {var physical = LifeAndMana mutable 0.0}
@@ -63,7 +97,7 @@ ComputedItem.scala        - adding affix as some variable to designed section/ty
 ```
 
 
-ComputedItemProps.scala   - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
+**ComputedItemProps.scala**   - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
 
 ```
 //Efficiency
@@ -99,7 +133,7 @@ ComputedItemProps.scala   - front end interface - how affix will be named as cho
   MinusToManaCostOfSkills !?= "Mana Cost of Skills"
 ```
 
-ProperItems.scala - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
+**ProperItems.scala** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
 
 ```
 object increased {
@@ -141,4 +175,4 @@ excerpt from [LootView.scala](https://github.com/benjaminjackman/looty/blob/mast
         false
       })
     }
-    ```
+```
