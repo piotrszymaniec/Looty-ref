@@ -1,21 +1,21 @@
 
-[Example]() - adding % increased maximum life, property 
 
 ## Adding new Affixes
 
 #### Files needed : 
   
-1. **/model/parsers/AffixesParser.scala** - choosing to what group affix belong,  how ingame affix is worded, and deciding if it needs to be sumed/substracted/multiplied/divided by some other stat, or just how program is going to recognize this affix
-1. **/model/ComputedItem.scala** - adding affix as some variable to designed section/type.
-1. **/model/ComputedItemProps.scala** - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
-1. **/mods/ProperItems.scala** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
+1. **/model/parsers/[AffixesParser.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/parsers/AffixesParser.scala)** - recognising property by parser, as this which increases, decreses, adds to another property (for example "x to all attributes", means it neads to be added to str, dex and int), and other.
+1. **/model/[ComputedItem.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/ComputedItem.scala)** - adding affix as some variable to designed section/type.
+1. **/model/[ComputedItemProps.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/ComputedItemProps.scala)** - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
+1. **/mods/[ProperItem.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/mods/ProperItem.scala)** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
 
-
-### Example - adding % increased maximum life, property 
+### Example - adding property   % increased maximum life
 
 #### AffixesParser.scala
 
     increased("maximum Life")(_.increased.maximumLife += _)
+    
+Note: _.increased is actually ComputedItem.increased    
 
 #### ComputedItem.scala 
 
@@ -29,7 +29,7 @@
     
 Note: Still, I have not figured out what functions names pno(), nno(), and boo() means... but its clearly comparing values for filters. Though why that particular names?
 
-#### ProperItems.scala
+#### ProperItem.scala
 
     val maximumLife = p1()
 
