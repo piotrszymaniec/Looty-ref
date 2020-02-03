@@ -5,12 +5,15 @@ to have all in one place remotely available
 
 [Developer Notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) - How-to, and intrinsics of Looty programming
 
-### TODO
+### To Read
 
-- [ ] read [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
-- [ ] read [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
+1. [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
+1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
+1. https://github.com/chicagoscala/beginning-exercises tutorial project from the ground up
 - [ ] read how looty caches data and rules of refreshing content[]()
 - [ ] read how columns are made, ~~what makes column width not resizable~~ (bug introduced with 2.1.73 jquery upgrade). And how you can add html tags to value, for experiance progress tag
+
+---
 
  #### Code:
  - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
