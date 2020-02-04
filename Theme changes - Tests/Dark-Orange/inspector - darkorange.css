@@ -1,0 +1,177 @@
+/*
+DarkOrange DarkTheme
+
+semi transparent black bg,
+blue group names, 
+affix buttons brown/oranghish on, greyish off
++ - buttons frame only
+
+*/
+
+/*
+Pomysl: naglowko, i komorkom z cyframi moze wycentrowac text?;
+eee, nie bo wtedy dziesietne, i jednostkowe nie beda wyrownane.
+
+ewentualnie dac przesuniecie wew od lewej?
+albo poszerzyc domyslnie naglowek dla 
+- wyrazow dluzszych niz np 12 znakow
+- pomysl jak zwiekszyc czytelnosc slow na naglowkach? moze nie trzeba hmm?
+*/
+
+/* chyba niepotrzebne ? jak wylaczam to sie nic nie dzieje*/
+/* - animacja wciskania jest plynniejsz*/
+.column-controls .group-div > a.col-btn {    
+    
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: #000 !important;
+    -webkit-transition: all 250ms;
+    -moz-transition: all 250ms;
+    transition: all 250ms;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+/* + select/unselect - all mods - we should add _padding-right_, but lets add them their O W N class. all-select all-dselect */
+.group-div > a.col-btn:hover {
+    background-color: #35332a;
+}
+
+.group-div > a.col-btn {
+    background: #000 !important;
+    color: #444138 !important;
+    border: 1px solid #13120f;
+}
+
+.columns-controls .col-div.on-col {
+    color: #d8b169 !important;
+    background-color: #5a3806 !important;
+    text-decoration: none;
+    border: 1px solid #947232;
+}
+.columns-controls .col-div.off-col {
+    color: #7b7665 !important;
+    background-color: #1e2124 !important;
+}
+
+
+
+.select2-container .ls-btn {
+    box-shadow: none !important;
+}
+
+.columns-controls {
+    background: none;
+    border: 1px solid #211303;
+    padding-bottom: 1.5em;
+}
+
+div#grid {
+    /* padding: 0.5em 0.5em; */
+    /* border: 1px solid #251b06; */
+    margin-top: 1em;
+}
+
+input.header-filter {
+    background: #1e2124bf;
+    color: white !important;
+    border: none;
+    /* text-align: center; */
+}
+
+input.header-filter {}
+
+.group-div > a.col-btn:hover {
+    background: #212121 !important;
+}
+
+a.view-btn.settings {
+    background: #981212;
+    color: black;
+    border-bottom: 2px solid white;
+}
+
+.slick-cell.l3.r3 {
+    /* color: red; */
+}
+
+.slick-cell.l3.r3 {
+    /* color: blue; */
+}
+
+span.group-name {
+    color: #166a92;
+}
+
+div#controls {
+    background: #000000e0;
+}
+
+/* Official GGG Trade site settings ripoff :> */
+#content .navigation {
+    height: 31px;
+}
+
+.nav-tabs.main {
+    float: left;
+}
+.nav-tabs.main, .nav-tabs.account {
+    width: 50%;
+    padding: 0;
+}
+
+.nav-tabs.main .menu-search, .nav-tabs.main .menu-exchange {
+    float: left;
+    height: 32px;
+}
+.nav-tabs.main>li, .nav-tabs.account>li {
+    background-color: rgba(10,10,10,0.9);
+}
+
+/* a buttons styling (search list item) */
+
+#content a {
+    color: #e9cf9f;
+}
+.categories.nav-pills>li.active>a, .main.nav-tabs>li.active>a, .account.nav-tabs>li.active>a {
+    background-color: #5a3806;
+    cursor: auto;
+}
+.nav-tabs.main .menu-search>a, .nav-tabs.main .menu-exchange>a {
+    height: 32px;
+}
+.categories.nav-pills>li>a, .main.nav-tabs>li>a, .account.nav-tabs>li>a {
+    margin-right: 0;
+    border-color: transparent;
+    padding: 5px 10px;
+}
+
+/* icons like search settings etc*/
+
+.nav-tabs .menu-search>a::before {
+    background: url(https://www.pathofexile.com/image/gen/trade.png?1579150369145) no-repeat;
+    background-position: -334px -200px;
+    height: 18px;
+    width: 18px;
+}
+.nav-tabs .menu-search>a::before, .nav-tabs .menu-exchange>a::before, .nav-tabs .menu-about>a::before, .nav-tabs .menu-settings>a::before {
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.nav {
+    margin-bottom: 0;
+    list-style: none;
+ 
+}
+
+.slick-header-column {
+    padding: 0.2em 0;
+    background-color: #580b38;
+}
