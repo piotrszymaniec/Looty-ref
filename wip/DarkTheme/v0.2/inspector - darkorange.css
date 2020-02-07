@@ -9,17 +9,12 @@ affix buttons brown/oranghish on, greyish off
 */
 
 /*
-Pomysl: naglowko, i komorkom z cyframi moze wycentrowac text?;
-eee, nie bo wtedy dziesietne, i jednostkowe nie beda wyrownane.
-
 ewentualnie dac przesuniecie wew od lewej?
 albo poszerzyc domyslnie naglowek dla 
 - wyrazow dluzszych niz np 12 znakow
 - pomysl jak zwiekszyc czytelnosc slow na naglowkach? moze nie trzeba hmm?
 */
 
-/* chyba niepotrzebne ? jak wylaczam to sie nic nie dzieje*/
-/* - animacja wciskania jest plynniejsz*/
 .column-controls .group-div > a.col-btn {    
     
     padding-top: 2px;
@@ -29,6 +24,8 @@ albo poszerzyc domyslnie naglowek dla
     margin-top: 5px;
     margin-bottom: 5px;
     background: #000 !important;
+/* chyba niepotrzebne ? jak wylaczam to sie nic nie dzieje*/
+/* - animacja wciskania jest plynniejsz*/
     -webkit-transition: all 250ms;
     -moz-transition: all 250ms;
     transition: all 250ms;
