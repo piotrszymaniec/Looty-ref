@@ -5,6 +5,7 @@
  - [ ] create help menu/panel 
  - [ ] make that league buttons remeber state - you see what league you are in
  - [ ] Solve "problem" with column selection, other words big soup of mods you can have as columns
+      * there can be other tabs in selectcolumns panel just for ex. Jewels as sugested in [this issue](https://github.com/benjaminjackman/looty/issues/23)
  - [x] Alerter Warning for user that looty has no creditentials - poe site with loged wasnt visited. Explain why 
  - [ ] When making new "Select Column *save*"  its not obvious that you have to click name entered. Sadly when you click somewhere else, thinking "its written so i can click save and vuala" - nope you have to click on its name which is selected in blue, and then as it will appear in input box it stays there so you can click save...  Maybe tooltip, or/and just explain in tutorial
  - [ ] experiment with icons for every row/ or for row with Jewels
