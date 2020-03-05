@@ -21,17 +21,15 @@ dodaj do:
 
 
 #alerter .info {
-  background: #10d618;
-  color: black;
-  border-left: 5px solid white;
+  background: #15d815;
   font-weight: bold;
-  margin: 5px;
+  
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  padding-top: 2px;
+  
   padding-top: 3px;
   padding-bottom: 2px;
   padding-left: 10px;
-  /* padding-right: 10px; */
+  padding-right: 10px;
 
   border: 1px solid #15d815;
   border-radius: 6px
@@ -44,8 +42,8 @@ teraz tylko wrzucic wszystko do .info .warn .error
 #alerter {
   width: max-content;
   margin: 0 auto;
-  margin-bottom: 1em;
-  border-radius: 6px;
+  margin-bottom: 10px;
+  font-size: 1.05em;
 
 }
 ```
@@ -64,7 +62,7 @@ wyciagnac rzecz wspolna i wstawic do selektora #alerter
 >>>>>>> Stashed changes
 #alerter .warn {
   background: #ffff00;
-  color: black;
+  //remove color: black;
   font-weight: bold;
   margin: 5px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
