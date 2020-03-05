@@ -1,0 +1,38 @@
+"verified"
+"w"
+"h"
+"ilvl"
+"icon"
+"league"
+"id"
+"name"
+"typeLine"
+"identified"
+"explicitMods"
+"descrText"
+"frameType"
+"x"
+"y"
+"inventoryId"
+"corrupted"
+"flavourText"
+"sockets"
+"properties"
+"requirements"
+"implicitMods"
+"craftedMods"
+"socketedItems"
+"abyssJewel"
+"support"
+"additionalProperties"
+"secDescrText"
+
+
+"incubatedItem"
+
+ "incubatedItem": {
+        "name": "Currency Item",
+        "level": 10,
+        "progress": 0,
+        "total": 1066
+    }

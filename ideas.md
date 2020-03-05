@@ -1,5 +1,21 @@
 # Ideas
 
+- [ ] read how poe.ninja is translating item that you want to trade to official trade links ???
+
+### Full text search
+concatanate bruteforce way all strings from item and store as ?column like "TextSearch"
+where player can search via string matching
+
+Remember data like that: with item id as a key and concatenated content as value
+Potential problems: if items will be blessed, does its id change?
+Even if not than we have old data vs new which should be updated... but as we retrieve loads of data we should compare either way (before parsing!) Content of item properties.
+
+Think of a way/class handling new<->old data updating, delating, or readressing missing item in storage.
+Items comes in its contents are stored?temporary id is compared but.. if id is already found then we haveto check all its contents against contents, any other elegant way to do that? 
+(Am i able to make compare items from request concurrently?)
+
+
+
 ### Handling large Quantity of tabs 
 that player has, to choose right form of refreshing his tabs:
 Problem - what if someone has 50, 100, 500 tabs? 
