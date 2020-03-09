@@ -1,0 +1,1978 @@
+{
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "ead8de7d358371950a4830d1665133b126f24726ec0a4f7e563329a6bec5f704",
+      "abyssJewel": true,
+      "name": "Ancient Gaze",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 71,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "43",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Minions have 11% increased maximum Life",
+        "Minions Regenerate 0.6% of Life per second",
+        "Minions deal 7 to 10 additional Cold Damage",
+        "Minions deal 6 to 12 additional Physical Damage"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 1,
+      "y": 1,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique3.png?scale=1&w=1&h=3&v=3dac49e911d9ed0aa82b90a86753e8a9",
+      "league": "Metamorph",
+      "id": "9167e95c4bacb8df01f02599115378f9614d1729106ba89608a62f91e73e1a8e",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Midnight Bargain",
+      "typeLine": "Engraved Wand",
+      "identified": true,
+      "ilvl": 63,
+      "properties": [
+        {
+          "name": "Wand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "21-38",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "7.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.50",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "131",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "25% increased Spell Damage"
+      ],
+      "explicitMods": [
+        "Cannot be used with Chaos Inoculation",
+        "+15 to Intelligence",
+        "Minions have 22% increased Movement Speed",
+        "Minions deal 67% increased Damage",
+        "+1 to maximum number of Raised Zombies",
+        "+1 to maximum number of Spectres",
+        "+1 to maximum number of Skeletons",
+        "Reserves 30% of Life"
+      ],
+      "flavourText": [
+        "A chilling hush, a scraping sound\r",
+        "Of things no more entombed in ground.\r",
+        "A shambling horde is on its way\r",
+        "To crush the very light of day."
+      ],
+      "frameType": 3,
+      "x": 9,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Matuatupuna.png?scale=1&w=2&h=2&v=a748ff09871280aa244c52a630df0a56",
+      "league": "Metamorph",
+      "id": "47d9f0aa93b284b4b58a43e25c9857a7b9d1dd5bce40baa9c98d7f2b156e785b",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Matua Tupuna",
+      "typeLine": "Tarnished Spirit Shield",
+      "identified": true,
+      "ilvl": 82,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "24%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "28",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "7% increased Spell Damage"
+      ],
+      "explicitMods": [
+        "+2 to Level of Socketed Minion Gems",
+        "40% increased Energy Shield",
+        "+15 to maximum Mana",
+        "10% increased Effect of Auras on you",
+        "10% increased Effect of Auras on your Minions",
+        "Spreads Tar when you take a Critical Strike"
+      ],
+      "flavourText": [
+        "You carried me through life,\r",
+        "The least I can do is carry you through death."
+      ],
+      "frameType": 3,
+      "x": 7,
+      "y": 2,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr4.png?scale=1&w=2&h=2&v=b2997b2df11d3b19cbb6a4c3054acda6",
+      "league": "Metamorph",
+      "id": "a8f6b91ec7d4c6a672bc7d8dd41ce2b9cf4cea58209de9e8cb4a898cb1e9032d",
+      "influences": {
+        "hunter": true
+      },
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Crab's Goliath Gauntlets of the Leopard",
+      "identified": true,
+      "ilvl": 75,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "204",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "76",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+34 to Dexterity",
+        "17% increased Armour",
+        "9% increased Stun and Block Recovery"
+      ],
+      "frameType": 1,
+      "x": 4,
+      "y": 2,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter3.png?scale=1&w=2&h=3&v=d3b8c53aaafdd458d20041a30de3c372",
+      "league": "Metamorph",
+      "id": "019f3908eb8d9842eb7c63dda5c6d17c8620c9a555d39a1bd44d32a5cf6c0b27",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 2,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Havoc Call",
+      "typeLine": "Bronze Sceptre",
+      "identified": true,
+      "ilvl": 14,
+      "properties": [
+        {
+          "name": "Sceptre",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+9%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "11-21",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "68",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "37",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "108",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "12% increased Elemental Damage"
+      ],
+      "explicitMods": [
+        "+1 to Level of Socketed Melee Gems",
+        "6% increased Fire Damage",
+        "16% increased Lightning Damage",
+        "+38 to maximum Mana",
+        "+10% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Weapon",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/multipleattacks.png?scale=1&w=1&h=1&v=f0a43870a03ee7d33d6e1140cbf0279f",
+          "support": true,
+          "id": "a448dc01fc88faa36738be2acab67d2db554c3714e54453959fe0067d786c44b",
+          "name": "",
+          "typeLine": "Multistrike Support",
+          "identified": true,
+          "ilvl": 0,
+          "properties": [
+            {
+              "name": "Attack, Melee, Support",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "8",
+                  0
+                ]
+              ],
+              "displayMode": 0,
+              "type": 5
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "160%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Quality",
+              "values": [
+                [
+                  "+20%",
+                  1
+                ]
+              ],
+              "displayMode": 0,
+              "type": 6
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "1/1638338",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 6.103746841290558e-7,
+              "type": 20
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "52",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Str",
+              "values": [
+                [
+                  "53",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "37",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Supports melee attack skills, making them repeat twice when used, targeting a random enemy each time. Cannot support Vaal skills, totem skills, channelling skills, or triggered skills.",
+          "explicitMods": [
+            "Supported Skills Repeat 2 additional times",
+            "Supported Skills have 38% more Melee Attack Speed",
+            "Supported Skills deal 16% less Attack Damage",
+            "Supported Skills deal 10% increased Melee Physical Damage",
+            "First Repeat of Supported Skills deals 22% more Damage",
+            "Second Repeat of Supported Skills deals 44% more Damage"
+          ],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "S"
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/DefensiveMinion.png?scale=1&w=1&h=1&v=5134e49d68bb0ac6515439be831a4c86",
+          "support": true,
+          "id": "a51f365e93a3ff99082f41653074d081bafb9d84be4cf9d7aa4075ea5d7a4397",
+          "name": "",
+          "typeLine": "Meat Shield Support",
+          "identified": true,
+          "ilvl": 0,
+          "properties": [
+            {
+              "name": "Support, Minion",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0,
+              "type": 5
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "130%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "50985686/211508743",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.2410571277141571,
+              "type": 20
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "68",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "108",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Supports skills which create Minions.",
+          "explicitMods": [
+            "Minions from Supported Skills have 20% chance to Taunt on Hit",
+            "Supported Skills have 28% increased Minion Movement Speed",
+            "Minions from Supported Skills deal 29% more Damage to Enemies that are Near you",
+            "Minions from Supported Skills take 24% less Damage",
+            "Minions from Supported Skills are Defensive"
+          ],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 1,
+          "colour": "I"
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "e97236093a4b4171817085162e2024527fec2b1e53e774d4c00d9bec6cdc9479",
+      "abyssJewel": true,
+      "name": "Morbid Leer",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 70,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Minions have 4% chance to Taunt on Hit with Attacks",
+        "Minions deal 3 to 13 additional Lightning Damage",
+        "Minions Regenerate 4 Life per second",
+        "Minions have 8% chance to Hinder Enemies on Hit with Spells, with 30% reduced Movement Speed"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 6,
+      "y": 2,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr2.png?scale=1&w=2&h=2&v=02bb6bfc0c0385695c4fdfa0a5fed536",
+      "league": "Metamorph",
+      "id": "dd7ee9bc06898c94077fb9fb64fcb62791e80ac913b13c11996b458bfa57d444",
+      "influences": {
+        "warlord": true
+      },
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Soul Knuckle",
+      "typeLine": "Antique Gauntlets",
+      "identified": true,
+      "ilvl": 78,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "155",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+401 to Accuracy Rating",
+        "20% increased Armour",
+        "+14 Life gained on Kill",
+        "9% increased Stun and Block Recovery",
+        "21% increased Projectile Attack Damage"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 2,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RivetedEye.png?scale=1&w=1&h=1&v=a0904494de195adde172f2d6dd329b05",
+      "league": "Metamorph",
+      "id": "4b3de11f58e3fb19e0653d62d01cef983cb7a81aa491fa0113cc321e2e30f610",
+      "abyssJewel": true,
+      "name": "Grim Iridescence",
+      "typeLine": "Hypnotic Eye Jewel",
+      "identified": true,
+      "ilvl": 78,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "56",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+23 to maximum Life",
+        "Adds 2 to 36 Lightning Damage to Spells while Dual Wielding",
+        "23% increased Armour if you haven't Killed Recently"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 1,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicint.png?scale=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd",
+      "league": "Metamorph",
+      "id": "7fde62c8b4986391875e6e6a950421b6b4614a5d2efda9e688558e8e8d1f1a51",
+      "name": "Kraken Dew",
+      "typeLine": "Cobalt Jewel",
+      "identified": true,
+      "ilvl": 80,
+      "explicitMods": [
+        "10% increased maximum Mana",
+        "Minions deal 14% increased Damage",
+        "20% increased Damage with Bleeding"
+      ],
+      "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 6,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "8fef1985d91c620c592aa60636f23ec1de822032256a9a330ad60e1b05a8140b",
+      "abyssJewel": true,
+      "name": "Morbid Gaze",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 73,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "43",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Regenerate 3.2 Life per second",
+        "Minions deal 7 to 10 additional Chaos Damage",
+        "Minions have +167 to Accuracy Rating",
+        "Minions deal 33% increased Damage against Abyssal Monsters"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 6,
+      "y": 3,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr8.png?scale=1&w=2&h=2&v=d6983597c3725deb605d48ae00f6aaee",
+      "league": "Metamorph",
+      "id": "2f6ccb9feb677d876d409bfb245af75b353aa66afc118f589026a8059c7408dd",
+      "influences": {
+        "redeemer": true
+      },
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Morbid Keep",
+      "typeLine": "Samite Helmet",
+      "identified": true,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "480",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "114",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+44 to Intelligence",
+        "12% increased Global Accuracy Rating",
+        "74% increased Armour",
+        "5% reduced Mana Reserved",
+        "10% increased Light Radius"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter3.png?scale=1&w=2&h=3&v=d3b8c53aaafdd458d20041a30de3c372",
+      "league": "Metamorph",
+      "id": "67b12abe9aaacc468b38b11741615f70e157a47876a9e0ff97942c9643e37739",
+      "influences": {
+        "shaper": true
+      },
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 2,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Sorrow Call",
+      "typeLine": "Tyrant's Sekhem",
+      "identified": true,
+      "ilvl": 84,
+      "properties": [
+        {
+          "name": "Sceptre",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "43-80",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "99",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "99",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "26% increased Elemental Damage"
+      ],
+      "explicitMods": [
+        "Adds 3 to 35 Lightning Damage to Spells",
+        "+55 to maximum Mana",
+        "18% increased Mana Regeneration Rate",
+        "Gain 20% of Physical Damage as Extra Fire Damage"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Offhand",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "92c73406651e01cc6312dcc92863e8a473f40cd7261ca77c2aaa07750b9fb454",
+      "abyssJewel": true,
+      "name": "Enthralling Oculus",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 64,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+21 to maximum Energy Shield",
+        "Minions deal 16% increased Damage if you've used a Minion Skill Recently",
+        "Minions deal 9 to 15 additional Physical Damage"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 1,
+      "y": 0,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "312766c18878ea322e89068aabf5226a229bd39f2cb46c387c783fefd6faa6de",
+      "abyssJewel": true,
+      "name": "Foul Portent",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Minions deal 12 to 16 additional Cold Damage",
+        "2% chance to Dodge Attack and Spell Hits if you've\nbeen Hit Recently",
+        "Minions have 4% chance to Blind on Hit with Attacks"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 3,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Metamorph/LungInventory.png?scale=1&w=1&h=1&v=dd5a166ee748b11bab82bbe6448ce612",
+      "league": "Metamorph",
+      "id": "569ce52c16277731dcedf9b9816a2c44a7955f15b10797583a1937ba2bf8e5ab",
+      "name": "",
+      "typeLine": "Avatar of Undoing's Lung",
+      "identified": true,
+      "itemLevel": 80,
+      "ilvl": 80,
+      "properties": [
+        {
+          "name": "Uses",
+          "values": [
+            [
+              "Chaos Cascade",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 27
+        }
+      ],
+      "explicitMods": [
+        "Drops additional Rare Jewellery",
+        "Drops additional Rare Armour"
+      ],
+      "descrText": "Combine this with four other different samples in Tane's Laboratory.",
+      "frameType": 3,
+      "x": 0,
+      "y": 2,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "f650ac5110ae0a80c68cdca4bdaab5a6c5091d269c78018398d66fd3daeb7cc9",
+      "abyssJewel": true,
+      "name": "",
+      "typeLine": "Glaciated Ghastly Eye Jewel of Vampirism",
+      "identified": true,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "44",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Minions Leech 0.42% of Damage as Life",
+        "Minions deal 10 to 13 additional Cold Damage"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 1,
+      "x": 4,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr5.png?scale=1&w=2&h=2&v=4847a085c6a733a943b018ed386061b5",
+      "league": "Metamorph",
+      "id": "e20c987c8e5ad65055d17a206adffeec7847e3a5d0f549cbd595d215a5a341be",
+      "influences": {
+        "crusader": true
+      },
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Armageddon Visor",
+      "typeLine": "Gladiator Helmet",
+      "identified": true,
+      "ilvl": 80,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "270",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "75",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+24 to Intelligence",
+        "+20 to Armour",
+        "39% increased Armour",
+        "+37 to maximum Life",
+        "+12% to Chaos Resistance",
+        "16% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png?scale=1&w=1&h=1&v=118803f4aa870b0d556958d6a0634cee",
+      "league": "Metamorph",
+      "id": "71acdf4b820293bd4373924a5f521a953d29b3770ead29e2401b70e853b072a7",
+      "abyssJewel": true,
+      "name": "Foul Leer",
+      "typeLine": "Ghastly Eye Jewel",
+      "identified": true,
+      "ilvl": 81,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+27 to maximum Life",
+        "+12% to Chaos Resistance",
+        "Minions have 8% chance to Hinder Enemies on Hit with Spells, with 30% reduced Movement Speed"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 5,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MurderousEye.png?scale=1&w=1&h=1&v=6679365e95eb89fd626cf59fa2b57c99",
+      "league": "Metamorph",
+      "id": "a597f2986d2b9902d010cd6db5adc53d2794ab09bd7fb6913c15905498c2dad3",
+      "abyssJewel": true,
+      "name": "Whispering Bane",
+      "typeLine": "Murderous Eye Jewel",
+      "identified": true,
+      "ilvl": 72,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "33",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+9 to Dexterity and Intelligence",
+        "+27 to maximum Energy Shield",
+        "Adds 3 to 4 Physical Damage to Mace and Sceptre Attacks"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 1,
+      "y": 2,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BreachRing.png?scale=1&w=1&h=1&v=b033df55e6cc9cd0403d5ecd5e91d5a0",
+      "league": "Metamorph",
+      "id": "e43e40efc33efa3d0695a1e011b8e1721d0ab4f6675e78d5ab11ed5c536c0f64",
+      "name": "Dire Nail",
+      "typeLine": "Breach Ring",
+      "identified": true,
+      "ilvl": 76,
+      "corrupted": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Properties are doubled while in a Breach"
+      ],
+      "explicitMods": [
+        "Adds 9 to 18 Cold Damage to Attacks",
+        "+434 to Accuracy Rating",
+        "13% increased Rarity of Items found",
+        "+28% to Fire Resistance"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex6.png?scale=1&w=2&h=2&v=80d0b49dc84d2c96f40a4cb270d96748",
+      "league": "Metamorph",
+      "id": "804ca66ec2e534caf7e0ada91162363d4c7b2b88c4ea3a44719e7254efbf1975",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Havoc Visor",
+      "typeLine": "Fencer Helm",
+      "identified": true,
+      "ilvl": 80,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "117",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "117",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "59",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "49",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "49",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+2 to Level of Socketed Minion Gems",
+        "+43 to Dexterity",
+        "Regenerate 1.2 Life per second",
+        "+42% to Lightning Resistance"
+      ],
+      "craftedMods": [
+        "+1 to maximum number of Raised Zombies",
+        "+1 to maximum number of Skeletons"
+      ],
+      "enchantMods": [
+        "Winter Orb has 2% increased Area of Effect per Stage"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Helm",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt2.png?scale=1&w=2&h=2&v=8301a0119606f022ec99a9723749003d",
+      "league": "Metamorph",
+      "id": "ad6c91fa7d2db98ff823336cbab5d98335cf8e1005d81d48f8817e0dd400faac",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Torment Paw",
+      "typeLine": "Assassin's Mitts",
+      "identified": true,
+      "ilvl": 76,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+10%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "114",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "22",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+38 to Dexterity",
+        "+82 to maximum Life",
+        "Regenerate 7.5 Life per second",
+        "+49 to maximum Mana",
+        "+37% to Cold Resistance"
+      ],
+      "craftedMods": [
+        "Minions deal 17% increased Damage"
+      ],
+      "frameType": 2,
+      "x": 9,
+      "y": 3,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/EternalEmpireCivilization.png?scale=1&w=1&h=1&v=d0ba60d78abe5d980947d801df1c0f7b",
+      "league": "Metamorph",
+      "id": "ec2bb2c529ee03456be9568dbbaffba98578f47e1f355135eb1425063fce8fe4",
+      "name": "Elegant Hubris",
+      "typeLine": "Timeless Jewel",
+      "identified": true,
+      "ilvl": 81,
+      "properties": [
+        {
+          "name": "Limited to",
+          "values": [
+            [
+              "1 Historic",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Radius",
+          "values": [
+            [
+              "Large",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 26
+        }
+      ],
+      "explicitMods": [
+        "Commissioned 149200 coins to commemorate Cadiro\nPassives in radius are Conquered by the Eternal Empire",
+        "Historic"
+      ],
+      "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "flavourText": [
+        "They believed themselves better than the past, but that confidence brought about nightmare."
+      ],
+      "frameType": 3,
+      "x": 0,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SearchingEye.png?scale=1&w=1&h=1&v=1594a76f6cdc4a09e38ca58035d0ce87",
+      "league": "Metamorph",
+      "id": "684b1c58fca1111462e772675a6030bffb5f80c13c0f91822ec71809fd67ad4e",
+      "abyssJewel": true,
+      "name": "Grim Arbiter",
+      "typeLine": "Searching Eye Jewel",
+      "identified": true,
+      "ilvl": 58,
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Adds 3 to 5 Physical Damage to Attacks",
+        "Adds 3 to 4 Chaos Damage to Attacks",
+        "Adds 8 to 14 Cold Damage to Bow Attacks"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 2,
+      "x": 1,
+      "y": 3,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Metamorph/BrainInventory.png?scale=1&w=1&h=1&v=021e436a86e69d86567c60a85ec05198",
+      "league": "Metamorph",
+      "id": "70d6c8da4bd51af7fbb3cdc9404cd3d997b8279194941069c30254b9a77bd4fe",
+      "name": "",
+      "typeLine": "Sumter the Twisted's Brain",
+      "identified": true,
+      "itemLevel": 77,
+      "ilvl": 77,
+      "properties": [
+        {
+          "name": "Uses",
+          "values": [
+            [
+              "Frostfire Storm",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 27
+        }
+      ],
+      "explicitMods": [
+        "Drops additional Currency Items",
+        "Drops additional Rare Weapons"
+      ],
+      "descrText": "Combine this with four other different samples in Tane's Laboratory.",
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Metamorph/HeartInventory.png?scale=1&w=1&h=1&v=4a8ae63b22f0bf7943de4a190f33f2f6",
+      "league": "Metamorph",
+      "id": "20eed3260e9b435df13782e763152efece654164775590c65c6bfe9b28685171",
+      "name": "",
+      "typeLine": "Leif, the Swift-Handed's Heart",
+      "identified": true,
+      "itemLevel": 82,
+      "ilvl": 82,
+      "properties": [
+        {
+          "name": "Uses",
+          "values": [
+            [
+              "Charged Attack",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 27
+        }
+      ],
+      "explicitMods": [
+        "Drops additional Rare Weapons"
+      ],
+      "descrText": "Combine this with four other different samples in Tane's Laboratory.",
+      "frameType": 3,
+      "x": 0,
+      "y": 1,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Metamorph/LiverInventory.png?scale=1&w=1&h=1&v=c4440c976f8e83d26fc0d08a0c492fb3",
+      "league": "Metamorph",
+      "id": "697c8d92c0c47c3625eb69d8ecd7baa2e170f0f97afe33022db8daeab36d31ae",
+      "name": "",
+      "typeLine": "Pirate Treasure's Liver",
+      "identified": true,
+      "itemLevel": 77,
+      "ilvl": 77,
+      "properties": [
+        {
+          "name": "Uses",
+          "values": [
+            [
+              "Slam",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 27
+        }
+      ],
+      "explicitMods": [
+        "Drops a Map Item"
+      ],
+      "descrText": "Combine this with four other different samples in Tane's Laboratory.",
+      "frameType": 3,
+      "x": 0,
+      "y": 3,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/bootunique.png?scale=1&w=2&h=2&v=5b581c2cb7d77d063b36e08f59adea7e",
+      "league": "Metamorph",
+      "id": "eb627ca66800255284f970c93a008f52fb7e015c2d50b197dcdd39680dcdf417",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Bones of Ullr",
+      "typeLine": "Silk Slippers",
+      "identified": true,
+      "ilvl": 62,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "21",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "22",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "40% increased Energy Shield",
+        "+20 to maximum Life",
+        "+20 to maximum Mana",
+        "+1 to Level of all Raise Zombie Gems",
+        "+1 to Level of all Raise Spectre Gems",
+        "9% increased Movement Speed"
+      ],
+      "flavourText": [
+        "The dead man walks where\r",
+        "the living fear to tread."
+      ],
+      "frameType": 3,
+      "x": 6,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    }
+  ],
+  "character": {
+    "name": "JowixaQueenOfTheDamned",
+    "league": "Metamorph",
+    "classId": 3,
+    "ascendancyClass": 3,
+    "class": "Necromancer",
+    "level": 92,
+    "experience": 2322107510,
+    "lastActive": true
+  }
+}
