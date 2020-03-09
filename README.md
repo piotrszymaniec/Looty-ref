@@ -2,8 +2,10 @@
 
 Library of ideas for my endavours, tinkering with [Looty](https://github.com/benjaminjackman/looty/) stash manager
 to have all in one place remotely available
+  
+[Developer Notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) - How-to, and intrinsics of Looty programming  
+[Looty files structure, with short annotations, for fast devs. introduction and general overview](https://github.com/Traf27/Looty-ref/blob/master/looty-scala-files-structure.md)
 
-[Developer Notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) - How-to, and intrinsics of Looty programming
 
 ### To Read
 
