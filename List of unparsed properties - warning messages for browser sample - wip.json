@@ -1,2371 +1,511 @@
+
  nable to parse affix magic  -> x% increased Weapon Critical Strike Chance while Dual Wielding
-x% increased Attack Speed with Axes
-x% reduced Mana Cost of Skills
-x% increased Trap Damage
-x% increased Spell Damage while Dual Wielding
-x% increased Attack and Cast Speed
-Adds x to y Fire Damage to Axe Attacks
-Minions have +x% to all Elemental Resistances
-x% increased Projectile Damage
-With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles
-With at least 40 Intelligence in Radius, Frostbolt Projectiles gain x% increased 
-With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles
-With at least 40 Intelligence in Radius, Spark fires Projectiles in a circle
-x% reduced Spark Duration
-Regenerate 3 Mana per second
-x% increased Attack Speed with Claws
-x% increased Melee Critical Strike Chance
-x% increased Weapon Critical Strike Chance while Dual Wielding
-x% increased Effect of Shock
-x% chance to Dodge Attack and Spell Hits if you've
--1 to Maximum Frenzy Charges
-x% increased Attack Speed while holding a Shield
-x% increased Attack Speed with Swords
-x% increased Attack and Cast Speed
-x% increased Damage with Swords
-x% increased Damage with Daggers
-x% increased Attack Speed with Two Handed Melee Weapons
-Minions deal x to y additional Fire Damage
-x% chance to avoid Bleeding
-x% increased Poison Duration
-x% chance to Poison on Hit
-Lose x% of Life on Kill
-Recover x% of Mana on Kill
-Lose x% of Energy Shield on Kill
-Adds x to y Fire Damage to Axe Attacks
-x% increased Melee Damage
-x% increased Weapon Damage while Dual Wielding
-With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of 
-Minions Regenerate x% of Life per second
-Adds x to y Cold Damage to Wand Attacks
-+x% Chance to Block Attack Damage if you were Damaged by a Hit Recently
-x% increased Effect of Shock
-Can have up to 3 Crafted Modifiers
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased Critical Strike Chance with Cold Skills
-With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel 
-x% increased Totem Damage
-x% increased Attack Speed with Maces and Sceptres
-x% increased Melee Critical Strike Chance
-x% increased Evasion Rating while moving
-x% increased maximum Mana
-Increases and Reductions to Life in Radius are Transformed to apply to Mana at x% of 
-Adds x to y Fire Damage to Spells while wielding a Two Handed Weapon
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Attack Speed while Dual Wielding
-x% increased Damage with Poison
-With at least 40 Dexterity in Radius, Melee Damage
-With at least 40 Dexterity in Radius, Frost Blades has x% increased Projectile Speed
-x% increased Attack Damage while holding a Shield
-Adds x to y Fire Attack Damage per Buff on you
-Adds x to y Fire Spell Damage per Buff on you
-Minions deal x to y additional Cold Damage
-x% increased Cast Speed if a Minion has been Killed Recently
-x% increased Critical Strike Chance with Two Handed Melee Weapons
-With at least 40 Strength in Radius, Cleave grants Fortify on Hit
-With at least 40 Strength in Radius, Cleave has +1 to Radius per Nearby
-x% reduced Trap Duration
-Can have up to 1 additional Trap placed at a time
-With 40 Intelligence in Radius, Glacial Cascade has an additional Burst
-With 40 Intelligence in Radius, x% of Glacial Cascade Physical Damage
-Adds x to y Physical Damage to Wand Attacks
-Adds x to y Lightning Damage to Sword Attacks
-x% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
-x% chance to Blind Enemies on Hit with Attacks
-Regenerate 1.3 Mana per second
-x% chance to Avoid being Ignited
-Minions deal x% increased Damage against Abyssal Monsters
-+x% to Chaos Damage over Time Multiplier
-x% increased Projectile Attack Damage
-x% increased Melee Damage
-+x% to Chaos Damage over Time Multiplier
-x% of Physical Damage Converted to Fire Damage
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Socketed Gems are Supported by Level 16 Poison
-x% increased Poison Duration
-Regenerate 3.3 Life per second
-Grants Level 20 Aspect of the Spider Skill
-x% increased Damage with Poison
-Adds x to y Cold Damage to Dagger Attacks
-+x% to Critical Strike Multiplier if you've Killed Recently
-x% increased Damage
-x% increased Energy Shield Recharge Rate
-x% increased Shock Duration on Enemies
-x% increased Damage with Swords
-+x% to Critical Strike Multiplier with Two Handed Melee Weapons
-+x% Chance to Block Attack Damage while Dual Wielding
-+x% to Critical Strike Multiplier while Dual Wielding
-x% Chance to Trigger Level 18 Summon Spectral Wolf on Kill
-x% increased Dexterity
-x% increased Intelligence
-Socketed Gems are Supported by Level 18 Inspiration
-x% chance to gain a Power Charge when you Block
-x% faster start of Energy Shield Recharge
-x% increased Energy Shield Recharge Rate
-x% increased Trap Damage
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Area Damage
-x% of Fire Damage Leeched as Life
-x% increased Mine Damage
-x% increased Cast Speed with Lightning Skills
-x% increased Area Damage
-+x% to Critical Strike Multiplier with Two Handed Melee Weapons
-x% increased Critical Strike Chance with Fire Skills
-+x% to Melee Critical Strike Multiplier
-x% increased Attack and Cast Speed
-x% increased Damage
-x% increased Damage with Bows
-x% increased Area Damage
-Adds x to y Fire Damage to Dagger Attacks
-Adds x to y Lightning Damage to Dagger Attacks
-x% increased Damage against Abyssal Monsters
-x% increased Effect of Shock
-x% of Lightning Damage Leeched as Life
-x% increased Damage with Bows
-x% increased Attack Speed with Bows
-Adds x to y Fire Damage to Staff Attacks
-x% increased Mana Regeneration Rate while moving
-Golem Skills have x% increased Cooldown Recovery Speed
-Golems have x% increased Cooldown Recovery Speed
-x% increased Golem Damage for each Type of Golem you have Summoned
-Summoned Golems Regenerate x% of their Life per second
-Primordial
-Adds x to y Fire Damage to Wand Attacks
-x% chance to gain Onslaught for 4 seconds on Kill
-x% increased Damage with Bows
-+x% to Critical Strike Multiplier with Cold Skills
-x% increased Spell Damage while Dual Wielding
-x% increased Totem Life
-Totems gain +x% to all Elemental Resistances
-x% increased maximum Mana
-x% Chance to Block Spell Damage
-Regenerate 1.3 Life per second
-x% increased Critical Strike Chance with Elemental Skills
-+x% to Critical Strike Multiplier while Dual Wielding
-x% chance to Blind Enemies on Hit with Attacks
-x% increased Attack Speed with Wands
-+x% to Critical Strike Multiplier for Spells
-x% increased Attack Speed with Daggers
-x% increased Attack and Cast Speed
-x% increased Poison Duration
-x% chance to Poison on Hit
-x% increased Attack Speed while Dual Wielding
-x% increased Attack Speed with Axes
-x% increased Attack and Cast Speed
-Corrupted Blood cannot be inflicted on you
-Regenerate 3.1 Life per second
-+x% to Cold Damage over Time Multiplier
-x% increased Energy Shield Recharge Rate
-x% increased maximum Life
-x% increased Damage with Bows
-x% faster start of Energy Shield Recharge
-x% increased maximum Life
-x% increased Melee Damage
-x% increased Weapon Damage while Dual Wielding
-x% increased Damage with Swords
-x% increased Damage
-+x% to Critical Strike Multiplier while Dual Wielding
-+x% to Critical Strike Multiplier for Spells
-+3 Energy Shield gained for each Enemy hit by your Attacks
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Damage
-x% increased maximum Life
-Regenerate 11.7 Life per second
-Socketed Gems are Supported by Level 16 Arcane Surge
-+x% to Cold Damage over Time Multiplier
-+x% to Critical Strike Multiplier with Two Handed Melee Weapons
-Regenerate 8 Energy Shield per second
-x% increased Damage
-x% increased Damage over Time
-x% increased Melee Damage
-x% increased Damage with Claws
-x% increased Mine Throwing Speed
-x% reduced Mana Reserved
-x% increased Attack Speed with Claws
-x% increased Area Damage
-x% increased Attack Speed with Axes
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Attack and Cast Speed
-x% increased Totem Damage
-x% increased Attack Damage while holding a Shield
-x% increased Melee Damage
-x% increased Damage with Staves
-x% increased Projectile Damage
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-x% increased Spell Damage while holding a Shield
-Regenerate 2.7 Life per second
-x% increased Critical Strike Chance with Two Handed Melee Weapons
-+x% to Critical Strike Multiplier with Cold Skills
-x% faster start of Energy Shield Recharge
-x% chance to Knock Enemies Back on hit
-x% increased Attack Speed with Swords
-x% increased Freeze Duration on Enemies
-x% increased Projectile Damage
-x% increased Attack Speed while Dual Wielding
-+x% to Critical Strike Multiplier with Fire Skills
-x% chance to Knock Enemies Back on hit
-x% increased Damage with One Handed Weapons
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased Projectile Damage
-x% increased Area Damage
-Regenerate 5.8 Life per second
-x% additional Physical Damage Reduction against Abyssal Monsters
-x% increased Damage with Staves
-x% increased Attack Speed with Staves
-x% increased Energy Shield Recharge Rate
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Shock Duration on Enemies
-x% increased Damage with One Handed Weapons
-x% increased Damage with Swords
-x% increased Damage with Bows
-x% increased Movement Speed if you haven't taken Damage Recently
-x% increased Projectile Damage
-x% increased Area Damage
-x% increased Damage with Poison
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Cast Speed with Cold Skills
-+x% to Cold Damage over Time Multiplier
-x% increased Damage with Maces and Sceptres
-Adds x to y Cold Damage to Dagger Attacks
-Minions deal x% increased Damage
-x% increased Attack Speed while holding a Shield
-x% increased Poison Duration
-x% chance to Poison on Hit
-+x% Chance to Block Spell Damage while Dual Wielding
-Adds x to y Chaos Damage to Spells while wielding a Two Handed Weapon
-+x% Chance to Block Spell Damage while wielding a Staff
-x% increased Attack Speed with Wands
-x% increased Trap Damage
-x% increased Attack Speed while holding a Shield
-Regenerate 5.1 Life per second
-x% Chance for Traps to Trigger an additional time
-Regenerate 3 Life per second
-x% increased Damage with Hits against Chilled Enemies
-With at least 40 Dexterity in Radius, Ice Shot has x% increased Area of Effect
-With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets
-Minions have x% increased maximum Life
-x% additional Physical Damage Reduction
-Regenerate 5.4 Life per second
-x% of Lightning Damage Leeched as Life
-Regenerate 2.4 Life per second
-Regenerate 1.2 Life per second
-Regenerate 2.1 Life per second
-+2 to Level of Socketed Trap or Mine Gems
-Regenerate 8 Life per second
-Regenerate 10.7 Life per second
-+x% to Chaos Damage over Time Multiplier
-Regenerate 12.5 Life per second
-x% faster start of Energy Shield Recharge
-x% increased effect
-x% reduced Duration
-Creates Consecrated Ground on Use
-Damage Penetrates x% Elemental Resistances
-x% increased Damage over Time
-x% increased Shock Duration on Enemies
-Minions deal x% increased Damage
-x% increased Area Damage
-Minions deal x% increased Damage
-x% increased Area Damage
-Regenerate 2.1 Life per second
-Adds x to y Physical Damage to Spells while Dual Wielding
-x% increased Attack Speed with Two Handed Melee Weapons
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Spell Damage while wielding a Staff
-x% increased Projectile Damage
-x% increased Weapon Damage while Dual Wielding
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-x% increased Trap Damage
-x% increased Weapon Damage while Dual Wielding
-x% increased Melee Critical Strike Chance
-+x% Chance to Block Attack Damage while Dual Wielding
-x% increased Attack Speed with Swords
-x% chance to Knock Enemies Back on hit
-x% increased Spell Damage while holding a Shield
-Minions have +x% Chance to Block Attack Damage
-x% faster start of Energy Shield Recharge
-x% increased Freeze Duration on Enemies
-x% reduced Mana Cost of Skills
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Damage
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Weapon Critical Strike Chance while Dual Wielding
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Projectile Damage
-Regenerate 6.2 Life per second
-Adds x to y Lightning Damage to Wand Attacks
-x% chance to gain Phasing for 4 seconds on Kill
-x% increased Movement Speed if you haven't taken Damage Recently
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Mine Throwing Speed
-x% increased Damage with Poison
-x% increased Attack Speed while holding a Shield
-Adds x to y Fire Damage to Spells while holding a Shield
-x% chance to Avoid being Stunned
-+x% to Melee Critical Strike Multiplier
-+x% to Critical Strike Multiplier with Lightning Skills
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with Wands
-+x% to Critical Strike Multiplier for Spells
-x% increased Attack and Cast Speed
-x% increased Damage over Time
-x% increased Spell Damage while holding a Shield
-Minions have x% increased maximum Life
-x% increased Area Damage
-x% increased Attack Speed with Two Handed Melee Weapons
-Minions deal x to y additional Chaos Damage
-+x% Chance to Block Spell Damage if you were Damaged by a Hit Recently
-Minions deal x% increased Damage against Abyssal Monsters
-x% increased Damage with Maces and Sceptres
-x% increased Freeze Duration on Enemies
-x% increased Damage with Two Handed Weapons
-Minions have x% chance to Hinder Enemies on Hit with Spells, with x% reduced Movement Speed
-+x% to Chaos Damage over Time Multiplier
-x% increased Trap Throwing Speed
-Adds x to y Fire Damage to Sword Attacks
-x% increased Damage over Time while wielding a Two Handed Weapon
-x% increased Cast Speed with Fire Skills
-x% increased Cast Speed while wielding a Staff
-+x% to Cold Damage over Time Multiplier
-+x% to Critical Strike Multiplier with Lightning Skills
-Minions deal x% increased Damage
-x% increased Spell Damage while wielding a Staff
-+x% to Critical Strike Multiplier with Lightning Skills
-+3 Energy Shield gained for each Enemy hit by your Attacks
-x% increased Cast Speed with Cold Skills
-Minions have +x% Chance to Block Attack Damage
-+x% Chance to Block Attack Damage while Dual Wielding
-x% increased Attack Speed with Axes
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-x% increased Melee Damage
-x% increased Weapon Damage while Dual Wielding
-x% increased Area Damage
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased maximum Mana
-x% increased Attack Speed while holding a Shield
-x% increased Critical Strike Chance with Cold Skills
-x% increased Totem Damage
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased Attack Speed with Axes
-+x% Chance to Block Spell Damage while wielding a Staff
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Area Damage
-x% chance to Avoid being Ignited
-x% increased Attack Speed with Axes
-x% increased Damage with Axes
-x% increased Damage with Two Handed Weapons
-x% increased Damage over Time
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Cast Speed with Cold Skills
-x% increased Attack Speed while Dual Wielding
-Minions have +x% to all Elemental Resistances
-Socketed Gems are Supported by Level 16 Faster Casting
-Adds x to y Cold Damage to Spells while holding a Shield
-x% increased Damage with Axes
-x% increased Attack Speed with Two Handed Melee Weapons
-x% increased Melee Critical Strike Chance
-x% increased Damage
-+x% to Critical Strike Multiplier with Cold Skills
-x% of Cold Damage Leeched as Life
-Regenerate 8.7 Life per second
-Damage Penetrates x% Elemental Resistances
-Regenerate 1.1 Life per second
-Adds x to y Cold Damage to Axe Attacks
-Adds x to y Fire Damage to Axe Attacks
-x% chance to Blind Enemies on Hit with Attacks
-+x% to Critical Strike Multiplier if you've Killed Recently
-Regenerate 6.7 Life per second
-x% increased Rarity of Items Dropped by Slain Rare or Unique Enemies
-Socketed Gems are Supported by Level 18 Slower Projectiles
-Socketed Gems are Supported by Level 18 Faster Casting
-x% increased Projectile Damage
-x% faster start of Energy Shield Recharge
-x% increased Melee Damage
-x% increased Attack Speed with Two Handed Melee Weapons
-x% increased Attack Speed with Axes
-x% increased Melee Critical Strike Chance
-x% increased Area Damage
-Adds x to y Fire Damage to Spells and Attacks
-Regenerate 9.2 Life per second
-Adds x to y Lightning Damage to Claw Attacks
-x% increased Cast Speed if you've dealt a Critical Strike Recently
-x% increased Rarity of Items Dropped by Slain Rare or Unique Enemies
-x% of Fire Damage Leeched as Life
-x% increased Attack Speed with Two Handed Melee Weapons
-x% increased Attack Speed with Axes
-x% additional Physical Damage Reduction
-Regenerate 1.9 Life per second
-Regenerate 2.7 Life per second
-Gain x% of Physical Damage as Extra Damage of a random Element
-Regenerate 8.5 Life per second
-x% increased Attack Speed with Daggers
-+x% to Critical Strike Multiplier with Cold Skills
-+x% to Critical Strike Multiplier with Elemental Skills
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased maximum Life
-x% increased Attack Damage while holding a Shield
-+x% to Melee Critical Strike Multiplier
-x% increased Area Damage
-Regenerate 2.7 Life per second
-x% increased Damage with Bows
-Regenerate 9.1 Life per second
-+x% chance to Dodge Attack Hits while Focussed
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Minions deal x to y additional Fire Damage
-x% increased Damage over Time
-x% increased Attack Speed with Staves
-Regenerate 15.4 Life per second
-Gain x% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
-x% chance to Avoid being Stunned
-x% increased maximum Life
-Regenerate 10.8 Life per second
-x% increased Damage over Time while holding a Shield
-x% increased Damage with Bows
-x% increased Projectile Damage
-Regenerate 11.6 Life per second
-Grants Level 21 Wrath Skill
-Socketed Gems are Supported by Level 18 Elemental Proliferation
-x% chance to Freeze, Shock and Ignite
-Adds x to y Fire Damage to Sword Attacks
-x% chance to gain Onslaught for 4 seconds on Kill
-x% chance to Dodge Attack and Spell Hits if you've
-Regenerate 3.1 Life per second
-x% increased Trap Damage
-x% increased Attack Speed with Swords
-x% increased Critical Strike Chance with Elemental Skills
-x% increased Mine Damage
-x% increased Attack Speed with Bows
-x% increased Area Damage
-+x% Chance to Block Spell Damage while wielding a Staff
-x% increased Totem Life
-Regenerate 1.9 Life per second
-x% increased Spell Damage while wielding a Staff
-x% increased Critical Strike Chance with One Handed Melee Weapons
-x% increased Damage with Claws
-x% increased Attack and Cast Speed
-x% increased Attack Speed with Two Handed Melee Weapons
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Attack Speed with Axes
-x% increased Critical Strike Chance with Cold Skills
-x% increased Poison Duration
-x% chance to Poison on Hit
-+x% Chance to Block Attack Damage while Dual Wielding
-x% chance to Avoid being Chilled
-x% chance to Avoid being Frozen
-x% increased maximum Life
-x% increased Cast Speed with Fire Skills
-x% increased Mine Damage
-x% increased Attack Speed with Wands
-x% increased Cast Speed while wielding a Staff
-x% increased Spell Damage while holding a Shield
-x% increased Cast Speed with Lightning Skills
-x% increased Freeze Duration on Enemies
-Adds x to y Lightning Damage to Spells while Dual Wielding
-x% increased Mine Damage
-x% increased Damage over Time
-x% increased Attack Speed while Dual Wielding
-x% increased Weapon Critical Strike Chance while Dual Wielding
-x% increased Attack Speed while holding a Shield
-x% increased Damage with Poison
-Regenerate 2.5 Life per second
-x% additional Physical Damage Reduction against Abyssal Monsters
--1 to Maximum Endurance Charges
-x% increased Attack Speed with Swords
-x% increased Shock Duration on Enemies
-Minions Leech x% of Damage as Life
-Adds x to y Physical Damage to Sword Attacks
-Regenerate 10.4 Life per second
-+x% to Lightning and Chaos Resistances
-x% increased Critical Strike Chance with Fire Skills
-x% increased Weapon Damage while Dual Wielding
-x% increased Damage with Daggers
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with Bows
-Regenerate 7.1 Life per second
-Regenerate 1.6 Life per second
-Regenerate 1.6 Life per second
-x% increased Damage with Two Handed Weapons
-+x% to Critical Strike Multiplier if you've Shattered an Enemy Recently
-x% increased Critical Strike Chance with Two Handed Melee Weapons
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased Energy Shield Recharge Rate
-x% increased Damage over Time
-x% increased Mine Damage
-x% increased Damage over Time
-x% increased Weapon Damage while Dual Wielding
-x% increased Area Damage
-x% increased Attack Speed with Two Handed Melee Weapons
-x% chance to Knock Enemies Back on hit
-x% increased Energy Shield Recharge Rate
-x% increased Totem Life
-Regenerate 3.3 Life per second
-x% increased Damage over Time
-+x% to Cold Damage over Time Multiplier
-x% increased Attack Damage while holding a Shield
-x% increased Attack Speed with Daggers
-x% increased Poison Duration
-x% chance to Poison on Hit
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Attack Speed with Daggers
-+x% to maximum Chance to Block Attack Damage
-x% increased Damage with One Handed Weapons
-x% increased Damage
-x% increased Attack Damage while holding a Shield
-x% increased Damage with Swords
-x% increased Attack and Cast Speed
-+x% to Critical Strike Multiplier with Two Handed Melee Weapons
-x% increased Critical Strike Chance with Fire Skills
-x% increased Critical Strike Chance with Elemental Skills
-x% increased Area Damage
-x% reduced Mana Cost of Skills
-+x% Chance to Block Spell Damage while wielding a Staff
-+x% Chance to Block Spell Damage while wielding a Staff
-x% increased Spell Damage while wielding a Staff
-x% increased Damage with Poison
-x% increased Melee Critical Strike Chance
-x% increased Shock Duration on Enemies
-x% increased Damage with Maces and Sceptres
-x% increased Critical Strike Chance with Fire Skills
-x% increased Damage with Axes
-x% chance to Knock Enemies Back on hit
-+x% to Critical Strike Multiplier with Cold Skills
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Damage with Poison
-x% increased Trap Damage
-x% increased Damage over Time
-Socketed Spells have +x% to Critical Strike Multiplier
-Socketed Gems are Supported by Level 16 Advanced Traps
-Socketed Gems are Supported by Level 15 Mana Leech
-x% increased Trap Damage
-+12 Life gained for each Enemy hit by your Spells
-Grants Level 22 Abyssal Cry Skill
-Socketed Gems are Supported by Level 16 Volley
-Gain x% of Cold Damage as Extra Chaos Damage
-Grants Level 22 Haste Skill
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Melee Damage
-x% increased Damage with Axes
-+x% to Critical Strike Multiplier with Elemental Skills
-x% increased Damage with Poison
-Regenerate 1.7 Life per second
-Gain x% of Fire Damage as Extra Chaos Damage
-+2 to Level of Socketed Warcry Gems
-+x% to Cold Damage over Time Multiplier
-Regenerate 2.1 Life per second
-Adds x to y Physical Damage to Staff Attacks
-Regenerate 1.3 Life per second
-Regenerate 1 Life per second
-+x% to Cold Damage over Time Multiplier
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-x% increased Damage over Time
-x% increased Damage with Maces and Sceptres
-x% reduced Mana Cost of Skills
-x% increased Damage with Wands
-Skills Cost no Mana while Focussed
-x% increased Damage
-Has 1 Abyssal Socket
-x% increased Damage
-Shock nearby Enemies for 2 Seconds when you Focus
-x% chance for Flasks you use to not consume Charges
-x% increased Damage
-Regenerate 8.3 Life per second
-Regenerate 5.8 Life per second
-Regenerate 1.5 Life per second
-Regenerate 7.1 Life per second
-Regenerate 12.1 Life per second
-Regenerate 1 Life per second
-Regenerate 2 Life per second
-Regenerate 1.2 Life per second
-Regenerate 9.7 Life per second
-Regenerate 2.8 Life per second
-Cannot be Blinded
-x% increased Attack and Cast Speed
-x% chance to Dodge Spell Hits
-Regenerate 1.3 Life per second
-Regenerate 1.9 Life per second
-Regenerate 8.6 Life per second
-Regenerate 5.2 Life per second
-Regenerate 2.6 Life per second
-Regenerate 5.2 Life per second
-Regenerate 7.9 Life per second
-Regenerate 5.5 Life per second
-Regenerate 4.4 Life per second
-Regenerate 5.5 Life per second
-Regenerate 3.1 Life per second
-x% increased Spell Damage while wielding a Staff
-x% increased Area Damage
-Minions have +x% to all Elemental Resistances
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Projectile Damage
-x% increased Freeze Duration on Enemies
-x% chance to Knock Enemies Back on hit
-Regenerate 7.8 Life per second
-Regenerate 6.7 Life per second
-Minions deal x to y additional Physical Damage
-x% increased Mana Regeneration Rate while moving
-Has 1 Abyssal Socket
-Regenerate 8.9 Life per second
-Has 1 Abyssal Socket
-Regenerate 4 Life per second
-x% reduced Mana Cost of Skills
-Has 1 Abyssal Socket
-Has 1 Abyssal Socket
-Cannot roll Caster Modifiers
-x% increased Attack Speed with Two Handed Melee Weapons
-x% increased Damage with Poison
-x% increased Attack Speed with One Handed Melee Weapons
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased maximum Life
-x% increased Attack and Cast Speed
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased Damage
-x% increased Damage with Claws
-x% faster start of Energy Shield Recharge
-x% additional Physical Damage Reduction against Abyssal Monsters
-x% increased maximum Mana
-Regenerate 6.8 Life per second
-x% increased Area Damage
-x% increased Melee Damage
-+x% to Melee Critical Strike Multiplier
-Regenerate 10.7 Life per second
-x% increased Totem Life
-Socketed Gems are Supported by Level 18 Minion Damage
-Minions deal x% increased Damage
-Culling Strike
-x% increased Melee Damage
-Recover x% of Life on Kill
-Regenerate 1.2 Life per second
-Unaffected by Burning Ground
-x% chance to avoid Projectiles
-Properties are doubled while in a Breach
-Socketed Gems are Supported by Level 16 Slower Projectiles
-Socketed Gems are Supported by Level 16 Faster Casting
-x% increased Projectile Damage
-Socketed Spells have +x% to Critical Strike Multiplier
-x% increased Trap Damage
-x% increased Spell Damage while Dual Wielding
-x% increased Area Damage
-x% increased Critical Strike Chance with Elemental Skills
-x% faster start of Energy Shield Recharge
-Socketed Gems are Supported by Level 18 Blastchain Mine
-x% increased Mine Damage
-Adds x to y Cold Damage to Staff Attacks
-Adds x to y Lightning Damage to Staff Attacks
-x% chance to Blind Enemies on Hit with Attacks
-Adds x to y Cold Damage to Mace and Sceptre Attacks
-x% increased Damage over Time while wielding a Two Handed Weapon
-Regenerate x% of Life per second while moving
-Adds x to y Lightning Damage to Axe Attacks
-x% increased Movement Speed if you haven't taken Damage Recently
-Socketed Gems are Supported by Level 16 Innervate
-x% increased Effect of Shock
-Regenerate 11.6 Life per second
-x% increased Cast Speed while Dual Wielding
-x% increased Weapon Damage while Dual Wielding
-x% increased Attack Speed with Axes
-x% increased Projectile Damage
-Recover x% of Energy Shield on Kill
-Regenerate 6.2 Life per second
-x% increased Weapon Damage while Dual Wielding
-x% increased maximum Mana
-x% increased Energy Shield Recharge Rate
-x% increased Shock Duration on Enemies
-x% reduced Mana Cost of Skills
-Socketed Gems are Supported by Level 20 Ballista Totem
-x% increased Totem Damage
-Regenerate x% of Energy Shield per second
-Regenerate 4.7 Life per second
-Regenerate 3.5 Life per second
-Regenerate 3 Life per second
-Grants Level 23 Conductivity Skill
-Regenerate 12.9 Life per second
-Regenerate 2.3 Life per second
-Regenerate 9.9 Life per second
-Regenerate 9.8 Life per second
-Regenerate 3.7 Life per second
-Regenerate 2.6 Life per second
-Regenerate 2.7 Life per second
-Regenerate 2.9 Life per second
-Regenerate 14.1 Life per second
-Regenerate 1.1 Life per second
-Regenerate 13.8 Life per second
-Regenerate 3.2 Life per second
-Has 1 Abyssal Socket
-Regenerate 3.6 Life per second
-Regenerate 3.9 Life per second
-Regenerate 3.6 Life per second
-Regenerate 3.2 Life per second
-Regenerate 14.8 Life per second
-Regenerate 1.3 Life per second
-Regenerate 5.5 Life per second
-Regenerate 7.9 Life per second
-Regenerate 3.2 Life per second
-Regenerate 10.6 Life per second
-Regenerate 7.2 Life per second
-Adds x to y Cold Damage to Spells and Attacks
-Regenerate 3.5 Life per second
-x% increased Area of Effect
-x% increased Area Damage
-Regenerate 1.4 Life per second
-Regenerate 4.9 Life per second
-Regenerate 1.2 Life per second
-Regenerate 5 Life per second
-Regenerate 8.8 Life per second
-Regenerate 1.1 Life per second
-Regenerate 3.2 Life per second
-Regenerate 4.6 Life per second
-Regenerate 4.7 Life per second
-Regenerate 9.7 Life per second
-Regenerate 5.3 Life per second
-Regenerate 1.3 Life per second
-x% chance to Avoid Elemental Ailments
-Regenerate 3.6 Life per second
-Regenerate 9.1 Life per second
-Socketed Gems are Supported by Level 20 Fortify
-Regenerate 15.7 Life per second
-Regenerate 8.4 Life per second
-Regenerate 6.6 Life per second
-Regenerate 3.3 Life per second
-Regenerate 1.6 Life per second
-Regenerate 1 Life per second
-Regenerate 1.5 Life per second
-Regenerate 9.2 Life per second
-Regenerate 1.1 Life per second
-Regenerate 8.9 Life per second
-Regenerate 7.8 Life per second
-Regenerate 4.6 Life per second
-Regenerate 5.6 Life per second
-Regenerate 4.2 Life per second
-Regenerate 4.1 Life per second
-Socketed Gems are supported by Level 16 Additional Accuracy
-Socketed Gems are supported by Level 16 Faster Projectiles
-Creates a Smoke Cloud on Use
-x% increased Spell Damage while holding a Shield
-+x% to Cold Damage over Time Multiplier
-Grants Level 20 Aspect of the Spider Skill
-x% increased Damage
-+3 Energy Shield gained for each Enemy hit by your Attacks
-x% increased Damage with Axes
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-x% chance to deal Double Damage
-+x% to Fire and Chaos Resistances
-x% chance to deal Double Damage
-Regenerate 9 Life per second
-+x% to Quality
-Regenerate 1.1 Life per second
-Regenerate 1.8 Life per second
-x% reduced Flask Charges gained
-Flasks applied to you have x% increased Effect
-x% increased Damage with Poison
-Regenerate 1.1 Life per second
-x% increased Trap Throwing Speed
-Regenerate 11 Life per second
-Regenerate 11.9 Life per second
-Regenerate 1.7 Life per second
-x% chance to Avoid being Stunned
-Regenerate x% of Life per second
-Regenerate 2.8 Life per second
-Recover x% of Life on Kill
-Creates Chilled Ground on Use
-Regenerate 2 Life per second
-Regenerate 3.5 Life per second
-Adds x to y Physical Damage to Spells while holding a Shield
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into an 
-x% increased Damage
-Recover x% of Mana and Energy Shield when you Focus
-x% increased Poison Duration
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into an 
-Minions deal x% increased Damage
-Auras from your Skills grant x% increased Damage to you and Allies
-Trigger a Socketed Spell when you Use a Skill
-Has 1 Abyssal Socket
-Minions have x% increased maximum Life
-Minions deal x% increased Damage if you've used a Minion Skill Recently
-Minions deal x to y additional Fire Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, colour: null, 
-x% faster start of Energy Shield Recharge
-Gain x% of Physical Damage as Extra Lightning Damage
-Damage Penetrates x% Elemental Resistances
-Gain x% of Non-Chaos Damage as extra Chaos Damage
-Damage Penetrates x% Elemental Resistances
-x% increased Attack and Cast Speed
-x% chance to gain a Frenzy Charge on Kill
-x% of Physical Damage Converted to Lightning Damage
-Gain x% of Non-Chaos Damage as extra Chaos Damage
-Damage Penetrates x% Elemental Resistances
-x% increased Charges used
-Socketed Gems are Supported by Level 20 Concentrated Effect
-Socketed Gems are Supported by Level 20 Minion Damage
-Regenerate 3.8 Life per second
-Minions deal x% increased Damage
-x% increased Area Damage
-+x% to Lightning and Chaos Resistances
-Gain 1 Charge when you are Hit by an Enemy
-Socketed Gems are supported by Level 16 Blind
-x% Global chance to Blind Enemies on hit
-Minions deal x% increased Damage
-Regenerate 2.7 Life per second
-Has 1 Abyssal Socket
-+x% Chance to Block Attack Damage if you were Damaged by a Hit Recently
-Minions have x% chance to Taunt on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, colour: null, descrText: 
++1 second to Summon Skeleton Cooldown
++1 to Level of all Chaos Spell Skill Gems
++1 to Level of all Cold Spell Skill Gems
++1 to Level of all Lightning Spell Skill Gems
 +1 to Level of all Minion Skill Gems
-Minions have x% increased maximum Life
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
-Minions deal x% increased Damage
-Regenerate 1.2 Life per second
-+1 to maximum number of Skeletons
-x% increased Damage per Curse on you
-An additional Curse can be applied to you
-{displayMode: 0, name: "Limited to", values: Array(1)} {corrupted: true, descrText: 
-x% increased Damage with Daggers
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased maximum Life
-Regenerate 1.6 Life per second
-Regenerate x% of Life per second
-Regenerate 1.7 Life per second
-Has 1 Abyssal Socket
-x% chance to Avoid being Shocked
-Adds x to y Cold Damage to Spells while holding a Shield
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Regenerate 0.6 Mana per second
-Adds x to y Lightning Damage to Axe Attacks
-x% chance to gain Onslaught for 4 seconds on Kill
-x% increased Damage if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-Socketed Gems are Supported by Level 18 Faster Casting
-Regenerate 9.3 Life per second
-x% increased Attack and Cast Speed while Focussed
-Socketed Gems are Supported by Level 18 Power Charge On Critical Strike
-x% chance to deal Double Damage while Focussed
-Regenerate 6.9 Mana per second
-Curse Enemies with Level 8 Warlord's Mark on Hit
-Regenerate 2.5 Life per second
-Socketed Gems are Supported by Level 16 Fortify
-+1 to Weapon range
-x% chance to Dodge Spell Hits
-Unaffected by Desecrated Ground
-Regenerate 3.3 Life per second
-x% increased Melee Damage
-Regenerate 1 Life per second
-x% increased Cast Speed with Lightning Skills
-x% increased Freeze Duration on Enemies
-Minions have x% chance to Hinder Enemies on Hit with Spells, with x% reduced Movement Speed
-Socketed Gems are Supported by Level 16 Trap And Mine Damage
-x% increased Trap Damage
-+x% to Quality
-Regenerate 10.9 Life per second
-Adds x to y Fire Damage to Sword Attacks
-x% increased Attack Speed if you've dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Adds x to y Fire Damage to Mace and Sceptre Attacks
-x% chance to Gain Unholy Might for 4 seconds on Melee Kill
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Has 1 Abyssal Socket
-x% increased Damage
-Adds x to y Fire Damage to Axe Attacks
-x% increased Damage if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, colour: null, 
-Has 1 Abyssal Socket
-Adds x to y Cold Damage to Axe Attacks
-Adds x to y Fire Damage to Axe Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, colour: null, 
-Adds x to y Fire Damage to Axe Attacks
-Damage Penetrates x% Elemental Resistance if you haven't Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-x% of Fire Damage Leeched as Life
-x% increased Area of Effect
-Gain x% of Physical Damage as Extra Fire Damage
-Has 1 Abyssal Socket
-x% increased Attack Speed with Two Handed Melee Weapons
-+x% to Critical Strike Multiplier with Lightning Skills
-Dexterity from Passives in Radius is Transformed to Intelligence
-{displayMode: 0, name: "Radius", type: 26, values: Array(1)} {descrText: "Place into an 
-x% chance to Avoid being Stunned
-Regenerate 1.7 Life per second
-Regenerate 1.3 Life per second
-Regenerate 3.4 Life per second
-Regenerate 4 Life per second
-Regenerate 1.3 Life per second
-Arrows Pierce an additional Target
-Regenerate 2.8 Life per second
-You can apply an additional Curse
-Regenerate 5 Life per second
-Adds x to y Lightning Damage against Shocked Enemies
-Arrows Pierce an additional Target
-Regenerate 10.2 Life per second
-x% chance to gain Onslaught for 4 seconds on Kill
-x% increased Melee Damage
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Regenerate 3.1 Life per second
-Discipline has x% increased Aura Effect
-Regenerate 2.9 Life per second
-Regenerate 1.1 Life per second
-Regenerate 3.4 Life per second
-Regenerate 7.9 Life per second
-Regenerate 2.6 Life per second
-Regenerate 7 Life per second
-Regenerate 5.4 Life per second
-Properties are doubled while in a Breach
-Regenerate 1.2 Life per second
-Regenerate 2.7 Life per second
-Regenerate 2.7 Life per second
-Regenerate 1.6 Life per second
-Properties are doubled while in a Breach
-Regenerate 2.4 Life per second
-Regenerate 3.9 Life per second
-Properties are doubled while in a Breach
-Regenerate 3.9 Life per second
-Regenerate 1.7 Life per second
-Regenerate 9.4 Life per second
-Socketed Gems are supported by Level 16 Blind
-x% Global chance to Blind Enemies on hit
-Has 1 Abyssal Socket
-Arrows Pierce an additional Target
-x% increased Damage with Axes
-x% increased maximum Life
-x% Chance to Block Spell Damage
-x% increased Damage with One Handed Weapons
-+2 to maximum number of Spectres
-x% reduced Mana Cost of Raise Spectre
-Spectres have x% increased Critical Strike Chance
-Spectres have a Base Duration of 20 seconds
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Freeze Duration on Enemies
-Adds x to y Lightning Damage to Axe Attacks
-x% increased Dexterity
-x% increased Intelligence
-Regenerate 3.5 Life per second
-Recover x% of Mana on Kill
-Regenerate 2.8 Life per second
-Shock nearby Enemies for 3 Seconds when you Focus
-x% increased Damage
-x% increased Damage with Axes
-x% increased Damage with One Handed Weapons
-You cannot be Cursed with Silence
-{displayMode: 0, name: "Limited to", values: Array(1)} {corrupted: true, 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {corrupted: true, 
-Regenerate 3.2 Life per second
-Regenerate 12.3 Life per second
-Socketed Gems are Supported by Level 18 Faster Casting
-x% increased Weapon Damage while Dual Wielding
-x% increased Damage with Daggers
-+x% to Melee Critical Strike Multiplier
-x% increased Attack Speed with Staves
-x% increased Totem Life
-x% increased Projectile Damage
-x% increased Attack Speed with Two Handed Melee Weapons
-x% increased Attack Speed with Staves
-x% increased Damage with Axes
-Minions deal x% increased Damage
-Curse Enemies with Level 10 Despair on Hit
-+x% to Chaos Damage over Time Multiplier
-Minions deal x% increased Damage
-Auras from your Skills grant x% increased Damage to you and Allies
-Gain x% of Physical Damage as Extra Chaos Damage
-Minions deal x% increased Damage
-Auras from your Skills grant x% increased Damage to you and Allies
-x% increased maximum Mana
-x% increased Damage with Poison
-x% increased Trap Damage
-x% increased Trap Throwing Speed
-x% increased Attack and Cast Speed
-x% increased Effect of non-Damaging Ailments on Enemies
-x% increased Totem Damage
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-x% increased Mine Throwing Speed
-x% increased Mine Damage
-x% increased maximum Life
-+3 Energy Shield gained for each Enemy hit by your Attacks
-x% increased Freeze Duration on Enemies
-x% increased Attack Speed with Axes
-x% increased Area Damage
-x% increased Damage with One Handed Weapons
-+x% to Chaos Damage over Time Multiplier
-x% increased Damage with Swords
-x% chance to gain an additional Vaal Soul per Enemy Shattered
-{displayMode: 0, name: "Limited to", values: Array(1)} {corrupted: true, 
-Minions deal x% increased Damage
-x% increased Critical Strike Chance with Fire Skills
-Attacks have x% chance to cause Bleeding
-x% increased Damage with Poison
-x% increased Damage with One Handed Weapons
-x% increased Bleeding Duration
-x% increased Attack Speed with Swords
-x% increased Projectile Damage
-x% increased Cast Speed while holding a Shield
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Damage over Time
-Minions have x% increased maximum Life
-x% increased Damage with Wands
-Minions have +x% Chance to Block Attack Damage
-x% increased Critical Strike Chance with Cold Skills
-x% reduced Mana Cost of Skills
-Minions deal x% increased Damage
-Adds x to y Fire Damage to Spells while wielding a Two Handed Weapon
-+x% Chance to Block Spell Damage if you were Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-+x% to Critical Strike Multiplier with Cold Skills
-x% increased maximum Life
-x% increased Attack Speed with Two Handed Melee Weapons
-Totems gain +x% to all Elemental Resistances
-+x% Chance to Block Spell Damage while wielding a Staff
-x% increased Projectile Damage
-x% increased Critical Strike Chance with Fire Skills
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with Maces and Sceptres
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-x% increased Melee Damage
-+x% to Critical Strike Multiplier with Cold Skills
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased Freeze Duration on Enemies
-x% increased Attack Speed with Swords
-With at least 40 Strength in Radius, x% increased
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-x% reduced Mana Cost of Skills
-x% increased Skill Effect Duration
-x% reduced Mana Reserved
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into 
-Adds x to y Cold Damage to Axe Attacks
-Adds x to y Physical Damage to Axe Attacks
-+x% Chance to Block Attack Damage if you were Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Totem Life
-x% increased Shock Duration on Enemies
-x% increased Critical Strike Chance with Elemental Skills
-+x% to Critical Strike Multiplier with Lightning Skills
-x% increased Damage with Claws
-x% increased Critical Strike Chance with Lightning Skills
-With at least 40 Dexterity in Radius, Dual Strike has a x% chance
-With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-x% increased Damage with One Handed Weapons
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased Spell Damage while holding a Shield
-+x% to Cold Damage over Time Multiplier
-Minions deal x to y additional Lightning Damage
-Minions have x% chance to Blind on Hit with Attacks
-Minions deal x% increased Damage against Abyssal Monsters
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Minions have x% chance to Taunt on Hit with Attacks
-Minions deal x to y additional Chaos Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Minions deal x to y additional Physical Damage
-x% increased Movement Speed if you haven't taken Damage Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Minions have x% chance to Blind on Hit with Attacks
-x% increased Attack Speed with Axes
-x% increased Projectile Damage
-x% increased Area Damage
-x% increased Damage with Swords
-x% increased Damage with Ailments
-+x% to Critical Strike Multiplier with Elemental Skills
-x% increased maximum Mana
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-x% increased Damage with One Handed Weapons
-+x% to Critical Strike Multiplier while Dual Wielding
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-Projectiles Pierce an additional Target
-x% increased Projectile Damage
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Critical Strike Chance with Lightning Skills
-x% increased Shock Duration on Enemies
-x% increased Damage with Wands
-With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles
-With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a circle
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-x% increased Projectile Damage
-With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-x% increased Cast Speed with Cold Skills
-+x% to Critical Strike Multiplier with Cold Skills
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Attack Speed with Swords
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Area Damage
-x% increased Damage with One Handed Weapons
-x% increased Cast Speed with Fire Skills
-x% increased Attack Speed while Dual Wielding
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Minions deal x to y additional Lightning Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Critical Strike Chance with One Handed Melee Weapons
-Minions have x% increased maximum Life
-Minions Recover x% of their Life when they Block
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Attack Speed while Dual Wielding
-x% increased Projectile Damage
-x% increased Damage with One Handed Weapons
-x% increased Critical Strike Chance with Fire Skills
-Adds x to y Lightning Damage to Mace and Sceptre Attacks
-x% chance to Avoid being Shocked
-Minions deal x to y additional Chaos Damage
-x% increased Movement Speed if you haven't taken Damage Recently
-+x% to Critical Strike Multiplier with Lightning Skills
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-x% increased Shock Duration on Enemies
-x% increased Mine Throwing Speed
-x% increased Damage with Two Handed Weapons
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Damage with Poison
-Minions have x% increased Movement Speed
-Minions deal x to y additional Physical Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into an 
-x% increased Spell Damage while holding a Shield
-x% increased Damage with One Handed Weapons
-x% increased Freeze Duration on Enemies
-x% increased Area Damage
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-x% increased Attack Damage while holding a Shield
-x% increased Trap Throwing Speed
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-x% increased Trap Damage
-x% chance to Knock Enemies Back on hit
-x% increased Attack Speed while holding a Shield
-x% increased Critical Strike Chance with Lightning Skills
-x% increased Attack and Cast Speed
-x% increased Critical Strike Chance with Fire Skills
-Totems gain +x% to all Elemental Resistances
-x% increased Damage with One Handed Weapons
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Projectile Damage
-With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains x% increased 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-x% increased Effect of your Curses
-Flasks applied to you have x% increased Effect
-x% increased effect of Non-Curse Auras from your Skills
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Spell Damage while wielding a Staff
-x% increased Critical Strike Chance with Lightning Skills
-x% increased Area Damage
-x% increased Attack Speed with One Handed Melee Weapons
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-x% increased Spell Damage while wielding a Staff
-x% increased Attack Speed with Staves
-+x% to Melee Critical Strike Multiplier
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-+x% Chance to Block Attack Damage if you were Damaged by a Hit Recently
-Regenerate 4 Energy Shield per second
-Minions have x% chance to Taunt on Hit with Attacks
-Minions deal x to y additional Fire Damage
-x% increased Damage over Time while Dual Wielding
-Adds x to y Fire Damage to Sword Attacks
-Adds x to y Lightning Damage to Sword Attacks
-x% chance to Gain Unholy Might for 4 seconds on Melee Kill
-x% increased Accuracy Rating if you haven't Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Minions deal x% increased Damage
-With at least 40 Intelligence in Radius, Raised
-With at least 40 Intelligence in Radius, Raised Zombies' Slam
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-With at least 40 Intelligence in Radius, Blight inflicts Withered for 2 seconds
-With at least 40 Intelligence in Radius, Blight has x% increased Hinder Duration
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Damage over Time
-x% increased Attack Speed with Wands
-Totems gain +x% to all Elemental Resistances
-x% increased Spell Damage while wielding a Staff
-x% increased maximum Mana
-x% increased Attack Speed while Dual Wielding
-x% increased Freeze Duration on Enemies
-x% increased Damage over Time while holding a Shield
-Regenerate x% of Life per second while moving
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Cast Speed with Cold Skills
-Minions deal x% increased Damage
-x% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
-{displayMode: 0, name: "Requires <unmet>{3} Socketed Fossils", values: Array(0)} {delve: true, 
-{displayMode: 0, name: "Requires <unmet>{2} Socketed Fossils", values: Array(0)} {delve: true, 
-{displayMode: 0, name: "Requires <unmet>{1} Socketed Fossil", values: Array(0)} {delve: true, 
-{displayMode: 0, name: "Applies to", values: Array(1)} {descrText: "Place in a Resonator to 
-x% increased Damage
-+x% to Quality
-x% increased maximum Life
-Regenerate x% of Life per second
-Adds x to y Cold Damage to Spells while Dual Wielding
-Adds x to y Cold Damage to Spells while wielding a Two Handed Weapon
-x% increased Damage over Time while wielding a Two Handed Weapon
-x% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Socketed Gems are Supported by Level 18 Maim
-x% chance to Maim on Hit
-Arrows Pierce an additional Target
-With 4 Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its 
-{displayMode: 0, name: "Radius", type: 24, values: Array(1)} {descrText: "Place 
-Adds x to y Cold Damage to Claw Attacks
-x% increased Area of Effect
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-Minions deal x% increased Damage
-Trigger a Socketed Spell when you Use a Skill
-x% chance to Avoid being Frozen
-x% increased Damage while Leeching
-x% increased Weapon Damage while Dual Wielding
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
++1 to Level of all Physical Spell Skill Gems
++1 to Level of all Spell Skill Gems
++1 to Level of Socketed Projectile Gems
 +1 to maximum number of Raised Zombies
 +1 to maximum number of Skeletons
-x% chance to Avoid being Poisoned
-Adds x to y Cold Damage to Sword Attacks
-Adds x to y Physical Damage to Sword Attacks
-x% chance to Blind Enemies on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-x% increased Melee Damage
-+x% to Critical Strike Multiplier with Two Handed Melee Weapons
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-Regenerate 7.2 Life per second
-x% chance to Avoid being Shocked
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Grants Level 20 Aspect of the Spider Skill
-x% increased Area of Effect
-x% increased Area Damage
-Socketed Gems are Supported by Level 5 Cast when Damage Taken
-x% increased Attack Speed with Swords
-x% increased maximum Life
-Regenerate 2.7 Life per second
-Skills Cost no Mana while Focussed
-Creates a Smoke Cloud on Use
-x% increased Attack Speed with Axes
-x% increased Area Damage
-x% increased Damage over Time
-x% increased Spell Damage while wielding a Staff
-x% increased maximum Life
-x% increased Projectile Damage
-x% increased Poison Duration
-x% chance to Poison on Hit
-Regenerate 9.1 Life per second
-x% increased Energy Shield Recharge Rate
-x% increased Projectile Damage
-x% increased Damage over Time
-x% increased Spell Damage while holding a Shield
++1 to Melee Weapon and Unarmed Attack range
++1 to Minimum Endurance Charges
++1 to Minimum Frenzy Charges
++1 to Minimum Power Charges
++1 to Weapon range
++12 Life gained for each Enemy hit by your Spells
++125 to Accuracy Rating per 10 Intelligence on Unallocated Passives in Radius
++15 Mana gained when you Block
++2 Energy Shield gained for each Enemy hit by your Attacks
++2 to Level of all Cold Spell Skill Gems
++2 to Level of Socketed Projectile Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
++2 to maximum number of Spectres
++22 Mana gained when you Block
++267 to Armour and Evasion Rating
++3 Energy Shield gained for each Enemy hit by your Attacks
++31 Mana gained when you Block
++39 Mana gained when you Block
++x% Chance to Block Attack Damage if there are at least 5 nearby Enemies
++x% Chance to Block Attack Damage if you were Damaged by a Hit Recently
++x% Chance to Block Attack Damage while Dual Wielding
++x% Chance to Block Attack Damage while holding a Shield
++x% Chance to Block Spell Damage if you were Damaged by a Hit Recently
++x% Chance to Block Spell Damage while Dual Wielding
 +x% Chance to Block Spell Damage while holding a Shield
-x% increased Damage
-x% increased Trap Throwing Speed
-x% increased Melee Damage
-+x% to Critical Strike Multiplier while Dual Wielding
++x% Chance to Block Spell Damage while wielding a Staff
++x% chance to Dodge Attack Hits while Focussed
++x% to Chaos Damage over Time Multiplier
++x% to Cold and Chaos Resistances
++x% to Cold Damage over Time Multiplier
 +x% to Critical Strike Multiplier for Spells
-+x% to Critical Strike Multiplier with Cold Skills
-Minions have x% increased maximum Life
-x% increased Damage over Time
-x% increased Critical Strike Chance with Cold Skills
-x% increased Damage
-x% increased Spell Damage while holding a Shield
-x% increased Critical Strike Chance with Lightning Skills
++x% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
++x% to Critical Strike Multiplier if you've Killed Recently
++x% to Critical Strike Multiplier if you've Shattered an Enemy Recently
++x% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
++x% to Critical Strike Multiplier while Dual Wielding
 +x% to Critical Strike Multiplier with Cold Skills
 +x% to Critical Strike Multiplier with Elemental Skills
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Area Damage
-Gain x% of Lightning Damage as Extra Chaos Damage
-Regenerate 8 Life per second
-x% increased Dexterity
-+15 Mana gained when you Block
-Regenerate 19.9 Life per second
-Regenerate 5 Mana per second
-x% increased maximum Life
-+1 to Minimum Frenzy Charges
-Regenerate 8.4 Life per second
-Regenerate 7.1 Life per second
-x% increased maximum Mana
-Has 1 Abyssal Socket
-x% chance to Ignite
-x% reduced Reflected Physical Damage taken
-Adds x to y Fire Damage against Ignited Enemies
-Regenerate 14.6 Life per second
-Socketed Gems have x% reduced Mana Reservation
-x% chance to Dodge Attack Hits
-Gain an Endurance, Frenzy or Power charge when you Block
-Socketed Gems are Supported by Level 18 Poison
-Socketed Gems are supported by Level 18 Increased Critical Damage
-x% chance to Poison on Hit
-x% reduced Reflected Elemental Damage taken
-Minions deal x% increased Damage
-Minions deal x% increased Damage
-x% increased maximum Life
-x% increased Projectile Attack Damage during any Flask Effect
-x% chance to Avoid Elemental Ailments
-+1 to maximum number of Skeletons
-Regenerate 7.4 Life per second
-Minions deal x% increased Damage
-Regenerate 4 Life per second
-Minions deal x% increased Damage
-+x% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
-Socketed Gems are Supported by Level 20 Innervate
-Regenerate 2.5 Life per second
-Regenerate 5 Mana per second
-x% increased Effect of Shock
-Socketed Gems are Supported by Level 18 Increased Area of Effect
-Regenerate 7.9 Life per second
-x% increased Area of Effect
-Recover x% of Life on Kill
-x% reduced Reflected Physical Damage taken
-Regenerate 10.1 Life per second
-x% increased Melee Damage
-Regenerate 2.9 Life per second
-x% reduced Reflected Physical Damage taken
-Regenerate 1.4 Life per second
-Gain x% of Physical Damage as Extra Lightning Damage
-Regenerate x% of Life per second
-Adds x to y Cold Damage to Spells and Attacks
-17:55:54.920 looty-opt.js:257 Unable to parse typeline unique Legion Sword Piece First Piece of the Arcane {descrText: "This item will transform when correctly 
-x% increased Intelligence
-x% increased Strength
-Regenerate 3.2 Life per second
-Regenerate 5.5 Life per second
-Regenerate 11.8 Life per second
-x% increased Area of Effect
-Regenerate 3.5 Life per second
-Unaffected by Chilled Ground
-Regenerate 1.2 Life per second
-Recover x% of Mana on Kill
-Regenerate 3.6 Life per second
-Socketed Gems are Supported by Level 18 Concentrated Effect
-x% increased maximum Mana
-x% increased Area Damage
-+x% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
-Socketed Gems are Supported by Level 20 Faster Attacks
-Regenerate 12.2 Life per second
-Regenerate x% of Life per second
-+x% to Chaos Damage over Time Multiplier
-Regenerate 11.3 Life per second
-Has 1 Abyssal Socket
-x% chance to Avoid being Stunned
-Regenerate 1.5 Life per second
-Socketed Gems are Supported by Level 22 Blastchain Mine
-x% increased Mine Damage
-Regenerate 14.9 Life per second
-Regenerate 8.7 Life per second
++x% to Critical Strike Multiplier with Fire Skills
++x% to Critical Strike Multiplier with Lightning Skills
++x% to Critical Strike Multiplier with One Handed Melee Weapons
++x% to Critical Strike Multiplier with Two Handed Melee Weapons
++x% to Fire and Chaos Resistances
++x% to Fire Damage over Time Multiplier
++x% to Lightning and Chaos Resistances
++x% to maximum Chance to Block Attack Damage
++x% to maximum Fire Resistance
++x% to Melee Critical Strike Multiplier
++x% to Quality
+-1 Intelligence per 1 Intelligence on Allocated Passives in Radius
+-1 Strength per 1 Strength on Allocated Passives in Radius
+-1 to Maximum Endurance Charges
+-1 to Maximum Frenzy Charges
+-1 to Maximum Power Charges
+Adds x to y Chaos Damage to Spells while Dual Wielding
+Adds x to y Chaos Damage to Spells while holding a Shield
+Adds x to y Chaos Damage to Spells while wielding a Two Handed Weapon
 Adds x to y Cold Damage against Chilled or Frozen Enemies
-Has 1 Abyssal Socket
-Curse Enemies with Level 5 Flammability on Hit
-Regenerate 2.9 Life per second
-Regenerate 1.6 Life per second
-Regenerate 11.4 Life per second
-Regenerate 11.5 Life per second
-+2 to Level of all Cold Spell Skill Gems
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Regenerate 1.4 Life per second
-Regenerate 5.2 Life per second
-Regenerate 5.1 Life per second
-Regenerate 6.9 Life per second
-Regenerate x% of Energy Shield per second
-Regenerate 13.9 Life per second
-Regenerate 5.9 Life per second
-Regenerate 1.6 Life per second
-Regenerate 8.8 Life per second
-x% increased Dexterity
-Regenerate x% of Life per second
-Socketed Gems are Supported by Level 20 Endurance Charge on Melee Stun
-Socketed Gems are Supported by Level 20 Fortify
-+1 to Level of all Chaos Spell Skill Gems
-Minions have x% increased Movement Speed
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-x% chance to Freeze, Shock and Ignite
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
+Adds x to y Cold Damage to Axe Attacks
+Adds x to y Cold Damage to Claw Attacks
+Adds x to y Cold Damage to Dagger Attacks
+Adds x to y Cold Damage to Mace and Sceptre Attacks
+Adds x to y Cold Damage to Spells and Attacks
+Adds x to y Cold Damage to Spells while Dual Wielding
+Adds x to y Cold Damage to Spells while holding a Shield
+Adds x to y Cold Damage to Spells while wielding a Two Handed Weapon
+Adds x to y Cold Damage to Staff Attacks
+Adds x to y Cold Damage to Sword Attacks
+Adds x to y Cold Damage to Wand Attacks
+Adds x to y Fire Attack Damage per Buff on you
+Adds x to y Fire Damage against Ignited Enemies
+Adds x to y Fire Damage to Axe Attacks
+Adds x to y Fire Damage to Dagger Attacks
+Adds x to y Fire Damage to Mace and Sceptre Attacks
+Adds x to y Fire Damage to Spells and Attacks
 Adds x to y Fire Damage to Spells while Dual Wielding
-x% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
-+22 Mana gained when you Block
+Adds x to y Fire Damage to Spells while holding a Shield
+Adds x to y Fire Damage to Spells while wielding a Two Handed Weapon
+Adds x to y Fire Damage to Staff Attacks
+Adds x to y Fire Damage to Sword Attacks
+Adds x to y Fire Damage to Wand Attacks
+Adds x to y Fire Spell Damage per Buff on you
+Adds x to y Lightning Damage against Shocked Enemies
+Adds x to y Lightning Damage to Axe Attacks
+Adds x to y Lightning Damage to Claw Attacks
+Adds x to y Lightning Damage to Dagger Attacks
+Adds x to y Lightning Damage to Mace and Sceptre Attacks
+Adds x to y Lightning Damage to Spells while Dual Wielding
+Adds x to y Lightning Damage to Spells while holding a Shield
+Adds x to y Lightning Damage to Spells while wielding a Two Handed Weapon
+Adds x to y Lightning Damage to Staff Attacks
+Adds x to y Lightning Damage to Sword Attacks
+Adds x to y Lightning Damage to Wand Attacks
+Adds x to y Physical Damage to Axe Attacks
+Adds x to y Physical Damage to Claw Attacks
+Adds x to y Physical Damage to Spells while Dual Wielding
+Adds x to y Physical Damage to Spells while holding a Shield
+Adds x to y Physical Damage to Staff Attacks
+Adds x to y Physical Damage to Sword Attacks
+Adds x to y Physical Damage to Wand Attacks
+An additional Curse can be applied to you
+Arrows Pierce an additional Target
+Attacks have x% chance to cause Bleeding
+Auras from your Skills grant x% increased Damage to you and Allies
+Bathed in the blood of 4612 sacrificed in the name of Xibaqua
+Bathed in the blood of 4688 sacrificed in the name of Xibaqua
+Can have up to 1 additional Trap placed at a time
+Can have up to 3 Crafted Modifiers
+Can roll Minion Modifiers
+Cannot be Blinded
+Cannot roll Caster Modifiers
+Commissioned 143260 coins to commemorate Victario
+Corrupted Blood cannot be inflicted on you
+Creates a Smoke Cloud on Use
 Creates Chilled Ground on Use
 Creates Consecrated Ground on Use
-x% increased Cast Speed while holding a Shield
-x% increased Freeze Duration on Enemies
-x% increased Minion Accuracy Rating
-+x% Chance to Block Spell Damage while holding a Shield
-With at least 40 Strength in Radius, Ground Slam has a x% chance
-With at least 40 Strength in Radius, Ground Slam
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-Dexterity and Intelligence from passives in Radius count towards Strength Melee 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-Adds x to y Lightning Damage to Axe Attacks
-x% chance to Taunt Enemies on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% additional Physical Damage Reduction against Abyssal Monsters
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-x% increased Damage over Time while wielding a Two Handed Weapon
-x% increased Damage
-x% increased Attack Speed with Bows
-Adds x to y Fire Damage to Mace and Sceptre Attacks
-Adds x to y Lightning Damage to Mace and Sceptre Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Attack Damage while holding a Shield
-Totems gain +x% to all Elemental Resistances
-x% increased Cast Speed with Lightning Skills
-x% increased Energy Shield Recharge Rate
-x% increased Movement Speed if you haven't taken Damage Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Minions have x% increased Movement Speed
-Minions deal x to y additional Cold Damage
-Minions deal x to y additional Physical Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-+x% to Critical Strike Multiplier with Elemental Skills
-Minions have +x% to all Elemental Resistances
-x% increased Damage with Wands
-+x% to Cold Damage over Time Multiplier
-x% increased Cast Speed while wielding a Staff
-x% increased Spell Damage while holding a Shield
-Minions deal x to y additional Physical Damage
-Minions have +122 to Accuracy Rating
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Cast Speed if you've dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Damage over Time while wielding a Two Handed Weapon
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-Adds x to y Lightning Damage to Spells while Dual Wielding
-Adds x to y Physical Damage to Spells while Dual Wielding
-+x% to Critical Strike Multiplier if you've Killed Recently
-x% increased Damage if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-+x% to Chaos Damage over Time Multiplier
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Critical Strike Chance with One Handed Melee Weapons
-Totems gain +x% to all Elemental Resistances
-Adds x to y Physical Damage to Claw Attacks
-With at least 40 Strength in Radius, Glacial Hammer deals
-With at least 40 Strength in Radius, x% of Glacial
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-Adds x to y Cold Damage to Spells while wielding a Two Handed Weapon
-x% increased Trap Damage
-Adds x to y Cold Damage to Claw Attacks
-+x% to Cold Damage over Time Multiplier
-x% increased Critical Strike Chance with Fire Skills
-+x% to Critical Strike Multiplier with Fire Skills
-x% chance to Avoid being Shocked
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-+x% to Cold Damage over Time Multiplier
-x% increased Cast Speed while Dual Wielding
-x% increased Cast Speed while Dual Wielding
-x% increased Critical Strike Chance with Lightning Skills
-x% reduced Mana Cost of Skills
-Minions have x% increased Movement Speed
-Regenerate x% of Life per second while moving
-x% increased Attack Damage while holding a Shield
-+x% to Cold Damage over Time Multiplier
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Melee Critical Strike Chance
-x% increased Attack Speed with Maces and Sceptres
-x% increased Shock Duration on Enemies
-Adds x to y Lightning Damage to Spells while holding a Shield
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-x% increased Mine Damage
-+x% to Critical Strike Multiplier with Fire Skills
-Adds x to y Cold Damage to Spells while wielding a Two Handed Weapon
-x% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Minions have x% increased maximum Life
-x% increased Attack and Cast Speed
-x% increased Attack Speed while Dual Wielding
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Trap Throwing Speed
-x% increased Attack Speed if you've dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-+x% to Critical Strike Multiplier for Spells
-x% increased maximum Life
-Adds x to y Chaos Damage to Spells while Dual Wielding
-x% increased Mana Regeneration Rate while moving
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-x% increased Energy Shield Recovery rate
-x% of Physical Damage Converted to Chaos Damage
-x% increased Damage with Poison
-Minions deal x% increased Damage
-Socketed Gems are Supported by Level 18 Increased Area of Effect
-x% increased Area Damage
-Socketed Movement Skills have no Mana Cost
-Socketed Gems are Supported by Level 16 Minion Life
-Minions have x% increased maximum Life
-Socketed Gems are supported by Level 20 Increased Critical Damage
-Regenerate 8.1 Life per second
-x% chance to Avoid Elemental Ailments
-Socketed Gems are supported by Level 18 Multistrike
-x% increased Attack Speed during Flask effect
+Culling Strike
+Curse Enemies with Level 10 Despair on Hit
+Curse Enemies with Level 5 Flammability on Hit
 Curse Enemies with Level 5 Vulnerability on Hit
-x% of Physical Damage Leeched as Life
-x% of Physical Damage Leeched as Life
-Regenerate 2.4 Life per second
-Regenerate 2.1 Life per second
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Minions deal x to y additional Physical Damage
-Minions have x% chance to Blind on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Adds x to y Lightning Damage to Spells while Dual Wielding
-Regenerate 2.2 Life per second
-Regenerate 9.5 Life per second
-Regenerate 6.5 Life per second
-+x% to Quality
-x% faster start of Energy Shield Recharge
-Regenerate 9.4 Life per second
-x% increased Area of Effect
-x% chance to gain a Frenzy Charge on Kill
-Regenerate 6.2 Life per second
-x% increased maximum Life
-Regenerate 5.7 Life per second
-x% increased Global Defences
-Regenerate 3.8 Life per second
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Regenerate 5.7 Mana per second
-Regenerate 2.3 Life per second
-Regenerate 5.6 Life per second
-Regenerate 2 Life per second
-Regenerate 6 Life per second
-x% of Cold Damage from Hits taken as Fire Damage
-With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles
-With at least 40 Strength in Radius, Molten Strike has x% increased Area of Effect
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an allocated 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-x% increased Damage
-+x% to Fire and Chaos Resistances
-+x% to Lightning and Chaos Resistances
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-Minions deal x% increased Damage
-Minions have +x% to all Elemental Resistances
-Can roll Minion Modifiers
-Minions have x% increased Movement Speed
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-{displayMode: 0, name: "Does not apply to", values: Array(1)} {descrText: "Place in a Resonator to 
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-{displayMode: 0, name: "Requires <unmet>{4} Socketed Fossils", values: Array(0)} {delve: true, 
-x% increased maximum Life
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
-Minions have x% increased Movement Speed
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-Regenerate 0.8 Mana per second
-Adds x to y Lightning Damage to Staff Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Minions deal x% increased Damage
-Minions have +127 to Accuracy Rating
-Can roll Minion Modifiers
-Minions have +x% to all Elemental Resistances
-Can roll Minion Modifiers
-Minions have x% increased maximum Life
-Minions deal x% increased Damage
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
-x% increased Damage with Poison
-x% increased Critical Strike Chance against Poisoned Enemies
-+x% to Cold Damage over Time Multiplier
-Minions have x% increased maximum Life
-Minions have x% increased Movement Speed
-Can roll Minion Modifiers
-Can roll Minion Modifiers
-Minions deal x% increased Damage
-+1 to Level of all Spell Skill Gems
-Minions have +508 to Accuracy Rating
-Can roll Minion Modifiers
-Gain an Endurance, Frenzy or Power charge when you Block
-x% chance to Freeze, Shock and Ignite during Flask effect
-Mana Recovery occurs instantly at the end of the Flask effect
-x% of Attack Damage Leeched as Life during Flask effect
-x% increased Cast Speed during Flask effect
-x% of Spell Damage Leeched as Energy Shield during Flask effect
-Regenerate 1.5 Life per second
-Regenerate 3.3 Life per second
-Regenerate 3.5 Life per second
-Regenerate 2.3 Life per second
-x% increased Energy Shield Recharge Rate
-x% increased Area Damage
-x% increased Damage over Time
-With at least 40 Dexterity in Radius, Viper Strike deals x% increased Damage with Hits and 
-With at least 40 Dexterity in Radius, Viper Strike has a x% chance per Poison on Enemy to 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-Regenerate 1.6 Life per second
-Regenerate x% of Life per second while moving
-Regenerate 6.8 Mana per second
-Regenerate 3.2 Life per second
-x% increased maximum Mana
-+1 to Level of all Lightning Spell Skill Gems
-x% reduced Mana Reserved
-Has 1 Abyssal Socket
-Minions deal x% increased Damage
-Regenerate 6 Life per second
-+39 Mana gained when you Block
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Mine Throwing Speed
-Minions have +x% to all Elemental Resistances
-Minions have +x% to Chaos Resistance
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Regenerate 1.4 Life per second
-Regenerate 5.4 Life per second
-Regenerate 3.7 Life per second
-Minions deal x% increased Damage
-Adds x to y Physical Damage to Spells while Dual Wielding
-x% increased Cast Speed if you've dealt a Critical Strike Recently
-x% increased Damage if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Minions deal x% increased Damage
-Gain x% of Physical Damage as Extra Lightning Damage
-Socketed Gems are Supported by Level 10 Item Rarity
-Regenerate 3.5 Life per second
-x% increased Rarity of Items found from Slain Unique Enemies
-x% chance to gain Onslaught for 4 seconds on Kill
-Socketed Gems are Supported by Level 16 Increased Area of Effect
-Socketed Gems are supported by Level 18 Increased Critical Damage
-x% increased Area Damage
-x% chance to gain Onslaught for 4 seconds on Kill
-x% chance to gain Onslaught for 4 seconds on Kill
-x% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
-Gain x% of Physical Damage as Extra Cold Damage
-x% increased Bleeding Duration
-Socketed Gems are Supported by Level 16 Power Charge On Critical Strike
-Unaffected by Desecrated Ground
-+x% Chance to Block Attack Damage if there are at least 5 nearby Enemies
-Regenerate x% of Life per second
-Socketed Gems are Supported by Level 16 Efficacy
-Socketed Gems are Supported by Level 18 Faster Attacks
-Socketed Gems are supported by Level 18 Increased Critical Damage
+Curse Enemies with Level 8 Warlord's Mark on Hit
+Damage Penetrates x% Elemental Resistance if you haven't Killed Recently
 Damage Penetrates x% Elemental Resistances
-x% increased Bleeding Duration
-x% chance to gain Fortify when you Stun an Enemy with Melee Damage
-Socketed Gems are supported by Level 16 Melee Splash
-x% increased Area Damage
-x% Chance to Block Spell Damage
-Regenerate 2.6 Life per second
-Regenerate 4.1 Mana per second
-x% of Physical Damage Converted to Chaos Damage
-Socketed Gems are Supported by Level 18 Maim
-Damage Penetrates x% Elemental Resistances
-x% chance to Maim on Hit
-Grants Level 22 Herald of Thunder Skill
-x% chance to gain an Endurance Charge when you Taunt an Enemy
-Socketed Attacks have +x% to Critical Strike Multiplier
-Socketed Gems are Supported by Level 16 Brutality
-x% increased Critical Strike Chance if you have Killed Recently
-x% increased maximum Mana
-Enemies killed explode dealing x% of their Life as Fire Damage
-x% chance to gain Fortify when you Stun an Enemy with Melee Damage
-Gain x% of Physical Damage as Extra Cold Damage
-Socketed Gems are Supported by Level 18 Cast While Channelling
-Socketed Gems are Supported by Level 16 Increased Area of Effect
-x% increased Area of Effect
-Regenerate 8 Life per second
-Spells have +x% to Critical Strike Chance 
-Projectiles Pierce 2 additional Targets
-Damage Penetrates x% Elemental Resistances
-x% increased Strength
-Regenerate 11.8 Life per second
-+x% to maximum Fire Resistance
-x% chance to Dodge Spell Hits
-+x% to maximum Chance to Block Attack Damage
-Recover x% of Life on Kill
-x% of Physical Damage from Hits taken as Fire Damage
-Socketed Gems are Supported by Level 16 Trap And Mine Damage
-x% increased Mine Damage
-Socketed Gems are Supported by Level 18 Ruthless
-Grants Level 22 Abyssal Cry Skill
-Recover x% of Energy Shield on Kill
-Recover x% of Mana on Kill
-Projectiles Pierce 2 additional Targets
-Gain x% of Physical Damage as Extra Cold Damage
-x% increased Bleeding Duration
-Regenerate x% of Life per second
-x% chance to Dodge Spell Hits
-x% chance to Shock Attackers for 4 seconds on Block
-Socketed Gems are Supported by Level 16 Ancestral Call
-x% increased Area of Effect
-x% chance to deal Double Damage
-x% chance to deal Double Damage
-x% increased Projectile Attack Damage per 200 Accuracy Rating
-x% increased Attack Speed if you've Killed Recently
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
-+x% Chance to Block Attack Damage while Dual Wielding
-x% increased Shock Duration on Enemies
-x% increased Damage with Wands
-x% increased Attack Speed with Daggers
-Minions deal x% increased Damage if you've used a Minion Skill Recently
-x% chance to gain an additional Vaal Soul on Kill
-{displayMode: 0, name: "Limited to", values: Array(1)} {corrupted: true, 
-x% chance to Hinder Enemies on Hit with Spells, with x% reduced Movement Speed
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Minions have +x% to Chaos Resistance
-Minions deal x to y additional Physical Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-x% increased Spell Damage while Dual Wielding
-+x% to Cold Damage over Time Multiplier
-x% increased Mine Throwing Speed
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-x% increased Melee Damage
-x% increased Damage with Two Handed Weapons
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Attack Speed with Axes
-x% increased Mine Throwing Speed
-Adds x to y Physical Damage to Spells while Dual Wielding
-+x% Chance to Block Attack Damage while Dual Wielding
-x% increased Damage over Time
-+x% to Melee Critical Strike Multiplier
-x% increased Damage with Swords
-+x% to Critical Strike Multiplier with Fire Skills
-x% increased Projectile Damage
-x% increased Totem Life
-+x% to Critical Strike Multiplier while Dual Wielding
-Bathed in the blood of 4612 sacrificed in the name of Xibaqua
-Historic
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 26, values: Array(1)} {descrText: "Place into 
-x% increased Accuracy Rating if you haven't Killed Recently
-x% increased Damage if you've Killed Recently
-You cannot be Maimed
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Adds x to y Physical Damage to Axe Attacks
-x% increased Attack Speed if you've dealt a Critical Strike Recently
-x% increased Damage if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-Properties are doubled while in a Breach
-x% increased Movement Speed if you've Killed Recently
-x% chance to Dodge Attack and Spell Hits if you've
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-Has 1 Abyssal Socket
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Melee Critical Strike Chance
-+x% to Critical Strike Multiplier with Fire Skills
-Socketed Gems are Supported by Level 10 Item Rarity
-x% increased Rarity of Items found from Slain Unique Enemies
-x% increased Damage if you've Killed Recently
-Shock nearby Enemies for 2 Seconds when you Focus
-x% increased Critical Strike Chance with Two Handed Melee Weapons
-Commissioned 143260 coins to commemorate Victario
-Historic
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 26, values: Array(1)} {descrText: "Place into 
-Properties are doubled while in a Breach
-Bathed in the blood of 4688 sacrificed in the name of Xibaqua
-x% increased Melee Damage
-+1 to Melee Weapon and Unarmed Attack range
-x% increased Melee Damage
-x% increased maximum Mana
-x% chance to Gain Unholy Might for 4 seconds on Melee Kill
-x% increased Attack Speed with Maces and Sceptres
-x% increased maximum Life
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-x% increased Damage
-x% increased Damage with Axes
-x% increased Area Damage
-Adds x to y Cold Damage to Spells while holding a Shield
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% faster start of Energy Shield Recharge
-x% increased Damage taken while on Full Energy Shield
-x% increased Attack Speed while holding a Shield
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-+1 to Level of all Chaos Spell Skill Gems
-Regenerate 6.9 Life per second
-x% chance to Dodge Spell Hits
-Shock nearby Enemies for 3 Seconds when you Focus
-x% increased Attack Speed while Dual Wielding
-x% reduced Mana Cost of Skills
-Regenerate 5.3 Life per second
-Regenerate 9.1 Life per second
-Regenerate 7.4 Life per second
-Adds x to y Cold Damage to Wand Attacks
 Damage Penetrates x% Fire Resistance
-x% increased Melee Damage
-x% increased Damage with Swords
-Regenerate 7.5 Life per second
-x% chance to gain Onslaught for 4 seconds on Kill
-Socketed Gems are Supported by Level 10 Item Rarity
-x% increased Rarity of Items found from Slain Unique Enemies
+Dexterity and Intelligence from passives in Radius count towards Strength Melee 
+Dexterity from Passives in Radius is Transformed to Intelligence
+Discipline has x% increased Aura Effect
+Enemies killed explode dealing x% of their Life as Fire Damage
+Flasks applied to you have x% increased Effect
+Gain 1 Charge when you are Hit by an Enemy
+Gain 200 Armour per Grand Spectrum
+Gain an Endurance, Frenzy or Power charge when you Block
+Gain x% of Cold Damage as Extra Chaos Damage
+Gain x% of Elemental Damage as Extra Chaos Damage
+Gain x% of Fire Damage as Extra Chaos Damage
+Gain x% of Lightning Damage as Extra Chaos Damage
+Gain x% of Non-Chaos Damage as extra Chaos Damage
 Gain x% of Physical Damage as Extra Chaos Damage
-Gain x% of Physical Damage as Extra Chaos Damage
-x% increased maximum Life
-x% increased maximum Mana
-x% increased Damage over Time
-+x% to Critical Strike Multiplier while Dual Wielding
-Arrows Pierce an additional Target
-x% chance to Avoid being Poisoned
-x% chance to gain Phasing for 4 seconds on Kill
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-x% increased Damage per Power Charge
-x% reduced Mana Cost of Skills
-x% increased Trap Damage
-x% increased Attack Speed with Bows
-Regenerate 5.8 Mana per second
-x% increased Bleeding Duration
-Regenerate x% of Energy Shield per second
-x% of Lightning Damage Leeched as Life
-Regenerate 2 Life per second
-x% increased Spell Damage while holding a Shield
-x% increased Cast Speed while holding a Shield
-Minions have +x% to all Elemental Resistances
-x% increased Area Damage
-x% increased Totem Damage
-Totems gain +x% to all Elemental Resistances
-x% increased Melee Damage
-x% increased Weapon Damage while Dual Wielding
-x% increased Attack Speed with Two Handed Melee Weapons
+Gain x% of Physical Damage as Extra Cold Damage
+Gain x% of Physical Damage as Extra Damage of a random Element
+Gain x% of Physical Damage as Extra Fire Damage
+Gain x% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+Gain x% of Physical Damage as Extra Lightning Damage
+Golem Skills have x% increased Cooldown Recovery Speed
+Golems have +934 to Armour
+Golems have x% increased Attack and Cast Speed
+Golems have x% increased Cooldown Recovery Speed
 Grants Level 20 Aspect of the Cat Skill
-+x% to Critical Strike Multiplier with Cold Skills
-x% increased Minion Accuracy Rating
-x% increased Attack Speed with Swords
-x% increased Attack and Cast Speed
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-+x% to Critical Strike Multiplier with Cold Skills
-+x% to Cold Damage over Time Multiplier
-x% faster start of Energy Shield Recharge
-x% increased maximum Mana
-+x% to Fire Damage over Time Multiplier
-x% increased Attack Speed while Dual Wielding
-Regenerate 8.4 Life per second
-Regenerate 6.1 Life per second
-+1 to Minimum Power Charges
-Regenerate 16.8 Life per second
+Grants Level 20 Aspect of the Spider Skill
+Grants Level 21 Wrath Skill
+Grants Level 22 Abyssal Cry Skill
+Grants Level 22 Anger Skill
+Grants Level 22 Haste Skill
+Grants Level 22 Herald of Thunder Skill
+Grants Level 23 Conductivity Skill
+Has 1 Abyssal Socket
+Hatred has x% increased Aura Effect
+Historic
+Increases and Reductions to Life in Radius are Transformed to apply to Mana at x% of 
+Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage
+Lose x% of Energy Shield on Kill
+Lose x% of Life on Kill
+Mana Recovery occurs instantly at the end of the Flask effect
+Minions deal x to y additional Chaos Damage
+Minions deal x to y additional Cold Damage
+Minions deal x to y additional Fire Damage
+Minions deal x to y additional Lightning Damage
+Minions deal x to y additional Physical Damage
+Minions deal x% increased Damage
+Minions deal x% increased Damage against Abyssal Monsters
+Minions deal x% increased Damage if you've used a Minion Skill Recently
+Minions have +122 to Accuracy Rating
+Minions have +127 to Accuracy Rating
+Minions have +508 to Accuracy Rating
+Minions have +x% Chance to Block Attack Damage
+Minions have +x% to all Elemental Resistances
+Minions have +x% to Chaos Resistance
+Minions have x% chance to Blind on Hit with Attacks
+Minions have x% chance to Hinder Enemies on Hit with Spells, with x% reduced Movement Speed
+Minions have x% chance to Taunt on Hit with Attacks
+Minions have x% increased Area of Effect
+Minions have x% increased Attack and Cast Speed if you or your Minions have Killed Recently
+Minions have x% increased Attack Speed
+Minions have x% increased Cast Speed
+Minions have x% increased maximum Life
+Minions have x% increased Movement Speed
+Minions Leech x% of Damage as Life
+Minions Recover x% of their Life when they Block
+Minions Regenerate x% of Life per second
+Non-Channelling Skills have -9 to Total Mana Cost
+Pride has x% increased Aura Effect
+Primordial
+Projectiles Pierce 2 additional Targets
+Projectiles Pierce an additional Target
+Properties are doubled while in a Breach
+Recover x% of Energy Shield on Kill
+Recover x% of Life on Kill
+Recover x% of Mana and Energy Shield when you Focus
+Recover x% of Mana on Kill
+Regenerate x Life per second
+Regenerate x Mana per second
+Regenerate x Energy Shield per second
+Regenerate x% of Energy Shield per second
 Regenerate x% of Life per second
-x% increased Ignite Duration on Enemies
-x% chance to Ignite
+Regenerate x% of Life per second while moving
+Shock nearby Enemies for 2 Seconds when you Focus
+Shock nearby Enemies for 3 Seconds when you Focus
+Skills Cost no Mana while Focussed
+Socketed Attacks have +x% to Critical Strike Multiplier
+Socketed Gems are Supported by Level 10 Item Rarity
+Socketed Gems are Supported by Level 15 Mana Leech
+Socketed Gems are supported by Level 16 Additional Accuracy
+Socketed Gems are Supported by Level 16 Advanced Traps
+Socketed Gems are Supported by Level 16 Ancestral Call
+Socketed Gems are Supported by Level 16 Arcane Surge
+Socketed Gems are supported by Level 16 Blind
+Socketed Gems are Supported by Level 16 Brutality
+Socketed Gems are Supported by Level 16 Efficacy
+Socketed Gems are Supported by Level 16 Faster Casting
+Socketed Gems are supported by Level 16 Faster Projectiles
+Socketed Gems are Supported by Level 16 Fortify
+Socketed Gems are Supported by Level 16 Increased Area of Effect
+Socketed Gems are Supported by Level 16 Innervate
+Socketed Gems are supported by Level 16 Melee Splash
+Socketed Gems are Supported by Level 16 Minion Life
+Socketed Gems are Supported by Level 16 Poison
+Socketed Gems are Supported by Level 16 Power Charge On Critical Strike
+Socketed Gems are Supported by Level 16 Slower Projectiles
+Socketed Gems are Supported by Level 16 Spell Cascade
+Socketed Gems are Supported by Level 16 Trap And Mine Damage
+Socketed Gems are Supported by Level 16 Volley
+Socketed Gems are Supported by Level 18 Blastchain Mine
+Socketed Gems are Supported by Level 18 Cast While Channelling
+Socketed Gems are Supported by Level 18 Concentrated Effect
+Socketed Gems are Supported by Level 18 Elemental Proliferation
+Socketed Gems are Supported by Level 18 Faster Attacks
+Socketed Gems are Supported by Level 18 Faster Casting
+Socketed Gems are Supported by Level 18 Immolate
+Socketed Gems are Supported by Level 18 Increased Area of Effect
+Socketed Gems are supported by Level 18 Increased Critical Damage
+Socketed Gems are Supported by Level 18 Inspiration
+Socketed Gems are Supported by Level 18 Maim
+Socketed Gems are Supported by Level 18 Minion Damage
+Socketed Gems are supported by Level 18 Multistrike
+Socketed Gems are Supported by Level 18 Poison
+Socketed Gems are Supported by Level 18 Power Charge On Critical Strike
+Socketed Gems are Supported by Level 18 Ruthless
+Socketed Gems are Supported by Level 18 Slower Projectiles
+Socketed Gems are Supported by Level 20 Ballista Totem
+Socketed Gems are Supported by Level 20 Concentrated Effect
+Socketed Gems are Supported by Level 20 Endurance Charge on Melee Stun
+Socketed Gems are Supported by Level 20 Faster Attacks
+Socketed Gems are Supported by Level 20 Fortify
+Socketed Gems are supported by Level 20 Increased Critical Damage
+Socketed Gems are Supported by Level 20 Innervate
+Socketed Gems are Supported by Level 20 Minion Damage
+Socketed Gems are Supported by Level 22 Blastchain Mine
+Socketed Gems are Supported by Level 5 Cast when Damage Taken
+Socketed Gems have x% reduced Mana Reservation
+Socketed Movement Skills have no Mana Cost
+Socketed Spells have +x% to Critical Strike Multiplier
+Spectres have a Base Duration of 20 seconds
+Spectres have x% increased Critical Strike Chance
+Spells have +x% to Critical Strike Chance 
+Summon 4 additional Skeleton Warriors with Summon Skeleton
+Summoned Golems Regenerate x% of their Life per second
+Totems fire 2 additional Projectiles
+Totems gain +x% to all Elemental Resistances
 Traps and Mines deal x to y additional Physical Damage
 Traps and Mines have a x% chance to Poison on Hit
-x% chance to Dodge Attack Hits
-x% chance to Dodge Attack Hits if you have Blocked Recently
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-x% increased Melee Damage
-Regenerate 1.2 Life per second
-Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-With at least 40 Strength in Radius, Heavy Strike has a 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-Gain 200 Armour per Grand Spectrum
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-Golems have x% increased Attack and Cast Speed
-x% increased Effect of Buffs granted by your Golems
-Golems have +934 to Armour
-Primordial
-With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike deal x% less 
-With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike cannot choose 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-Minions have x% increased Area of Effect
-With at least 40 Intelligence in Radius, Raised Spectres have a x% chance to gain Soul 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-Regenerate 12.6 Life per second
-Regenerate 1.4 Life per second
-Adds x to y Fire Damage to Mace and Sceptre Attacks
-x% chance to Taunt Enemies on Hit with Attacks
-x% increased Cast Speed if you've dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-+1 to Level of all Cold Spell Skill Gems
-Gain x% of Physical Damage as Extra Fire Damage
-x% increased Critical Strike Chance if you have Killed Recently
-x% increased maximum Life
-x% increased Totem Life
-x% increased Damage with Poison
-+1 to maximum number of Raised Zombies
-+1 to maximum number of Skeletons
-Regenerate 5 Life per second
-+x% to Chaos Damage over Time Multiplier
-x% increased Attack Speed while Dual Wielding
-Regenerate 7.1 Life per second
-x% chance to Avoid being Shocked
-Minions have x% increased maximum Life
-Minions deal x% increased Damage
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
-Non-Channelling Skills have -9 to Total Mana Cost
-x% increased Attack Speed with Daggers
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-Regenerate 10 Life per second
-Minions deal x% increased Damage if you've used a Minion Skill Recently
-Minions have x% chance to Taunt on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Movement Speed if you've Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased Damage
-x% increased maximum Life
-x% increased Critical Strike Chance with Lightning Skills
-+x% to Critical Strike Multiplier for Spells
-x% increased Damage over Time
-x% increased Critical Strike Chance with Cold Skills
-Minions Leech x% of Damage as Life
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-+x% to Fire Damage over Time Multiplier
-x% increased Cast Speed while Dual Wielding
-Totems gain +x% to all Elemental Resistances
-Grants Level 22 Anger Skill
-+1 to Level of all Cold Spell Skill Gems
-+1 to Level of all Minion Skill Gems
-Gain x% of Fire Damage as Extra Chaos Damage
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-x% increased maximum Life
-x% increased Mine Damage
-x% increased Attack Speed with Axes
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-Regenerate 1.7 Life per second
-+1 to Minimum Power Charges
-Minions deal x% increased Damage
-Regenerate 4.2 Life per second
-+1 to Minimum Frenzy Charges
-+x% to Cold Damage over Time Multiplier
-+x% to Critical Strike Multiplier with Fire Skills
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased maximum Life
-x% chance to Chill Attackers for 4 seconds on Block
-Adds x to y Lightning Damage to Wand Attacks
-Minions deal x% increased Damage if you've used a Minion Skill Recently
-Minions deal x to y additional Cold Damage
-Regenerate 7 Energy Shield per second
-Has 1 Abyssal Socket
-Gain x% of Lightning Damage as Extra Chaos Damage
-Socketed Gems are Supported by Level 18 Immolate
-Socketed Gems are Supported by Level 18 Minion Damage
-Regenerate 2 Life per second
-x% increased Ignite Duration on Enemies
-Minions deal x% increased Damage
-+1 to maximum number of Raised Zombies
-+1 to maximum number of Skeletons
-x% increased Damage
--1 to Maximum Power Charges
-Regenerate 5.4 Life per second
-Regenerate 3.7 Life per second
-Regenerate 1.9 Life per second
-Regenerate 6.1 Life per second
-x% increased Attack Speed with Staves
-Regenerate 9.6 Life per second
-Regenerate 10.6 Life per second
-x% increased maximum Mana
-x% increased Damage with One Handed Weapons
-+x% to Cold and Chaos Resistances
-Regenerate 3.3 Life per second
-x% chance to Avoid being Ignited
-Adds x to y Lightning Damage to Staff Attacks
-Regenerate 6 Energy Shield per second
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-x% increased Mana Regeneration Rate while moving
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Adds x to y Lightning Damage to Spells while holding a Shield
-Adds x to y Physical Damage to Spells while holding a Shield
-+x% Chance to Block Spell Damage if you were Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Regenerate 8.3 Life per second
-Regenerate 2.8 Life per second
-+1 to Level of all Cold Spell Skill Gems
-Gain x% of Cold Damage as Extra Chaos Damage
-x% increased Damage over Time
-x% increased Damage with Bows
-Socketed Gems are supported by Level 16 Faster Projectiles
-x% of Physical Damage Converted to Chaos Damage
-x% increased Damage with Poison
--1 Intelligence per 1 Intelligence on Allocated Passives in Radius
-+125 to Accuracy Rating per 10 Intelligence on Unallocated Passives in Radius
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-x% increased Mine Damage
-x% increased Global Defences
-Gain x% of Physical Damage as Extra Chaos Damage
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Can roll Minion Modifiers
 Trigger a Socketed Spell when you Use a Skill
-Gain x% of Non-Chaos Damage as extra Chaos Damage
-+1 to maximum number of Skeletons
-x% increased maximum Life
-Regenerate 10.9 Life per second
-+1 to Level of all Lightning Spell Skill Gems
-+31 Mana gained when you Block
-Gain x% of Lightning Damage as Extra Chaos Damage
-Can roll Minion Modifiers
-x% chance to Avoid being Poisoned
-Adds x to y Fire Damage to Mace and Sceptre Attacks
-Minions deal x% increased Damage
-Can roll Minion Modifiers
-Adds x to y Lightning Damage to Dagger Attacks
-x% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% chance to gain Phasing for 4 seconds on Kill
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-Minions have x% chance to Taunt on Hit with Attacks
-Regenerate 7 Energy Shield per second
-Minions have x% chance to Blind on Hit with Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-x% chance to Avoid being Poisoned
-Adds x to y Cold Damage to Claw Attacks
-x% chance to Gain Unholy Might for 4 seconds on Melee Kill
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Minions deal x% increased Damage
-x% increased maximum Life
-Regenerate 3.6 Life per second
-x% increased Attack Speed if you've dealt a Critical Strike Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-x% increased maximum Mana
-x% increased Damage with One Handed Weapons
-x% increased Weapon Damage while Dual Wielding
-x% increased Attack Speed with Claws
-x% increased Damage
-x% increased Cast Speed with Fire Skills
-Regenerate 3.7 Life per second
-Regenerate 10.8 Life per second
-x% increased Melee Damage
-x% increased Damage with One Handed Weapons
-x% increased Damage with Swords
-+x% to Critical Strike Multiplier with One Handed Melee Weapons
-+x% to Critical Strike Multiplier if you've Shattered an Enemy Recently
-You have Vaal Pact while Focussed
-x% of Damage Leeched as Life while Focussed
-+2 to Level of Socketed Projectile Gems
-x% of Cold Damage Leeched as Life
-Gain x% of Physical Damage as Extra Lightning Damage
-Has 1 Abyssal Socket
-Adds x to y Chaos Damage to Spells while holding a Shield
-x% increased Damage over Time while holding a Shield
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Socketed Gems are Supported by Level 16 Spell Cascade
-x% increased Area of Effect
-Gain x% of Elemental Damage as Extra Chaos Damage
-Minions have x% increased Movement Speed
-Minions deal x to y additional Cold Damage
-Minions deal x to y additional Lightning Damage
-x% increased Totem Damage
-x% increased Cast Speed with Lightning Skills
-x% increased Damage
-Minions deal x% increased Damage
-Minions have x% increased Attack Speed
-Minions have x% increased Cast Speed
-Minions deal x to y additional Physical Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-Minions deal x to y additional Cold Damage
-Minions deal x to y additional Physical Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-Summon 4 additional Skeleton Warriors with Summon Skeleton
-+1 second to Summon Skeleton Cooldown
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an allocated 
-x% Chance to Trigger Level 18 Summon Spectral Wolf on Kill
-+1 to Level of all Physical Spell Skill Gems
-x% chance to deal Double Damage
-+1 to Level of all Lightning Spell Skill Gems
-x% reduced Totem Damage
-Totems fire 2 additional Projectiles
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-x% increased Totem Damage
-x% increased Cast Speed with Lightning Skills
-x% increased Minion Accuracy Rating
-Minions deal x to y additional Fire Damage
-Minions deal x to y additional Physical Damage
-x% chance to avoid Bleeding
-Socketed Gems are Supported by Level 18 Faster Casting
-x% chance to Avoid interruption from Stuns while Casting
-+x% to Cold Damage over Time Multiplier
-Regenerate 6.7 Life per second
-Damage Penetrates x% Elemental Resistance if you haven't Killed Recently
-x% increased Area Damage
-Regenerate 8.7 Life per second
-Gain x% of Physical Damage as Extra Chaos Damage
-Regenerate 1.1 Life per second
-Regenerate 6.6 Life per second
-x% increased Damage with Axes
-+x% to Critical Strike Multiplier while Dual Wielding
-x% increased Attack Speed with One Handed Melee Weapons
-x% increased Attack Speed with Swords
-x% increased Weapon Damage while Dual Wielding
-+x% to Critical Strike Multiplier while Dual Wielding
-Regenerate 6.4 Mana per second
-x% increased Damage
-x% increased Cast Speed with Lightning Skills
-x% faster start of Energy Shield Recharge
-x% increased Mine Damage
-x% increased maximum Life
-Regenerate 8.2 Life per second
-Socketed Gems are Supported by Level 16 Brutality
-x% chance to Blind Enemies on Hit with Attacks
-Regenerate 9.2 Life per second
--1 Strength per 1 Strength on Allocated Passives in Radius
-+x% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-x% increased Projectile Damage
-x% increased Area Damage
-x% increased Attack Speed with Axes
-x% increased Area Damage
-+1 to Minimum Endurance Charges
-x% increased Spell Damage while holding a Shield
-+x% to Cold Damage over Time Multiplier
-x% faster start of Energy Shield Recharge
-Arrows Pierce an additional Target
-x% chance to Avoid being Ignited
-Adds x to y Cold Damage to Dagger Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-x% increased Melee Damage
-x% increased maximum Mana
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-x% additional Physical Damage Reduction against Abyssal Monsters
-Socketed Gems are Supported by Level 20 Fortify
-x% chance to Blind Enemies on Hit with Attacks
-x% increased Damage
-x% increased Attack Speed while holding a Shield
-x% increased Mine Throwing Speed
+Unaffected by Burning Ground
+Unaffected by Chilled Ground
+Unaffected by Desecrated Ground
+With 4 Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its 
+With 40 Intelligence in Radius, Glacial Cascade has an additional Burst
+With 40 Intelligence in Radius, x% of Glacial Cascade Physical Damage
+With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike cannot choose 
+With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike deal x% less 
+With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles 
+With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage
+With at least 40 Dexterity in Radius, Dual Strike has a x% chance
+With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains x% increased 
+With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles
+With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a circle
+With at least 40 Dexterity in Radius, Frost Blades has x% increased Projectile Speed
+With at least 40 Dexterity in Radius, Ice Shot has x% increased Area of Effect
+With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets
+With at least 40 Dexterity in Radius, Melee Damage
+With at least 40 Dexterity in Radius, Viper Strike deals x% increased Damage with Hits and 
+With at least 40 Dexterity in Radius, Viper Strike has a x% chance per Poison on Enemy to 
+With at least 40 Intelligence in Radius, Blight has x% increased Hinder Duration
+With at least 40 Intelligence in Radius, Blight inflicts Withered for 2 seconds
+With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of 
+With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel 
+With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles
+With at least 40 Intelligence in Radius, Frostbolt Projectiles gain x% increased 
+With at least 40 Intelligence in Radius, Raised
+With at least 40 Intelligence in Radius, Raised Spectres have a x% chance to gain Soul 
+With at least 40 Intelligence in Radius, Raised Zombies' Slam
+With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles
+With at least 40 Intelligence in Radius, Spark fires Projectiles in a circle
+With at least 40 Strength in Radius, Cleave grants Fortify on Hit
+With at least 40 Strength in Radius, Cleave has +1 to Radius per Nearby
+With at least 40 Strength in Radius, Glacial Hammer deals
+With at least 40 Strength in Radius, Ground Slam
+With at least 40 Strength in Radius, Ground Slam has a x% chance
+With at least 40 Strength in Radius, Heavy Strike has a 
+With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles
+With at least 40 Strength in Radius, Molten Strike has x% increased Area of Effect
 With at least 40 Strength in Radius, Vigilant Strike
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an allocated 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into an 
-+1 to Level of Socketed Projectile Gems
-Projectiles Pierce an additional Target
-x% chance to Avoid being Stunned
-x% increased Damage with Poison
-Regenerate 6.8 Life per second
-Regenerate 6.9 Life per second
-x% increased maximum Mana
-Projectiles Pierce 2 additional Targets
-x% of Lightning Damage from Hits taken as Cold Damage
-x% increased maximum Life
-x% chance to gain an Endurance Charge on Kill
-Totems gain +x% to all Elemental Resistances
-x% increased Cast Speed with Cold Skills
-x% increased Attack Speed while Dual Wielding
-x% increased Freeze Duration on Enemies
-+x% to Cold Damage over Time Multiplier
-x% increased Spell Damage while wielding a Staff
-x% increased Energy Shield Recharge Rate
-Has 1 Abyssal Socket
-Regenerate 7.6 Life per second
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 26, values: Array(1)} {descrText: "Place into an 
-x% increased Damage with Poison
-Regenerate 7.9 Life per second
-Regenerate 12.8 Life per second
-Regenerate 10.8 Life per second
-Has 1 Abyssal Socket
-x% increased Totem Damage
-+x% to Cold Damage over Time Multiplier
-x% increased Attack Speed with Bows
-x% increased Shock Duration on Enemies
-Regenerate 8.3 Life per second
-Hatred has x% increased Aura Effect
-Regenerate x% of Life per second
-Shock nearby Enemies for 3 Seconds when you Focus
-Regenerate 6.2 Life per second
-Regenerate 8.2 Life per second
-Regenerate 3.1 Life per second
-Regenerate 14.9 Life per second
-Regenerate 11 Life per second
-Regenerate 1.5 Life per second
-x% increased Attack and Cast Speed
-Regenerate 2.6 Life per second
-Regenerate 6.8 Life per second
-Regenerate 9.2 Life per second
-Regenerate 2.2 Life per second
-Regenerate 1.5 Life per second
-Regenerate 2.9 Life per second
-Regenerate 11.6 Life per second
-Regenerate 8.5 Life per second
-Regenerate 1.6 Life per second
-Regenerate 10.4 Life per second
-Regenerate 3.8 Life per second
-Regenerate 3.8 Life per second
-+1 to maximum number of Raised Zombies
-Damage Penetrates x% Elemental Resistances
-Properties are doubled while in a Breach
-Regenerate 3.7 Life per second
-x% of Damage taken gained as Mana over 4 seconds when Hit
-Regenerate 11.2 Life per second
-Regenerate 5.6 Life per second
-+x% to Cold and Chaos Resistances
-Regenerate 11.3 Life per second
-Regenerate 2.4 Life per second
-Regenerate 12.6 Life per second
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Properties are doubled while in a Breach
-Regenerate 6.1 Life per second
-Properties are doubled while in a Breach
-Regenerate 9 Life per second
-+x% to Lightning and Chaos Resistances
-Regenerate 6.1 Life per second
-Regenerate 5.2 Life per second
-x% of Damage taken gained as Mana over 4 seconds when Hit
-Regenerate 3.6 Life per second
-Regenerate 2.3 Life per second
-Regenerate 3.2 Life per second
-Regenerate 3.8 Life per second
-Regenerate x% of Energy Shield per second
-Regenerate 9 Life per second
-Regenerate 2.5 Life per second
-Regenerate 11.9 Life per second
-Regenerate 2.4 Life per second
-Regenerate 11.2 Life per second
-x% reduced Flask Charges gained
-Flasks applied to you have x% increased Effect
-Regenerate 3.2 Life per second
-Regenerate 1.5 Life per second
-Regenerate 10.5 Life per second
-x% chance for Flasks you use to not consume Charges
-Regenerate 2.5 Life per second
-Regenerate 2.5 Life per second
-Skills Cost no Mana while Focussed
-Regenerate 12.6 Life per second
-Gain x% of Physical Damage as Extra Damage of a random Element
-Regenerate 2.9 Life per second
-+x% to Cold and Chaos Resistances
-Regenerate 3.8 Life per second
-Pride has x% increased Aura Effect
-Regenerate 10.5 Life per second
-Adds x to y Chaos Damage to Spells while Dual Wielding
-+2 Energy Shield gained for each Enemy hit by your Attacks
-Adds x to y Lightning Damage to Claw Attacks
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-Regenerate 5.2 Life per second
-Has 1 Abyssal Socket
-x% increased Damage per x% Chance to Block Attack Damage
-+267 to Armour and Evasion Rating
-Regenerate 3.6 Life per second
-Gain x% of Non-Chaos Damage as extra Chaos Damage
-x% increased maximum Life
-Damage Penetrates x% Elemental Resistance if you haven't Killed Recently
-+x% to Critical Strike Multiplier with Cold Skills
-+x% to Critical Strike Multiplier with Lightning Skills
-Attacks have x% chance to cause Bleeding
-x% increased Bleeding Duration
-Regenerate 1.9 Mana per second
-+3 Energy Shield gained for each Enemy hit by your Attacks
-x% increased Attack Speed if you've dealt a Critical Strike Recently
-x% increased Attack Speed while Dual Wielding
-x% increased Damage over Time
-x% increased Damage with Staves
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Area Damage
-x% increased maximum Life
-x% increased Damage with Wands
-x% increased Accuracy Rating if you haven't Killed Recently
-x% increased Effect of Chill
-Minions deal x to y additional Lightning Damage
-Minions have x% increased maximum Life
-x% increased Damage over Time
-x% increased Attack Speed with Bows
-Minions have x% increased Attack and Cast Speed if you or your Minions have Killed Recently
-Adds x to y Lightning Damage to Sword Attacks
+With at least 40 Strength in Radius, x% increased
+With at least 40 Strength in Radius, x% of Glacial
+x% additional Physical Damage Reduction
+x% additional Physical Damage Reduction against Abyssal Monsters
 x% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
+x% chance for Flasks you use to not consume Charges
+x% Chance for Traps to Trigger an additional time
 x% chance to Avoid being Chilled
 x% chance to Avoid being Frozen
-Adds x to y Cold Damage to Axe Attacks
-Adds x to y Lightning Damage to Axe Attacks
-x% increased Movement Speed if you haven't taken Damage Recently
-x% increased Totem Damage
-x% increased Attack Speed with Axes
-x% increased Damage with Staves
-x% increased Trap Damage
-x% increased Spell Damage while wielding a Staff
-+x% Chance to Block Spell Damage while holding a Shield
-x% increased Damage
-+x% Chance to Block Spell Damage while Dual Wielding
-x% increased Mine Damage
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with Maces and Sceptres
-x% increased Damage with Poison
-x% increased Movement Speed if you've Killed Recently
-Regenerate 10 Energy Shield per second
+x% chance to Avoid being Ignited
 x% chance to Avoid being Poisoned
-Minions deal x to y additional Cold Damage
-x% increased Cast Speed if a Minion has been Killed Recently
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-+x% Chance to Block Attack Damage while holding a Shield
-x% increased Damage
-Totems gain +x% to all Elemental Resistances
-Regenerate 6 Energy Shield per second
-Adds x to y Fire Damage to Spells while holding a Shield
-Regenerate 1.5 Mana per second
 x% chance to Avoid being Shocked
-Minions deal x to y additional Lightning Damage
-Adds x to y Lightning Damage to Spells while wielding a Two Handed Weapon
-x% increased Trap Throwing Speed
-+x% Chance to Block Attack Damage while Dual Wielding
-x% increased Damage with Axes
-x% reduced Mana Cost of Skills
-x% increased Attack Speed with Swords
-x% increased Damage with Maces and Sceptres
-x% increased Attack Speed while holding a Shield
-x% increased Freeze Duration on Enemies
-+2 Energy Shield gained for each Enemy hit by your Attacks
-Minions deal x% increased Damage
-x% increased Damage with Swords
-x% increased Attack Speed with Two Handed Melee Weapons
+x% chance to Avoid being Stunned
+x% chance to avoid Bleeding
+x% chance to Avoid Elemental Ailments
+x% chance to Avoid interruption from Stuns while Casting
+x% chance to avoid Projectiles
+x% chance to Blind Enemies on Hit with Attacks
+x% Chance to Block Spell Damage
+x% chance to Chill Attackers for 4 seconds on Block
+x% chance to deal Double Damage
+x% chance to deal Double Damage while Focussed
+x% chance to Dodge Attack and Spell Hits if you've
+x% chance to Dodge Attack Hits
+x% chance to Dodge Attack Hits if you have Blocked Recently
+x% chance to Dodge Spell Hits
+x% chance to Freeze, Shock and Ignite
+x% chance to Freeze, Shock and Ignite during Flask effect
+x% chance to gain a Frenzy Charge on Kill
+x% chance to gain a Power Charge when you Block
+x% chance to gain an additional Vaal Soul on Kill
+x% chance to gain an additional Vaal Soul per Enemy Shattered
+x% chance to gain an Endurance Charge on Kill
+x% chance to gain an Endurance Charge when you Taunt an Enemy
+x% chance to gain Fortify when you Stun an Enemy with Melee Damage
+x% chance to gain Onslaught for 4 seconds on Kill
+x% chance to gain Phasing for 4 seconds on Kill
+x% chance to Gain Unholy Might for 4 seconds on Melee Kill
+x% chance to Hinder Enemies on Hit with Spells, with x% reduced Movement Speed
+x% chance to Ignite
+x% chance to Knock Enemies Back on hit
+x% chance to Maim on Hit
+x% chance to Poison on Hit
+x% chance to Shock Attackers for 4 seconds on Block
+x% chance to Taunt Enemies on Hit with Attacks
+x% Chance to Trigger Level 18 Summon Spectral Wolf on Kill
+x% faster start of Energy Shield Recharge
+x% Global chance to Blind Enemies on hit
+x% increased Accuracy Rating if you haven't Killed Recently
+x% increased Area Damage
+x% increased Area of Effect
+x% increased Attack and Cast Speed
+x% increased Attack and Cast Speed while Focussed
+x% increased Attack Damage while holding a Shield
+x% increased Attack Speed during Flask effect
+x% increased Attack Speed if you've dealt a Critical Strike Recently
+x% increased Attack Speed if you've Killed Recently
 x% increased Attack Speed while Dual Wielding
+x% increased Attack Speed while holding a Shield
+x% increased Attack Speed with Axes
+x% increased Attack Speed with Bows
+x% increased Attack Speed with Claws
+x% increased Attack Speed with Daggers
+x% increased Attack Speed with Maces and Sceptres
+x% increased Attack Speed with One Handed Melee Weapons
+x% increased Attack Speed with Staves
+x% increased Attack Speed with Swords
+x% increased Attack Speed with Two Handed Melee Weapons
+x% increased Attack Speed with Wands
+x% increased Bleeding Duration
+x% increased Cast Speed during Flask effect
+x% increased Cast Speed if a Minion has been Killed Recently
+x% increased Cast Speed if you've dealt a Critical Strike Recently
+x% increased Cast Speed while Dual Wielding
+x% increased Cast Speed while holding a Shield
+x% increased Cast Speed while wielding a Staff
+x% increased Cast Speed with Cold Skills
+x% increased Cast Speed with Fire Skills
+x% increased Cast Speed with Lightning Skills
+x% increased Charges used
+x% increased Critical Strike Chance against Poisoned Enemies
+x% increased Critical Strike Chance if you have Killed Recently
+x% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+x% increased Critical Strike Chance with Cold Skills
+x% increased Critical Strike Chance with Elemental Skills
+x% increased Critical Strike Chance with Fire Skills
 x% increased Critical Strike Chance with Lightning Skills
-+x% Chance to Block Spell Damage if you were Damaged by a Hit Recently
+x% increased Critical Strike Chance with One Handed Melee Weapons
+x% increased Critical Strike Chance with Two Handed Melee Weapons
+x% increased Damage
+x% increased Damage against Abyssal Monsters
+x% increased Damage if you've Killed Recently
+x% increased Damage over Time
+x% increased Damage over Time while Dual Wielding
+x% increased Damage over Time while holding a Shield
+x% increased Damage over Time while wielding a Two Handed Weapon
+x% increased Damage per Curse on you
+x% increased Damage per Power Charge
+x% increased Damage per x% Chance to Block Attack Damage
+x% increased Damage taken while on Full Energy Shield
+x% increased Damage while Leeching
+x% increased Damage with Ailments
+x% increased Damage with Axes
+x% increased Damage with Bows
+x% increased Damage with Claws
+x% increased Damage with Daggers
+x% increased Damage with Hits against Chilled Enemies
+x% increased Damage with Maces and Sceptres
+x% increased Damage with One Handed Weapons
+x% increased Damage with Poison
+x% increased Damage with Staves
+x% increased Damage with Swords
+x% increased Damage with Two Handed Weapons
+x% increased Damage with Wands
+x% increased Dexterity
+x% increased effect
+x% increased Effect of Buffs granted by your Golems
+x% increased Effect of Chill
+x% increased effect of Non-Curse Auras from your Skills
+x% increased Effect of non-Damaging Ailments on Enemies
+x% increased Effect of Shock
+x% increased Effect of your Curses
+x% increased Energy Shield Recharge Rate
+x% increased Energy Shield Recovery rate
+x% increased Evasion Rating while moving
+x% increased Freeze Duration on Enemies
+x% increased Global Defences
+x% increased Golem Damage for each Type of Golem you have Summoned
+x% increased Ignite Duration on Enemies
+x% increased Intelligence
+x% increased Mana Regeneration Rate while moving
+x% increased maximum Life
+x% increased maximum Mana
+x% increased Melee Critical Strike Chance
 x% increased Melee Damage
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: true, 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, corrupted: 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Radius", type: 25, values: Array(1)} {descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Limited to", values: Array(1)} {descrText: "Place into an 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place 
-{displayMode: 0, name: "Abyss", values: Array(0)} {abyssJewel: true, descrText: "Place into 
+x% increased Mine Damage
+x% increased Mine Throwing Speed
+x% increased Minion Accuracy Rating
+x% increased Movement Speed if you haven't taken Damage Recently
+x% increased Movement Speed if you've Killed Recently
+x% increased Poison Duration
+x% increased Projectile Attack Damage
+x% increased Projectile Attack Damage during any Flask Effect
+x% increased Projectile Attack Damage per 200 Accuracy Rating
+x% increased Projectile Damage
+x% increased Rarity of Items Dropped by Slain Rare or Unique Enemies
+x% increased Rarity of Items found from Slain Unique Enemies
+x% increased Shock Duration on Enemies
+x% increased Skill Effect Duration
+x% increased Spell Damage while Dual Wielding
+x% increased Spell Damage while holding a Shield
+x% increased Spell Damage while wielding a Staff
+x% increased Strength
+x% increased Totem Damage
+x% increased Totem Life
+x% increased Trap Damage
+x% increased Trap Throwing Speed
+x% increased Weapon Critical Strike Chance while Dual Wielding
+x% increased Weapon Damage while Dual Wielding
+x% of Attack Damage Leeched as Life during Flask effect
+x% of Cold Damage from Hits taken as Fire Damage
+x% of Cold Damage Leeched as Life
+x% of Damage Leeched as Life while Focussed
+x% of Damage taken gained as Mana over 4 seconds when Hit
+x% of Fire Damage Leeched as Life
+x% of Lightning Damage from Hits taken as Cold Damage
+x% of Lightning Damage Leeched as Life
+x% of Physical Damage Converted to Chaos Damage
+x% of Physical Damage Converted to Fire Damage
+x% of Physical Damage Converted to Lightning Damage
+x% of Physical Damage from Hits taken as Fire Damage
+x% of Physical Damage Leeched as Life
+x% of Spell Damage Leeched as Energy Shield during Flask effect
+x% reduced Duration
+x% reduced Flask Charges gained
+x% reduced Mana Cost of Raise Spectre
+x% reduced Mana Cost of Skills
+x% reduced Mana Reserved
+x% reduced Reflected Elemental Damage taken
+x% reduced Reflected Physical Damage taken
+x% reduced Spark Duration
+x% reduced Totem Damage
+x% reduced Trap Duration
+You can apply an additional Curse
+You cannot be Cursed with Silence
+You cannot be Maimed
+You have Vaal Pact while Focussed
