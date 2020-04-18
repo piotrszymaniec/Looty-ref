@@ -1,4 +1,8 @@
-
+## AffixParsers Examples - which use when
+| Affix text  | Affix parser  |
+| ------------- | ------------- |
+| "Instant Recovery"  | simple0  |
+| "+20 to Maximum Charges"  | simple1  |
 
 ## Adding new Affixes
 
