@@ -6,6 +6,21 @@ to have all in one place remotely available
 [Developer Notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) - How-to, and intrinsics of Looty programming  
 [Looty files structure, with short annotations, for fast devs. introduction and general overview](https://github.com/Traf27/Looty-ref/blob/master/looty-scala-files-structure.md)
 
+### Other .md files
+1. [Redesign](https://github.com/Traf27/Looty-ref/blob/master/Redesign.md) ideas, todos, wips
+1. [Developer notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) some usefull coding advices
+1. [How To create json data](https://github.com/Traf27/Looty-ref/blob/master/howto-item-sample.md) for loading to looty for testing purposes  
+1. [Ideas](https://github.com/Traf27/Looty-ref/blob/master/ideas.md)  
+1. [Issues](https://github.com/Traf27/Looty-ref/blob/master/issues.md) I have with coding recently  
+
+- [notes for tutorial](https://github.com/Traf27/Looty-ref/blob/master/wip/tutorial.md)
+
+#### self note
+#### ----> sort and rename files <----
+#### ----> create clean and easy to read <----
+#### ----> document <----
+i wish ....
+
 
 ### To Read
 
