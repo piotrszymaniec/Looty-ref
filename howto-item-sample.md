@@ -1,4 +1,4 @@
-# How to prepare your own sample-item.json file
+# How to prepare your own sample-items.json file for Looty with PoeCacherDemo cacher
 API requests tool   
 https://app.swaggerhub.com/apis-docs/Chuanhsing/poe/1.0.0#/
 ## Steps
