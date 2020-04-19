@@ -2,19 +2,19 @@
 API requests tool   
 https://app.swaggerhub.com/apis-docs/Chuanhsing/poe/1.0.0#/
 ### Steps
-Make new file .json  
+1. Make new file .json  
 ```json
 {
 }
 ```
-Get request results from api
+ Get request results from api
 
  /character-window/get-stash-items - repeat for every tab you wish
 ```
 curl -X GET "https://www.pathofexile.com/character-window/get-stash-items?league=LEAGUE_NAME&realm=pc&accountName=ACCOUNTNAME&tabs=1&tabIndex=TAB_INDEX" -H "accept: */*" -H "Cookie: POESESSID=YOUR_POESSID"
 ```
 
-Create key in your json called "UnknownAccount!-LEAGUE_NAME-TAB_INDEX-stis"
+2. Create key in your json called "UnknownAccount!-LEAGUE_NAME-TAB_INDEX-stis"
 and insert into file, with result from previous step as its value. Like that:
 
 ```json
@@ -48,7 +48,7 @@ You only need to make request with tabs=1 once, to get "tabs" array of stash tab
 curl -X GET "https://www.pathofexile.com/character-window/get-items?accountName=ACCOUNTNAME&character=YOUR_CHARACTER" -H "accept: application/json" -H "Cookie: POESESSID=YOUR_POESSID"
 ```  
 
-Create key in your json called "UnknownAccount!-YOUR_CHARACTER-inventory"
+3. Create key in your json called "UnknownAccount!-YOUR_CHARACTER-inventory"
 and insert into file, with result from previous step as its value. Like that:
 ```json
 {
@@ -71,7 +71,7 @@ Lastly we will add list of our characters from
 curl -X GET "https://www.pathofexile.com/character-window/get-characters?accountName=ACCOUNTNAME" -H "accept: */*"
 ```
 
-So ... Create key in your json called "UnknownAccount!-characters"
+4. So ... Create key in your json called "UnknownAccount!-characters"
 and insert into file, with result from previous step as its value. Like that or ... sort of :)
 ```json
 {
