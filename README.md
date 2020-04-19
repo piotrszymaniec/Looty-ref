@@ -27,7 +27,7 @@ i wish ....
 1. [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
 1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
 1. https://github.com/chicagoscala/beginning-exercises tutorial project from the ground up
-- [ ] read how looty caches data and rules of refreshing content[]()
+- [x] read how looty caches data and rules of refreshing content[]()
 - [ ] read how columns are made, ~~what makes column width not resizable~~ (bug introduced with 2.1.73 jquery upgrade). And how you can add html tags to value, for experiance progress tag
 
 ---
