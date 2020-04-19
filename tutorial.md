@@ -1,4 +1,10 @@
 # Tutorial 
+## puting items in and out of stash tab has to be followed by manual refresh of tab you get it from, thats annoying but GGG has not given ability to track which tabs had their contents changed.
+You can do that by:
+- after you take item out of stash -> shift+click on this items row in data grid, 
+- go into refres tabs panel/ select it and hit refresh
+The changes will be visible after you change your location once? -> only after that content of your
+
 ## Advanced column filtering
 Looty's column filter boxes work with **regural expresions**. (Except text is not case sensitive like in standard reg. expr. So 'WeApon' and 'weapon' will show 'Weapon' results)
 

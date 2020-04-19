@@ -1,4 +1,8 @@
-
+## AffixParsers Examples - which use when
+| Affix text  | Affix parser  |
+| ------------- | ------------- |
+| "Instant Recovery"  | simple0  |
+| "+20 to Maximum Charges"  | simple1  |
 
 ## Adding new Affixes
 
@@ -6,8 +10,8 @@
   
 1. **/model/parsers/[AffixesParser.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/parsers/AffixesParser.scala)** - recognising property by parser, as this which increases, decreses, adds to another property (for example "x to all attributes", means it neads to be added to str, dex and int), and other.
 1. **/model/[ComputedItem.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/ComputedItem.scala)** - adding affix as some variable to designed section/type.
-1. **/model/[ComputedItemProps.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/ComputedItemProps.scala)** - front end interface - how affix will be named as choosable option in Select Column Panel, and to what group of mods it will be assigned
-1. **/mods/[ProperItem.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/mods/ProperItem.scala)** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
+1. **/model/[ComputedItemProps.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/model/ComputedItemProps.scala)** - front end interface - how affix will be named as choosable option in Select Columns Panel, and to what group of mods it will be assigned
+1.(only for csv export) **/mods/[ProperItem.scala](https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/mods/ProperItem.scala)** - affix named in ComputedItemProps.scala  for example val = movementSpeed is filled with value parsed from JSON with val movementSpeed = p1()
 
 ### Example - adding property   % increased maximum life
 
