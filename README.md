@@ -22,8 +22,9 @@ to have all in one place remotely available
 i wish ....
 
 
-### To Read
+### usefull resources
 
+1. [https://github.com/5k-mirrors/misc-poe-tools/blob/master/doc/poe-ninja-api.md] PoE Ninja How-to
 1. [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
 1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
 1. https://github.com/chicagoscala/beginning-exercises tutorial project from the ground up
