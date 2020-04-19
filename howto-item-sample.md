@@ -1,4 +1,4 @@
-### How to prepare your own sample-item file
+# How to prepare your own sample-item.json file
 API requests tool   
 https://app.swaggerhub.com/apis-docs/Chuanhsing/poe/1.0.0#/
 ## Steps
@@ -14,7 +14,7 @@ https://app.swaggerhub.com/apis-docs/Chuanhsing/poe/1.0.0#/
 curl -X GET "https://www.pathofexile.com/character-window/get-stash-items?league=LEAGUE_NAME&realm=pc&accountName=ACCOUNTNAME&tabs=1&tabIndex=TAB_INDEX" -H "accept: */*" -H "Cookie: POESESSID=YOUR_POESSID"
 ```
 
-### 2. Create key in your json called "UnknownAccount!-LEAGUE_NAME-TAB_INDEX-stis" and insert into file, with result from previous step as its value. Like that:
+### 2. Create key in your json called `"UnknownAccount!-LEAGUE_NAME-TAB_INDEX-stis"` and insert into file, with result from previous step as its value. Like that:
 
 ```json
 {
