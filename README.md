@@ -23,12 +23,10 @@ i wish ....
 
 
 ### usefull resources
-https://github.com/Traf27/misc-poe-tools/blob/master/doc/poe-ninja-api.md
-1. [PoE Ninja API How-to](https://github.com/5k-mirrors/misc-poe-tools/blob/master/doc/poe-ninja-api.md) 
-- [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight) [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
+
+1. [PoE Ninja API How-to](https://github.com/Traf27/misc-poe-tools/blob/master/doc/poe-ninja-api.md) 
 1. [SlickGrid](https://github.com/mleibman/SlickGrid/wiki) Wiki - grid used in Looty
 1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction tut to scala
-- [x] read how looty caches data and rules of refreshing content[]()
 - [ ] read how columns are made, ~~what makes column width not resizable~~ (bug introduced with 2.1.73 jquery upgrade). And how you can add html tags to value, for experiance progress tag
 
 #### Programming
@@ -38,6 +36,7 @@ https://github.com/Traf27/misc-poe-tools/blob/master/doc/poe-ninja-api.md
 ---
 ### TODO  
 #### Code:
+- [ ] add chaos equivalent price to your owned currency  [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
  - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
  ```
   localStorage.setItem("PINNED", {
@@ -73,6 +72,7 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
   ... //what and where
  }
  ```
+ - [x] read how looty caches data and rules of refreshing content
  - [ ] add clickable row, to lit it
  - [ ] add last caching time
  - [ ] add progress of retrieving stashes example: 5 of 25
