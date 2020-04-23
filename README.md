@@ -6,18 +6,37 @@ to have all in one place remotely available
 [Developer Notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) - How-to, and intrinsics of Looty programming  
 [Looty files structure, with short annotations, for fast devs. introduction and general overview](https://github.com/Traf27/Looty-ref/blob/master/looty-scala-files-structure.md)
 
+### Other .md files
+1. [Redesign](https://github.com/Traf27/Looty-ref/blob/master/Redesign.md) ideas, todos, wips
+1. [Developer notes](https://github.com/Traf27/Looty-ref/blob/master/Dev-notes.md) some usefull coding advices
+1. [How To create json data](https://github.com/Traf27/Looty-ref/blob/master/howto-item-sample.md) for loading to looty for testing purposes  
+1. [Ideas](https://github.com/Traf27/Looty-ref/blob/master/ideas.md)  
+1. [Issues](https://github.com/Traf27/Looty-ref/blob/master/issues.md) I have with coding recently  
 
-### To Read
+- [notes for tutorial](https://github.com/Traf27/Looty-ref/blob/master/wip/tutorial.md)
 
-1. [https://github.com/mleibman/SlickGrid/wiki](https://github.com/mleibman/SlickGrid/wiki) - grid used in Looty
-1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction to scala
-1. https://github.com/chicagoscala/beginning-exercises tutorial project from the ground up
-- [ ] read how looty caches data and rules of refreshing content[]()
+#### self note
+#### ----> sort and rename files <----
+#### ----> create clean and easy to read <----
+#### ----> document <----
+i wish ....
+
+
+### usefull resources
+
+1. [PoE Ninja API How-to](https://github.com/Traf27/misc-poe-tools/blob/master/doc/poe-ninja-api.md) 
+1. [SlickGrid](https://github.com/mleibman/SlickGrid/wiki) Wiki - grid used in Looty
+1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction tut to scala
 - [ ] read how columns are made, ~~what makes column width not resizable~~ (bug introduced with 2.1.73 jquery upgrade). And how you can add html tags to value, for experiance progress tag
 
----
+#### Programming
+1. https://github.com/chicagoscala/beginning-exercises scala tutorial project from the ground up
+1. [scala.js beginner tutorial](https://www.scala-js.org/doc/tutorial/basic/)
 
- #### Code:
+---
+### TODO  
+#### Code:
+- [ ] add chaos equivalent price to your owned currency  [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
  - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
  ```
   localStorage.setItem("PINNED", {
@@ -53,6 +72,7 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
   ... //what and where
  }
  ```
+ - [x] read how looty caches data and rules of refreshing content
  - [ ] add clickable row, to lit it
  - [ ] add last caching time
  - [ ] add progress of retrieving stashes example: 5 of 25
@@ -62,7 +82,7 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
  - [ ] add experiance progress bar of gems (?maybe characters too)
  - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
- - [ ] add chaos equivalent price to your owned currency with [poe.ninja data](https://poe.ninja/api/Data/GetCurrencyOverview?league=Blight) [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)
+ 
  - [x] add jewel types for search/filter 
  - [ ] add ~~optional properties~~ influence property : 
  
