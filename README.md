@@ -36,8 +36,22 @@ i wish ....
 ---
 ### TODO  
 #### Code:
-- [ ] add chaos equivalent price to your owned currency  [WealthView.scala ](https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
- - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
+- [x] read how looty caches data and rules of refreshing content
+- [x] add jewel types for search/filter
+- [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
+- [ ] add experiance progress bar of gems (?maybe characters too)
+- [ ] add chaos equivalent price to your owned currency  [WealthView.scala ]
+(https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
+- [ ] add optional properties : 
+* unidentified
+* corrupted
+* veiled (how it is written in json structure)
+* ...
+* ...
+* has implicit ( column or checkbox? )
+* priced? Is there info for items priced individualy about their value?
+
+- [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
  ```
   localStorage.setItem("PINNED", {
   
@@ -55,9 +69,7 @@ I've already wrote code snipett for localStorage volatile data yay! :D
 Orrr I can add library like https://github.com/marcuswestin/store.js
 
  - [ ] check/add using  localStorage extension library/or raw for volatile states to persist through page refresh. With 
- ```
- 
- 
+ ``` 
  window.onbeforeunload ( function() { 
   sessionSettings = ....
   localStorage.setItem(sessionSettings, "....")  
@@ -72,31 +84,16 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
   ... //what and where
  }
  ```
- - [x] read how looty caches data and rules of refreshing content
+ 
  - [ ] add clickable row, to lit it
  - [ ] add last caching time
  - [ ] add progress of retrieving stashes example: 5 of 25
    - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
  - [ ] add possibility to choose watched tabs, and those auto refresh on set timer (options or set value), rest will be refreshed only on hard reset(?) or.... ?how it is done now?
  - [ ] ?upon opening looty again/ when else? we could compare last used character (queries to www.pathofexile.com and scrapping profile char), with actual and refresh char invs of said chars.
- - [ ] add experiance progress bar of gems (?maybe characters too)
  - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
 Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
  
- - [x] add jewel types for search/filter 
- - [ ] add ~~optional properties~~ influence property : 
- 
- 
-* elder
-* shaper
-* unidentified
-* corrupted
-* veiled (how it is written in json structure)
-* crusader
-* ...
-* ...
-* has implicit ( column or checkbox? )
-* priced? Is there info for items priced individualy about their value?
 
 #### How to automatize adding future options, affixes ? What/is the pattern to forsee the structure ("extended" field im looking at you -_-). And how to organise interface to be future features proof space wise :) ?
 
