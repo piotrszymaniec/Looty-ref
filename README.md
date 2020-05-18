@@ -39,6 +39,8 @@ i wish ....
 - [x] read how looty caches data and rules of refreshing content
 - [x] add jewel types for search/filter
 - [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
+- [x] add instructions how to add new affix
+- [x] parse not parsed properties -> added column unparsed with joined affixes
 - [ ] mark item as removed -> remove from cache and slickgrid data - use item id ?
 - [ ] add experiance progress bar of gems (?maybe characters too)
 - [ ] add chaos equivalent price to your owned currency  [WealthView.scala ]
@@ -53,6 +55,14 @@ i wish ....
 * has implicit ( column or checkbox? )
 * priced? Is there info for items priced individualy about their value?
 - [ ] slick grid location column color for searching stash tab faster - cross reference stashtabs info and stash location name
+ - [ ] add clickable row, to lit it
+ - [ ] add last caching time
+ - [ ] add progress of retrieving stashes example: 5 of 25
+   - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
+ - [ ] add possibility to choose watched tabs, and those auto refresh on set timer (options or set value), rest will be refreshed only on hard reset(?) or.... ?how it is done now?
+ - [ ] ?upon opening looty again/ when else? we could compare last used character (queries to www.pathofexile.com and scrapping profile char), with actual and refresh char invs of said chars.
+ - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
+Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
 - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
  ```
   localStorage.setItem("PINNED", {
@@ -87,34 +97,14 @@ Orrr I can add library like https://github.com/marcuswestin/store.js
  }
  ```
  
- - [ ] add clickable row, to lit it
- - [ ] add last caching time
- - [ ] add progress of retrieving stashes example: 5 of 25
-   - [ ] add ETA to retrieve all stash tab data (and characters), using predictive query time of stash tab. There are: special tab, normal tab, quad tab having various number reqests needed to download them with API
- - [ ] add possibility to choose watched tabs, and those auto refresh on set timer (options or set value), rest will be refreshed only on hard reset(?) or.... ?how it is done now?
- - [ ] ?upon opening looty again/ when else? we could compare last used character (queries to www.pathofexile.com and scrapping profile char), with actual and refresh char invs of said chars.
- - [ ] resolve Throttling errors, using limit headers values. Limit is 45 requests per 60s. 
-Solution is to make 44-45 and wait 15sec for next batch. Or what im leaning to more is to do 1 request every 60/45 sec  ~ 1.4sec
- 
 
 #### How to automatize adding future options, affixes ? What/is the pattern to forsee the structure ("extended" field im looking at you -_-). And how to organise interface to be future features proof space wise :) ?
 
-There is error because of this fragment of item json (which is not parsed by Looty yet) :
-```
-{
-...
-  properties: [{
-    displayMode: 0,
-    name: "Abyss"
-  }]
-  ...
-}
-```
   - [ ] Add support for all abyss/jewel mods on rare ver. (because Jewels are awesome!) :O
-   - **instructions how to add new affix** 
+  
   **"Potential"** problems :
   * Where the hell all those mods fit into Select Column panel ?! Now it takes whole screen on my laptop (1280x800). 
- - [ ] parse not parsed properties, for jewels like Range, and put them in collapsed part of pannel by default
+
 
 #### Some maybe-will-useit
 [http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery](Ajax onload onbeforeunload)
