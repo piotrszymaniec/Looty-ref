@@ -43,6 +43,7 @@ i wish ....
 - [ ] add experiance progress bar of gems (?maybe characters too)
 - [ ] add chaos equivalent price to your owned currency  [WealthView.scala ]
 (https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
+- [ ] WealthView - change input to double, instead of integer, to allow currency import from poe.ninja
 - [ ] add optional properties : 
 * unidentified
 * corrupted
