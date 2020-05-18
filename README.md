@@ -39,6 +39,7 @@ i wish ....
 - [x] read how looty caches data and rules of refreshing content
 - [x] add jewel types for search/filter
 - [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
+- [ ] mark item as removed -> remove from cache and slickgrid data - use item id ?
 - [ ] add experiance progress bar of gems (?maybe characters too)
 - [ ] add chaos equivalent price to your owned currency  [WealthView.scala ]
 (https://github.com/benjaminjackman/looty/blob/b8b1c6fb370db9f94c56b9da6e26af521f719b64/looty/src/main/scala/looty/views/WealthView.scala)  
