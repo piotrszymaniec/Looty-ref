@@ -52,7 +52,7 @@ i wish ....
 * ...
 * has implicit ( column or checkbox? )
 * priced? Is there info for items priced individualy about their value?
-
+- [ ] slick grid location column color for searching stash tab faster - cross reference stashtabs info and stash location name
 - [ ] add pinning row on top of grid - maybe use item id with localStorage.setItem like 
  ```
   localStorage.setItem("PINNED", {
