@@ -15,36 +15,36 @@ https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/
 │   ├── Accessible.scala        ?
 │   ├── Attributes.scala        dexterity, itellect, strength calculations helper functions
 │   ├── CharClasses.scala       main character classes, starting attributes and helper listing functions
-│   ├── ComputedItem.scala      
-│   ├── ComputedItemProps.scala
-│   ├── Elements.scala
+│   ├── ComputedItem.scala      fields for affixes 
+│   ├── ComputedItemProps.scala describing columns to be created from properties made in parsers and PoeTypes.scala
+│   ├── Elements.scala          resists and element damage types calculated here
 │   ├── HighScorer.scala
 │   ├── InventoryIds.scala
 │   ├── ItemScorer.scala
-│   ├── LifeAndMana.scala
-│   ├── LootContainerId.scala
-│   ├── PaperDoll.scala
+│   ├── LifeAndMana.scala       stats that have the same wording for mana and life are calculated here
+│   ├── LootContainerId.scala   LootContainer stands for stash tab, and character inventory
+│   ├── PaperDoll.scala         character slots structure, and methods
 │   ├── PassiveSkillTreeHelp.scala
-│   ├── SocketColors.scala
-│   ├── WeaponTypes.scala
+│   ├── SocketColors.scala          sockets scturcture, and methods
+│   ├── WeaponTypes.scala           as name implies 
 │   └── parsers
-│       ├── AffixesParser.scala
+│       ├── AffixesParser.scala     parsers for affixes that are strings, contain numbers, or are of boolean type
 │       ├── ArmourParser.scala
 │       ├── ItemParser.scala
-│       ├── PropertyParsers.scala
+│       ├── PropertyParsers.scala   parser for data in "properties" field of JSON containing various stuff
 │       ├── RequirementsParser.scala
 │       └── SocketsParser.scala
 ├── mods
-│   ├── AffixesParser2.scala
+│   ├── AffixesParser2.scala    parser for exporting to Csv
 │   ├── ModsCsvParser.scala
-│   └── ProperItem.scala
+│   └── ProperItem.scala        file for binding js values to those used in csv export
 ├── poeapi
-│   ├── PoeCacher.scala
-│   ├── PoeCacherChrome.scala
-│   ├── PoeCacherDemo.scala
+│   ├── PoeCacher.scala         base class for caching downloaded data for further reuse
+│   ├── PoeCacherChrome.scala   class that cache data downloaded from ggg servers
+│   ├── PoeCacherDemo.scala     class that can read data from stored sample-items.json file in data directory
 │   ├── PoeCacherExileTools.scala
-│   ├── PoeRpcs.scala
-│   └── PoeTypes.scala
+│   ├── PoeRpcs.scala           handling http requests
+│   └── PoeTypes.scala          here are described all supported Item properties got from JSON
 ├── script
 │   └── LootScorerScriptParser.scala
 ├── templates
@@ -60,17 +60,17 @@ https://github.com/Traf27/looty/blob/master/looty/src/main/scala/looty/
 │   ├── HomeView.scala
 │   ├── ItemDetailHover.scala
 │   ├── LoadSavePane.scala
-│   ├── LootView.scala
+│   ├── LootView.scala      page with grid 
 │   ├── LootViewSaver.scala
 │   ├── MapsView.scala
-│   ├── PoeBuilderView.scala
-│   ├── RefreshPane.scala
+│   ├── PoeBuilderView.scala       redirection to pathofexile.com/ poeskilltree
+│   ├── RefreshPane.scala       panel for refreshing tabs data
 │   ├── ScriptView.scala
 │   ├── SettingsView.scala
 │   ├── UnderlayView.scala
 │   ├── View.scala
-│   ├── WealthView.scala
-│   ├── XpView.scala
+│   ├── WealthView.scala        data with currency
+│   ├── XpView.scala            calculating gem xp through playing - manual
 │   ├── loot
 │   │   ├── Column.scala
 │   │   ├── ColumnsPane.scala
