@@ -68,7 +68,7 @@ class for translation state A->B -
 ?some switch-box in settings what to do with pasted items into filters
 
 could be useful to check if some "GreAt looking item" is realy great :)
-### Favorites Items - so you can save those what you like to <3 list
+### Favorites Items/Best Items - so you can save those what you like to <3 list
 
 <3 items are always favoured 
   ?different color background/fonts
