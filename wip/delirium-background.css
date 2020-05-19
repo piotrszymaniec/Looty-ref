@@ -1,0 +1,88 @@
+
+#content {
+    padding: 5px;
+    margin: 1em 0;
+}
+
+img {
+    /* padding: 0px 6px; */
+    width: 27px;
+}
+
+h2 {
+    color: gold;
+    text-shadow: 1px 1px 1px black;
+}
+
+a {
+    color: #ea40ff;
+}
+
+body div.home {
+    display: inline-block;
+    max-width: 600px;
+    min-height: 700px;
+    height: auto;
+    padding: 0 2em 0 2em;
+    
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin-bottom: 1em;
+    margin-right:1.5em;
+}
+
+textarea {
+    background-color: #ffd87647;
+    padding-left: 1em;
+    border: 1px solid black;
+    max-height: 700px;
+    min-width: 658px;
+    resize: unset;
+    width: 600px;
+    box-sizing: border-box;
+    height: 900px;
+}
+
+#xp-track {
+    background-color: #fcfeff;
+    padding: 0 2em 2em 2em;    
+    border: 1px solid black;    
+}
+
+#settings {
+    background-color: #fcfeff;
+    padding: 1em;    
+    border: 1px solid black;    
+}
+
+
+
+
+
+
+div {}
+
+
+
+
+img {    
+    display:none;
+    
+}
+#content > div > div > div > div > span {}
+
+
+
+.test:after
+    {
+        content: ' ';
+        height: 100%;
+        display: inline-block;
+        vertical-align: middle;
+        background: url(https://web.poecdn.com/image/Art/2DItems/Maps/Atlas2Maps/New/Arsenal.png?scale=1&w=1&h=1&mn=5&mt=6&v=07aae23d9c7fa518864ce0466977a772) no-repeat 50% 50%;
+        background-size: 24px;
+        /* position: relative; */
+        /* left: 20px; */
+        padding: 13px;
+        margin: 0 0.5em 0 1em;
+    }

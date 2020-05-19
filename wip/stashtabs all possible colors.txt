@@ -1,0 +1,175 @@
+wszystkie kolory zakladek i odpowiadajacy im kolor liter
+na stronie sa 2 kolory liter, 
+jasne     color: rgb(59, 44, 27);
+ciemne  color: rgb(255, 192, 119);
+hmm czemu tu jest
+
+
+.color-11 {
+	background: rgb(64, 43, 28);
+	color: rgb(240, 220, 185);
+}
+
+.color-12 {
+	background: rgb(151, 54, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-13 {
+	background: rgb(215, 151, 88);
+	color: rgb(59, 44, 27);
+}
+
+.color-14 {
+	background: rgb(49, 0, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-15 {
+	background: rgb(151, 0, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-16 {
+	background: rgb(215, 88, 88);
+	color: rgb(59, 44, 27);
+}
+
+.color-17 {
+	background: rgb(75, 0, 45);
+	color: rgb(255, 192, 119);
+}
+
+.color-18 {
+	background: rgb(164, 0, 114);
+	color: rgb(255, 192, 119);
+}
+
+.color-19 {
+	background: rgb(215, 88, 183);
+	color: rgb(59, 44, 27);
+}
+
+.color-20 {
+	background: rgb(4, 0, 49);
+	color: rgb(255, 192, 119);
+}
+
+.color-21 {
+	background: rgb(50, 0, 139);
+	color: rgb(255, 192, 119);
+}
+
+.color-22 {
+	background: rgb(152, 88, 215);
+	color: rgb(59, 44, 27);
+}
+
+.color-23 {
+	background: rgb(0, 0, 88);
+	color: rgb(255, 192, 119);
+}
+
+.color-24 {
+	background: rgb(0, 0, 215);
+	color: rgb(255, 192, 119);
+}
+
+.color-25 {
+	background: rgb(88, 139, 215);
+	color: rgb(59, 44, 27);
+}
+
+.color-26 {
+	background: rgb(0, 37, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-27 {
+	background: rgb(0, 151, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-28 {
+	background: rgb(88, 215, 88);
+	color: rgb(59, 44, 27);
+}
+
+.color-29 {
+	background: rgb(59, 88, 0);
+	color: rgb(255, 192, 119);
+}
+
+.color-30 {
+	background: rgb(151, 205, 0);
+	color: rgb(59, 44, 27);
+}
+
+.color-31 {
+	background: rgb(200, 215, 88);
+	color: rgb(59, 44, 27);
+}
+
+.color-32 {
+	background: rgb(215, 130, 0);
+	color: rgb(59, 44, 27);
+}
+
+.color-33 {
+	background: rgb(215, 173, 0);
+	color: rgb(59, 44, 27);
+}
+
+.color-34 {
+	background: rgb(215, 215, 113);
+	color: rgb(59, 44, 27);
+}
+
+.color-35 {
+	background: rgb(10, 10, 10);
+	color: rgb(255, 192, 119);
+}
+
+.color-36 {
+	background: rgb(96, 96, 96);
+	color: rgb(59, 44, 27);
+}
+
+.color-37 {
+	background: rgb(181, 181, 181);
+	color: rgb(59, 44, 27);
+}
+
+.color-38 {
+	}
+
+
+
+
+<a href="#" class="color-11 color">11</a>
+<a href="#" class="color-12 color">12</a>
+<a href="#" class="color-13 color">13</a>
+<a href="#" class="color-14 color">14</a>
+<a href="#" class="color-15 color">15</a>
+<a href="#" class="color-16 color">16</a>
+<a href="#" class="color-17 color">17</a>
+<a href="#" class="color-18 color">18</a>
+<a href="#" class="color-19 color">19</a>
+<a href="#" class="color-20 color">20</a>
+<a href="#" class="color-21 color">21</a>
+<a href="#" class="color-22 color">22</a>
+<a href="#" class="color-23 color">23</a>
+<a href="#" class="color-24 color">24</a>
+<a href="#" class="color-25 color">25</a>
+<a href="#" class="color-26 color">26</a>
+<a href="#" class="color-27 color">27</a>
+<a href="#" class="color-28 color">28</a>
+<a href="#" class="color-29 color">29</a>
+<a href="#" class="color-30 color">30</a>
+<a href="#" class="color-31 color">31</a>
+<a href="#" class="color-32 color">32</a>
+<a href="#" class="color-33 color">33</a>
+<a href="#" class="color-34 color">34</a>
+<a href="#" class="color-35 color">35</a>
+<a href="#" class="color-36 color">36</a>
+<a href="#" class="color-37 color">37</a>
