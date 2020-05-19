@@ -1,9 +1,7 @@
-- add to unauthorized msg link/explenation about how looty authoticates its firet
++ add to unauthorized msg link/explenation about how looty authoticates its firet
 
 
 - dodac mozliwoscc zamkniecia info az do nastepnego zdaazenia -niech przetrwa przeladowanie - ciasteczko/localstorage "close info" : true/false
-
-- kolumna loc niech ma full content size
 
 - kolumna exp
 
