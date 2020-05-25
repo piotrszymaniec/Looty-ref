@@ -29,9 +29,17 @@ i wish ....
 1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction tut to scala
 - [ ] read how columns are made, ~~what makes column width not resizable~~ (bug introduced with 2.1.73 jquery upgrade). And how you can add html tags to value, for experiance progress tag
 
+#### Other github's projects/tools that somehow handle PoE item data:
+1. https://github.com/Dynatos/PoEStashUniqueItemIndexer - collecting uniques data to show what you (not) have already <js>
+1. https://github.com/vadash/GetExpensiveUniques - takes uniques from poe.ninja and pick those above some price <C#>
+1. https://github.com/Traf27/PathOfExileClipboardListener - dont be fooled by name, its full blown private stash database engine, though written in 2014, when some info like ilvl or itemid wasn't there, def. first stop for building one <C#>
+  
+
+
+
 #### Programming
-1. https://github.com/chicagoscala/beginning-exercises scala tutorial project from the ground up
-1. [scala.js beginner tutorial](https://www.scala-js.org/doc/tutorial/basic/)
+[ttps://github.com/chicagoscala/beginning-exercises scala tutorial project from the ground up
+[scala.js beginner tutorial](https://www.scala-js.org/doc/tutorial/basic/)
 
 ---
 ### TODO  
