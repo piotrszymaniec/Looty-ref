@@ -1,3 +1,51 @@
+## Adding complex item properties, like list of strings, objects etc
+
+having such json excerpt
+```js
+         "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "1/1638338",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 6.103746841290558e-7,
+              "type": 20
+            }
+          ],
+```
+we have to create in scala such constructs:
+
+```scala
+trait AdditionalProperty extends js.Object { //trait with same name as json property
+    val displayMode: Int = js.native
+    //Experience for gem experience
+    val name: String = js.native
+    //0 to 1 depending on progress to next level for gems
+    val progress: Int = js.native
+    //For XP in Gems: Typically the 0th element of the inner array is a string like "175815/175816"
+    val values: js.Array[js.Array[js.Any]] = js.native //probably js.Any because you can have array element of string, or number
+  }
+```
+
+tricky part is 
+```json
+              "values": [
+                [
+                  "1/1638338",
+                  0
+                ]
+              ],
+```
+which takes form of ``` val values: js.Array[js.Array[js.Any]] = js.native ```
+
+its a little bit explained here [sclajs facade types ](https://www.scala-js.org/doc/interoperability/facade-types.html)
+
+---
+
 ## AffixParsers Examples - which use when
 | Affix text  | Affix parser  |
 | ------------- | ------------- |
