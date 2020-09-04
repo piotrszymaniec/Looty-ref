@@ -42,6 +42,16 @@ tricky part is
 ```
 which takes form of ``` val values: js.Array[js.Array[js.Any]] = js.native ```
 
+Moreso we have [constant variable](https://github.com/Traf27/looty/blob/ecace873b5950bbf703011767e8b9e2ebe775c55/looty/src/main/scala/looty/poeapi/PoeTypes.scala#L391)
+```scala
+val additionalProperties: Optional[js.Array[AdditionalProperty]] = js.native
+```
+which takes content of data from JSON property name *additionalProperties*
+So defining variable
+1) It has to have same name as its item property data from JSON requests
+2) if its of complex nature, and we want further to compute some of its data, we should create trait/object for this reason as in upper example
+where author wanted to operate further on *progress* value.
+
 its a little bit explained here [sclajs facade types ](https://www.scala-js.org/doc/interoperability/facade-types.html)
 
 ---
