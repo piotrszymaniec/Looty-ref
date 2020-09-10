@@ -1,0 +1,205 @@
+/* Dictates how grid will be partialy styled */
+/*
+dark- black/grey grid, white text
+violet headers
+dotted white borders
+*/
+
+.MaterialBtn {
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.MaterialBtn:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column {
+  text-overflow: clip;
+  box-sizing: border-box;
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #92034c;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.slick-headerrow-column:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column.ui-state-default {
+  padding: 1px;
+}
+.slick-headerrow-column input {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.slick-header-column.ui-state-default {
+  /* padding-top: 2px; */
+  /* padding-bottom: 2px; */
+  /* padding-left: 10px; */
+  /* padding-right: 10px; */
+  /* margin-top: 5px; */
+  /* margin-bottom: 5px; */
+  /* background: #f4f4f4; */
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); */
+  /* background: none; */
+  /* background-color: #580b38; */
+  color: #f4f4f4;
+  border-color: #000000;
+  padding: 0px;
+  /*border: none;*/
+  /*padding: 0;*/
+  /*text-shadow: none;*/
+  /*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+  font-size: 14px;
+  /*height: 40px;*/
+  /*line-height: 40px;*/
+}
+.slick-header-column.ui-state-default:hover {
+  background: #981361;
+}
+.slick-row.ui-widget-content.odd,
+.slick-cell {
+  background-color: #1f1f1f;
+}
+.slick-row.ui-widget-content.even,
+.slick-cell {
+  background-color: #000000;
+}
+.slick-row.ui-widget-content,
+.slick-cell {
+  background: none;
+  color: #cecbcb;
+  /*background-color: #eeeeee;*/
+  /*color: #666666;*/
+  /*border: none;*/
+  /*border-bottom: solid 1px #ffffff;*/
+  font-size: 13px;
+  /*height: 60px;*/
+  /*line-height: 60px;*/
+  /*padding: 0 5px;*/
+}
+/* hovered row indicator */
+.ui-widget-content.slick-row:hover {
+  background-color: #18485d;
+}
+.MaterialBtn {
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.MaterialBtn:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column {
+  text-overflow: clip;
+  box-sizing: border-box;
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #92034c;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.slick-headerrow-column:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column.ui-state-default {
+  padding: 1px;
+}
+.slick-headerrow-column input {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.slick-header-column.ui-state-default {
+  /* padding-top: 2px; */
+  /* padding-bottom: 2px; */
+  /* padding-left: 10px; */
+  /* padding-right: 10px; */
+  /* margin-top: 5px; */
+  /* margin-bottom: 5px; */
+  /* background: #f4f4f4; */
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); */
+  /* background: none; */
+  /* background-color: #580b38; */
+  color: #f4f4f4;
+  border-color: #000000;
+  padding: 0px;
+  /*border: none;*/
+  /*padding: 0;*/
+  /*text-shadow: none;*/
+  /*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+  font-size: 14px;
+  /*height: 40px;*/
+  /*line-height: 40px;*/
+}
+.slick-header-column.ui-state-default:hover {
+  background: #981361;
+}
+.slick-row.ui-widget-content.odd,
+.slick-cell {
+  background-color: #1f1f1f;
+}
+.slick-row.ui-widget-content.even,
+.slick-cell {
+  background-color: #000000;
+}
+.slick-row.ui-widget-content,
+.slick-cell {
+  background: none;
+  color: #cecbcb;
+  /*background-color: #eeeeee;*/
+  /*color: #666666;*/
+  /*border: none;*/
+  /*border-bottom: solid 1px #ffffff;*/
+  font-size: 13px;
+  /*height: 60px;*/
+  /*line-height: 60px;*/
+  /*padding: 0 5px;*/
+}
+/* hovered row indicator */
+.ui-widget-content.slick-row:hover {
+  background-color: #18485d;
+}

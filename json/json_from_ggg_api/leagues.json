@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Standard",
+    "realm": "pc",
+    "description": "The default game mode.",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/71278",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null,
+    "delveEvent": true,
+    "rules": []
+  },
+  {
+    "id": "Hardcore",
+    "realm": "pc",
+    "description": "A character killed in the Hardcore league is moved to the Standard league.",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/71276",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null,
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "Hardcore",
+        "name": "Hardcore",
+        "description": "A character killed in Hardcore is moved to its parent league."
+      }
+    ]
+  },
+  {
+    "id": "SSF Standard",
+    "realm": "pc",
+    "description": "SSF Standard",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/1841357",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null,
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "NoParties",
+        "name": "Solo",
+        "description": "You may not party in this league."
+      }
+    ]
+  },
+  {
+    "id": "SSF Hardcore",
+    "realm": "pc",
+    "description": "SSF Hardcore",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/1841353",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null,
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "Hardcore",
+        "name": "Hardcore",
+        "description": "A character killed in Hardcore is moved to its parent league."
+      },
+      {
+        "id": "NoParties",
+        "name": "Solo",
+        "description": "You may not party in this league."
+      }
+    ]
+  },
+  {
+    "id": "Blight",
+    "realm": "pc",
+    "description": "Stop the spread of the deadly Blight by building towers to defend against monsters held in its thrall.\n\nThis is the default Path of Exile league.",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/2628575",
+    "startAt": "2019-09-06T20:00:00Z",
+    "endAt": "2019-12-09T21:00:00Z",
+    "delveEvent": true,
+    "rules": []
+  },
+  {
+    "id": "Hardcore Blight",
+    "realm": "pc",
+    "description": "Stop the spread of the deadly Blight by building towers to defend against monsters held in its thrall.\n\nA character killed in Hardcore Blight becomes a Standard character.",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/2628578",
+    "startAt": "2019-09-06T20:00:00Z",
+    "endAt": "2019-12-09T21:00:00Z",
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "Hardcore",
+        "name": "Hardcore",
+        "description": "A character killed in Hardcore is moved to its parent league."
+      }
+    ]
+  },
+  {
+    "id": "SSF Blight",
+    "realm": "pc",
+    "description": "SSF Blight",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/2628580",
+    "startAt": "2019-09-06T20:00:00Z",
+    "endAt": "2019-12-09T21:00:00Z",
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "NoParties",
+        "name": "Solo",
+        "description": "You may not party in this league."
+      }
+    ]
+  },
+  {
+    "id": "SSF Blight HC",
+    "realm": "pc",
+    "description": "SSF HC Blight",
+    "registerAt": "2019-09-06T19:00:00Z",
+    "url": "http://pathofexile.com/forum/view-thread/2628583",
+    "startAt": "2019-09-06T20:00:00Z",
+    "endAt": "2019-12-09T21:00:00Z",
+    "delveEvent": true,
+    "rules": [
+      {
+        "id": "Hardcore",
+        "name": "Hardcore",
+        "description": "A character killed in Hardcore is moved to its parent league."
+      },
+      {
+        "id": "NoParties",
+        "name": "Solo",
+        "description": "You may not party in this league."
+      }
+    ]
+  }
+]

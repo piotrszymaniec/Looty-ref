@@ -1,0 +1,3568 @@
+[
+  [
+    {
+      "category": "armour",
+      "name": "Abberath's Hooves"
+    },
+    {
+      "category": "weapons",
+      "name": "Abberath's Horn"
+    },
+    {
+      "category": "armour",
+      "name": "Abhorrent Interrogation"
+    },
+    {
+      "category": "armour",
+      "name": "Abyssus"
+    },
+    {
+      "category": "maps",
+      "name": "Acton's Nightmare"
+    },
+    {
+      "category": "weapons",
+      "name": "Advancing Fortress"
+    },
+    {
+      "category": "armour",
+      "name": "Aegis Aurora"
+    },
+    {
+      "category": "weapons",
+      "name": "Agnerod East"
+    },
+    {
+      "category": "weapons",
+      "name": "Agnerod North"
+    },
+    {
+      "category": "weapons",
+      "name": "Agnerod South"
+    },
+    {
+      "category": "weapons",
+      "name": "Agnerod West"
+    },
+    {
+      "category": "accessories",
+      "name": "Ahkeli's Meadow"
+    },
+    {
+      "category": "accessories",
+      "name": "Ahkeli's Mountain"
+    },
+    {
+      "category": "accessories",
+      "name": "Ahkeli's Valley"
+    },
+    {
+      "category": "armour",
+      "name": "Ahn's Contempt"
+    },
+    {
+      "category": "armour",
+      "name": "Ahn's Heritage"
+    },
+    {
+      "category": "weapons",
+      "name": "Ahn's Might"
+    },
+    {
+      "category": "armour",
+      "name": "Alberon's Warpath"
+    },
+    {
+      "category": "armour",
+      "name": "Algor Mortis"
+    },
+    {
+      "category": "armour",
+      "name": "Allelopathy"
+    },
+    {
+      "category": "weapons",
+      "name": "Allure"
+    },
+    {
+      "category": "armour",
+      "name": "Alpha's Howl"
+    },
+    {
+      "category": "maps",
+      "name": "Altered Distant Memory"
+    },
+    {
+      "category": "armour",
+      "name": "Ambu's Charge"
+    },
+    {
+      "category": "jewels",
+      "name": "Anatomical Knowledge"
+    },
+    {
+      "category": "jewels",
+      "name": "Ancient Waystones"
+    },
+    {
+      "category": "accessories",
+      "name": "Andvarius"
+    },
+    {
+      "category": "weapons",
+      "name": "Apep's Rage"
+    },
+    {
+      "category": "armour",
+      "name": "Apep's Slumber"
+    },
+    {
+      "category": "armour",
+      "name": "Apep's Supremacy"
+    },
+    {
+      "category": "jewels",
+      "name": "Apparitions"
+    },
+    {
+      "category": "accessories",
+      "name": "Araku Tiki"
+    },
+    {
+      "category": "weapons",
+      "name": "Arborix"
+    },
+    {
+      "category": "accessories",
+      "name": "Ascent From Flesh"
+    },
+    {
+      "category": "armour",
+      "name": "Asenath's Gentle Touch"
+    },
+    {
+      "category": "armour",
+      "name": "Asenath's Mark"
+    },
+    {
+      "category": "weapons",
+      "name": "Ashcaller"
+    },
+    {
+      "category": "armour",
+      "name": "Ashrend"
+    },
+    {
+      "category": "armour",
+      "name": "Asphyxia's Wrath"
+    },
+    {
+      "category": "armour",
+      "name": "Assailum"
+    },
+    {
+      "category": "jewels",
+      "name": "Assassin's Haste"
+    },
+    {
+      "category": "accessories",
+      "name": "Astral Projector"
+    },
+    {
+      "category": "accessories",
+      "name": "Astramentis"
+    },
+    {
+      "category": "armour",
+      "name": "Atziri's Acuity"
+    },
+    {
+      "category": "weapons",
+      "name": "Atziri's Disfavour"
+    },
+    {
+      "category": "accessories",
+      "name": "Atziri's Foible"
+    },
+    {
+      "category": "armour",
+      "name": "Atziri's Mirror"
+    },
+    {
+      "category": "flasks",
+      "name": "Atziri's Promise"
+    },
+    {
+      "category": "armour",
+      "name": "Atziri's Reflection"
+    },
+    {
+      "category": "jewels",
+      "name": "Atziri's Reign"
+    },
+    {
+      "category": "armour",
+      "name": "Atziri's Splendour"
+    },
+    {
+      "category": "armour",
+      "name": "Atziri's Step"
+    },
+    {
+      "category": "maps",
+      "name": "Augmented Distant Memory"
+    },
+    {
+      "category": "weapons",
+      "name": "Augyre"
+    },
+    {
+      "category": "accessories",
+      "name": "Aul's Uprising"
+    },
+    {
+      "category": "armour",
+      "name": "Aurseize"
+    },
+    {
+      "category": "weapons",
+      "name": "Aurumvorax"
+    },
+    {
+      "category": "accessories",
+      "name": "Auxium"
+    },
+    {
+      "category": "weapons",
+      "name": "Axiom Perpetuum"
+    },
+    {
+      "category": "accessories",
+      "name": "Badge of the Brotherhood"
+    },
+    {
+      "category": "accessories",
+      "name": "Bated Breath"
+    },
+    {
+      "category": "armour",
+      "name": "Beacon of Madness"
+    },
+    {
+      "category": "accessories",
+      "name": "Bear's Girdle"
+    },
+    {
+      "category": "armour",
+      "name": "Belly of the Beast"
+    },
+    {
+      "category": "accessories",
+      "name": "Belt of the Deceiver"
+    },
+    {
+      "category": "weapons",
+      "name": "Beltimber Blade"
+    },
+    {
+      "category": "accessories",
+      "name": "Berek's Grip"
+    },
+    {
+      "category": "accessories",
+      "name": "Berek's Pass"
+    },
+    {
+      "category": "accessories",
+      "name": "Berek's Respite"
+    },
+    {
+      "category": "weapons",
+      "name": "Bino's Kitchen Knife"
+    },
+    {
+      "category": "accessories",
+      "name": "Bisco's Collar"
+    },
+    {
+      "category": "accessories",
+      "name": "Bisco's Leash"
+    },
+    {
+      "category": "armour",
+      "name": "Bitterbind Point"
+    },
+    {
+      "category": "weapons",
+      "name": "Bitterdream"
+    },
+    {
+      "category": "armour",
+      "name": "Black Sun Crest"
+    },
+    {
+      "category": "armour",
+      "name": "Blackgleam"
+    },
+    {
+      "category": "accessories",
+      "name": "Blackheart"
+    },
+    {
+      "category": "armour",
+      "name": "Blasphemer's Grasp"
+    },
+    {
+      "category": "accessories",
+      "name": "Blightwell"
+    },
+    {
+      "category": "jewels",
+      "name": "Blood Sacrifice"
+    },
+    {
+      "category": "flasks",
+      "name": "Blood of the Karui"
+    },
+    {
+      "category": "accessories",
+      "name": "Bloodboil"
+    },
+    {
+      "category": "armour",
+      "name": "Bloodbond"
+    },
+    {
+      "category": "accessories",
+      "name": "Bloodgrip"
+    },
+    {
+      "category": "weapons",
+      "name": "Bloodplay"
+    },
+    {
+      "category": "weapons",
+      "name": "Bloodseeker"
+    },
+    {
+      "category": "armour",
+      "name": "Bones of Ullr"
+    },
+    {
+      "category": "watchstones",
+      "name": "Booming Populace"
+    },
+    {
+      "category": "flasks",
+      "name": "Bottled Faith"
+    },
+    {
+      "category": "weapons",
+      "name": "Brain Rattler"
+    },
+    {
+      "category": "armour",
+      "name": "Bramblejack"
+    },
+    {
+      "category": "jewels",
+      "name": "Brawn"
+    },
+    {
+      "category": "weapons",
+      "name": "Breath of the Council"
+    },
+    {
+      "category": "weapons",
+      "name": "Brightbeak"
+    },
+    {
+      "category": "armour",
+      "name": "Brinerot Flag"
+    },
+    {
+      "category": "accessories",
+      "name": "Brinerot Mark"
+    },
+    {
+      "category": "armour",
+      "name": "Brinerot Whalers"
+    },
+    {
+      "category": "armour",
+      "name": "Briskwrap"
+    },
+    {
+      "category": "jewels",
+      "name": "Brittle Barrier"
+    },
+    {
+      "category": "armour",
+      "name": "Bronn's Lithe"
+    },
+    {
+      "category": "jewels",
+      "name": "Brutal Restraint"
+    },
+    {
+      "category": "jewels",
+      "name": "Brute Force Solution"
+    },
+    {
+      "category": "weapons",
+      "name": "Brutus' Lead Sprinkler"
+    },
+    {
+      "category": "armour",
+      "name": "Bubonic Trail"
+    },
+    {
+      "category": "maps",
+      "name": "Caer Blaidd, Wolfpack's Den"
+    },
+    {
+      "category": "jewels",
+      "name": "Calamitous Visions"
+    },
+    {
+      "category": "accessories",
+      "name": "Call of the Brotherhood"
+    },
+    {
+      "category": "weapons",
+      "name": "Callinellus Malleus"
+    },
+    {
+      "category": "weapons",
+      "name": "Cameria's Maul"
+    },
+    {
+      "category": "weapons",
+      "name": "Cane of Unravelling"
+    },
+    {
+      "category": "armour",
+      "name": "Carcass Jack"
+    },
+    {
+      "category": "jewels",
+      "name": "Careful Planning"
+    },
+    {
+      "category": "accessories",
+      "name": "Carnage Heart"
+    },
+    {
+      "category": "weapons",
+      "name": "Cerberus Limb"
+    },
+    {
+      "category": "armour",
+      "name": "Chains of Command"
+    },
+    {
+      "category": "armour",
+      "name": "Chalice of Horrors"
+    },
+    {
+      "category": "jewels",
+      "name": "Cheap Construction"
+    },
+    {
+      "category": "armour",
+      "name": "Chernobog's Pillar"
+    },
+    {
+      "category": "armour",
+      "name": "Cherrubim's Maleficence"
+    },
+    {
+      "category": "jewels",
+      "name": "Chill of Corruption"
+    },
+    {
+      "category": "weapons",
+      "name": "Chin Sol"
+    },
+    {
+      "category": "armour",
+      "name": "Chitus' Apex"
+    },
+    {
+      "category": "weapons",
+      "name": "Chitus' Needle"
+    },
+    {
+      "category": "weapons",
+      "name": "Chober Chaber"
+    },
+    {
+      "category": "accessories",
+      "name": "Choir of the Storm"
+    },
+    {
+      "category": "flasks",
+      "name": "Cinderswallow Urn"
+    },
+    {
+      "category": "accessories",
+      "name": "Circle of Anguish"
+    },
+    {
+      "category": "accessories",
+      "name": "Circle of Fear"
+    },
+    {
+      "category": "accessories",
+      "name": "Circle of Guilt"
+    },
+    {
+      "category": "accessories",
+      "name": "Circle of Nostalgia"
+    },
+    {
+      "category": "accessories",
+      "name": "Circle of Regret"
+    },
+    {
+      "category": "weapons",
+      "name": "Clayshaper"
+    },
+    {
+      "category": "jewels",
+      "name": "Clear Mind"
+    },
+    {
+      "category": "armour",
+      "name": "Cloak of Defiance"
+    },
+    {
+      "category": "armour",
+      "name": "Cloak of Flame"
+    },
+    {
+      "category": "armour",
+      "name": "Cloak of Tawm'r Isley"
+    },
+    {
+      "category": "jewels",
+      "name": "Coated Shrapnel"
+    },
+    {
+      "category": "weapons",
+      "name": "Cold Iron Point"
+    },
+    {
+      "category": "jewels",
+      "name": "Cold Steel"
+    },
+    {
+      "category": "jewels",
+      "name": "Collateral Damage"
+    },
+    {
+      "category": "jewels",
+      "name": "Combat Focus"
+    },
+    {
+      "category": "jewels",
+      "name": "Combustibles"
+    },
+    {
+      "category": "armour",
+      "name": "Command of the Pit"
+    },
+    {
+      "category": "jewels",
+      "name": "Conqueror's Efficiency"
+    },
+    {
+      "category": "jewels",
+      "name": "Conqueror's Longevity"
+    },
+    {
+      "category": "jewels",
+      "name": "Conqueror's Potency"
+    },
+    {
+      "category": "flasks",
+      "name": "Coralito's Signature"
+    },
+    {
+      "category": "weapons",
+      "name": "Corona Solaris"
+    },
+    {
+      "category": "jewels",
+      "name": "Corrupted Energy"
+    },
+    {
+      "category": "maps",
+      "name": "Cortex"
+    },
+    {
+      "category": "flasks",
+      "name": "Coruscating Elixir"
+    },
+    {
+      "category": "weapons",
+      "name": "Cospri's Malice"
+    },
+    {
+      "category": "armour",
+      "name": "Cospri's Will"
+    },
+    {
+      "category": "accessories",
+      "name": "Coward's Legacy"
+    },
+    {
+      "category": "armour",
+      "name": "Cowl of the Thermophile"
+    },
+    {
+      "category": "armour",
+      "name": "Cragfall"
+    },
+    {
+      "category": "armour",
+      "name": "Craghead"
+    },
+    {
+      "category": "armour",
+      "name": "Craiceann's Tracks"
+    },
+    {
+      "category": "armour",
+      "name": "Crest of Perandus"
+    },
+    {
+      "category": "armour",
+      "name": "Crown of Eyes"
+    },
+    {
+      "category": "armour",
+      "name": "Crown of Thorns"
+    },
+    {
+      "category": "armour",
+      "name": "Crown of the Inward Eye"
+    },
+    {
+      "category": "armour",
+      "name": "Crown of the Tyrant"
+    },
+    {
+      "category": "armour",
+      "name": "Crystal Vault"
+    },
+    {
+      "category": "armour",
+      "name": "Curtain Call"
+    },
+    {
+      "category": "weapons",
+      "name": "Cybil's Paw"
+    },
+    {
+      "category": "accessories",
+      "name": "Cyclopean Coil"
+    },
+    {
+      "category": "armour",
+      "name": "Dance of the Offered"
+    },
+    {
+      "category": "armour",
+      "name": "Daresso's Courage"
+    },
+    {
+      "category": "armour",
+      "name": "Daresso's Defiance"
+    },
+    {
+      "category": "weapons",
+      "name": "Daresso's Passion"
+    },
+    {
+      "category": "accessories",
+      "name": "Daresso's Salute"
+    },
+    {
+      "category": "accessories",
+      "name": "Darkness Enthroned"
+    },
+    {
+      "category": "armour",
+      "name": "Darkray Vectors"
+    },
+    {
+      "category": "weapons",
+      "name": "Darkscorn"
+    },
+    {
+      "category": "jewels",
+      "name": "Dead Reckoning"
+    },
+    {
+      "category": "accessories",
+      "name": "Death Rush"
+    },
+    {
+      "category": "maps",
+      "name": "Death and Taxes"
+    },
+    {
+      "category": "armour",
+      "name": "Death's Door"
+    },
+    {
+      "category": "weapons",
+      "name": "Death's Hand"
+    },
+    {
+      "category": "weapons",
+      "name": "Death's Harp"
+    },
+    {
+      "category": "armour",
+      "name": "Death's Oath"
+    },
+    {
+      "category": "weapons",
+      "name": "Death's Opus"
+    },
+    {
+      "category": "weapons",
+      "name": "Debeon's Dirge"
+    },
+    {
+      "category": "armour",
+      "name": "Deerstalker"
+    },
+    {
+      "category": "armour",
+      "name": "Deidbell"
+    },
+    {
+      "category": "armour",
+      "name": "Demon Stitcher"
+    },
+    {
+      "category": "armour",
+      "name": "Dendrobate"
+    },
+    {
+      "category": "armour",
+      "name": "Devoto's Devotion"
+    },
+    {
+      "category": "armour",
+      "name": "Dialla's Malefaction"
+    },
+    {
+      "category": "weapons",
+      "name": "Disintegrator"
+    },
+    {
+      "category": "jewels",
+      "name": "Divide and Conquer"
+    },
+    {
+      "category": "weapons",
+      "name": "Divinarius"
+    },
+    {
+      "category": "flasks",
+      "name": "Divination Distillate"
+    },
+    {
+      "category": "accessories",
+      "name": "Doedre's Damning"
+    },
+    {
+      "category": "flasks",
+      "name": "Doedre's Elixir"
+    },
+    {
+      "category": "armour",
+      "name": "Doedre's Malevolence"
+    },
+    {
+      "category": "armour",
+      "name": "Doedre's Scorn"
+    },
+    {
+      "category": "armour",
+      "name": "Doedre's Tenure"
+    },
+    {
+      "category": "weapons",
+      "name": "Doomfletch"
+    },
+    {
+      "category": "weapons",
+      "name": "Doomfletch's Prism"
+    },
+    {
+      "category": "weapons",
+      "name": "Doomsower"
+    },
+    {
+      "category": "weapons",
+      "name": "Doon Cuebiyari"
+    },
+    {
+      "category": "weapons",
+      "name": "Doryani's Catalyst"
+    },
+    {
+      "category": "armour",
+      "name": "Doryani's Delusion"
+    },
+    {
+      "category": "armour",
+      "name": "Doryani's Fist"
+    },
+    {
+      "category": "accessories",
+      "name": "Doryani's Invitation"
+    },
+    {
+      "category": "maps",
+      "name": "Doryani's Machinarium"
+    },
+    {
+      "category": "armour",
+      "name": "Doryani's Prototype"
+    },
+    {
+      "category": "weapons",
+      "name": "Dreadarc"
+    },
+    {
+      "category": "weapons",
+      "name": "Dreadbeak"
+    },
+    {
+      "category": "accessories",
+      "name": "Dream Fragments"
+    },
+    {
+      "category": "weapons",
+      "name": "Dreamfeather"
+    },
+    {
+      "category": "armour",
+      "name": "Drillneck"
+    },
+    {
+      "category": "armour",
+      "name": "Duskblight"
+    },
+    {
+      "category": "weapons",
+      "name": "Duskdawn"
+    },
+    {
+      "category": "armour",
+      "name": "Dusktoe"
+    },
+    {
+      "category": "accessories",
+      "name": "Dyadian Dawn"
+    },
+    {
+      "category": "weapons",
+      "name": "Dyadus"
+    },
+    {
+      "category": "weapons",
+      "name": "Dying Breath"
+    },
+    {
+      "category": "flasks",
+      "name": "Dying Sun"
+    },
+    {
+      "category": "weapons",
+      "name": "Earendel's Embrace"
+    },
+    {
+      "category": "armour",
+      "name": "Eber's Unification"
+    },
+    {
+      "category": "weapons",
+      "name": "Eclipse Solaris"
+    },
+    {
+      "category": "weapons",
+      "name": "Edge of Madness"
+    },
+    {
+      "category": "jewels",
+      "name": "Efficient Training"
+    },
+    {
+      "category": "jewels",
+      "name": "Eldritch Knowledge"
+    },
+    {
+      "category": "jewels",
+      "name": "Elegant Hubris"
+    },
+    {
+      "category": "accessories",
+      "name": "Emberwake"
+    },
+    {
+      "category": "jewels",
+      "name": "Emperor's Cunning"
+    },
+    {
+      "category": "armour",
+      "name": "Emperor's Vigilance"
+    },
+    {
+      "category": "armour",
+      "name": "Empire's Grasp"
+    },
+    {
+      "category": "jewels",
+      "name": "Energised Armour"
+    },
+    {
+      "category": "jewels",
+      "name": "Energy From Within"
+    },
+    {
+      "category": "weapons",
+      "name": "Ephemeral Edge"
+    },
+    {
+      "category": "armour",
+      "name": "Esh's Mirror"
+    },
+    {
+      "category": "armour",
+      "name": "Esh's Visage"
+    },
+    {
+      "category": "accessories",
+      "name": "Essence Worm"
+    },
+    {
+      "category": "weapons",
+      "name": "Essentia Sanguis"
+    },
+    {
+      "category": "weapons",
+      "name": "Ewar's Mirage"
+    },
+    {
+      "category": "accessories",
+      "name": "Extractor Mentis"
+    },
+    {
+      "category": "accessories",
+      "name": "Eye of Chayula"
+    },
+    {
+      "category": "accessories",
+      "name": "Eye of Innocence"
+    },
+    {
+      "category": "armour",
+      "name": "Eye of Malice"
+    },
+    {
+      "category": "accessories",
+      "name": "Eyes of the Greatwolf"
+    },
+    {
+      "category": "armour",
+      "name": "Ezomyte Peak"
+    },
+    {
+      "category": "armour",
+      "name": "Facebreaker"
+    },
+    {
+      "category": "armour",
+      "name": "Fairgraves' Tricorne"
+    },
+    {
+      "category": "armour",
+      "name": "Farrul's Bite"
+    },
+    {
+      "category": "armour",
+      "name": "Farrul's Chase"
+    },
+    {
+      "category": "armour",
+      "name": "Farrul's Fur"
+    },
+    {
+      "category": "armour",
+      "name": "Farrul's Pounce"
+    },
+    {
+      "category": "weapons",
+      "name": "Fate of the Vaal"
+    },
+    {
+      "category": "accessories",
+      "name": "Feastbind"
+    },
+    {
+      "category": "weapons",
+      "name": "Femurs of the Saints"
+    },
+    {
+      "category": "weapons",
+      "name": "Fencoil"
+    },
+    {
+      "category": "armour",
+      "name": "Fenumus' Shroud"
+    },
+    {
+      "category": "armour",
+      "name": "Fenumus' Spinnerets"
+    },
+    {
+      "category": "armour",
+      "name": "Fenumus' Toxins"
+    },
+    {
+      "category": "armour",
+      "name": "Fenumus' Weave"
+    },
+    {
+      "category": "jewels",
+      "name": "Fertile Mind"
+    },
+    {
+      "category": "jewels",
+      "name": "Fevered Mind"
+    },
+    {
+      "category": "weapons",
+      "name": "Fidelitas' Spike"
+    },
+    {
+      "category": "jewels",
+      "name": "Fight for Survival"
+    },
+    {
+      "category": "jewels",
+      "name": "Fireborn"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of Brutality"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of Directions"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of Focus"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of Storms"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of Time"
+    },
+    {
+      "category": "currency",
+      "name": "First Piece of the Arcane"
+    },
+    {
+      "category": "jewels",
+      "name": "First Snow"
+    },
+    {
+      "category": "armour",
+      "name": "Flamesight"
+    },
+    {
+      "category": "armour",
+      "name": "Flesh and Spirit"
+    },
+    {
+      "category": "weapons",
+      "name": "Flesh-Eater"
+    },
+    {
+      "category": "armour",
+      "name": "Fleshcrafter"
+    },
+    {
+      "category": "jewels",
+      "name": "Fluid Motion"
+    },
+    {
+      "category": "armour",
+      "name": "Forbidden Shako"
+    },
+    {
+      "category": "flasks",
+      "name": "Forbidden Taste"
+    },
+    {
+      "category": "jewels",
+      "name": "Fortified Legion"
+    },
+    {
+      "category": "jewels",
+      "name": "Fortress Covenant"
+    },
+    {
+      "category": "currency",
+      "name": "Fourth Piece of Focus"
+    },
+    {
+      "category": "armour",
+      "name": "Fox's Fortune"
+    },
+    {
+      "category": "armour",
+      "name": "Foxshade"
+    },
+    {
+      "category": "armour",
+      "name": "Fractal Thoughts"
+    },
+    {
+      "category": "jewels",
+      "name": "Fragile Bloom"
+    },
+    {
+      "category": "jewels",
+      "name": "Fragility"
+    },
+    {
+      "category": "jewels",
+      "name": "From Dust"
+    },
+    {
+      "category": "weapons",
+      "name": "Frostbreath"
+    },
+    {
+      "category": "armour",
+      "name": "Frostferno"
+    },
+    {
+      "category": "jewels",
+      "name": "Frozen Trail"
+    },
+    {
+      "category": "accessories",
+      "name": "Fury Valve"
+    },
+    {
+      "category": "armour",
+      "name": "Gang's Momentum"
+    },
+    {
+      "category": "armour",
+      "name": "Garb of the Ephemeral"
+    },
+    {
+      "category": "weapons",
+      "name": "Geofri's Baptism"
+    },
+    {
+      "category": "armour",
+      "name": "Geofri's Crest"
+    },
+    {
+      "category": "armour",
+      "name": "Geofri's Legacy"
+    },
+    {
+      "category": "armour",
+      "name": "Geofri's Sanctuary"
+    },
+    {
+      "category": "armour",
+      "name": "Giantsbane"
+    },
+    {
+      "category": "accessories",
+      "name": "Gifts from Above"
+    },
+    {
+      "category": "accessories",
+      "name": "Gloomfang"
+    },
+    {
+      "category": "jewels",
+      "name": "Glorious Vanity"
+    },
+    {
+      "category": "accessories",
+      "name": "Gluttony"
+    },
+    {
+      "category": "armour",
+      "name": "Goldrim"
+    },
+    {
+      "category": "armour",
+      "name": "Goldwyrm"
+    },
+    {
+      "category": "weapons",
+      "name": "Gorebreaker"
+    },
+    {
+      "category": "weapons",
+      "name": "Goredrill"
+    },
+    {
+      "category": "armour",
+      "name": "Gorgon's Gaze"
+    },
+    {
+      "category": "jewels",
+      "name": "Grand Spectrum"
+    },
+    {
+      "category": "armour",
+      "name": "Great Old One's Tentacles"
+    },
+    {
+      "category": "armour",
+      "name": "Great Old One's Ward"
+    },
+    {
+      "category": "armour",
+      "name": "Greed's Embrace"
+    },
+    {
+      "category": "weapons",
+      "name": "Grelwood Shank"
+    },
+    {
+      "category": "armour",
+      "name": "Grip of the Council"
+    },
+    {
+      "category": "jewels",
+      "name": "Growing Agony"
+    },
+    {
+      "category": "armour",
+      "name": "Gruthkul's Pelt"
+    },
+    {
+      "category": "armour",
+      "name": "Haemophilia"
+    },
+    {
+      "category": "jewels",
+      "name": "Hair Trigger"
+    },
+    {
+      "category": "armour",
+      "name": "Hale Negator"
+    },
+    {
+      "category": "maps",
+      "name": "Hall of Grandmasters"
+    },
+    {
+      "category": "maps",
+      "name": "Hallowed Ground"
+    },
+    {
+      "category": "weapons",
+      "name": "Hand of Thought and Motion"
+    },
+    {
+      "category": "weapons",
+      "name": "Hand of Wisdom and Action"
+    },
+    {
+      "category": "armour",
+      "name": "Hands of the High Templar"
+    },
+    {
+      "category": "jewels",
+      "name": "Hazardous Research"
+    },
+    {
+      "category": "accessories",
+      "name": "Headhunter"
+    },
+    {
+      "category": "jewels",
+      "name": "Healthy Mind"
+    },
+    {
+      "category": "accessories",
+      "name": "Heartbound Loop"
+    },
+    {
+      "category": "weapons",
+      "name": "Heartbreaker"
+    },
+    {
+      "category": "armour",
+      "name": "Heatshiver"
+    },
+    {
+      "category": "weapons",
+      "name": "Hegemony's Era"
+    },
+    {
+      "category": "armour",
+      "name": "Heretic's Veil"
+    },
+    {
+      "category": "weapons",
+      "name": "Hezmana's Bloodlust"
+    },
+    {
+      "category": "jewels",
+      "name": "Hidden Potential"
+    },
+    {
+      "category": "weapons",
+      "name": "Hiltless"
+    },
+    {
+      "category": "accessories",
+      "name": "Hinekora's Sight"
+    },
+    {
+      "category": "weapons",
+      "name": "Hopeshredder"
+    },
+    {
+      "category": "jewels",
+      "name": "Hotheaded"
+    },
+    {
+      "category": "armour",
+      "name": "Hrimburn"
+    },
+    {
+      "category": "weapons",
+      "name": "Hrimnor's Hymn"
+    },
+    {
+      "category": "armour",
+      "name": "Hrimnor's Resolve"
+    },
+    {
+      "category": "armour",
+      "name": "Hrimsorrow"
+    },
+    {
+      "category": "jewels",
+      "name": "Hungry Abyss"
+    },
+    {
+      "category": "weapons",
+      "name": "Hyaon's Fury"
+    },
+    {
+      "category": "accessories",
+      "name": "Hyperboreus"
+    },
+    {
+      "category": "armour",
+      "name": "Hyrri's Bite"
+    },
+    {
+      "category": "armour",
+      "name": "Hyrri's Demise"
+    },
+    {
+      "category": "armour",
+      "name": "Hyrri's Ire"
+    },
+    {
+      "category": "accessories",
+      "name": "Icefang Orbit"
+    },
+    {
+      "category": "armour",
+      "name": "Icetomb"
+    },
+    {
+      "category": "weapons",
+      "name": "Ichimonji"
+    },
+    {
+      "category": "accessories",
+      "name": "Immortal Flesh"
+    },
+    {
+      "category": "accessories",
+      "name": "Impresence"
+    },
+    {
+      "category": "armour",
+      "name": "Incandescent Heart"
+    },
+    {
+      "category": "armour",
+      "name": "Indigon"
+    },
+    {
+      "category": "jewels",
+      "name": "Inertia"
+    },
+    {
+      "category": "jewels",
+      "name": "Inevitability"
+    },
+    {
+      "category": "armour",
+      "name": "Infernal Mantle"
+    },
+    {
+      "category": "weapons",
+      "name": "Infractem"
+    },
+    {
+      "category": "maps",
+      "name": "Infused Beachhead"
+    },
+    {
+      "category": "weapons",
+      "name": "Innsbury Edge"
+    },
+    {
+      "category": "armour",
+      "name": "Inpulsa's Broken Heart"
+    },
+    {
+      "category": "jewels",
+      "name": "Inspired Learning"
+    },
+    {
+      "category": "jewels",
+      "name": "Intuitive Leap"
+    },
+    {
+      "category": "armour",
+      "name": "Invictus Solaris"
+    },
+    {
+      "category": "armour",
+      "name": "Inya's Epiphany"
+    },
+    {
+      "category": "weapons",
+      "name": "Iron Commander"
+    },
+    {
+      "category": "armour",
+      "name": "Iron Heart"
+    },
+    {
+      "category": "watchstones",
+      "name": "Irresistable Temptation"
+    },
+    {
+      "category": "weapons",
+      "name": "Izaro's Dilemma"
+    },
+    {
+      "category": "jewels",
+      "name": "Izaro's Turmoil"
+    },
+    {
+      "category": "weapons",
+      "name": "Jack, the Axe"
+    },
+    {
+      "category": "armour",
+      "name": "Jaws of Agony"
+    },
+    {
+      "category": "weapons",
+      "name": "Jorrhast's Blacksteel"
+    },
+    {
+      "category": "armour",
+      "name": "Kalisa's Grace"
+    },
+    {
+      "category": "armour",
+      "name": "Kaltenhalt"
+    },
+    {
+      "category": "armour",
+      "name": "Kaltensoul"
+    },
+    {
+      "category": "armour",
+      "name": "Kaom's Heart"
+    },
+    {
+      "category": "weapons",
+      "name": "Kaom's Primacy"
+    },
+    {
+      "category": "armour",
+      "name": "Kaom's Roots"
+    },
+    {
+      "category": "accessories",
+      "name": "Kaom's Sign"
+    },
+    {
+      "category": "accessories",
+      "name": "Kaom's Way"
+    },
+    {
+      "category": "accessories",
+      "name": "Karui Charge"
+    },
+    {
+      "category": "accessories",
+      "name": "Karui Ward"
+    },
+    {
+      "category": "flasks",
+      "name": "Kiara's Determination"
+    },
+    {
+      "category": "accessories",
+      "name": "Kikazaru"
+    },
+    {
+      "category": "weapons",
+      "name": "Kingmaker"
+    },
+    {
+      "category": "armour",
+      "name": "Kingsguard"
+    },
+    {
+      "category": "armour",
+      "name": "Kintsugi"
+    },
+    {
+      "category": "jewels",
+      "name": "Kitava's Teachings"
+    },
+    {
+      "category": "armour",
+      "name": "Kitava's Thirst"
+    },
+    {
+      "category": "weapons",
+      "name": "Kondo's Pride"
+    },
+    {
+      "category": "armour",
+      "name": "Kongming's Stratagem"
+    },
+    {
+      "category": "weapons",
+      "name": "Kongor's Undying Rage"
+    },
+    {
+      "category": "weapons",
+      "name": "Lakishu's Blade"
+    },
+    {
+      "category": "weapons",
+      "name": "Last Resort"
+    },
+    {
+      "category": "flasks",
+      "name": "Lavianga's Spirit"
+    },
+    {
+      "category": "weapons",
+      "name": "Law of the Wilds"
+    },
+    {
+      "category": "accessories",
+      "name": "Le Heup of All"
+    },
+    {
+      "category": "accessories",
+      "name": "Leash of Oblation"
+    },
+    {
+      "category": "armour",
+      "name": "Leer Cast"
+    },
+    {
+      "category": "armour",
+      "name": "Leper's Alms"
+    },
+    {
+      "category": "jewels",
+      "name": "Lethal Pride"
+    },
+    {
+      "category": "weapons",
+      "name": "Lifesprig"
+    },
+    {
+      "category": "armour",
+      "name": "Light of Lunaris"
+    },
+    {
+      "category": "armour",
+      "name": "Lightbane Raiment"
+    },
+    {
+      "category": "armour",
+      "name": "Lightning Coil"
+    },
+    {
+      "category": "armour",
+      "name": "Lightpoacher"
+    },
+    {
+      "category": "weapons",
+      "name": "Limbsplit"
+    },
+    {
+      "category": "flasks",
+      "name": "Lion's Roar"
+    },
+    {
+      "category": "jewels",
+      "name": "Lioneye's Fall"
+    },
+    {
+      "category": "weapons",
+      "name": "Lioneye's Glare"
+    },
+    {
+      "category": "armour",
+      "name": "Lioneye's Paws"
+    },
+    {
+      "category": "armour",
+      "name": "Lioneye's Remorse"
+    },
+    {
+      "category": "armour",
+      "name": "Lioneye's Vision"
+    },
+    {
+      "category": "armour",
+      "name": "Lochtonial Caress"
+    },
+    {
+      "category": "armour",
+      "name": "Loreweave"
+    },
+    {
+      "category": "accessories",
+      "name": "Lori's Lantern"
+    },
+    {
+      "category": "armour",
+      "name": "Lycosidae"
+    },
+    {
+      "category": "maps",
+      "name": "Maelström of Chaos"
+    },
+    {
+      "category": "armour",
+      "name": "Magna Eclipsis"
+    },
+    {
+      "category": "accessories",
+      "name": "Malachai's Artifice"
+    },
+    {
+      "category": "armour",
+      "name": "Malachai's Awakening"
+    },
+    {
+      "category": "armour",
+      "name": "Malachai's Loop"
+    },
+    {
+      "category": "armour",
+      "name": "Malachai's Mark"
+    },
+    {
+      "category": "armour",
+      "name": "Malachai's Simula"
+    },
+    {
+      "category": "jewels",
+      "name": "Malicious Intent"
+    },
+    {
+      "category": "accessories",
+      "name": "Maligaro's Cruelty"
+    },
+    {
+      "category": "armour",
+      "name": "Maligaro's Lens"
+    },
+    {
+      "category": "accessories",
+      "name": "Maligaro's Restraint"
+    },
+    {
+      "category": "armour",
+      "name": "Maligaro's Virtuosity"
+    },
+    {
+      "category": "armour",
+      "name": "Maloney's Mechanism"
+    },
+    {
+      "category": "armour",
+      "name": "Maloney's Nightfall"
+    },
+    {
+      "category": "armour",
+      "name": "Manastorm"
+    },
+    {
+      "category": "jewels",
+      "name": "Mantra of Flames"
+    },
+    {
+      "category": "maps",
+      "name": "Mao Kun"
+    },
+    {
+      "category": "accessories",
+      "name": "Mark of Submission"
+    },
+    {
+      "category": "weapons",
+      "name": "Mark of the Doubting Knight"
+    },
+    {
+      "category": "accessories",
+      "name": "Mark of the Elder"
+    },
+    {
+      "category": "armour",
+      "name": "Mark of the Red Covenant"
+    },
+    {
+      "category": "accessories",
+      "name": "Mark of the Shaper"
+    },
+    {
+      "category": "jewels",
+      "name": "Martial Artistry"
+    },
+    {
+      "category": "weapons",
+      "name": "Martyr of Innocence"
+    },
+    {
+      "category": "accessories",
+      "name": "Marylene's Fallacy"
+    },
+    {
+      "category": "armour",
+      "name": "Mask of the Tribunal"
+    },
+    {
+      "category": "armour",
+      "name": "Matua Tupuna"
+    },
+    {
+      "category": "armour",
+      "name": "Maw of Conquest"
+    },
+    {
+      "category": "jewels",
+      "name": "Megalomaniac"
+    },
+    {
+      "category": "accessories",
+      "name": "Meginord's Girdle"
+    },
+    {
+      "category": "armour",
+      "name": "Meginord's Vise"
+    },
+    {
+      "category": "weapons",
+      "name": "Midnight Bargain"
+    },
+    {
+      "category": "jewels",
+      "name": "Might and Influence"
+    },
+    {
+      "category": "jewels",
+      "name": "Might in All Forms"
+    },
+    {
+      "category": "jewels",
+      "name": "Might of the Meek"
+    },
+    {
+      "category": "weapons",
+      "name": "Mightflay"
+    },
+    {
+      "category": "jewels",
+      "name": "Militant Faith"
+    },
+    {
+      "category": "armour",
+      "name": "Mind of the Council"
+    },
+    {
+      "category": "armour",
+      "name": "Mindspiral"
+    },
+    {
+      "category": "accessories",
+      "name": "Ming's Heart"
+    },
+    {
+      "category": "watchstones",
+      "name": "Misinformation"
+    },
+    {
+      "category": "armour",
+      "name": "Mistwall"
+    },
+    {
+      "category": "weapons",
+      "name": "Mjölner"
+    },
+    {
+      "category": "accessories",
+      "name": "Mokou's Embrace"
+    },
+    {
+      "category": "weapons",
+      "name": "Mon'tregul's Grasp"
+    },
+    {
+      "category": "weapons",
+      "name": "Moonbender's Wing"
+    },
+    {
+      "category": "weapons",
+      "name": "Moonsorrow"
+    },
+    {
+      "category": "weapons",
+      "name": "Mortem Morsu"
+    },
+    {
+      "category": "accessories",
+      "name": "Mother's Embrace"
+    },
+    {
+      "category": "jewels",
+      "name": "Mutated Growth"
+    },
+    {
+      "category": "armour",
+      "name": "Mutewind Pennant"
+    },
+    {
+      "category": "accessories",
+      "name": "Mutewind Seal"
+    },
+    {
+      "category": "armour",
+      "name": "Mutewind Whispersteps"
+    },
+    {
+      "category": "jewels",
+      "name": "Natural Affinity"
+    },
+    {
+      "category": "weapons",
+      "name": "Nebulis"
+    },
+    {
+      "category": "weapons",
+      "name": "Nebuloch"
+    },
+    {
+      "category": "accessories",
+      "name": "Ngamahu Tiki"
+    },
+    {
+      "category": "weapons",
+      "name": "Ngamahu's Flame"
+    },
+    {
+      "category": "accessories",
+      "name": "Ngamahu's Sign"
+    },
+    {
+      "category": "accessories",
+      "name": "Night's Hold"
+    },
+    {
+      "category": "armour",
+      "name": "Nomic's Storm"
+    },
+    {
+      "category": "weapons",
+      "name": "Null's Inclination"
+    },
+    {
+      "category": "weapons",
+      "name": "Nuro's Harp"
+    },
+    {
+      "category": "weapons",
+      "name": "Nycta's Lantern"
+    },
+    {
+      "category": "maps",
+      "name": "Oba's Cursed Trove"
+    },
+    {
+      "category": "weapons",
+      "name": "Obliteration"
+    },
+    {
+      "category": "armour",
+      "name": "Offering to the Serpent"
+    },
+    {
+      "category": "maps",
+      "name": "Olmec's Sanctum"
+    },
+    {
+      "category": "jewels",
+      "name": "Omen on the Winds"
+    },
+    {
+      "category": "armour",
+      "name": "Omeyocan"
+    },
+    {
+      "category": "armour",
+      "name": "Ondar's Clasp"
+    },
+    {
+      "category": "jewels",
+      "name": "One With Nothing"
+    },
+    {
+      "category": "weapons",
+      "name": "Oni-Goroshi"
+    },
+    {
+      "category": "weapons",
+      "name": "Ornament of the East"
+    },
+    {
+      "category": "weapons",
+      "name": "Oro's Sacrifice"
+    },
+    {
+      "category": "armour",
+      "name": "Oskarm"
+    },
+    {
+      "category": "jewels",
+      "name": "Overwhelming Odds"
+    },
+    {
+      "category": "jewels",
+      "name": "Pacifism"
+    },
+    {
+      "category": "armour",
+      "name": "Painseeker"
+    },
+    {
+      "category": "weapons",
+      "name": "Panquetzaliztli"
+    },
+    {
+      "category": "weapons",
+      "name": "Paradoxica"
+    },
+    {
+      "category": "accessories",
+      "name": "Perandus Blazon"
+    },
+    {
+      "category": "accessories",
+      "name": "Perandus Signet"
+    },
+    {
+      "category": "armour",
+      "name": "Perepiteia"
+    },
+    {
+      "category": "armour",
+      "name": "Perfidy"
+    },
+    {
+      "category": "accessories",
+      "name": "Perquil's Toe"
+    },
+    {
+      "category": "accessories",
+      "name": "Perseverance"
+    },
+    {
+      "category": "weapons",
+      "name": "Pillar of the Caged God"
+    },
+    {
+      "category": "maps",
+      "name": "Pillars of Arun"
+    },
+    {
+      "category": "weapons",
+      "name": "Piscator's Vigil"
+    },
+    {
+      "category": "jewels",
+      "name": "Pitch Darkness"
+    },
+    {
+      "category": "weapons",
+      "name": "Pledge of Hands"
+    },
+    {
+      "category": "armour",
+      "name": "Plume of Pursuit"
+    },
+    {
+      "category": "jewels",
+      "name": "Poacher's Aim"
+    },
+    {
+      "category": "maps",
+      "name": "Poorjoy's Asylum"
+    },
+    {
+      "category": "jewels",
+      "name": "Powerlessness"
+    },
+    {
+      "category": "accessories",
+      "name": "Praxis"
+    },
+    {
+      "category": "accessories",
+      "name": "Precursor's Emblem"
+    },
+    {
+      "category": "accessories",
+      "name": "Presence of Chayula"
+    },
+    {
+      "category": "jewels",
+      "name": "Primordial Eminence"
+    },
+    {
+      "category": "jewels",
+      "name": "Primordial Harmony"
+    },
+    {
+      "category": "jewels",
+      "name": "Primordial Might"
+    },
+    {
+      "category": "armour",
+      "name": "Prism Guardian"
+    },
+    {
+      "category": "weapons",
+      "name": "Prismatic Eclipse"
+    },
+    {
+      "category": "accessories",
+      "name": "Prismweave"
+    },
+    {
+      "category": "accessories",
+      "name": "Profane Proxy"
+    },
+    {
+      "category": "jewels",
+      "name": "Pugilist"
+    },
+    {
+      "category": "jewels",
+      "name": "Pure Talent"
+    },
+    {
+      "category": "accessories",
+      "name": "Putembo's Mountain"
+    },
+    {
+      "category": "accessories",
+      "name": "Putembo's Valley"
+    },
+    {
+      "category": "accessories",
+      "name": "Pyre"
+    },
+    {
+      "category": "weapons",
+      "name": "Quecholli"
+    },
+    {
+      "category": "armour",
+      "name": "Queen of the Forest"
+    },
+    {
+      "category": "weapons",
+      "name": "Queen's Decree"
+    },
+    {
+      "category": "weapons",
+      "name": "Queen's Escape"
+    },
+    {
+      "category": "jewels",
+      "name": "Quickening Covenant"
+    },
+    {
+      "category": "weapons",
+      "name": "Quill Rain"
+    },
+    {
+      "category": "jewels",
+      "name": "Rain of Splinters"
+    },
+    {
+      "category": "armour",
+      "name": "Rainbowstride"
+    },
+    {
+      "category": "armour",
+      "name": "Ralakesh's Impatience"
+    },
+    {
+      "category": "jewels",
+      "name": "Rapid Expansion"
+    },
+    {
+      "category": "accessories",
+      "name": "Rashkaldor's Patience"
+    },
+    {
+      "category": "armour",
+      "name": "Rat's Nest"
+    },
+    {
+      "category": "weapons",
+      "name": "Razor of the Seventh Sun"
+    },
+    {
+      "category": "weapons",
+      "name": "Reach of the Council"
+    },
+    {
+      "category": "weapons",
+      "name": "Realm Ender"
+    },
+    {
+      "category": "weapons",
+      "name": "Realmshaper"
+    },
+    {
+      "category": "weapons",
+      "name": "Reaper's Pursuit"
+    },
+    {
+      "category": "armour",
+      "name": "Rearguard"
+    },
+    {
+      "category": "jewels",
+      "name": "Reckless Defence"
+    },
+    {
+      "category": "weapons",
+      "name": "Redbeak"
+    },
+    {
+      "category": "accessories",
+      "name": "Redblade Band"
+    },
+    {
+      "category": "armour",
+      "name": "Redblade Banner"
+    },
+    {
+      "category": "armour",
+      "name": "Redblade Tramplers"
+    },
+    {
+      "category": "weapons",
+      "name": "Reefbane"
+    },
+    {
+      "category": "weapons",
+      "name": "Relentless Fury"
+    },
+    {
+      "category": "armour",
+      "name": "Repentance"
+    },
+    {
+      "category": "accessories",
+      "name": "Retaliation Charm"
+    },
+    {
+      "category": "weapons",
+      "name": "Reverberation Rod"
+    },
+    {
+      "category": "maps",
+      "name": "Rewritten Distant Memory"
+    },
+    {
+      "category": "weapons",
+      "name": "Rigwald's Charge"
+    },
+    {
+      "category": "accessories",
+      "name": "Rigwald's Crest"
+    },
+    {
+      "category": "armour",
+      "name": "Rigwald's Quills"
+    },
+    {
+      "category": "weapons",
+      "name": "Rigwald's Savagery"
+    },
+    {
+      "category": "armour",
+      "name": "Rime Gaze"
+    },
+    {
+      "category": "jewels",
+      "name": "Ring of Blades"
+    },
+    {
+      "category": "armour",
+      "name": "Rise of the Phoenix"
+    },
+    {
+      "category": "weapons",
+      "name": "Rive"
+    },
+    {
+      "category": "jewels",
+      "name": "Rolling Flames"
+    },
+    {
+      "category": "accessories",
+      "name": "Romira's Banquet"
+    },
+    {
+      "category": "flasks",
+      "name": "Rotgut"
+    },
+    {
+      "category": "weapons",
+      "name": "Roth's Reach"
+    },
+    {
+      "category": "armour",
+      "name": "Rotting Legion"
+    },
+    {
+      "category": "flasks",
+      "name": "Rumi's Concoction"
+    },
+    {
+      "category": "accessories",
+      "name": "Ryslatha's Coil"
+    },
+    {
+      "category": "jewels",
+      "name": "Sacrificial Harvest"
+    },
+    {
+      "category": "accessories",
+      "name": "Sacrificial Heart"
+    },
+    {
+      "category": "armour",
+      "name": "Sadima's Touch"
+    },
+    {
+      "category": "armour",
+      "name": "Saemus' Gift"
+    },
+    {
+      "category": "armour",
+      "name": "Saffell's Frame"
+    },
+    {
+      "category": "armour",
+      "name": "Saqawal's Flock"
+    },
+    {
+      "category": "armour",
+      "name": "Saqawal's Nest"
+    },
+    {
+      "category": "armour",
+      "name": "Saqawal's Talons"
+    },
+    {
+      "category": "armour",
+      "name": "Saqawal's Winds"
+    },
+    {
+      "category": "weapons",
+      "name": "Scaeva"
+    },
+    {
+      "category": "armour",
+      "name": "Scold's Bridle"
+    },
+    {
+      "category": "armour",
+      "name": "Scorpion's Call"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of Brutality"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of Directions"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of Focus"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of Storms"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of Time"
+    },
+    {
+      "category": "currency",
+      "name": "Second Piece of the Arcane"
+    },
+    {
+      "category": "jewels",
+      "name": "Self-Flagellation"
+    },
+    {
+      "category": "armour",
+      "name": "Sentari's Answer"
+    },
+    {
+      "category": "armour",
+      "name": "Seven-League Step"
+    },
+    {
+      "category": "weapons",
+      "name": "Severed in Sleep"
+    },
+    {
+      "category": "armour",
+      "name": "Shackles of the Wretched"
+    },
+    {
+      "category": "armour",
+      "name": "Shadows and Dust"
+    },
+    {
+      "category": "accessories",
+      "name": "Shaper's Seed"
+    },
+    {
+      "category": "armour",
+      "name": "Shaper's Touch"
+    },
+    {
+      "category": "jewels",
+      "name": "Shattered Chains"
+    },
+    {
+      "category": "armour",
+      "name": "Shavronne's Pace"
+    },
+    {
+      "category": "accessories",
+      "name": "Shavronne's Revelation"
+    },
+    {
+      "category": "armour",
+      "name": "Shavronne's Wrappings"
+    },
+    {
+      "category": "weapons",
+      "name": "Shimmeron"
+    },
+    {
+      "category": "weapons",
+      "name": "Shiversting"
+    },
+    {
+      "category": "armour",
+      "name": "Shroud of the Lightless"
+    },
+    {
+      "category": "accessories",
+      "name": "Sibyl's Lament"
+    },
+    {
+      "category": "accessories",
+      "name": "Sidhebreath"
+    },
+    {
+      "category": "accessories",
+      "name": "Siegebreaker"
+    },
+    {
+      "category": "weapons",
+      "name": "Sign of the Sin Eater"
+    },
+    {
+      "category": "weapons",
+      "name": "Silverbough"
+    },
+    {
+      "category": "weapons",
+      "name": "Silverbranch"
+    },
+    {
+      "category": "armour",
+      "name": "Sin Trek"
+    },
+    {
+      "category": "flasks",
+      "name": "Sin's Rebirth"
+    },
+    {
+      "category": "weapons",
+      "name": "Singularity"
+    },
+    {
+      "category": "weapons",
+      "name": "Sinvicta's Mettle"
+    },
+    {
+      "category": "weapons",
+      "name": "Sire of Shards"
+    },
+    {
+      "category": "armour",
+      "name": "Skin of the Lords"
+    },
+    {
+      "category": "armour",
+      "name": "Skin of the Loyal"
+    },
+    {
+      "category": "armour",
+      "name": "Skirmish"
+    },
+    {
+      "category": "armour",
+      "name": "Skullhead"
+    },
+    {
+      "category": "armour",
+      "name": "Skyforth"
+    },
+    {
+      "category": "armour",
+      "name": "Slavedriver's Hand"
+    },
+    {
+      "category": "armour",
+      "name": "Slitherpinch"
+    },
+    {
+      "category": "weapons",
+      "name": "Slivertongue"
+    },
+    {
+      "category": "armour",
+      "name": "Snakebite"
+    },
+    {
+      "category": "accessories",
+      "name": "Snakepit"
+    },
+    {
+      "category": "armour",
+      "name": "Solaris Lorica"
+    },
+    {
+      "category": "accessories",
+      "name": "Solstice Vigil"
+    },
+    {
+      "category": "flasks",
+      "name": "Soul Catcher"
+    },
+    {
+      "category": "armour",
+      "name": "Soul Mantle"
+    },
+    {
+      "category": "armour",
+      "name": "Soul Strike"
+    },
+    {
+      "category": "weapons",
+      "name": "Soul Taker"
+    },
+    {
+      "category": "accessories",
+      "name": "Soul Tether"
+    },
+    {
+      "category": "jewels",
+      "name": "Soul's Wick"
+    },
+    {
+      "category": "accessories",
+      "name": "Soulthirst"
+    },
+    {
+      "category": "weapons",
+      "name": "Soulwrest"
+    },
+    {
+      "category": "armour",
+      "name": "Southbound"
+    },
+    {
+      "category": "armour",
+      "name": "Speaker's Wreath"
+    },
+    {
+      "category": "weapons",
+      "name": "Spine of the First Claimant"
+    },
+    {
+      "category": "jewels",
+      "name": "Spire of Stone"
+    },
+    {
+      "category": "jewels",
+      "name": "Spirit Guards"
+    },
+    {
+      "category": "jewels",
+      "name": "Spirited Response"
+    },
+    {
+      "category": "jewels",
+      "name": "Split Personality"
+    },
+    {
+      "category": "jewels",
+      "name": "Spreading Rot"
+    },
+    {
+      "category": "armour",
+      "name": "Springleaf"
+    },
+    {
+      "category": "watchstones",
+      "name": "Stalwart Defenders"
+    },
+    {
+      "category": "weapons",
+      "name": "Starforge"
+    },
+    {
+      "category": "armour",
+      "name": "Starkonja's Head"
+    },
+    {
+      "category": "jewels",
+      "name": "Static Electricity"
+    },
+    {
+      "category": "jewels",
+      "name": "Steel Spirit"
+    },
+    {
+      "category": "armour",
+      "name": "Steppan Eard"
+    },
+    {
+      "category": "accessories",
+      "name": "Stone of Lazhwar"
+    },
+    {
+      "category": "weapons",
+      "name": "Storm Cloud"
+    },
+    {
+      "category": "weapons",
+      "name": "Storm Prison"
+    },
+    {
+      "category": "accessories",
+      "name": "Storm Secret"
+    },
+    {
+      "category": "armour",
+      "name": "Storm's Gift"
+    },
+    {
+      "category": "armour",
+      "name": "Stormcharger"
+    },
+    {
+      "category": "accessories",
+      "name": "Stormfire"
+    },
+    {
+      "category": "weapons",
+      "name": "Story of the Vaal"
+    },
+    {
+      "category": "accessories",
+      "name": "String of Servitude"
+    },
+    {
+      "category": "jewels",
+      "name": "Sudden Ignition"
+    },
+    {
+      "category": "accessories",
+      "name": "Sunblast"
+    },
+    {
+      "category": "armour",
+      "name": "Sundance"
+    },
+    {
+      "category": "armour",
+      "name": "Sunspite"
+    },
+    {
+      "category": "armour",
+      "name": "Surgebinders"
+    },
+    {
+      "category": "jewels",
+      "name": "Survival Instincts"
+    },
+    {
+      "category": "jewels",
+      "name": "Survival Secrets"
+    },
+    {
+      "category": "jewels",
+      "name": "Survival Skills"
+    },
+    {
+      "category": "armour",
+      "name": "Tabula Rasa"
+    },
+    {
+      "category": "weapons",
+      "name": "Taproot"
+    },
+    {
+      "category": "weapons",
+      "name": "Taryn's Shiver"
+    },
+    {
+      "category": "accessories",
+      "name": "Tasalio's Sign"
+    },
+    {
+      "category": "flasks",
+      "name": "Taste of Hate"
+    },
+    {
+      "category": "accessories",
+      "name": "Tavukai"
+    },
+    {
+      "category": "accessories",
+      "name": "Tear of Purity"
+    },
+    {
+      "category": "jewels",
+      "name": "Tempered Flesh"
+    },
+    {
+      "category": "jewels",
+      "name": "Tempered Mind"
+    },
+    {
+      "category": "jewels",
+      "name": "Tempered Spirit"
+    },
+    {
+      "category": "weapons",
+      "name": "Terminus Est"
+    },
+    {
+      "category": "watchstones",
+      "name": "Territories Unknown"
+    },
+    {
+      "category": "watchstones",
+      "name": "Terror"
+    },
+    {
+      "category": "jewels",
+      "name": "The Anima Stone"
+    },
+    {
+      "category": "armour",
+      "name": "The Anticipation"
+    },
+    {
+      "category": "accessories",
+      "name": "The Anvil"
+    },
+    {
+      "category": "accessories",
+      "name": "The Ascetic"
+    },
+    {
+      "category": "accessories",
+      "name": "The Aylardex"
+    },
+    {
+      "category": "armour",
+      "name": "The Baron"
+    },
+    {
+      "category": "maps",
+      "name": "The Beachhead"
+    },
+    {
+      "category": "armour",
+      "name": "The Beast Fur Shawl"
+    },
+    {
+      "category": "weapons",
+      "name": "The Black Cane"
+    },
+    {
+      "category": "armour",
+      "name": "The Blood Dance"
+    },
+    {
+      "category": "weapons",
+      "name": "The Blood Reaper"
+    },
+    {
+      "category": "weapons",
+      "name": "The Blood Thorn"
+    },
+    {
+      "category": "jewels",
+      "name": "The Blue Dream"
+    },
+    {
+      "category": "armour",
+      "name": "The Brass Dome"
+    },
+    {
+      "category": "armour",
+      "name": "The Brine Crown"
+    },
+    {
+      "category": "armour",
+      "name": "The Bringer of Rain"
+    },
+    {
+      "category": "armour",
+      "name": "The Broken Crown"
+    },
+    {
+      "category": "armour",
+      "name": "The Coming Calamity"
+    },
+    {
+      "category": "weapons",
+      "name": "The Consuming Dark"
+    },
+    {
+      "category": "armour",
+      "name": "The Covenant"
+    },
+    {
+      "category": "maps",
+      "name": "The Coward's Trial"
+    },
+    {
+      "category": "weapons",
+      "name": "The Dancing Dervish"
+    },
+    {
+      "category": "weapons",
+      "name": "The Dancing Duo"
+    },
+    {
+      "category": "weapons",
+      "name": "The Dark Seer"
+    },
+    {
+      "category": "armour",
+      "name": "The Deep One's Hide"
+    },
+    {
+      "category": "armour",
+      "name": "The Devouring Diadem"
+    },
+    {
+      "category": "accessories",
+      "name": "The Effigon"
+    },
+    {
+      "category": "armour",
+      "name": "The Embalmer"
+    },
+    {
+      "category": "armour",
+      "name": "The Eternal Apple"
+    },
+    {
+      "category": "armour",
+      "name": "The Eternity Shroud"
+    },
+    {
+      "category": "accessories",
+      "name": "The Felbog Fang"
+    },
+    {
+      "category": "accessories",
+      "name": "The Flow Untethered"
+    },
+    {
+      "category": "armour",
+      "name": "The Formless Flame"
+    },
+    {
+      "category": "armour",
+      "name": "The Formless Inferno"
+    },
+    {
+      "category": "jewels",
+      "name": "The Front Line"
+    },
+    {
+      "category": "weapons",
+      "name": "The Goddess Bound"
+    },
+    {
+      "category": "weapons",
+      "name": "The Goddess Scorned"
+    },
+    {
+      "category": "jewels",
+      "name": "The Golden Rule"
+    },
+    {
+      "category": "jewels",
+      "name": "The Green Dream"
+    },
+    {
+      "category": "jewels",
+      "name": "The Green Nightmare"
+    },
+    {
+      "category": "weapons",
+      "name": "The Grey Spire"
+    },
+    {
+      "category": "weapons",
+      "name": "The Gryphon"
+    },
+    {
+      "category": "armour",
+      "name": "The Gull"
+    },
+    {
+      "category": "accessories",
+      "name": "The Halcyon"
+    },
+    {
+      "category": "weapons",
+      "name": "The Harvest"
+    },
+    {
+      "category": "accessories",
+      "name": "The Hungry Loop"
+    },
+    {
+      "category": "accessories",
+      "name": "The Ignomon"
+    },
+    {
+      "category": "armour",
+      "name": "The Immortal Will"
+    },
+    {
+      "category": "jewels",
+      "name": "The Interrogation"
+    },
+    {
+      "category": "armour",
+      "name": "The Iron Fortress"
+    },
+    {
+      "category": "armour",
+      "name": "The Ivory Tower"
+    },
+    {
+      "category": "accessories",
+      "name": "The Jinxed Juju"
+    },
+    {
+      "category": "jewels",
+      "name": "The Long Winter"
+    },
+    {
+      "category": "accessories",
+      "name": "The Magnate"
+    },
+    {
+      "category": "flasks",
+      "name": "The Overflowing Chalice"
+    },
+    {
+      "category": "accessories",
+      "name": "The Pandemonius"
+    },
+    {
+      "category": "accessories",
+      "name": "The Pariah"
+    },
+    {
+      "category": "maps",
+      "name": "The Perandus Manor"
+    },
+    {
+      "category": "armour",
+      "name": "The Peregrine"
+    },
+    {
+      "category": "armour",
+      "name": "The Perfect Form"
+    },
+    {
+      "category": "weapons",
+      "name": "The Poet's Pen"
+    },
+    {
+      "category": "accessories",
+      "name": "The Primordial Chain"
+    },
+    {
+      "category": "weapons",
+      "name": "The Princess"
+    },
+    {
+      "category": "maps",
+      "name": "The Putrid Cloister"
+    },
+    {
+      "category": "armour",
+      "name": "The Queen's Hunger"
+    },
+    {
+      "category": "armour",
+      "name": "The Rat Cage"
+    },
+    {
+      "category": "jewels",
+      "name": "The Red Dream"
+    },
+    {
+      "category": "jewels",
+      "name": "The Red Nightmare"
+    },
+    {
+      "category": "armour",
+      "name": "The Red Trail"
+    },
+    {
+      "category": "armour",
+      "name": "The Restless Ward"
+    },
+    {
+      "category": "weapons",
+      "name": "The Rippling Thoughts"
+    },
+    {
+      "category": "weapons",
+      "name": "The Saviour"
+    },
+    {
+      "category": "weapons",
+      "name": "The Scourge"
+    },
+    {
+      "category": "weapons",
+      "name": "The Screaming Eagle"
+    },
+    {
+      "category": "weapons",
+      "name": "The Searing Touch"
+    },
+    {
+      "category": "armour",
+      "name": "The Shattered Divinity"
+    },
+    {
+      "category": "jewels",
+      "name": "The Siege"
+    },
+    {
+      "category": "armour",
+      "name": "The Signal Fire"
+    },
+    {
+      "category": "armour",
+      "name": "The Snowblind Grace"
+    },
+    {
+      "category": "flasks",
+      "name": "The Sorrow of the Divine"
+    },
+    {
+      "category": "armour",
+      "name": "The Stampede"
+    },
+    {
+      "category": "weapons",
+      "name": "The Stormheart"
+    },
+    {
+      "category": "accessories",
+      "name": "The Tactician"
+    },
+    {
+      "category": "accessories",
+      "name": "The Taming"
+    },
+    {
+      "category": "armour",
+      "name": "The Tempest's Binding"
+    },
+    {
+      "category": "weapons",
+      "name": "The Tempestuous Steel"
+    },
+    {
+      "category": "armour",
+      "name": "The Three Dragons"
+    },
+    {
+      "category": "armour",
+      "name": "The Vertex"
+    },
+    {
+      "category": "jewels",
+      "name": "The Vigil"
+    },
+    {
+      "category": "accessories",
+      "name": "The Warden's Brand"
+    },
+    {
+      "category": "weapons",
+      "name": "The Wasp Nest"
+    },
+    {
+      "category": "weapons",
+      "name": "The Whispering Ice"
+    },
+    {
+      "category": "flasks",
+      "name": "The Wise Oak"
+    },
+    {
+      "category": "flasks",
+      "name": "The Writhing Jar"
+    },
+    {
+      "category": "weapons",
+      "name": "The Yielding Mortality"
+    },
+    {
+      "category": "accessories",
+      "name": "Thief's Torment"
+    },
+    {
+      "category": "currency",
+      "name": "Third Piece of Brutality"
+    },
+    {
+      "category": "currency",
+      "name": "Third Piece of Directions"
+    },
+    {
+      "category": "currency",
+      "name": "Third Piece of Focus"
+    },
+    {
+      "category": "currency",
+      "name": "Third Piece of Storms"
+    },
+    {
+      "category": "currency",
+      "name": "Third Piece of the Arcane"
+    },
+    {
+      "category": "armour",
+      "name": "Thirst for Horrors"
+    },
+    {
+      "category": "armour",
+      "name": "Thousand Ribbons"
+    },
+    {
+      "category": "armour",
+      "name": "Thousand Teeth Temu"
+    },
+    {
+      "category": "jewels",
+      "name": "Thread of Hope"
+    },
+    {
+      "category": "armour",
+      "name": "Three-step Assault"
+    },
+    {
+      "category": "armour",
+      "name": "Thunderfist"
+    },
+    {
+      "category": "armour",
+      "name": "Thundersight"
+    },
+    {
+      "category": "accessories",
+      "name": "Timeclasp"
+    },
+    {
+      "category": "armour",
+      "name": "Tinkerskin"
+    },
+    {
+      "category": "armour",
+      "name": "Titucius' Span"
+    },
+    {
+      "category": "jewels",
+      "name": "To Dust"
+    },
+    {
+      "category": "armour",
+      "name": "Tombfist"
+    },
+    {
+      "category": "armour",
+      "name": "Torchoak Step"
+    },
+    {
+      "category": "weapons",
+      "name": "Touch of Anguish"
+    },
+    {
+      "category": "jewels",
+      "name": "Transcendent Flesh"
+    },
+    {
+      "category": "jewels",
+      "name": "Transcendent Mind"
+    },
+    {
+      "category": "jewels",
+      "name": "Transcendent Spirit"
+    },
+    {
+      "category": "weapons",
+      "name": "Tremor Rod"
+    },
+    {
+      "category": "armour",
+      "name": "Triad Grip"
+    },
+    {
+      "category": "armour",
+      "name": "Trolltimber Spire"
+    },
+    {
+      "category": "weapons",
+      "name": "Trypanon"
+    },
+    {
+      "category": "armour",
+      "name": "Tukohama's Fortress"
+    },
+    {
+      "category": "weapons",
+      "name": "Tulborn"
+    },
+    {
+      "category": "weapons",
+      "name": "Tulfall"
+    },
+    {
+      "category": "maps",
+      "name": "Twisted Distant Memory"
+    },
+    {
+      "category": "weapons",
+      "name": "Twyzel"
+    },
+    {
+      "category": "accessories",
+      "name": "Umbilicus Immortalis"
+    },
+    {
+      "category": "jewels",
+      "name": "Unending Hunger"
+    },
+    {
+      "category": "weapons",
+      "name": "Ungil's Gauche"
+    },
+    {
+      "category": "accessories",
+      "name": "Ungil's Harmony"
+    },
+    {
+      "category": "jewels",
+      "name": "Unnatural Instinct"
+    },
+    {
+      "category": "jewels",
+      "name": "Unstable Payload"
+    },
+    {
+      "category": "accessories",
+      "name": "Uzaza's Meadow"
+    },
+    {
+      "category": "accessories",
+      "name": "Uzaza's Mountain"
+    },
+    {
+      "category": "armour",
+      "name": "Vaal Caress"
+    },
+    {
+      "category": "jewels",
+      "name": "Vaal Sentencing"
+    },
+    {
+      "category": "accessories",
+      "name": "Valako's Sign"
+    },
+    {
+      "category": "accessories",
+      "name": "Valyrium"
+    },
+    {
+      "category": "maps",
+      "name": "Vaults of Atziri"
+    },
+    {
+      "category": "armour",
+      "name": "Veil of the Night"
+    },
+    {
+      "category": "accessories",
+      "name": "Venopuncture"
+    },
+    {
+      "category": "accessories",
+      "name": "Ventor's Gamble"
+    },
+    {
+      "category": "armour",
+      "name": "Veruso's Battering Rams"
+    },
+    {
+      "category": "flasks",
+      "name": "Vessel of Vinktar"
+    },
+    {
+      "category": "accessories",
+      "name": "Victario's Acuity"
+    },
+    {
+      "category": "armour",
+      "name": "Victario's Charity"
+    },
+    {
+      "category": "armour",
+      "name": "Victario's Flight"
+    },
+    {
+      "category": "armour",
+      "name": "Victario's Influence"
+    },
+    {
+      "category": "armour",
+      "name": "Vis Mortis"
+    },
+    {
+      "category": "accessories",
+      "name": "Vivinsect"
+    },
+    {
+      "category": "armour",
+      "name": "Vix Lunaris"
+    },
+    {
+      "category": "armour",
+      "name": "Vixen's Entrapment"
+    },
+    {
+      "category": "accessories",
+      "name": "Voice of the Storm"
+    },
+    {
+      "category": "jewels",
+      "name": "Voices"
+    },
+    {
+      "category": "weapons",
+      "name": "Void Battery"
+    },
+    {
+      "category": "armour",
+      "name": "Voidbringer"
+    },
+    {
+      "category": "accessories",
+      "name": "Voideye"
+    },
+    {
+      "category": "armour",
+      "name": "Voidfletcher"
+    },
+    {
+      "category": "weapons",
+      "name": "Voidforge"
+    },
+    {
+      "category": "accessories",
+      "name": "Voidheart"
+    },
+    {
+      "category": "weapons",
+      "name": "Voidhome"
+    },
+    {
+      "category": "armour",
+      "name": "Voidwalker"
+    },
+    {
+      "category": "armour",
+      "name": "Volkuur's Guidance"
+    },
+    {
+      "category": "accessories",
+      "name": "Voll's Devotion"
+    },
+    {
+      "category": "armour",
+      "name": "Voll's Protector"
+    },
+    {
+      "category": "armour",
+      "name": "Voll's Vision"
+    },
+    {
+      "category": "jewels",
+      "name": "Volley Fire"
+    },
+    {
+      "category": "weapons",
+      "name": "Vulconus"
+    },
+    {
+      "category": "armour",
+      "name": "Wake of Destruction"
+    },
+    {
+      "category": "armour",
+      "name": "Wall of Brambles"
+    },
+    {
+      "category": "armour",
+      "name": "Wanderlust"
+    },
+    {
+      "category": "watchstones",
+      "name": "War Among the Stars"
+    },
+    {
+      "category": "jewels",
+      "name": "Warlord's Reach"
+    },
+    {
+      "category": "accessories",
+      "name": "Warped Timepiece"
+    },
+    {
+      "category": "accessories",
+      "name": "Warrior's Legacy"
+    },
+    {
+      "category": "jewels",
+      "name": "Watcher's Eye"
+    },
+    {
+      "category": "jewels",
+      "name": "Weight of Sin"
+    },
+    {
+      "category": "jewels",
+      "name": "Weight of the Empire"
+    },
+    {
+      "category": "maps",
+      "name": "Whakawairua Tuahu"
+    },
+    {
+      "category": "armour",
+      "name": "Wheel of the Stormsail"
+    },
+    {
+      "category": "weapons",
+      "name": "White Wind"
+    },
+    {
+      "category": "weapons",
+      "name": "Wideswing"
+    },
+    {
+      "category": "weapons",
+      "name": "Widowmaker"
+    },
+    {
+      "category": "jewels",
+      "name": "Wildfire"
+    },
+    {
+      "category": "weapons",
+      "name": "Wildslash"
+    },
+    {
+      "category": "armour",
+      "name": "Wildwrap"
+    },
+    {
+      "category": "accessories",
+      "name": "Willowgift"
+    },
+    {
+      "category": "weapons",
+      "name": "Windripper"
+    },
+    {
+      "category": "armour",
+      "name": "Windscream"
+    },
+    {
+      "category": "weapons",
+      "name": "Wings of Entropy"
+    },
+    {
+      "category": "jewels",
+      "name": "Winter Burial"
+    },
+    {
+      "category": "jewels",
+      "name": "Winter's Bounty"
+    },
+    {
+      "category": "accessories",
+      "name": "Winterheart"
+    },
+    {
+      "category": "flasks",
+      "name": "Witchfire Brew"
+    },
+    {
+      "category": "weapons",
+      "name": "Witchhunter's Judgment"
+    },
+    {
+      "category": "armour",
+      "name": "Wondertrap"
+    },
+    {
+      "category": "armour",
+      "name": "Worldcarver"
+    },
+    {
+      "category": "armour",
+      "name": "Wraithlord"
+    },
+    {
+      "category": "accessories",
+      "name": "Wurm's Molt"
+    },
+    {
+      "category": "armour",
+      "name": "Wyrmsign"
+    },
+    {
+      "category": "weapons",
+      "name": "Xirgil's Crank"
+    },
+    {
+      "category": "accessories",
+      "name": "Xoph's Blood"
+    },
+    {
+      "category": "weapons",
+      "name": "Xoph's Inception"
+    },
+    {
+      "category": "accessories",
+      "name": "Yoke of Suffering"
+    },
+    {
+      "category": "armour",
+      "name": "Yriel's Fostering"
+    },
+    {
+      "category": "armour",
+      "name": "Zahndethus' Cassock"
+    },
+    {
+      "category": "armour",
+      "name": "Zeel's Amplifier"
+    }
+  ]
+]

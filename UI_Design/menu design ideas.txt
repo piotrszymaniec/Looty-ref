@@ -1,0 +1,63 @@
+menu design ideas.txt
+
+
+Choose modificator group                           					or choose from list [___] 
+General: 1 2 3 4 5 6  7
+Melee Attacks: Crit_strike, Crit multiplier...
+Spell Attacks:
+When using weapon: Crit_ch, crit_multi, 
+Defense:
+Utility:
+Others:
+
+-------------
+
+Choose modificator group below                           					or from list [___] 
+
+General:
+	Utility: [here another idea to cut off length of groups, but how we will odnosic sie in ItemCProps]
+	Flasks:
+	Other:
+Offense:
+	Attack based
+	Spell based
+
+Life: 1, 2, 3, 4 ... >>
+Mana:
+Defense: ES AR ER ES+AR ES+ER AR+ER
+	vs Attacks:
+	vs Spells:
+Utility: mf, ms,
+Flasks:
+Gems (maybe adding another category is justified if more than 3-5 or some other x-y options)
+Other
+
+--------------------------
+
+General (7): (bolder, other font, diffrent color)
+or (mini text) 3 mods
+
+-------------------------
+upper menu
+
+__________________________________________________________________________
+ General     Offense     Life     Mana     Defense     Utility     Flasks  
+_______________ _/_ _______+__________________\/_________//___________/\_____
+
+
+
+------------------------
+
+side colllapsable menu
+
+________________
+ General        | (arrow after general caption)
+                |
+ Offense		|
+   Attacks      | (arrow)
+   Spells       |
+|
+|
+|
+
+

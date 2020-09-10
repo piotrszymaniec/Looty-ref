@@ -1,0 +1,26 @@
+curl -X GET "https://www.pathofexile.com/api/leagues?type=main&realm=pc&compat=1" -H "accept: */*"
+
+access-control-allow-origin: * 
+cache-control: no-cache 
+cf-cache-status: DYNAMIC 
+cf-ray: 53f973f83ea59fe2-IAD 
+content-encoding: br 
+content-length: 490 
+content-type: application/json; charset=utf-8 
+date: Tue, 03 Dec 2019 23:52:12 GMT 
+etag: W/"1ea-bnsjD6BY8Zv9t6U1L8EhsunjjT4" 
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+expires: -1 
+pragma: no-cache 
+server: cloudflare 
+status: 200, 200 OK 
+via: 1.1 d3039ad83798b26ecb9f9f1e666afe27.cloudfront.net (CloudFront) 
+x-amz-cf-id: Sz18fGdUiKI5pxplZz-MScHLjsr17ctl5WTQSmJj88_Km-Ij4PdJZA== 
+x-amz-cf-pop: FRA6-C1 
+x-cache: Miss from cloudfront 
+x-frame-options: SAMEORIGIN 
+x-powered-by: Express, Phusion Passenger 5.3.4 
+x-rate-limit-ip: 5:5:10,10:10:30,15:10:300 
+x-rate-limit-ip-state: 1:5:0,1:10:0,1:10:0 
+x-rate-limit-policy: ladder-view 
+x-rate-limit-rules: Ip 
