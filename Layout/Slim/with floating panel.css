@@ -1,0 +1,65 @@
+/* nocny redesign */
+.pane-btn.select-columns {
+}
+.group-div {
+  /*! background-color: #070d1a; */
+  /*! margin-bottom: 1px; */
+  background: ;
+}
+#league-controls {
+  /*! display: inherit; */
+  width: 1085px;
+  margin: 0 auto;
+}
+#header {
+  background: #00000082;
+  height: 50px;
+  /*! width: 1200px; */
+}
+.views-menu.view-btn {
+  border: 0;
+  background: none;
+}
+.view-btn.grid {
+}
+.views-menu > menu-item:nth-child(8) > a:nth-child(1) {
+  
+}
+.pane {
+  z-index: 1000;
+  position: absolute;
+  /*! left: 30px; */
+  bottom: 168px;
+  /*! background-blend-mode: darken; */
+  /*! background-image: url("/images/main-bg-heist.jpg"); */
+  padding: 14px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.9);
+  /*! background: linear-gradient(0deg, rgba(0, 0, 0, 0.78) 0%, rgb(0, 0, 0.78) 100%); */
+  margin: 0 auto;
+  width: 1100px;
+}
+#alerter {
+  width: 90%;
+}
+.load-save {
+}
+.load-save #s2id_autogen4 {
+}
+.select2-choice.select2-default {
+  /*! background-color: rgba(0,0,0,0.1); */
+  background: antiquewhite;
+}
+#select2-chosen-4 {
+  /*! background: ; */
+}
+.select2-choice.select2-default {
+  background: aquamarine;
+}
+.ls-btn {
+}
+.views-menu {
+}
+menu-bar > .view-btn {
+  background: none;
+}
