@@ -1,6 +1,6 @@
-#Alerter
+# Alerter
 
-###Restyle propostions
+### Restyle propostions
 
 image:
 
