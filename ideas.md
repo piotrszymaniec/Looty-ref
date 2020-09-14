@@ -1,5 +1,7 @@
 # Ideas
 
+- [ ] add possibility to set POESSID in settings yourself
+
 - [ ] read how poe.ninja is translating item that you want to trade to official trade links ???
 
 ### Full text search
