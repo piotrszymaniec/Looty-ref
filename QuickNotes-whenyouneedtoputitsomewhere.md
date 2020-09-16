@@ -10,3 +10,6 @@
 #### 4. check every prefix in ComputedItemProps if it parsed poprawnie, jak nie to wyłącz lub napraw
 
 5. move further away Tooltip window - maybe even make it stationary
+
+6. for some mod fields think about helper text
+  - good idea is to make maybe custom modal window/tooltip ?
