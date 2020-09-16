@@ -4,4 +4,5 @@
 
 2. When turning on unparsed column i could turn off text-overflow ellipsis just for this column - so long text was all visible
 
-3. hwile having cursor on column header, whole column could be highligted in higlht column color
+3. while having cursor on column header, whole column could be highligted in higlht column color
+  - add to column cells new class ex. col-highlighted
