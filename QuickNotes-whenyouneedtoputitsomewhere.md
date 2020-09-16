@@ -6,3 +6,5 @@
 
 3. while having cursor on column header, whole column could be highligted in higlht column color
   - add to column cells new class ex. col-highlighted
+
+####4. check every prefix in ComputedItemProps if it parsed poprawnie, jak nie to wyłącz lub napraw
