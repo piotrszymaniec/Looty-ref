@@ -8,3 +8,5 @@
   - add to column cells new class ex. col-highlighted
 
 #### 4. check every prefix in ComputedItemProps if it parsed poprawnie, jak nie to wyłącz lub napraw
+
+5. move further away Tooltip window - maybe even make it stationary
