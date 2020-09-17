@@ -1,0 +1,130 @@
+.form.top {
+  padding-top: 10px;
+}
+
+.content {
+  padding: 10px 10px 0px 10px;
+}
+
+.form {
+  padding: 0px 0px 10px 10px;
+}
+
+.form #keyword {
+  width: 480px;
+}
+
+.form input[type!='checkbox'], .form a {
+  height: 33px;
+}
+
+.btn.btn-form {
+  background-color: #1d9d74;
+  color: white;
+}
+
+.form #findBtn {
+  width: 90px;
+}
+
+textarea:focus, input:focus{
+   outline-color: #1d9d74;
+   outline-width: 2px;
+}
+
+a.tag {
+  display: inline-block;
+  height: 24px;
+  line-height: 24px;
+  position: relative;
+  margin: 0 16px 8px 0;
+  padding: 0 10px 0 12px;
+  background: #339A99;
+  -webkit-border-bottom-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  -webkit-border-top-right-radius: 3px;
+  border-top-right-radius: 3px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  color: #fff;
+  font-size: 12px;
+  font-family: "Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
+  text-decoration: none;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  font-weight: bold;
+}
+
+a.tag.socketed {
+  background: #F06E22;
+}
+
+a.tag.mtx {
+  background: #AA87C4;
+}
+
+.circle.mtx {
+  color: #B463D0;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+a.tag:before {
+  content: "";
+  position: absolute;
+  top:0;
+  left: -12px;
+  width: 0;
+  height: 0;
+  border-color: transparent #339A99 transparent transparent;
+  border-style: solid;
+  border-width: 12px 12px 12px 0;
+}
+
+a.tag.socketed:before {
+  border-color: transparent #F06E22 transparent transparent;
+}
+
+a.tag.mtx:before {
+  border-color: transparent #AA87C4 transparent transparent;
+}
+
+a.tag:after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  float: left;
+  width: 5px;
+  height: 5px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #fff;
+  -webkit-box-shadow: -1px -1px 2px rgba(0,0,0,0.4);
+  box-shadow: -1px -1px 2px rgba(0,0,0,0.4);
+}
+
+.top-right {
+  float: right;
+  padding-right: 15px;
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+#contact {
+  color: #1d9d74;
+  cursor: pointer;
+}
+
+.mail-me {
+  color: #1d9d74;
+  text-decoration: underline;
+}
+
+.checkboxes {
+  padding: 5px 0px 5px 0px;
+}
+
+label {
+  font-weight: normal;
+  font-size: 13px;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="js/finder.js"></script>
+  <link rel="stylesheet" type="text/css" href="bower_components/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" type="text/css" href="css/finder.css">
+</head>
+<body>
+  <div class="form top">
+    <input type="text" placeholder="Enter account name" id="account" />
+    <a type="button" class="btn btn-form" id="loadBtn" value="load data" ><i class="fa fa-cloud"></i> load account data</a>
+    <span class="top-right">
+      <i class="fa fa-lg fa-question-circle-o" id="contact"></i>
+    </span>
+  </div>
+  <div class="content" style="width:600px;height:400px;background-color:#EEEEEE;overflow:scroll;">
+  </div>
+  <br />
+  <div class="form">
+    <input type="text" placeholder="Enter search criteria" id="keyword" />
+    <a type="button" class="btn btn-form" id="findBtn" value="find" ><i class="fa fa-search"></i> find</a>
+    <div class="checkboxes">
+      <input type="checkbox" id="chkmtx" /> <label for="chkmtx">MTX</label>
+    <div>
+  </div>
+
+</body>
+</html>

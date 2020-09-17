@@ -1,0 +1,16 @@
+{
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "description": "Find item in your Path of Exile account",
+   "icons": {
+      "128": "images/icon-128x128.png",
+      "16": "images/icon-16x16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkhMBfZb4WFl7I3cj3GHJrWKcM3Puukr71YNRk6NMkK06R7EWiwtPOBolsHUEUdSfpmCa7lscoJkofxGTNyIwyOPHuJVD2sd/UkaNhE3poJYgJ4CWc/2RcKReya2bEQqP7SeJSrW4ycAfEQDAGvo3NK3a1dWoHuq3A9sbivdTP0HViliW7uyP29Lilhnq+/xZT2eCrKvMENDuNsbcWgL7J6Jr0WeNz61LUKYs8BwuliH24HWQAjwN1VtR0hFbfJAEu/6Rb+De+UcKrjQWM7TqIIV79mZfwY8jyTi54+MQbv967xM15R7+IZMwcPTviGd94JLLuX6u6QFhrlbln5MPPwIDAQAB",
+   "manifest_version": 2,
+   "name": "POE item finder",
+   "permissions": [ "https://www.pathofexile.com/*", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.9.1.0"
+}

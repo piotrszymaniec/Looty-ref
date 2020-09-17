@@ -1,0 +1,103 @@
+.MaterialBtn {
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.MaterialBtn:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column {
+  text-overflow: clip;
+  box-sizing: border-box;
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.slick-headerrow-column:hover {
+  background: #c2c2c2;
+}
+.slick-headerrow-column.ui-state-default {
+  padding: 1px;
+}
+.slick-headerrow-column input {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.slick-header-column.ui-state-default {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: none;
+  background-color: #f9a825;
+  color: black;
+  border-color: #795548;
+  /* header titles names will take all available space to display their name*/
+  text-overflow: unset !important;
+  padding: 0px;
+  /*centered column header names*/
+  text-align: center;
+  /*border: none;*/
+  /*padding: 0;*/
+  /*text-shadow: none;*/
+  /*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+  font-size: 9px;
+  /*height: 40px;*/
+  /*line-height: 40px;*/
+}
+.slick-header-column.ui-state-default:hover {
+  background: #c2c2c2;
+}
+.slick-row.ui-widget-content.odd,
+.slick-cell {
+  background-color: #a1887f;
+}
+.slick-row.ui-widget-content.even,
+.slick-cell {
+  background-color: #bcaaa4;
+}
+.slick-row.ui-widget-content,
+.slick-cell {
+  background: none;
+  color: black;
+  /*background-color: #eeeeee;*/
+  /*color: #666666;*/
+  /*border: none;*/
+  /*border-bottom: solid 1px #ffffff;*/
+  font-size: 13px;
+  /*height: 60px;*/
+  /*line-height: 60px;*/
+  /*padding: 0 5px;*/
+}
+/* hovered row indicator */
+.ui-widget-content.slick-row:hover {
+  background-color: #8e5642;
+}

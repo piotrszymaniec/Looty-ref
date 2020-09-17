@@ -1,0 +1,68 @@
+{
+	"verified": false,
+	"w": 2,
+	"h": 2,
+	"icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/Abyssus.png?v=364b3214356b4d835a5d92a276c4d542&w=2&h=2&scale=1",
+	"league": "Hardcore",
+	"id": "eb4ba692edc596ac9a54ac0636d0c8008df17c64735ae081c2ee3632ed8045d5",
+	"sockets": [
+	{
+		"group": 0,
+		"attr": "S",
+		"sColour": "R"
+	}],
+	"name": "Abyssus",
+	"typeLine": "Ezomyte Burgonet",
+	"identified": true,
+	"ilvl": 77,
+	"properties": [
+	{
+		"name": "Quality",
+		"values": [
+			["+9%", 1]
+		],
+		"displayMode": 0,
+		"type": 6
+	},
+	{
+		"name": "Armour",
+		"values": [
+			["758", 1]
+		],
+		"displayMode": 0,
+		"type": 16
+	}],
+	"requirements": [
+	{
+		"name": "Level",
+		"values": [
+			["60", 0]
+		],
+		"displayMode": 0
+	},
+	{
+		"name": "Str",
+		"values": [
+			["138", 0]
+		],
+		"displayMode": 1
+	}],
+	"explicitMods": [
+	"+20 to all Attributes",
+	"Adds 40 to 60 Physical Damage to Attacks", 
+	"+125% to Melee Critical Strike Multiplier", 
+	"110% increased Armour", "49% increased Physical Damage taken"
+	],
+	"flavourText": ["When you have slain all of your enemies,\r", "what is left to fear?"],
+	"frameType": 3,
+	"extended":
+	{
+		"category": "armour",
+		"subcategories": ["helmet"],
+		"baseType": "Ezomyte Burgonet"
+	},
+	"x": 6,
+	"y": 6,
+	"inventoryId": "Stash44",
+	"socketedItems": []
+	},
