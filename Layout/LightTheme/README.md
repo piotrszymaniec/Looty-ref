@@ -1,4 +1,4 @@
-# Looty proposed LightTheme  
+# Looty proposed Design for Classic theme
 
 ## 1. Home  
 
