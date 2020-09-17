@@ -1,0 +1,46 @@
+==> GGG_itemdata.json <==
+[
+{
+    "id": 1,
+    "name": "Thief's Torment",
+    "type": "Prismatic Ring",
+    "frame": 3,
+    "tier": null,
+    "lvl": null,
+    "quality": null,
+    "corrupted": null,
+    "links": null,
+    "ilvl": null,
+    "variation": null,
+    "icon": "http:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/ThiefsTorment.png?scale=1&w=1&h=1",
+    "category": "accessory",
+    "group": "ring"
+},
+{
+    "id": 2,
+    "name": "Unending Hunger",
+    "type": "Cobalt Jewel",
+    "frame": 3,
+    "tier": null,
+    "lvl": null,
+    "quality": null,
+    "corrupted": null,
+    "links": null,
+    "ilvl": null,
+    "variation": null,
+    "icon": "http:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/SpectreJewel.png?scale=1&w=1&h=1",
+    "category": "jewel",
+    "group": "jewel"
+},
+{
+    "id": 3,
+    "name": "Clear Mind",
+    "type": "Cobalt Jewel",
+    "frame": 3,
+    "tier": null,
+    "lvl": null,
+    "quality": null,
+    "corrupted": null,
+    "links": null,
+    "il
+==> . <==

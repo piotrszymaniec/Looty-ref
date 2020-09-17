@@ -1,0 +1,130 @@
+/* stylizacja grida*/
+
+/* pole tekstowe nagłówka */
+
+.slick-headerrow-column input {
+    margin: 0;
+    /*padding: 0;*/
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    color: beige;
+	/* ladne podswietlenie*/
+    box-shadow: 1px -2px 25px 4px #f0a008bd;
+	font-size: 0.9em;
+	text-align: center;
+}
+
+.slick-headerrow-column {  /*lootwiev.css*/
+	/* podnosi input do gory*/
+	margin-top: 5px;
+	/*nie wiem*/
+	-moz-transition: all 250ms;
+	/**/
+	border:1px solid black;
+	
+}
+
+.slick-header-columns, .slick-headerrow-column {
+	width: 999999px;
+	/*dzieki temu nie rozjezdza sie naglowek w prawo*/
+position: relative;
+	/* przy wylaczonym tytuly kolumn sa mniej zakryte*/
+	/*white-space: nowrap;/*
+cursor: default;
+overflow: hidden;
+/* narazie nieaktywne - iluzja wypuklosci naglowka*/
+/*box-shadow: 3px 27px 16px 10px #393833;*/
+
+/* zmienia kolor pod inputami - bo nieustawilem tam zadnego*/
+background: #0e1317;
+
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    /* wartosc zerowa powoduje iluzje inputow scisnietych razem - czyli maja wspolne boki, co razem z shadowboxem ladnie wyglada*/
+	border: 0 solid #000000d6;   
+	/*lekko podciemnione i naglowi i filtru - wiec nie wiem czy zostawie tak*/
+    background: #6ea9f40a;    
+	/* kolejne scibiunstwo*/
+    /*border-bottom-width: 1px;    */    
+}
+
+.slick-headerrow-columns {
+	/*leciutka linia pod inputboxami, iluzja wypuklej gornej krawedzi tla pod gridem */
+    border-bottom: 2px solid #b5b5b53d;       
+}
+
+.slick-headerrow-column.ui-state-default { /*lootview.css*/
+	/*inputy dzieki temu maja szczuple obramowania - acz moze gdyy inne style przebrac mozna by z tego zrezugnowac*/
+    padding: 1px;
+}
+
+
+.ui-widget { /*jquery-ui-1.8.16.custom.css */
+	/* set behaviour of fonts in input grid boxes */
+    font-family: Verdana,Arial,sans-serif;
+	
+	/* turning off makes it same size as grid values*/
+    /*   font-size: 1.1em;*/
+	/* utop border of header, with this setting it make subtle distinction between it and rest of page*/
+	border: 1px solid #131313;
+}
+
+
+/*nowe*/
+#grid {
+	/*przesunac grida od elementow na gorze zeby przestrzen nabralo "oddechu" */
+    margin-top: 9px;
+	font-size:15px /*przy 16 sa pogrubione juz - mozna rozwarzyc inna fonte*/
+}
+
+
+.slick-row.ui-widget-content.even, .slick-cell { /*lootview.css*/
+    background-color: rgb(41, 39, 43);
+    border-bottom: 1px solid #353337;
+    border-top: 1px solid #000;
+}
+
+.ui-widget-content.slick-row:hover { /*lootview.css*/
+	/* kolor podswietlenia on mouseover*/
+    background-color: rgb(35, 156, 234);
+    /*niewiem czy potrzebne ale nie zmienia koloru hmm moze sa powtorki dalej*/
+    color: #e31010 !important;
+}
+
+
+/* Select Columns */
+.columns-controls .group-div .col-div.off-col {
+    color: #ffffff3d;
+    background-color: #00000078;   
+    text-shadow: -1px 2px 4px #000;
+    border-style: inset;
+    /*border-width: 1px;*/
+    /*border-color: #a66d0078;*/
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 1px;
+    /*box-shadow: 5px 3px 9px -6px #ff9b3175;*/
+}
+
+
+
+  .columns-controls .col-div.on-col {
+    color: #d8b169 !important;
+    background-color: #5a3806 !important;
+    text-decoration: none;
+    border: 1px solid #947232;
+}
+.columns-controls .col-div.off-col {
+    color: #7b7665 !important;
+    background-color: #1e2124 !important;
+}
+
+1px solid #46444461
+/*
+width: 370px; z-index: 15003;display:block;left:650px;top:600px;opacity:1
+*/
+
+/* div card css credits: Chuangsign - poedb.tw/us/ */

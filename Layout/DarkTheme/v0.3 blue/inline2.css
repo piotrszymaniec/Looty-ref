@@ -1,0 +1,53 @@
+dark grid theme blue
+
+.ui-widget-content.slick-row {
+  padding: 10px -14px;
+}
+input {
+  background: #2d2d2d;
+}
+.header-filter {
+  color: wheat;
+  /*! background: aliceblue; */
+}
+.slick-headerrow-columns {
+  border: 1px solid #29272b;
+}
+.ui-state-default.slick-headerrow-column.l0.r0 {
+  border: none;
+}
+
+
+.slick-row.ui-widget-content,
+.slick-cell {
+  background: none;
+  color: rgba(255, 255, 255, 0.85);
+  /*! background-color: #eeeeee; */
+  /*! color: #666666; */
+  /*! border: none; */
+  /*border-bottom: solid 1px #ffffff;*/
+  font-size: 13px;
+  /*! height: 60px; */
+  /*line-height: 60px;*/
+  /*padding: 0 5px;*/
+}
+
+/* hovered row indicator */
+.ui-widget-content.slick-row:hover {
+  background-color: rgb(71, 118, 148);
+  /*! color: white; */
+  color: white !important;
+}
+
+.slick-row.ui-widget-content.even,
+.slick-cell {
+  background-color: rgb(41, 39, 43);
+  border-bottom: 1px solid #353337;
+  /*! border-top: 1px solid #353337; */
+}
+.slick-row.ui-widget-content.odd,
+.slick-cell {
+  background-color: rgb(41, 39, 43);
+  /*! border-bottom: 1px solid #353337; */
+  /*! padding: 0px 1px; */
+}

@@ -1,0 +1,29 @@
+
+#controls {
+  background-color: #19191a;
+}
+.views-menu {
+  background-color: #19191a;
+}
+.info {
+}
+#alerter {
+  background-color: #19191a;
+}
+.pane-btn.upgrades {
+}
+.views .view-btn {
+  color: #ffa700d6;
+}
+.views .view-btn:hover {
+  color: #ffa700;
+}
+.ctrl-btn.clear-filters {
+  background: #ffffff2b;
+  font-size: smaller;
+  padding: 4px;
+}
+.pane-btn.upgrades {
+  padding: 4px;
+  font-size: smaller;
+}

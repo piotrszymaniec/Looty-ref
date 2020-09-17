@@ -1,0 +1,3112 @@
+[
+  [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    }
+  ],
+  [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    }
+  ],
+  [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    }
+  ],
+  [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    }
+  ],
+  [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?v=95076693af7ee03d0088f994d8a87e2f&w=2&h=4&scale=1",
+      "league": "Standard",
+      "id": "f420f3d2fb890276c14ce35725fdb0fdfcfaa53def4c29dcba7b88d96c04c127",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brain Rattler",
+      "typeLine": "Meatgrinder",
+      "identified": true,
+      "ilvl": 85,
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "168-501",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "Adds 94 to 363 Physical Damage",
+        "50% of Physical Damage Converted to Lightning Damage",
+        "15% chance to Shock",
+        "10% chance to Cause Monsters to Flee",
+        "Damage Penetrates 20% Lightning Resistance",
+        "Enemies you Shock have 30% reduced Cast Speed",
+        "Enemies you Shock have 20% reduced Movement Speed"
+      ],
+      "flavourText": [
+        "The mind may have no limits, but the skull sure does."
+      ],
+      "frameType": 3,
+      "extended": {
+        "category": "weapons",
+        "subcategories": [
+          "twomace"
+        ],
+        "baseType": "Meatgrinder"
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    }
+  ]
+]

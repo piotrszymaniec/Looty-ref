@@ -1,0 +1,597 @@
+.MaterialBtn {
+  color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.MaterialBtn:hover {
+  background: #c2c2c2;
+}
+body {
+  /* css global reset*/
+  margin: 0;
+  padding: 0;
+  /* ----*/
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  /*font-family: Helvetica, Arial, sans-serif;*/
+  background: #19191a;
+  /*! background-image: url("/images/brown-600-45-degree-fabric-light.png"); */
+  /*background-image: url("/images/main-bg-heist.jpg");*/
+  font-size: 16px;
+}
+/* == Header ==*/
+#header {
+  margin: 0 5px;
+  /* alerter styling in alerter.less */
+}
+#header .views-menu {
+  margin: 0px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 100%;
+}
+#header .views-menu .views {
+  width: max-content;
+}
+#header .views-menu .views .home,
+#header .views-menu .views .xp,
+#header .views-menu .views .wealth,
+#header .views-menu .views poebuilder,
+#header .views-menu .views .maps,
+#header .views-menu .views .settings {
+  /*whitespace between menu <a> tags is messing proximity of buttons, dirty fix*/
+  margin-right: -3px;
+}
+#header .views-menu .views .settings {
+  /*! background-color: #a8bad0; */
+}
+#header .views-menu .views-league {
+  display: inline-block;
+  margin-left: 20px;
+}
+#header .views-menu .views-league .standard {
+  /*whitespace between menu <a> tags is messing proximity of buttons, dirty fix*/
+  margin-right: -4px;
+}
+/* == Content ==*/
+#content {
+  height: 100%;
+  padding: 5px;
+  margin: 1em 0;
+  /* ==== Page ==== */
+  /* ==== Page ==== */
+  /* ==== Home Page ==== */
+  /* ==== XP Page ==== */
+  /* ==== Wealth Page ==== */
+  /* ==== Settings Page ==== */
+}
+#content #home {
+  height: 100%;
+  padding: 5px;
+  margin: 1em 0;
+}
+#content #home textarea {
+  display: inline-block;
+  background-color: #ffd87647;
+  max-height: 850px;
+  min-width: 658px;
+  width: 600px;
+  border: 1px solid black;
+  resize: unset;
+  padding-left: 1em;
+  margin-left: 2em;
+  /* box-sizing: border-box; */
+}
+#content #welcome {
+  display: inline-block;
+  max-width: 600px;
+  min-height: 700px;
+  height: auto;
+  padding: 0 2em 0 2em;
+  margin-left: 2em;
+  background-color: #fcfeff;
+  border: 1px solid black;
+  margin-bottom: 1em;
+  font-size: 16px;
+}
+#content #welcome a {
+  color: #ea40ff;
+}
+#content #welcome img {
+  padding: 0px 6px;
+}
+#content #welcome h2 {
+  color: gold;
+  text-shadow: 1px 1px 1px black;
+}
+#content #xp {
+  background-color: #fcfeff;
+  padding: 0 2em 2em 2em;
+  border: 1px solid black;
+}
+#content #xp progress[value]::-moz-progress-bar {
+  appearance: none;
+  -webkit-appearance: none;
+  background-color: #3fb3ce;
+  border: 1px solid #17424d;
+  background-size: 35px 20px, 100% 100%, 100% 100%;
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(37, 181, 160, 0.77)), -moz-linear-gradient(left, #3c98b7, #1df2f2);
+}
+#content #xp .progress-value {
+  position: absolute;
+  margin-left: 5px;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+#content #xp .progress-percent {
+  /*try flex between*/
+  margin-left: 108px;
+  position: absolute;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+#content #xp .info {
+  padding: 0.5em 0;
+  line-height: 1.3em;
+}
+#content #xp .info #start {
+  display: block;
+}
+#content #xp .info #end {
+  display: block;
+}
+#content #xp .info #elapsed {
+  display: block;
+}
+#content #xp #session-buttons {
+  margin-top: 1em;
+}
+#content #xp table,
+#content #xp tr,
+#content #xp td,
+#content #xp th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 4px;
+}
+#content #xp table tbody,
+#content #xp tr tbody,
+#content #xp td tbody,
+#content #xp th tbody {
+  text-align: center;
+}
+#content #wealth {
+  background-color: #fcfeff;
+  padding: 1em;
+  border: 1px solid black;
+  width: fit-content;
+}
+#content #wealth table {
+  border-collapse: collapse;
+  border: 1px solid #38678f;
+  margin-top: 1em;
+  background: white;
+}
+#content #wealth thead th {
+  background: steelblue;
+  height: 2.5em;
+  text-shadow: 0 1px 0 #38678f;
+  color: white;
+  border: 1px solid #38678f;
+  box-shadow: inset 0px 1px 2px #568ebd;
+  transition: all 0.2s;
+  word-break: keep-all;
+  padding: 0 0.5em;
+}
+#content #wealth tfoot {
+  font-weight: bolder;
+}
+#content #wealth tr {
+  border-bottom: 1px solid #cccccc;
+}
+#content #wealth td:first-child {
+  text-align: left;
+}
+#content #wealth tr:last-child {
+  border-bottom: 1px solid black;
+}
+#content #wealth td {
+  border-right: 1px solid #cccccc;
+  padding: 0.5em;
+  transition: all 0.2s;
+  text-align: center;
+}
+#content #wealth td:last-child {
+  border-right: 0px;
+}
+#content #wealth td.selected {
+  background: #d7e4ef;
+}
+#content #wealth td input {
+  text-align: center;
+  background: linear-gradient(33deg, #fffcef, #f6f2ee);
+  box-shadow: inset 1px 1px 2px 0px #c8c8c8;
+  outline: none;
+  border: 0;
+  display: table-cell;
+  border-bottom: 1px solid #ddecf4;
+}
+#content #wealth td input:focus {
+  color: steelblue;
+  background: #d2eaff;
+}
+#content #wealth ::-moz-selection {
+  background: steelblue;
+  color: white;
+}
+#content #wealth ::selection {
+  background: steelblue;
+  color: white;
+}
+#content #settings {
+  background-color: #fcfeff;
+  padding: 1em;
+  border: 1px solid black;
+  height: 120px;
+}
+a {
+  text-decoration: none;
+}
+@-webkit-keyframes llama-mode {
+  0% {
+    background-color: Yellow;
+    opacity: 1;
+  }
+  22% {
+    background-color: Yellow;
+  }
+  77% {
+    background-color: Red;
+  }
+  100% {
+    background-color: #777;
+  }
+}
+.llama-mode {
+  -webkit-animation-name: llama-mode;
+  -webkit-animation-duration: 100ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+}
+/* ==== Maps Page ==== */
+/* ==== PoeBuilder Page ==== */
+/* ==== LootView Grid Page ==== */
+.view-btn,
+.ctrl-btn,
+.pane-btn,
+.ls-btn,
+.col-btn,
+.col-div,
+.upgrade-btn,
+.char-btn,
+.tab-btn,
+.show-all-btn,
+.hide-all-btn,
+.reload-all-btn,
+.reload-visible-btn,
+.refresh-characters-btn {
+  /*! margin-right: 2px; */
+  color: #fff;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f4f4f4;
+  /*! -webkit-transition: all 250ms; */
+  /*! -moz-transition: all 250ms; */
+  /*! transition: all 250ms; */
+  /*! box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); */
+  /*turning shadow - making buttons flat*/
+  /*! box-shadow: none !important; */
+  /*"3d" illusion with borders*/
+  border-right: 1px solid #e8b2122e;
+  border-bottom: 2px solid #46444461;
+  background-color: #19191a;
+}
+.view-btn:hover,
+.ctrl-btn:hover,
+.pane-btn:hover,
+.ls-btn:hover,
+.col-btn:hover,
+.col-div:hover,
+.upgrade-btn:hover,
+.char-btn:hover,
+.tab-btn:hover,
+.show-all-btn:hover,
+.hide-all-btn:hover,
+.reload-all-btn:hover,
+.reload-visible-btn:hover,
+.refresh-characters-btn:hover {
+  /*! background: #ffffff2e; */
+}
+/* "upgrades" "Refresh/Tabs" "Select Columns" */
+.pane {
+  padding: 10px 5px 5px 10px;
+}
+.pane .info {
+  /*! display: inline-block; */
+  font-size: 1.2em;
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
+/* ---- League Pane ---- */
+/* ---- buttons "Clear Filters" "Upgrades" "Refresh/Tabs" "Select Columns" "Export Csv" ---- */
+/* league-button-pane chyba tak to powininem nazwac a league pane i to i paney i grid razem*/
+#league-buttons-pane {
+  display: inline-flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: first baseline;
+  width: 100%;
+  /* ==== View Load/Save ==== */
+}
+#league-buttons-pane #buttons {
+  display: inline-block;
+  margin-top: 12px;
+}
+#league-buttons-pane .load-save {
+  /*background-color: @blue-100;*/
+  /*background-image: url("/images/blue-100-linen.png");*/
+  display: inline-block;
+  padding: 5px 0x 0 12px;
+  border-radius: 5px 5px 0 0;
+}
+#league-buttons-pane .load-save .select2-container .select2-choice {
+  /*background-color: @blue-500;*/
+}
+#league-buttons-pane .load-save .view-span {
+  color: #db9818;
+  /*! font-weight: bolder; */
+  /*! text-shadow: -1px 0px 1px aliceblue; */
+}
+#league-buttons-pane .load-save .del {
+  background-color: #f09478;
+}
+#league-buttons-pane .select2-container {
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+#league-buttons-pane .select2-container .select2-choice {
+  height: inherit;
+  line-height: normal;
+  border: none;
+  border-radius: 0px;
+  /*! color: #f2f2f2; */
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #b7b7b7;
+  -webkit-transition: all 250ms;
+  -moz-transition: all 250ms;
+  transition: all 250ms;
+  /*! box-shadow: -3px -1px 0px rgba(225, 22, 22, 0.8), 1px -3px 0px rgba(16, 242, 105, 0.78); */
+  /*! color: wheat; */
+}
+#league-buttons-pane .select2-container .select2-choice .select2-arrow {
+  display: none;
+}
+#league-buttons-pane .select2-container .select2-choice:hover {
+  background: #c2c2c2;
+}
+#league-buttons-pane .select2-container .select2-chosen {
+  color: #000;
+  margin-right: 0px !important;
+  text-overflow: clip !important;
+  /*! border: 1px solid white; */
+  padding: 1px;
+}
+#league-buttons-pane .ls-btn {
+  background-color: #738ffe;
+}
+/* ---- Upgrades Pane ---- */
+.pane-btn.upgrades {
+  background-color: #ffffff47;
+}
+.pane-btn.upgrades:hover {
+  background: #c2c2c2;
+}
+.upgrades-pane {
+  background-color: #ffeb3b;
+  background-image: url("/images/yellow-500-linen.png");
+  padding: 5px 5px 10px 10px;
+  /*row of buttons loading stats of equipment into grid*/
+  /*character level*/
+}
+.upgrades-pane .info {
+  /* display: inline-block; */
+  font-size: 1.2em;
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
+.upgrades-pane .equip-slots {
+  display: inline-block;
+}
+.upgrades-pane .char-lvl {
+  padding: 5px 0 5px 0;
+  margin: 0 0 4px 0;
+  display: inline-block;
+}
+.upgrades-pane .select2-container {
+  margin-right: 8px;
+}
+/* ---- Refresh Tabs Pane ---- */
+.pane-btn.refresh-tabs {
+  background-color: #41c3ffbd;
+}
+.pane-btn.refresh-tabs:hover {
+  background: #b0adad;
+}
+.refresh-pane {
+  background-color: #b3e5fc;
+  background-image: url("/images/light-blue-100-linen.png");
+}
+.refresh-pane .reload-all-btn {
+  background-color: #dd191d;
+}
+.refresh-pane .reload-visible-btn {
+  background-color: #fff176;
+}
+.refresh-pane .refresh-characters-btn {
+  background-color: #42bd41;
+}
+.refresh-pane .tab-btn {
+  color: white;
+}
+.refresh-pane .visible-loot-container {
+  border-color: #b3e5fc;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.refresh-pane .invisible-loot-container {
+  border-color: #fff176;
+  border-width: 2px;
+  border-style: dotted;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.refresh-pane .tab-btn,
+.refresh-pane .char-btn {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-left: -5px;
+  margin-right: -5px;
+  white-space: nowrap;
+}
+.refresh-pane .tab-btn.loading,
+.refresh-pane .char-btn.loading {
+  color: red;
+}
+.refresh-pane .show-all-btn {
+  background-color: #42bd41;
+}
+.refresh-pane .hide-all-btn {
+  background-color: #f36c60;
+}
+.refresh-pane .show-all-btn:hover,
+.refresh-pane .hide-all-btn:hover,
+.refresh-pane .reload-all-btn:hover,
+.refresh-pane .reload-visible-btn:hover,
+.refresh-pane .refresh-characters-btn:hover {
+  background: #c2c2c2;
+}
+.pane-btn.select-columns {
+  background-color: #8eff097a;
+}
+.pane-btn.select-columns:hover {
+  background: #c2c2c2;
+}
+/* ---- Columns Controls Pane ---- */
+.columns-controls {
+  background-color: #3a354000;
+  /*background-color: rgba(0,0,0,0.5);*/
+  /*! background-image: url("/images/light-green-100-linen.png"); */
+  padding-bottom: 5px;
+  /*! color: antiquewhite; */
+}
+.columns-controls .col-main {
+  margin-bottom: 5px;
+  padding: 5px 0 0 5px;
+}
+.columns-controls .group-div {
+  /* mod enabled  */
+  /* mod disabled  */
+}
+.columns-controls .group-div .col-btn-toggle {
+  margin-right: 12px;
+  box-shadow: none !important;
+  /*! border-right: 1px solid #e8b2122e; */
+  /*! border-bottom: 2px solid #46444461; */
+  /*! border-right:  none !important; */
+  /*! border-bottom: none !important; */
+  /*! left: 173px; */
+  /*! position: relative; */
+}
+.columns-controls .group-div .group-name {
+  width: 174px;
+  display: inline-block;
+  text-align: right;
+  padding-right: 11px;
+  color: #ffffffb5;
+  font-size: 1.1em;
+  text-shadow: 1px 1px 0px #000;
+  border-bottom: 1px solid #00000045;
+  padding-bottom: 7px;
+  /*! position: relative; */
+  /*! left: -67px; */
+}
+.columns-controls .group-div .col-div {
+  cursor: hand;
+  cursor: pointer;
+}
+.columns-controls .group-div .col-div.on-col {
+  color: #0b0808;
+  /*! background-color: #357b15; */
+  /*! text-shadow: 2px 3px 2px #000; */
+  /*! border: 1px solid #48484873; */
+  /*! box-shadow: 1px 1px 3px 0px #000; */
+  /*! font-size: 1.05em; */
+  /*! letter-spacing: 1px; */
+  /*! font-weight: 600; */
+  /*! text-shadow: -2px 0px 0px black; */
+  outline: 1px 1px solid blue;
+  /*! margin-right: 3px; */
+  text-shadow: -1px 2px 4px #000;
+  color: #fff;
+  border: 1px solid #947232;
+  background-color: #5a3806 !important;
+  color: #d8b169 !important;
+}
+.columns-controls .group-div .col-div.off-col {
+  color: #000;
+  background-color: #ccc7cc;
+  /*! background-color: @red-300; */
+  /*! text-shadow: -1px 2px 4px #06060675; */
+  /*! border-style: outset; */
+  border-width: 1px;
+  /*! border-color: #2d2c2c; */
+  border-top-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 1px;
+}
+/* ==== Grid ==== */
+/* item tooltip */
+#item-details {
+  max-width: 900px;
+  position: fixed;
+  z-index: 100;
+  overflow: hidden;
+}
+/* ==== Footer ==== */
+#footer .license {
+  transform: scaleX(-1);
+}
+#footer .author {
+  color: gold;
+}
+.slick-header .ui-state-default {
+	/*! overflow:hidden; */position:relative;
+	/* wazne  naglowki odwiha*/
+	text-overflow: unset !important;" 
+}

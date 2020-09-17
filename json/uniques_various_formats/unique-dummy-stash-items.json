@@ -1,0 +1,146 @@
+{
+   "UnknownAccount!-Uniques-stis": [
+    {
+		"n": "UniquesTab",
+		"i": 0,
+		"id": "13040f8f6443d8c1dc13f66588670e096cf4e6b74bb5a26448a6afc383acbeef",
+		"type": "PremiumStash",
+		"hidden": false,
+		"selected": true,
+		"colour": {
+		"r": 128,
+		"g": 255,
+		"b": 128
+		},
+		"srcL": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibCIsImMiOi04MzIzMjAwfV0/0bfcd5d77c/Stash_TabL.png",
+		"srcC": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoibSIsImMiOi04MzIzMjAwfV0/9ca6981488/Stash_TabL.png",
+		"srcR": "https://web.poecdn.com/gen/image/WzIzLDEseyJ0IjoiciIsImMiOi04MzIzMjAwfV0/2fd86b0c63/Stash_TabL.png"
+	}],
+   "UnknownAccount!-Uniques-0-stis":
+    {
+		"items": [
+		   {
+        "name": "Abberath's Horn",
+        "base": "Goat's Horn",
+        "class": "Wands",
+        "implicit": [
+        {
+            "name_orig": "(10-14)% increased Spell Damage",
+            "ranges": [
+                [10, 14]
+            ],
+            "name": "#% increased Spell Damage",
+            "isVariable": true
+        }],
+        "mods": [
+        {
+            "name_orig": "(20-30)% increased Fire Damage",
+            "ranges": [
+                [20, 30]
+            ],
+            "name": "#% increased Fire Damage",
+            "isVariable": true
+        },
+        {
+            "name_orig": "Adds (4-6) to (8-12) Fire Damage to Spells",
+            "isVariable": true,
+            "ranges": [
+                [4, 6],
+                [8, 12]
+            ],
+            "name": "Adds # Fire Damage to Spells"
+        },
+        {
+            "name_orig": "(40-60)% increased Global Critical Strike Chance",
+            "ranges": [
+                [40, 60]
+            ],
+            "name": "#% increased Global Critical Strike Chance",
+            "isVariable": true
+        },
+        {
+            "name_orig": "+10 Life gained on Killing Ignited Enemies",
+            "name": "+# Life gained on Killing Ignited Enemies",
+            "values": [10],
+            "isVariable": false
+        },
+        {
+            "name_orig": "25% reduced Ignite Duration on Enemies",
+            "name": "#% reduced Ignite Duration on Enemies",
+            "values": [25],
+            "isVariable": false
+        }],
+        "stats": []
+		},
+		{
+			"verified": false,
+			"w": 1,
+			"h": 1,
+			"ilvl": 79,
+			"icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicdex.png?scale=1&w=1&h=1&v=7375b3bb90a9809870b31d1aa4aa68b9",
+			"league": "Standard",
+			"id": "4084c24b7d93aeb932c4bec26308f25cfcbb675aba10f2fd4dcb1949c597d694",
+			"name": "Behemoth Eye",
+			"typeLine": "Viridian Jewel",
+			"identified": true,
+			"note": "~price 45 chaos",
+			"explicitMods": [
+			"15% increased Cold Damage",
+			"8% increased Attack Speed with Axes",
+			"12% increased Area Damage"
+			],
+			"descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+			"frameType": 2,
+			"x": 9,
+			"y": 0,
+			"inventoryId": "Stash1"
+		},
+		{
+			"verified": false,
+			"w": 1,
+			"h": 1,
+			"ilvl": 78,
+			"icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicdex.png?scale=1&w=1&h=1&v=7375b3bb90a9809870b31d1aa4aa68b9",
+			"league": "Standard",
+			"id": "d0100b767c100064306597bc72e112e0ab9692f354882a1e87cb4b01a761d2fd",
+			"name": "Maelström Ichor",
+			"typeLine": "Viridian Jewel",
+			"identified": true,
+			"note": "~b/o 40 chaos",
+			"explicitMods": [
+			"11% increased Damage over Time",
+			"15% increased Global Physical Damage",
+			"16% increased Lightning Damage"
+			],
+			"descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+			"frameType": 2,
+			"x": 10,
+			"y": 0,
+			"inventoryId": "Stash1"
+		}
+		],
+		"numTabs": 1
+	},
+	"UnknownAccount!-UniqueQueen-inventory":
+	{
+		"character": {
+		"name": "UniqueQueen",
+		"league": "Uniques",
+		"classId": 3,
+		"ascendancyClass": 3,
+		"class": "Necromancer",
+		"level": 1,
+		"experience": 2658106227,
+		"lastActive": true
+		},
+		"items": [
+	]},
+	"UnknownAccount!-characters": [
+    {
+        "class": "Witch",
+        "classId": 3,
+        "league": "Uniques",
+        "level": 1,
+        "name": "UniqueQueen"
+    }]	
+}
