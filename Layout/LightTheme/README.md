@@ -22,7 +22,7 @@
 
 ![Select Columns - Red off](https://i.imgur.com/gcKSX2N.png)
 
-### B
+### B - decolored views menu, get rid of border radius and centring text in alerter
 
 ![Select Columns - Red off](https://i.imgur.com/R0F9TiC.png)
 
