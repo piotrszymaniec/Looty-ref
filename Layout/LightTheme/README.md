@@ -18,7 +18,7 @@
 
 ## 5. Select Column older   
 
-### A
+### A switched colors for off.col, moved +/- buttons to original position, and group names aligned left, added drop-shadow to buttons, made little space between all buttons
 
 ![Select Columns - Red off](https://i.imgur.com/gcKSX2N.png)
 
