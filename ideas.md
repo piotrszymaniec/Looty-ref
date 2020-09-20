@@ -4,6 +4,19 @@
 
 - [ ] read how poe.ninja is translating item that you want to trade to official trade links ???
 
+
+### Coloring grid columns with coresponding mod tag, choosable by player
+
+Say i want to keep an eye on critical strike multiplier column, yet when mods are added to grid, they are added in order as they are in mods list in SelectPanel
+*(can we make so it adds as a last column clicked mod ? )*
+- add taging, add creation of tag groups (could use https://bevacqua.github.io/insignia/)
+	- for grouping liked columns, not only by load-save filters, but it would add/remove all groups to the already selected mods (lets not judge this idea, im trowing it of my head, before it dissapears ;))
+	- for color coding columns
+	
+	
+
+
+
 ### Full text search
 concatanate bruteforce way all strings from item and store as ?column like "TextSearch"
 where player can search via string matching
