@@ -4,6 +4,12 @@
 
 - [ ] read how poe.ninja is translating item that you want to trade to official trade links ???
 
+### coloring loc column cell 
+
+with color of stash tab (and maybe icon ?, also some distinct icon if its in character, one or even custom when its character class ? can be hard already - formatter should then allow to display html inside.
+
+[Display HTML in SlickGrid Cells](https://groups.google.com/g/slickgrid/c/fpb6WJEhSBA)
+[SlickGrid- How can I pass parameters into a formatter, from the columns loop - including long detailed answer](https://stackoverflow.com/questions/10759255/slickgrid-how-can-i-pass-parameters-into-a-formatter-from-the-columns-loop-in/10760662#comment14037995_10760662)
 
 ### Coloring grid columns with coresponding mod tag, choosable by player
 
