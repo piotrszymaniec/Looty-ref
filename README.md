@@ -49,6 +49,10 @@ i wish ....
 - [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
 - [x] add instructions how to add new affix
 - [x] parse not parsed properties -> added column unparsed with joined affixes
+- [ ] show tips in alerter for user, which will change couple of sec - fe. "You can change color theme to prefered one default, light, dark themes in the right top corner", "you can refresh your tab/char inventory clicking on row in grid whith shift (shift+click) ex when you take it out of ot sell/delete it, so it would stay up to date" "you can swap column placement, dragging (click and hold mouse over column name) - change is only temporary" "Columns added with select column panel are added as last column in grid - they behave in order as they appear in column select (first button is first column, twird row buttons makes column after first/sec row)" "You can filter numbers in column with number operators like < <= > >= . default ordering is values lesser then your entered value" "Have a good game!" "You can leave comment in our official topic on forums, to inform others of your opinion, you can also give your ideas/bugs on our github page (you will need to make an account)" "You can download latest version from our github repository page, with instalate instructions" 
+- [ ] make some easy way to add tips for us (devs) to this list (addTip("", order) //order 1 - most visible (70% probability/every 4/5 tip?), 2 - somewhat (40%) 3 - not so (30%)
+- [ ] how/if to remember and if its feasible to allow user save different "ułożenie" columns
+- [ ] 
 - [ ] mark item as removed -> remove from cache and slickgrid data - use item id ?
 - [ ] add experiance progress bar of gems (?maybe characters too)
 - [ ] add chaos equivalent price to your owned currency  [WealthView.scala ]
