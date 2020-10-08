@@ -5,8 +5,10 @@
 ![Home Page](https://i.imgur.com/FHEV3mc.jpg)
 
 ## 2. Xp  
+New
+![Newer Xp Page](https://i.imgur.com/i3lwkgF.png)
 
-![Xp Page](https://i.imgur.com/hmuLpud.png)
+![Old Xp Page](https://i.imgur.com/hmuLpud.png)
 
 ## 3. Wealth   
 
