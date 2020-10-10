@@ -1,0 +1,509 @@
+#% Chance for Traps to Trigger an additional time
+#% Chance to Block Spell Damage
+#% Chance to Trigger Level 18 Summon Spectral Wolf on Kill
+#% Global chance to Blind Enemies on hit
+#% additional Physical Damage Reduction
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+#% chance for Flasks you use to not consume Charges
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+#% chance to Avoid being Poisoned
+#% chance to Avoid being Shocked
+#% chance to Avoid being Stunned
+#% chance to Avoid interruption from Stuns while Casting
+#% chance to Blind Enemies on Hit with Attacks
+#% chance to Chill Attackers for 4 seconds on Block
+#% chance to Dodge Attack Hits
+#% chance to Dodge Attack Hits if you have Blocked Recently
+#% chance to Dodge Attack and Spell Hits if you've
+#% chance to Dodge Spell Hits
+#% chance to Freeze, Shock and Ignite
+#% chance to Freeze, Shock and Ignite during Flask effect
+#% chance to Gain Unholy Might for 4 seconds on Melee Kill
+#% chance to Hinder Enemies on Hit with Spells, with #% reduced Movement Speed
+#% chance to Ignite
+#% chance to Knock Enemies Back on hit
+#% chance to Maim on Hit
+#% chance to Poison on Hit
+#% chance to Shock Attackers for 4 seconds on Block
+#% chance to Taunt Enemies on Hit with Attacks
+#% chance to avoid Bleeding
+#% chance to avoid Projectiles
+#% chance to deal Double Damage
+#% chance to deal Double Damage while Focussed
+#% chance to gain Fortify when you Stun an Enemy with Melee Damage
+#% chance to gain Onslaught for 4 seconds on Kill
+#% chance to gain Phasing for 4 seconds on Kill
+#% chance to gain a Frenzy Charge on Kill
+#% chance to gain a Power Charge when you Block
+#% chance to gain an Endurance Charge on Kill
+#% chance to gain an Endurance Charge when you Taunt an Enemy
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain an additional Vaal Soul per Enemy Shattered
+#% faster start of Energy Shield Recharge
+#% increased Accuracy Rating if you haven't Killed Recently
+#% increased Area Damage
+#% increased Area of Effect
+#% increased Attack Damage while holding a Shield
+#% increased Attack Speed during Flask effect
+#% increased Attack Speed if you've Killed Recently
+#% increased Attack Speed if you've dealt a Critical Strike Recently
+#% increased Attack Speed while Dual Wielding
+#% increased Attack Speed while holding a Shield
+#% increased Attack Speed with Axes
+#% increased Attack Speed with Bows
+#% increased Attack Speed with Claws
+#% increased Attack Speed with Daggers
+#% increased Attack Speed with Maces and Sceptres
+#% increased Attack Speed with One Handed Melee Weapons
+#% increased Attack Speed with Staves
+#% increased Attack Speed with Swords
+#% increased Attack Speed with Two Handed Melee Weapons
+#% increased Attack Speed with Wands
+#% increased Attack and Cast Speed
+#% increased Attack and Cast Speed while Focussed
+#% increased Bleeding Duration
+#% increased Cast Speed during Flask effect
+#% increased Cast Speed if a Minion has been Killed Recently
+#% increased Cast Speed if you've dealt a Critical Strike Recently
+#% increased Cast Speed while Dual Wielding
+#% increased Cast Speed while holding a Shield
+#% increased Cast Speed while wielding a Staff
+#% increased Cast Speed with Cold Skills
+#% increased Cast Speed with Fire Skills
+#% increased Cast Speed with Lightning Skills
+#% increased Charges used
+#% increased Critical Strike Chance against Poisoned Enemies
+#% increased Critical Strike Chance if you have Killed Recently
+#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+#% increased Critical Strike Chance with Cold Skills
+#% increased Critical Strike Chance with Elemental Skills
+#% increased Critical Strike Chance with Fire Skills
+#% increased Critical Strike Chance with Lightning Skills
+#% increased Critical Strike Chance with One Handed Melee Weapons
+#% increased Critical Strike Chance with Two Handed Melee Weapons
+#% increased Damage
+#% increased Damage against Abyssal Monsters
+#% increased Damage if you've Killed Recently
+#% increased Damage over Time
+#% increased Damage over Time while Dual Wielding
+#% increased Damage over Time while holding a Shield
+#% increased Damage over Time while wielding a Two Handed Weapon
+#% increased Damage per #% Chance to Block Attack Damage
+#% increased Damage per Curse on you
+#% increased Damage per Power Charge
+#% increased Damage taken while on Full Energy Shield
+#% increased Damage while Leeching
+#% increased Damage with Ailments
+#% increased Damage with Axes
+#% increased Damage with Bows
+#% increased Damage with Claws
+#% increased Damage with Daggers
+#% increased Damage with Hits against Chilled Enemies
+#% increased Damage with Maces and Sceptres
+#% increased Damage with One Handed Weapons
+#% increased Damage with Poison
+#% increased Damage with Staves
+#% increased Damage with Swords
+#% increased Damage with Two Handed Weapons
+#% increased Damage with Wands
+#% increased Dexterity
+#% increased Effect of Buffs granted by your Golems
+#% increased Effect of Chill
+#% increased Effect of Shock
+#% increased Effect of non-Damaging Ailments on Enemies
+#% increased Effect of your Curses
+#% increased Energy Shield Recharge Rate
+#% increased Energy Shield Recovery rate
+#% increased Evasion Rating while moving
+#% increased Freeze Duration on Enemies
+#% increased Global Defences
+#% increased Golem Damage for each Type of Golem you have Summoned
+#% increased Ignite Duration on Enemies
+#% increased Intelligence
+#% increased Mana Regeneration Rate while moving
+#% increased Melee Critical Strike Chance
+#% increased Melee Damage
+#% increased Mine Damage
+#% increased Mine Throwing Speed
+#% increased Minion Accuracy Rating
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Movement Speed if you've Killed Recently
+#% increased Poison Duration
+#% increased Projectile Attack Damage
+#% increased Projectile Attack Damage during any Flask Effect
+#% increased Projectile Attack Damage per 200 Accuracy Rating
+#% increased Projectile Damage
+#% increased Rarity of Items Dropped by Slain Rare or Unique Enemies
+#% increased Rarity of Items found from Slain Unique Enemies
+#% increased Shock Duration on Enemies
+#% increased Skill Effect Duration
+#% increased Spell Damage while Dual Wielding
+#% increased Spell Damage while holding a Shield
+#% increased Spell Damage while wielding a Staff
+#% increased Strength
+#% increased Totem Damage
+#% increased Totem Life
+#% increased Trap Damage
+#% increased Trap Throwing Speed
+#% increased Weapon Critical Strike Chance while Dual Wielding
+#% increased Weapon Damage while Dual Wielding
+#% increased effect
+#% increased effect of Non-Curse Auras from your Skills
+#% increased maximum Life
+#% increased maximum Mana
+#% of Attack Damage Leeched as Life during Flask effect
+#% of Cold Damage Leeched as Life
+#% of Cold Damage from Hits taken as Fire Damage
+#% of Damage Leeched as Life while Focussed
+#% of Damage taken gained as Mana over 4 seconds when Hit
+#% of Fire Damage Leeched as Life
+#% of Lightning Damage Leeched as Life
+#% of Lightning Damage from Hits taken as Cold Damage
+#% of Physical Damage Converted to Chaos Damage
+#% of Physical Damage Converted to Fire Damage
+#% of Physical Damage Converted to Lightning Damage
+#% of Physical Damage Leeched as Life
+#% of Physical Damage from Hits taken as Fire Damage
+#% of Spell Damage Leeched as Energy Shield during Flask effect
+#% reduced Duration
+#% reduced Flask Charges gained
+#% reduced Mana Cost of Raise Spectre
+#% reduced Mana Cost of Skills
+#% reduced Mana Reserved
+#% reduced Reflected Elemental Damage taken
+#% reduced Reflected Physical Damage taken
+#% reduced Spark Duration
+#% reduced Totem Damage
+#% reduced Trap Duration
++# Energy Shield gained for each Enemy hit by your Attacks
++# Energy Shield gained for each Enemy hit by your Attacks
++# Life gained for each Enemy hit by your Spells
++# Mana gained when you Block
++# Mana gained when you Block
++# Mana gained when you Block
++# Mana gained when you Block
++# second to Summon Skeleton Cooldown
++# to Accuracy Rating per 10 Intelligence on Unallocated Passives in Radius
++# to Armour and Evasion Rating
++# to Level of Socketed Projectile Gems
++# to Level of Socketed Projectile Gems
++# to Level of Socketed Trap or Mine Gems
++# to Level of Socketed Warcry Gems
++# to Level of all Chaos Spell Skill Gems
++# to Level of all Cold Spell Skill Gems
++# to Level of all Cold Spell Skill Gems
++# to Level of all Lightning Spell Skill Gems
++# to Level of all Minion Skill Gems
++# to Level of all Physical Spell Skill Gems
++# to Level of all Spell Skill Gems
++# to Melee Weapon and Unarmed Attack range
++# to Minimum Endurance Charges
++# to Minimum Frenzy Charges
++# to Minimum Power Charges
++# to Weapon range
++# to maximum number of Raised Zombies
++# to maximum number of Skeletons
++# to maximum number of Spectres
++#% Chance to Block Attack Damage if there are at least 5 nearby Enemies
++#% Chance to Block Attack Damage if you were Damaged by a Hit Recently
++#% Chance to Block Attack Damage while Dual Wielding
++#% Chance to Block Attack Damage while holding a Shield
++#% Chance to Block Spell Damage if you were Damaged by a Hit Recently
++#% Chance to Block Spell Damage while Dual Wielding
++#% Chance to Block Spell Damage while holding a Shield
++#% Chance to Block Spell Damage while wielding a Staff
++#% chance to Dodge Attack Hits while Focussed
++#% to Chaos Damage over Time Multiplier
++#% to Cold Damage over Time Multiplier
++#% to Cold and Chaos Resistances
++#% to Critical Strike Multiplier for Spells
++#% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
++#% to Critical Strike Multiplier if you've Killed Recently
++#% to Critical Strike Multiplier if you've Shattered an Enemy Recently
++#% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
++#% to Critical Strike Multiplier while Dual Wielding
++#% to Critical Strike Multiplier with Cold Skills
++#% to Critical Strike Multiplier with Elemental Skills
++#% to Critical Strike Multiplier with Fire Skills
++#% to Critical Strike Multiplier with Lightning Skills
++#% to Critical Strike Multiplier with One Handed Melee Weapons
++#% to Critical Strike Multiplier with Two Handed Melee Weapons
++#% to Fire Damage over Time Multiplier
++#% to Fire and Chaos Resistances
++#% to Lightning and Chaos Resistances
++#% to Melee Critical Strike Multiplier
++#% to Quality
++#% to maximum Chance to Block Attack Damage
++#% to maximum Fire Resistance
+-# Intelligence per 1 Intelligence on Allocated Passives in Radius
+-# Strength per 1 Strength on Allocated Passives in Radius
+-# to Maximum Endurance Charges
+-# to Maximum Frenzy Charges
+-# to Maximum Power Charges
+Adds # to # Chaos Damage to Spells while Dual Wielding
+Adds # to # Chaos Damage to Spells while holding a Shield
+Adds # to # Chaos Damage to Spells while wielding a Two Handed Weapon
+Adds # to # Cold Damage against Chilled or Frozen Enemies
+Adds # to # Cold Damage to Axe Attacks
+Adds # to # Cold Damage to Claw Attacks
+Adds # to # Cold Damage to Dagger Attacks
+Adds # to # Cold Damage to Mace and Sceptre Attacks
+Adds # to # Cold Damage to Spells and Attacks
+Adds # to # Cold Damage to Spells while Dual Wielding
+Adds # to # Cold Damage to Spells while holding a Shield
+Adds # to # Cold Damage to Spells while wielding a Two Handed Weapon
+Adds # to # Cold Damage to Staff Attacks
+Adds # to # Cold Damage to Sword Attacks
+Adds # to # Cold Damage to Wand Attacks
+Adds # to # Fire Attack Damage per Buff on you
+Adds # to # Fire Damage against Ignited Enemies
+Adds # to # Fire Damage to Axe Attacks
+Adds # to # Fire Damage to Dagger Attacks
+Adds # to # Fire Damage to Mace and Sceptre Attacks
+Adds # to # Fire Damage to Spells and Attacks
+Adds # to # Fire Damage to Spells while Dual Wielding
+Adds # to # Fire Damage to Spells while holding a Shield
+Adds # to # Fire Damage to Spells while wielding a Two Handed Weapon
+Adds # to # Fire Damage to Staff Attacks
+Adds # to # Fire Damage to Sword Attacks
+Adds # to # Fire Damage to Wand Attacks
+Adds # to # Fire Spell Damage per Buff on you
+Adds # to # Lightning Damage against Shocked Enemies
+Adds # to # Lightning Damage to Axe Attacks
+Adds # to # Lightning Damage to Claw Attacks
+Adds # to # Lightning Damage to Dagger Attacks
+Adds # to # Lightning Damage to Mace and Sceptre Attacks
+Adds # to # Lightning Damage to Spells while Dual Wielding
+Adds # to # Lightning Damage to Spells while holding a Shield
+Adds # to # Lightning Damage to Spells while wielding a Two Handed Weapon
+Adds # to # Lightning Damage to Staff Attacks
+Adds # to # Lightning Damage to Sword Attacks
+Adds # to # Lightning Damage to Wand Attacks
+Adds # to # Physical Damage to Axe Attacks
+Adds # to # Physical Damage to Claw Attacks
+Adds # to # Physical Damage to Spells while Dual Wielding
+Adds # to # Physical Damage to Spells while holding a Shield
+Adds # to # Physical Damage to Staff Attacks
+Adds # to # Physical Damage to Sword Attacks
+Adds # to # Physical Damage to Wand Attacks
+An additional Curse can be applied to you
+Arrows Pierce an additional Target
+Attacks have #% chance to cause Bleeding
+Auras from your Skills grant #% increased Damage to you and Allies
+Bathed in the blood of 4612 sacrificed in the name of Xibaqua
+Bathed in the blood of 4688 sacrificed in the name of Xibaqua
+Can have up to 1 additional Trap placed at a time
+Can have up to 3 Crafted Modifiers
+Can roll Minion Modifiers
+Cannot be Blinded
+Cannot roll Caster Modifiers
+Commissioned 143260 coins to commemorate Victario
+Corrupted Blood cannot be inflicted on you
+Creates Chilled Ground on Use
+Creates Consecrated Ground on Use
+Creates a Smoke Cloud on Use
+Culling Strike
+Curse Enemies with Level 10 Despair on Hit
+Curse Enemies with Level 5 Flammability on Hit
+Curse Enemies with Level 5 Vulnerability on Hit
+Curse Enemies with Level 8 Warlord's Mark on Hit
+Damage Penetrates #% Elemental Resistance if you haven't Killed Recently
+Damage Penetrates #% Elemental Resistances
+Damage Penetrates #% Fire Resistance
+Dexterity and Intelligence from passives in Radius count towards Strength Melee 
+Dexterity from Passives in Radius is Transformed to Intelligence
+Discipline has #% increased Aura Effect
+Enemies killed explode dealing #% of their Life as Fire Damage
+Flasks applied to you have #% increased Effect
+Gain #% of Cold Damage as Extra Chaos Damage
+Gain #% of Elemental Damage as Extra Chaos Damage
+Gain #% of Fire Damage as Extra Chaos Damage
+Gain #% of Lightning Damage as Extra Chaos Damage
+Gain #% of Non-Chaos Damage as extra Chaos Damage
+Gain #% of Physical Damage as Extra Chaos Damage
+Gain #% of Physical Damage as Extra Cold Damage
+Gain #% of Physical Damage as Extra Damage of a random Element
+Gain #% of Physical Damage as Extra Fire Damage
+Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+Gain #% of Physical Damage as Extra Lightning Damage
+Gain 1 Charge when you are Hit by an Enemy
+Gain 200 Armour per Grand Spectrum
+Gain an Endurance, Frenzy or Power charge when you Block
+Golem Skills have #% increased Cooldown Recovery Speed
+Golems have #% increased Attack and Cast Speed
+Golems have #% increased Cooldown Recovery Speed
+Golems have +# to Armour
+Grants Level 20 Aspect of the Cat Skill
+Grants Level 20 Aspect of the Spider Skill
+Grants Level 21 Wrath Skill
+Grants Level 22 Abyssal Cry Skill
+Grants Level 22 Anger Skill
+Grants Level 22 Haste Skill
+Grants Level 22 Herald of Thunder Skill
+Grants Level 23 Conductivity Skill
+Has 1 Abyssal Socket
+Hatred has #% increased Aura Effect
+Historic
+Increases and Reductions to Life in Radius are Transformed to apply to Mana at #% of 
+Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage
+Lose #% of Energy Shield on Kill
+Lose #% of Life on Kill
+Mana Recovery occurs instantly at the end of the Flask effect
+Minions Leech #% of Damage as Life
+Minions Recover #% of their Life when they Block
+Minions Regenerate #% of Life per second
+Minions deal # to # additional Chaos Damage
+Minions deal # to # additional Cold Damage
+Minions deal # to # additional Fire Damage
+Minions deal # to # additional Lightning Damage
+Minions deal # to # additional Physical Damage
+Minions deal #% increased Damage
+Minions deal #% increased Damage against Abyssal Monsters
+Minions deal #% increased Damage if you've used a Minion Skill Recently
+Minions have #% chance to Blind on Hit with Attacks
+Minions have #% chance to Hinder Enemies on Hit with Spells, with #% reduced Movement Speed
+Minions have #% chance to Taunt on Hit with Attacks
+Minions have #% increased Area of Effect
+Minions have #% increased Attack Speed
+Minions have #% increased Attack and Cast Speed if you or your Minions have Killed Recently
+Minions have #% increased Cast Speed
+Minions have #% increased Movement Speed
+Minions have #% increased maximum Life
+Minions have +# to Accuracy Rating
+Minions have +# to Accuracy Rating
+Minions have +# to Accuracy Rating
+Minions have +#% Chance to Block Attack Damage
+Minions have +#% to Chaos Resistance
+Minions have +#% to all Elemental Resistances
+Non-Channelling Skills have -9 to Total Mana Cost
+Pride has #% increased Aura Effect
+Primordial
+Projectiles Pierce 2 additional Targets
+Projectiles Pierce an additional Target
+Properties are doubled while in a Breach
+Recover #% of Energy Shield on Kill
+Recover #% of Life on Kill
+Recover #% of Mana and Energy Shield when you Focus
+Recover #% of Mana on Kill
+Regenerate #% of Energy Shield per second
+Regenerate #% of Life per second
+Regenerate #% of Life per second while moving
+Regenerate x Energy Shield per second
+Regenerate x Life per second
+Regenerate x Mana per second
+Shock nearby Enemies for 2 Seconds when you Focus
+Shock nearby Enemies for 3 Seconds when you Focus
+Skills Cost no Mana while Focussed
+Socketed Attacks have +#% to Critical Strike Multiplier
+Socketed Gems are Supported by Level 10 Item Rarity
+Socketed Gems are Supported by Level 15 Mana Leech
+Socketed Gems are Supported by Level 16 Advanced Traps
+Socketed Gems are Supported by Level 16 Ancestral Call
+Socketed Gems are Supported by Level 16 Arcane Surge
+Socketed Gems are Supported by Level 16 Brutality
+Socketed Gems are Supported by Level 16 Efficacy
+Socketed Gems are Supported by Level 16 Faster Casting
+Socketed Gems are Supported by Level 16 Fortify
+Socketed Gems are Supported by Level 16 Increased Area of Effect
+Socketed Gems are Supported by Level 16 Innervate
+Socketed Gems are Supported by Level 16 Minion Life
+Socketed Gems are Supported by Level 16 Poison
+Socketed Gems are Supported by Level 16 Power Charge On Critical Strike
+Socketed Gems are Supported by Level 16 Slower Projectiles
+Socketed Gems are Supported by Level 16 Spell Cascade
+Socketed Gems are Supported by Level 16 Trap And Mine Damage
+Socketed Gems are Supported by Level 16 Volley
+Socketed Gems are Supported by Level 18 Blastchain Mine
+Socketed Gems are Supported by Level 18 Cast While Channelling
+Socketed Gems are Supported by Level 18 Concentrated Effect
+Socketed Gems are Supported by Level 18 Elemental Proliferation
+Socketed Gems are Supported by Level 18 Faster Attacks
+Socketed Gems are Supported by Level 18 Faster Casting
+Socketed Gems are Supported by Level 18 Immolate
+Socketed Gems are Supported by Level 18 Increased Area of Effect
+Socketed Gems are Supported by Level 18 Inspiration
+Socketed Gems are Supported by Level 18 Maim
+Socketed Gems are Supported by Level 18 Minion Damage
+Socketed Gems are Supported by Level 18 Poison
+Socketed Gems are Supported by Level 18 Power Charge On Critical Strike
+Socketed Gems are Supported by Level 18 Ruthless
+Socketed Gems are Supported by Level 18 Slower Projectiles
+Socketed Gems are Supported by Level 20 Ballista Totem
+Socketed Gems are Supported by Level 20 Concentrated Effect
+Socketed Gems are Supported by Level 20 Endurance Charge on Melee Stun
+Socketed Gems are Supported by Level 20 Faster Attacks
+Socketed Gems are Supported by Level 20 Fortify
+Socketed Gems are Supported by Level 20 Innervate
+Socketed Gems are Supported by Level 20 Minion Damage
+Socketed Gems are Supported by Level 22 Blastchain Mine
+Socketed Gems are Supported by Level 5 Cast when Damage Taken
+Socketed Gems are supported by Level 16 Additional Accuracy
+Socketed Gems are supported by Level 16 Blind
+Socketed Gems are supported by Level 16 Faster Projectiles
+Socketed Gems are supported by Level 16 Melee Splash
+Socketed Gems are supported by Level 18 Increased Critical Damage
+Socketed Gems are supported by Level 18 Multistrike
+Socketed Gems are supported by Level 20 Increased Critical Damage
+Socketed Gems have #% reduced Mana Reservation
+Socketed Movement Skills have no Mana Cost
+Socketed Spells have +#% to Critical Strike Multiplier
+Spectres have #% increased Critical Strike Chance
+Spectres have a Base Duration of 20 seconds
+Spells have +#% to Critical Strike Chance 
+Summon 4 additional Skeleton Warriors with Summon Skeleton
+Summoned Golems Regenerate #% of their Life per second
+Totems fire 2 additional Projectiles
+Totems gain +#% to all Elemental Resistances
+Traps and Mines deal # to # additional Physical Damage
+Traps and Mines have a #% chance to Poison on Hit
+Trigger a Socketed Spell when you Use a Skill
+Unaffected by Burning Ground
+Unaffected by Chilled Ground
+Unaffected by Desecrated Ground
+With 4 Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its 
+With 40 Intelligence in Radius, #% of Glacial Cascade Physical Damage
+With 40 Intelligence in Radius, Glacial Cascade has an additional Burst
+With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike cannot choose 
+With 40 total Dexterity and Strength in Radius, Elemental Hit and Wild Strike deal #% less 
+With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles 
+With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage
+With at least 40 Dexterity in Radius, Dual Strike has a #% chance
+With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles
+With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a circle
+With at least 40 Dexterity in Radius, Frost Blades has #% increased Projectile Speed
+With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets
+With at least 40 Dexterity in Radius, Ice Shot has #% increased Area of Effect
+With at least 40 Dexterity in Radius, Melee Damage
+With at least 40 Dexterity in Radius, Viper Strike deals #% increased Damage with Hits and 
+With at least 40 Dexterity in Radius, Viper Strike has a #% chance per Poison on Enemy to 
+With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains #% increased 
+With at least 40 Intelligence in Radius, Blight has #% increased Hinder Duration
+With at least 40 Intelligence in Radius, Blight inflicts Withered for 2 seconds
+With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of 
+With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel 
+With at least 40 Intelligence in Radius, Frostbolt Projectiles gain #% increased 
+With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles
+With at least 40 Intelligence in Radius, Raised
+With at least 40 Intelligence in Radius, Raised Spectres have a #% chance to gain Soul 
+With at least 40 Intelligence in Radius, Raised Zombies' Slam
+With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles
+With at least 40 Intelligence in Radius, Spark fires Projectiles in a circle
+With at least 40 Strength in Radius, #% increased
+With at least 40 Strength in Radius, #% of Glacial
+With at least 40 Strength in Radius, Cleave grants Fortify on Hit
+With at least 40 Strength in Radius, Cleave has +# to Radius per Nearby
+With at least 40 Strength in Radius, Glacial Hammer deals
+With at least 40 Strength in Radius, Ground Slam
+With at least 40 Strength in Radius, Ground Slam has a #% chance
+With at least 40 Strength in Radius, Heavy Strike has a 
+With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles
+With at least 40 Strength in Radius, Molten Strike has #% increased Area of Effect
+With at least 40 Strength in Radius, Vigilant Strike
+You can apply an additional Curse
+You cannot be Cursed with Silence
+You cannot be Maimed
+You have Vaal Pact while Focussed

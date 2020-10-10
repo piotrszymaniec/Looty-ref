@@ -1,0 +1,53 @@
+{
+  "numTabs": 234,
+  "divinationLayout": {
+    "cards": [
+    	{"name":"A Dab of Ink"},{"name":"A Familiar Call"},{"name":"A Mother's Parting Gift"},{"name":"A Note in the Wind"},{"name":"Abandoned Wealth"},{"name":"Akil's Prophecy"},{"name":"Alluring Bounty"},{"name":"Alone in the Darkness"},{"name":"Anarchy's Price"},{"name":"Arrogance of the Vaal"},{"name":"Assassin's Favour"},{"name":"Atziri's Arsenal"},{"name":"Audacity"},{"name":"Azyran's Reward"},{"name":"Baited Expectations"},{"name":"Beauty Through Death"},{"name":"Birth of the Three"},{"name":"Blessing of God"},{"name":"Blind Venture"},{"name":"Boon of Justice"},{"name":"Boon of the First Ones"},{"name":"Boundless Realms"},{"name":"Bowyer's Dream"},{"name":"Brother's Stash"},{"name":"Buried Treasure"},{"name":"Burning Blood"},{"name":"Call to the First Ones"},{"name":"Cameria's Cut"},{"name":"Cartographer's Delight"},{"name":"Chaotic Disposition"},{"name":"Council of Cats"},{"name":"Coveted Possession"},{"name":"Cursed Words"},{"name":"Dark Dreams"},{"name":"Dark Temptation"},{"name":"Death"},{"name":"Deathly Designs"},{"name":"Demigod's Wager"},{"name":"Desecrated Virtue"},{"name":"Destined to Crumble"},{"name":"Dialla's Subjugation"},{"name":"Divine Justice"},{"name":"Doedre's Madness"},{"name":"Dying Anguish"},{"name":"Earth Drinker"},{"name":"Echoes of Love"},{"name":"Emperor of Purity"},{"name":"Emperor's Luck"},{"name":"Etched in Blood"},{"name":"Forbidden Power"},{"name":"Friendship"},{"name":"Gemcutter's Promise"},{"name":"Gift of Asenath"},{"name":"Gift of the Gemling Queen"},{"name":"Glimmer of Hope"},{"name":"Grave Knowledge"},{"name":"Harmony of Souls"},{"name":"Her Mask"},{"name":"Heterochromia"},{"name":"Hope"},{"name":"House of Mirrors"},{"name":"Hubris"},{"name":"Humility"},{"name":"Hunter's Resolve"},{"name":"Hunter's Reward"},{"name":"Immortal Resolve"},{"name":"Imperial Legacy"},{"name":"Jack in the Box"},{"name":"Lantador's Lost Love"},{"name":"Last Hope"},{"name":"Left to Fate"},{"name":"Light and Truth"},{"name":"Lingering Remnants"},{"name":"Lost Worlds"},{"name":"Loyalty"},{"name":"Lucky Connections"},{"name":"Lucky Deck"},{"name":"Lysah's Respite"},{"name":"Mawr Blaidd"},{"name":"Merciless Armament"},{"name":"Might is Right"},{"name":"Mitts"},{"name":"Monochrome"},{"name":"More is Never Enough"},{"name":"No Traces"},{"name":"Nook's Crown"},{"name":"Peaceful Moments"},{"name":"Perfection"},{"name":"Pride Before the Fall"},{"name":"Pride of the First Ones"},{"name":"Prometheus' Armoury"},{"name":"Prosperity"},{"name":"Rain of Chaos"},{"name":"Rain Tempter"},{"name":"Rats"},{"name":"Rebirth"},{"name":"Remembrance"},{"name":"Sambodhi's Vow"},{"name":"Scholar of the Seas"},{"name":"Seven Years Bad Luck"},{"name":"Shard of Fate"},{"name":"Squandered Prosperity"},{"name":"Struck by Lightning"},{"name":"Succor of the Sinless"},{"name":"The Academic"},{"name":"The Admirer"},{"name":"The Aesthete"},{"name":"The Archmage's Right Hand"},{"name":"The Arena Champion"},{"name":"The Army of Blood"},{"name":"The Artist"},{"name":"The Avenger"},{"name":"The Awakened"},{"name":"The Bargain"},{"name":"The Battle Born"},{"name":"The Beast"},{"name":"The Betrayal"},{"name":"The Bitter Blossom"},{"name":"The Blazing Fire"},{"name":"The Body"},{"name":"The Bones"},{"name":"The Breach"},{"name":"The Brittle Emperor"},{"name":"The Cache"},{"name":"The Cacophony"},{"name":"The Calling"},{"name":"The Carrion Crow"},{"name":"The Cartographer"},{"name":"The Cataclysm"},{"name":"The Catalyst"},{"name":"The Celestial Justicar"},{"name":"The Celestial Stone"},{"name":"The Chains that Bind"},{"name":"The Cheater"},{"name":"The Chosen"},{"name":"The Coming Storm"},{"name":"The Conduit"},{"name":"The Craving"},{"name":"The Cursed King"},{"name":"The Damned"},{"name":"The Dapper Prodigy"},{"name":"The Dark Mage"},{"name":"The Darkest Dream"},{"name":"The Deal"},{"name":"The Deceiver"},{"name":"The Deep Ones"},{"name":"The Demon"},{"name":"The Demoness"},{"name":"The Doctor"},{"name":"The Doppelganger"},{"name":"The Dragon"},{"name":"The Dragon's Heart"},{"name":"The Dreamer"},{"name":"The Dreamland"},{"name":"The Drunken Aristocrat"},{"name":"The Easy Stroll"},{"name":"The Eldritch Decay"},{"name":"The Encroaching Darkness"},{"name":"The Endless Darkness"},{"name":"The Endurance"},{"name":"The Enlightened"},{"name":"The Escape"},{"name":"The Ethereal"},{"name":"The Explorer"},{"name":"The Eye of Terror"},{"name":"The Eye of the Dragon"},{"name":"The Fathomless Depths"},{"name":"The Feast"},{"name":"The Fiend"},{"name":"The Fishmonger"},{"name":"The Fletcher"},{"name":"The Flora's Gift"},{"name":"The Fool"},{"name":"The Formless Sea"},{"name":"The Forsaken"},{"name":"The Fox"},{"name":"The Gambler"},{"name":"The Garish Power"},{"name":"The Gemcutter"},{"name":"The Gentleman"},{"name":"The Gladiator"},{"name":"The Golden Era"},{"name":"The Greatest Intentions"},{"name":"The Gulf"},{"name":"The Hale Heart"},{"name":"The Harvester"},{"name":"The Hermit"},{"name":"The Heroic Shot"},{"name":"The Hive of Knowledge"},{"name":"The Hoarder"},{"name":"The Hunger"},{"name":"The Immortal"},{"name":"The Incantation"},{"name":"The Innocent"},{"name":"The Inoculated"},{"name":"The Insatiable"},{"name":"The Inventor"},{"name":"The Iron Bard"},{"name":"The Jester"},{"name":"The Jeweller's Boon"},{"name":"The Journalist"},{"name":"The Journey"},{"name":"The King's Blade"},{"name":"The King's Heart"},{"name":"The Landing"},{"name":"The Last One Standing"},{"name":"The Lich"},{"name":"The Life Thief"},{"name":"The Lion"},{"name":"The Long Con"},{"name":"The Lord in Black"},{"name":"The Lord of Celebration"},{"name":"The Lover"},{"name":"The Lunaris Priestess"},{"name":"The Mad King"},{"name":"The Master"},{"name":"The Master Artisan"},{"name":"The Mayor"},{"name":"The Mercenary"},{"name":"The Messenger"},{"name":"The Metalsmith's Gift"},{"name":"The Mountain"},{"name":"The Nurse"},{"name":"The Oath"},{"name":"The Obscured"},{"name":"The Offering"},{"name":"The Old Man"},{"name":"The One With All"},{"name":"The Opulent"},{"name":"The Pack Leader"},{"name":"The Pact"},{"name":"The Penitent"},{"name":"The Poet"},{"name":"The Polymath"},{"name":"The Porcupine"},{"name":"The Price of Loyalty"},{"name":"The Price of Protection"},{"name":"The Primordial"},{"name":"The Professor"},{"name":"The Progeny of Lunaris"},{"name":"The Puzzle"},{"name":"The Queen"},{"name":"The Rabid Rhoa"},{"name":"The Realm"},{"name":"The Risk"},{"name":"The Rite of Elements"},{"name":"The Road to Power"},{"name":"The Ruthless Ceinture"},{"name":"The Sacrifice"},{"name":"The Saint's Treasure"},{"name":"The Samurai's Eye"},{"name":"The Scarred Meadow"},{"name":"The Scavenger"},{"name":"The Scholar"},{"name":"The Seeker"},{"name":"The Sephirot"},{"name":"The Side Quest"},{"name":"The Sigil"},{"name":"The Siren"},{"name":"The Skeleton"},{"name":"The Soul"},{"name":"The Spark and the Flame"},{"name":"The Spoiled Prince"},{"name":"The Standoff"},{"name":"The Stormcaller"},{"name":"The Strategist"},{"name":"The Summoner"},{"name":"The Sun"},{"name":"The Surgeon"},{"name":"The Surveyor"},{"name":"The Survivalist"},{"name":"The Sustenance"},{"name":"The Sword King's Salute"},{"name":"The Thaumaturgist"},{"name":"The Throne"},{"name":"The Tinkerer's Table"},{"name":"The Tower"},{"name":"The Traitor"},{"name":"The Trial"},{"name":"The Tumbleweed"},{"name":"The Twilight Moon"},{"name":"The Twins"},{"name":"The Tyrant"},{"name":"The Undaunted"},{"name":"The Undisputed"},{"name":"The Unexpected Prize"},{"name":"The Union"},{"name":"The Valkyrie"},{"name":"The Valley of Steel Boxes"},{"name":"The Vast"},{"name":"The Visionary"},{"name":"The Void"},{"name":"The Warden"},{"name":"The Warlord"},{"name":"The Watcher"},{"name":"The Web"},{"name":"The White Knight"},{"name":"The Wilted Rose"},{"name":"The Wind"},{"name":"The Witch"},{"name":"The Wolf"},{"name":"The Wolf's Legacy"},{"name":"The Wolf's Shadow"},{"name":"The Wolven King's Bite"},{"name":"The Wolverine"},{"name":"The World Eater"},{"name":"The Wrath"},{"name":"The Wretched"},{"name":"Thirst for Knowledge"},{"name":"Three Faces in the Dark"},{"name":"Three Voices"},{"name":"Thunderous Skies"},{"name":"Time-Lost Relic"},{"name":"Tranquillity"},{"name":"Treasure Hunter"},{"name":"Triskaidekaphobia"},{"name":"Turn the Other Cheek"},{"name":"Unchained"},{"name":"Underground Forest"},{"name":"Unrequited Love"},{"name":"Vanity"},{"name":"Vile Power"},{"name":"Vinia's Token"},{"name":"Void of the Elements"},{"name":"Volatile Power"},{"name":"Wealth and Power"}
+    ],
+    "h": 261,
+    "w": 172,
+    "padx": 84,
+    "pady": 1078,
+    "scale": 0.6085192697768763
+  },
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Divination/InventoryIcon.png?v=a8ae131b97fad3c64de0e6d9f250d743&w=1&h=1&scale=1",
+      "stackSize": 1,
+      "maxStackSize": 4,
+      "league": "Standard",
+      "id": "eaf20d8a91c47433fb79a92b6dee8d1d0ba4975e50837fc43b88d96abb0cc5f3",
+      "name": "",
+      "typeLine": "The Warden",
+      "identified": true,
+      "ilvl": 0,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/4",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 32
+        }
+      ],
+      "explicitMods": [
+        "<rareitem>{Amulet}\r\n<corrupted>{Corrupted}"
+      ],
+      "flavourText": [
+        "<size:31>{Brutus' first innovation as Lord Incarcerator was a weighted chain around every neck so that his prisoners would forever bow to him.}"
+      ],
+      "frameType": 6,
+      "artFilename": "TheWarden",
+      "x": 21,
+      "y": 0,
+      "inventoryId": "Stash6"
+    }
+  ]
+}

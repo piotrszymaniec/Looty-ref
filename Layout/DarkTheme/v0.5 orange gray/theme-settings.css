@@ -1,0 +1,97 @@
+
+body {
+  /* background: #6d4c41; */
+  /* background-image: url("/images/brown-600-45-degree-fabric-light.png"); */
+  background-color: #191919;
+  font-family: FontinSmallCaps;
+}
+
+.view-btn, .ctrl-btn, .pane-btn, .ls-btn, .col-btn, .col-div, .upgrade-btn, .char-btn, .tab-btn, .show-all-btn, .hide-all-btn, .reload-all-btn, .reload-visible-btn, .refresh-characters-btn {
+    margin-right: 2px;
+    color: #ffffff7a;
+    /* text-shadow: -1px 1px #000000; */
+    /* border-right: 1px solid #434f79; */
+    /* border-bottom: 1px solid #464952; */
+    /* border-top: 1px solid #6b5d40; */
+    /* border-right: 1px solid #00000000; */
+    padding-top: 2px;
+    margin-left: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+  background-color: #191919;
+    /*! background: linear-gradient(360deg, #c99a16, transparent); */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* border: 1px solid #e47123; */
+    /* background: #000000; */
+    -webkit-transition: all 250ms;
+    -moz-transition: all 250ms;
+    /*! transition: all 250ms; */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.view-btn:hover, .ctrl-btn:hover, .pane-btn:hover, .ls-btn:hover, .col-btn:hover, .col-div:hover, .upgrade-btn:hover, .char-btn:hover, .tab-btn:hover, .show-all-btn:hover, .hide-all-btn:hover, .reload-all-btn:hover, .reload-visible-btn:hover, .refresh-characters-btn:hover {
+    background: #5a5f62;
+    /* color: #0599ff; */
+    /* border-bottom: 1px solid #9e9e9e; */
+    /* background: #e47123; */
+    color: #ffffff;
+}
+
+
+#league-buttons-pane .ls-btn {
+    background-color: #5a3806;
+    border: 1px solid #8a5609;
+    color: #d8b169;
+}
+
+#league-buttons-pane .load-save .del {
+    background-color: #5a3806;
+    border: 1px solid #8a5609;
+    color: #d8b169;
+}
+
+/* color warrning because its deletion */
+#league-buttons-pane .load-save .del:hover {
+     background-color: #f00; 
+}
+
+.columns-controls {
+   background-color: none;   
+  /* background-image: url("/images/light-green-100-linen.png"); */
+}
+
+/* no underline in link html tags */
+#content #controls .columns-controls .group-div a, #content #controls .columns-controls .group-div .col-div {
+  text-decoration: none;
+}
+
+/* enabled columns buttons */
+.columns-controls .group-div .col-div.on-col {
+  color: #d8b169;
+  background-color: #5a3806;
+  border: 1px solid #947232;
+}
+.columns-controls .group-div .col-div.on-col:hover {
+/*! color:black; */ color: #b38b3d; background: #372502 !important; border: 1px solid #5c3d07;
+  /*! background-color: #6d6c6c; */
+  /*! color: #ffffffeb; */
+  /*! border: 1px solid #c8c8c85e; */  
+}
+
+/* disabled columns buttons */
+.columns-controls .group-div .col-div.off-col:hover {
+  color: #d3d3d3;
+  background-color: #555;
+  border: 1px solid #887a7a;
+  /*! color: black; */
+}
+
+.columns-controls .group-div .col-div.off-col {
+  /* background-color: #f36c60; */
+  /* color: black; */
+  background-color: #202020;
+  color: #787878;
+  border: 1px solid #3f3f3f5e;
+}

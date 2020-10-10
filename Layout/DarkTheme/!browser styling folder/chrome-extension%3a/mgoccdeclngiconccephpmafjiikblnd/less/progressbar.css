@@ -1,0 +1,82 @@
+/* Credits: http://www.useragentman.com/blog/2012/01/03/cross-browser-html5-progress-bars-in-depth/ */
+/*---------------------progress bars ----------------*/
+progress,
+progress[role] {
+  /* Turns off styling - not usually needed, but good to know. */
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  /* gets rid of default border in Firefox and Opera. */
+  border: none;
+  /* Needs to be in here for Safari polyfill so background images work as expected. */
+  background-size: auto;
+  /* Dimensions */
+  width: 150px;
+  height: 20px;
+  background: #ffb039;
+}
+/* Polyfill */
+progress[role]:after {
+  background-image: none;
+  /* removes default background from polyfill */
+}
+/* Ensure fallback text doesn't appear in polyfill */
+progress[role] strong {
+  display: none;
+}
+/* ------------------progress-bar-background--------------------*/
+progress,
+progress[role][aria-valuenow] {
+  /* Polyfill */
+  background: #3fa2b1 !important;
+  /* !important is needed by the polyfill */
+}
+/* Chrome */
+progress::-webkit-progress-bar {
+  background: lightgray;
+}
+/* ------------------progress-bar-value--------------------*/
+/* IE10 */
+progress {
+  color: black;
+}
+/* Firefox */
+progress::-moz-progress-bar {
+  background: grey;
+}
+/* Chrome */
+progress::-webkit-progress-value {
+  background: grey;
+}
+/* Polyfill */
+progress[aria-valuenow]:before {
+  background: grey;
+}
+/*-----------------------progress bar indeterminate value */
+/* Firefox */
+progress:not([value])::-moz-progress-bar {
+  background-image: url(../images/indeter.gif);
+}
+/* Chrome */
+progress:not([value])::-webkit-progress-bar {
+  background-image: url(../images/indeter.gif);
+}
+/* Polyfill - IE */
+progress[role] {
+  background-image: url(../images/indeter.gif) !important;
+}
+/* Polyfill - Safari */
+progress:not([value]) {
+  background-image: url(../images/indeter.gif) !important;
+  background-size: auto;
+  /* Needs to be in here for Safari */
+}
+/*----------end-------------*/
+/* styling */
+progress,
+progress[role] {
+  /*dimensions*/
+  width: 150px !important;
+  height: 14px !important;
+  /* border-radius: 11px; */
+}

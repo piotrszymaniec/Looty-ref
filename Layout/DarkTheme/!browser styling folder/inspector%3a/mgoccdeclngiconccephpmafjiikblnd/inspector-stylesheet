@@ -1,0 +1,64 @@
+table tr {
+    border: 1px solid #d9dadb;
+}
+table tr td:nth-child(1):before {
+    content: '';               
+    padding-left:10px;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 1em;
+    width: 0.2em;
+    height: 0.7em;
+    background-color:#8ac0f3
+}
+table tr td.str:before {
+	background-color: red;
+}
+table tr td:nth-child(1) {
+  text-align:left;
+}
+
+
+
+table tr td:nth-child(4) {
+    height: 1.5em;
+}
+
+thead {
+    background-color: #f9a825;
+   
+}
+table thead tr th {	
+	border: 1px solid black;
+
+}
+
+
+progress::-webkit-progress-value {
+	background: #5facb2;
+	
+	border:1px solid #535353;
+	//border:none !important;
+	border-right:2px solid #2d939b;	
+	border-top: none !important;
+	border-left:none !important;
+	border-radius: 0 10px 10px 0;
+}
+
+
+progress::-webkit-progress-bar {
+	background: #dadada;
+	border-right:1px solid #000000;	
+	border-bottom: 1px solid #dadada;
+	border: 1px solid #adadad;
+	border-left: 0px;
+	border-top: none;
+	
+}
+
+progress, progress[role], progress::-webkit-progress-bar, progress::-webkit-progress-value {
+	height: 8px !important;
+	border-radius: 0 10px 10px 0;
+	border-radius: 10px;
+}
+

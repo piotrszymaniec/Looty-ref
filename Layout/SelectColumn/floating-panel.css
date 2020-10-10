@@ -1,0 +1,16 @@
+/* select columns floating panel test*/
+.columns-controls {
+  z-index: 1000;
+  position: absolute;
+  /*! left: 30px; */
+  /*to see 2 first rows of grid it should be lower*/
+  top: 270px;
+  /*! background-blend-mode: darken; */
+  /*! background-image: url("/images/main-bg-heist.jpg"); */
+  padding: 14px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.9);
+  /*! background: linear-gradient(0deg, rgba(0, 0, 0, 0.78) 0%, rgb(0, 0, 0.78) 100%); */
+  margin: 0 auto;
+  width: 1100px;
+}

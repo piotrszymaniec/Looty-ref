@@ -1,0 +1,41 @@
+
+#btns {
+  width: 1200px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(1fr, 4);
+  display: grid;
+}
+#content #xp #btns button {
+  display: block;
+  border:   1px solid #bfbfbf !important;
+  border-radius: 0px !important;
+  background: none !important;
+  text-align: left !important;
+  padding: 4px !important;
+  margin: 4px !important;
+  background-color: aliceblue !important;
+}
+#content #xp #btns button:active {
+  background-color: green !important;
+}
+
+#btns span {
+  background-color:   #fff0 !important;
+  display: block;
+  width: 250px;
+  text-align: right;
+  margin-bottom: 5px;
+}
+#btns span:after {
+  content: '';
+  margin-left: 5px;
+  width: 10px;
+  height: 10px;
+  background: #ff11c4;
+  display: inline-block;
+}
+
+input#char-search {
+  display: block;
+  
+}
