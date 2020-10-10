@@ -1,3 +1,4 @@
+```
 # Accuracy Rating per 2 Intelligence    
 # Added Passive Skills are Jewel Sockets    
 # Added Passive Skills are Jewel Sockets  
@@ -6687,3 +6688,4 @@ of Janus' Veil
 of Jorgin's Veil  
 of Riker's Veil  
 of the Veil  
+```
