@@ -1,0 +1,55 @@
+x-rate-limit-account: 60:60:60,200:120:900
+x-rate-limit-account-state: 1:60:0,1:120:0
+x-rate-limit-policy: backend-character-request-limit
+x-rate-limit-rules: Account
+
+
+
+//requestlimit:limit:timeoutafterbreachinglimit, allreq:limitreq:penaltysec
+x-rate-limit-account: 45:60:60,240:240:900
+x-rate-limit-account-state: 46:60:50,168:240:0
+x-rate-limit-policy: backend-item-request-limit
+x-rate-limit-rules: Account
+
+
+dziwne
+cache-control: no-store, no-cache, must-revalidate
+cf-cache-status: DYNAMIC
+cf-ray: 5dd896366ff4ffc8-WAW
+cf-request-id: 059b3c36000000ffc8a915b200000001
+content-type: application/json
+date: Mon, 05 Oct 2020 16:40:51 GMT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+server: cloudflare
+status: 429
+x-rate-limit-account: 45:60:60,240:240:900
+x-rate-limit-account-state: 46:60:0,162:240:0
+x-rate-limit-policy: backend-item-request-limit
+x-rate-limit-rules: Account
+
+
+cache-control: no-store, no-cache, must-revalidate
+cf-cache-status: DYNAMIC
+cf-ray: 5dd896765c6cffc8-WAW
+cf-request-id: 059b3c5dfb0000ffc8a9096200000001
+content-type: application/json
+date: Mon, 05 Oct 2020 16:41:01 GMT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+retry-after: 50
+server: cloudflare
+status: 429
+x-rate-limit-account: 45:60:60,240:240:900
+x-rate-limit-account-state: 0:60:50,114:240:0
+x-rate-limit-policy: backend-item-request-limit
+x-rate-limit-rules: Account
+
+it sometimes zmienijsz o zawsze 48 req  ???
+
+
+
+164
+date: Mon, 05 Oct 2020 16:46:00 GMT

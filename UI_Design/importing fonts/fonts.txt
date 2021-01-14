@@ -1,0 +1,9 @@
+<link rel="preload" as="font" href="/fonts/fontin-smallcaps.woff type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/fontin-regular.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/fontin-italic.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/fontin-bold.woff" type="font/woff" crossorigin="anonymous">
+
+@font-face{font-family:FontinSmallCaps;font-weight:400;font-style:normal;src:local("☺"),url(../fonts/fontin-smallcaps.woff) format("woff")}
+@font-face{font-family:FontinRegular;font-weight:400;font-style:normal;src:local("☺"),url(../fonts/fontin-regular.woff) format("woff")}
+@font-face{font-family:FontinItalic;font-weight:400;font-style:normal;src:local("☺"),url(../fonts/fontin-italic.woff) format("woff")}
+@font-face{font-family:FontinBold;font-weight:400;font-style:normal;src:local("☺"),url(../fonts/fontin-bold.woff) format("woff")}	

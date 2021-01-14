@@ -16,10 +16,10 @@
 #grouped by type creating new structure 
 # {
 #	type: " ",
-	names: [
-		" ",
-		" "
-	]
+#	names: [
+#		" ",
+#		" "
+#	]
 #}
 #jq "[. | unique_by(.name)[] | { type: .extended.subcategories[0], name : .name }] | group_by(.type) | map({"type": .[0].type, "names": map(.name)})" out_striped_of_empty_names.json > ..\Uniques\partial_data_by_type.json
 

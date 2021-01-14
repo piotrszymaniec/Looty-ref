@@ -1,4 +1,4 @@
-jq example commands on stashdata json file
+#jq example commands on stashdata json file
 
 | jq "[.[1] | {items: [.items[].typeLine]}]"
 | jq "[.[1] | {items: [.items[].typeLine]}]"

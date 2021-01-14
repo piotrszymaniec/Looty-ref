@@ -1,0 +1,137 @@
+{
+    "verified": false,
+    "w": 1,
+    "h": 1,
+    "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Gems\/VaalGems\/VaalCyclone.png?v=f76ed4d125440c9598bb3c7bf3a6ed88&w=1&h=1&scale=1",
+    "support": false,
+    "league": "Standard",
+    "id": "58874f625593caf7763fec0d3483def0e497f593b7ff4fadf8a5041328171e54",
+    "name": "",
+    "typeLine": "Vaal Cyclone",
+    "identified": true,
+    "ilvl": 0,
+    "corrupted": true,
+    "properties": [
+    {
+        "name": "Vaal, Attack, AoE, Duration, Melee, Movement, Channelling, Physical",
+        "values": [],
+        "displayMode": 0
+    },
+    {
+        "name": "Level",
+        "values": [
+            ["10", 0]
+        ],
+        "displayMode": 0,
+        "type": 5
+    },
+    {
+        "name": "Mana Cost",
+        "values": [
+            ["2", 0]
+        ],
+        "displayMode": 0
+    },
+    {
+        "name": "Attack Speed",
+        "values": [
+            ["300% of base", 0]
+        ],
+        "displayMode": 0
+    },
+    {
+        "name": "Effectiveness of Added Damage",
+        "values": [
+            ["49%", 0]
+        ],
+        "displayMode": 0
+    }],
+    "requirements": [
+    {
+        "name": "Level",
+        "values": [
+            ["50", 0]
+        ],
+        "displayMode": 0
+    },
+    {
+        "name": "Str",
+        "values": [
+            ["49", 0]
+        ],
+        "displayMode": 1
+    },
+    {
+        "name": "Dex",
+        "values": [
+            ["71", 0]
+        ],
+        "displayMode": 1
+    }],
+    "additionalProperties": [
+    {
+        "name": "Experience",
+        "values": [
+            ["415693\/1368233", 0]
+        ],
+        "displayMode": 2,
+        "progress": 0.30381739139556885,
+        "type": 20
+    }],
+    "secDescrText": "Channel this skill to move towards a targeted location while spinning, building up stages while constantly attacking enemies in an area around you. While channelling this skill, you cannot be knocked back.",
+    "explicitMods": ["Deals 48.7% of Base Damage", "13 to 20 Added Attack Physical Damage", "8% increased Area of Effect per 1 additional Melee Strike Range", "30% less Movement Speed", "First Hit deals 50% less Damage", "Gains 1 Stage every 0.2 seconds while Channelling", "Maximum 4 Stages", "+1 to radius per Stage", "Lose 1 Stage every 0.3 seconds while not Channelling"],
+    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+    "frameType": 4,
+    "extended":
+    {
+        "category": "gems",
+        "subcategories": ["activegem"],
+        "baseType": "Vaal Cyclone"
+    },
+    "x": 7,
+    "y": 9,
+    "inventoryId": "Stash46",
+    "hybrid":
+    {
+        "isVaalGem": true,
+        "baseTypeName": "Cyclone",
+        "properties": [
+        {
+            "name": "Souls Per Use",
+            "values": [
+                ["35", 0]
+            ],
+            "displayMode": 0
+        },
+        {
+            "name": "Can Store %0 Use",
+            "values": [
+                ["1", 0]
+            ],
+            "displayMode": 3
+        },
+        {
+            "name": "Soul Gain Prevention",
+            "values": [
+                ["7 sec", 0]
+            ],
+            "displayMode": 0
+        },
+        {
+            "name": "Attack Speed",
+            "values": [
+                ["400% of base", 0]
+            ],
+            "displayMode": 0
+        },
+        {
+            "name": "Effectiveness of Added Damage",
+            "values": [
+                ["55%", 0]
+            ],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Deals 55.4% of Base Damage", "Base duration is 5.00 seconds", "13 to 20 Added Attack Physical Damage", "Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention", "8% increased Area of Effect per 1 additional Melee Strike Range", "Can't be Evaded"],
+        "secDescrText": "Spin and attack in place, damaging nearby enemies and pulling others towards you. While using this skill, you cannot be stunned or knocked back. Cannot be supported by Ruthless."
+    }
+}       

@@ -1,0 +1,3907 @@
+{
+  "numTabs": 30,
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/eed8ae4ad5/Item.png",
+      "league": "Heist",
+      "id": "72a9d5e424e7977f33686035e3b1ce6070411d05cba0bc5827a7b91f323cf7c7",
+      "name": "",
+      "typeLine": "Surgeon's Eternal Life Flask of Staunching",
+      "identified": true,
+      "ilvl": 65,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+20%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2496",
+              1
+            ],
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "20% chance to gain a Flask Charge when you deal a Critical Strike",
+        "Immunity to Bleeding during Flask effect\nRemoves Bleeding on use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 10,
+      "y": 9,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9oeWJyaWRmbGFzazEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/a8a14f4bf4/Item.png",
+      "league": "Heist",
+      "id": "0d9bd35767518bd4c31776f431350b0c6c650f3bf72d84cccf571522e2a1a942",
+      "name": "",
+      "typeLine": "Colossal Hybrid Flask",
+      "identified": true,
+      "ilvl": 51,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "690",
+              0
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "200",
+              0
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zYXBwaGlyZSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/dedcab218f/Item.png",
+      "league": "Heist",
+      "id": "e9364e5f42ade74481c94fe45635e7934fda6d5a7db2160b9e9331327a4c3b34",
+      "name": "",
+      "typeLine": "Sapphire Flask",
+      "identified": true,
+      "ilvl": 57,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+50% to Cold Resistance",
+        "20% less Cold Damage taken"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s4IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/65ab267813/Item.png",
+      "league": "Heist",
+      "id": "11a1bd0152b7c7123f529420ca2634a2b6bcabfc982b35005dc0cbed054cb44e",
+      "name": "",
+      "typeLine": "Sacred Life Flask",
+      "identified": true,
+      "ilvl": 38,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1200",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 11,
+      "y": 7,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s4IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/65ab267813/Item.png",
+      "league": "Heist",
+      "id": "334e4f4d53b0d36c37134d417358165c871fc1e67edd970ae2fba8dd89a0ab22",
+      "name": "",
+      "typeLine": "Sacred Life Flask",
+      "identified": true,
+      "ilvl": 30,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1200",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 10,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4d10cf0cac/Item.png",
+      "league": "Heist",
+      "id": "8299f9660d601f4f7eafa18963ea7c25d5b35c85e0957782f5fdc6308dcecf3c",
+      "name": "",
+      "typeLine": "Divine Life Flask of Fending",
+      "identified": true,
+      "ilvl": 68,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2400",
+              0
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Adds Knockback to Melee Attacks during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9iaXNtdXRoIiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/87976c90a4/Item.png",
+      "league": "Heist",
+      "id": "6c4616fc2c16f5367f3bdf714d05386227097d7c9dd57cf19a252be16cd8d270",
+      "name": "",
+      "typeLine": "Bismuth Flask",
+      "identified": true,
+      "ilvl": 42,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+35% to all Elemental Resistances"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 0,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/9256e1fb5b/Item.png",
+      "league": "Heist",
+      "id": "02fde9a0e8f50554dfaaf6cd85f9ae2123d6d53245d4f65e7f1069aaa545d874",
+      "name": "",
+      "typeLine": "Chemist's Hallowed Mana Flask of Efficiency",
+      "identified": true,
+      "ilvl": 47,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "700",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "4",
+              1
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "20% reduced Charges used",
+        "11% reduced Mana Cost of Skills during Flask Effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 0,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9waGFzZWZsYXNrMDEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/0db4c0813a/Item.png",
+      "league": "Heist",
+      "id": "ce0ae233032f76d97f24af1544286c5988726cbae11692b9e1a3c402835e2128",
+      "name": "",
+      "typeLine": "Quartz Flask",
+      "identified": true,
+      "ilvl": 41,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "10% chance to Dodge Attack Hits",
+        "10% chance to Dodge Spell Hits",
+        "Phasing"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 1,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s4IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/65ab267813/Item.png",
+      "league": "Heist",
+      "id": "9def47eb017531b4246fbb841cf6c3467131d646abc61151a06bd45e8f2658c9",
+      "name": "",
+      "typeLine": "Sacred Life Flask",
+      "identified": true,
+      "ilvl": 39,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1200",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 9,
+      "y": 7,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4d10cf0cac/Item.png",
+      "league": "Heist",
+      "id": "5553d61532b787d1b7ca8b2a635cdad6e7f3639840abec0a765751110060499a",
+      "name": "",
+      "typeLine": "Divine Life Flask",
+      "identified": true,
+      "ilvl": 67,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2400",
+              0
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zcHJpbnQiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/5d974e29ea/Item.png",
+      "league": "Heist",
+      "id": "f52d2dcb93261172f699bd5cd5530dc4af534caffad5fd709903951c48755b55",
+      "name": "",
+      "typeLine": "Superior Quicksilver Flask",
+      "identified": true,
+      "ilvl": 55,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+20%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.80",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "utilityMods": [
+        "40% increased Movement Speed"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 8,
+      "y": 1,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "cdc044aad7fbb082dfd76bb01d3ca285a1c7186012fd3ebb2d5eac22c3eed6a8",
+      "name": "",
+      "typeLine": "Sanctified Life Flask",
+      "identified": true,
+      "ilvl": 52,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1460",
+              0
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/b4fce5c0f0/Item.png",
+      "league": "Heist",
+      "id": "7e31b4e7c323ed4998c9a3ff074af5034e89efcc4b72f49d7081f0d346d474ed",
+      "name": "",
+      "typeLine": "Eternal Mana Flask",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1800",
+              0
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC90b3BheiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/e446c76665/Item.png",
+      "league": "Heist",
+      "id": "29a0c98dd3ee6e522b007f87ad104ec40de934e249f312b95c5b078b6b43b092",
+      "name": "",
+      "typeLine": "Chemist's Topaz Flask",
+      "identified": true,
+      "ilvl": 67,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "24",
+              1
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+50% to Lightning Resistance",
+        "20% less Lightning Damage taken"
+      ],
+      "explicitMods": [
+        "20% reduced Charges used"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 5,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zYXBwaGlyZSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/dedcab218f/Item.png",
+      "league": "Heist",
+      "id": "a021e511510b90abbe1bd43f8ddaa65f25d72a7289b0de9ee9282744466a56fd",
+      "name": "",
+      "typeLine": "Sapphire Flask",
+      "identified": true,
+      "ilvl": 55,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+50% to Cold Resistance",
+        "20% less Cold Damage taken"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/c7adff8b0f/Item.png",
+      "league": "Heist",
+      "id": "937e7496e9d02dc5a1bc20a21eb74bc24325883ec3105700b6f1f631cc5b415e",
+      "name": "",
+      "typeLine": "Panicked Hallowed Life Flask of Staunching",
+      "identified": true,
+      "ilvl": 43,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1493",
+              1
+            ],
+            [
+              "8.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "25% reduced Amount Recovered",
+        "Instant Recovery when on Low Life",
+        "Immunity to Bleeding during Flask effect\nRemoves Bleeding on use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 9,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9kaWFtb25kIiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/e776e40ee5/Item.png",
+      "league": "Heist",
+      "id": "ab766daa98aedc658445a80c7cdb540453efcb547209a4c64df868c2ac3ee48b",
+      "name": "",
+      "typeLine": "Diamond Flask",
+      "identified": true,
+      "ilvl": 57,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "Your Critical Strike Chance is Lucky"
+      ],
+      "descrText": "Lucky means that a number is rolled twice and the best result is picked. Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zcHJpbnQiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/5d974e29ea/Item.png",
+      "league": "Heist",
+      "id": "44782ec14d02a0f1613f1cf715e06317abd12e64a28557c1d650bed59c400fa7",
+      "name": "",
+      "typeLine": "Quicksilver Flask",
+      "identified": true,
+      "ilvl": 4,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "utilityMods": [
+        "40% increased Movement Speed"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 11,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2s4IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/9dc5f07944/Item.png",
+      "league": "Heist",
+      "id": "0ec6c5ddff4f5868a86636ef17949316200f52c551ac775574dc8d1cd3364276",
+      "name": "",
+      "typeLine": "Superior Sacred Mana Flask",
+      "identified": true,
+      "ilvl": 68,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+11%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "533",
+              1
+            ],
+            [
+              "5.50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "7",
+              0
+            ],
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 4,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/b4fce5c0f0/Item.png",
+      "league": "Heist",
+      "id": "94aee59a7d601ad7b4c2af7e20d0076410fd63c142027a2e424b6b942a420b72",
+      "name": "",
+      "typeLine": "Superior Eternal Mana Flask",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+10%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1980",
+              1
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 5,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC90b3BheiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/e446c76665/Item.png",
+      "league": "Heist",
+      "id": "702c935c77b2beb53f8a30dc53ff169af3ad9cefe46dd3daa6569ea5abe52528",
+      "name": "",
+      "typeLine": "Superior Topaz Flask",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+12%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.50",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+50% to Lightning Resistance",
+        "20% less Lightning Damage taken"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 6,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s2IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/5eae4173ef/Item.png",
+      "league": "Heist",
+      "id": "f2a403047c199a08ce257d01840cf93aedcbca0b3be7bb54342f952c99e73c9b",
+      "name": "",
+      "typeLine": "Catalysed Giant Life Flask of Bloodletting",
+      "identified": true,
+      "ilvl": 40,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "830",
+              0
+            ],
+            [
+              "5.30",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "50% increased Recovery rate",
+        "0.4% of Attack Damage Leeched as Life during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 8,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "878221064fd500e0f3d2de8d034675167e4314ea8f7dba042c4c7682423c5d75",
+      "name": "",
+      "typeLine": "Sanctified Life Flask",
+      "identified": true,
+      "ilvl": 52,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1460",
+              0
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "74e6a0e3383dcf98fde7ced2c081dcaf197b073509cc3f362f6bd62ea15bd5e9",
+      "name": "",
+      "typeLine": "Sanctified Life Flask",
+      "identified": true,
+      "ilvl": 52,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1460",
+              0
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9ncmFuaXRlIiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/70dfcb8d1b/Item.png",
+      "league": "Heist",
+      "id": "e45cadaad4d13a1d14d5cca0bdede425d8be55f3b01b8c0ccc3ada970f0be522",
+      "name": "",
+      "typeLine": "Granite Flask",
+      "identified": true,
+      "ilvl": 69,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+3000 to Armour"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 6,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s2IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/5eae4173ef/Item.png",
+      "league": "Heist",
+      "id": "8ce38ae9a27ba4f49d7f9d2006fc1408ddea6d2d5793800a462509ac5a069706",
+      "name": "",
+      "typeLine": "Bubbling Giant Life Flask",
+      "identified": true,
+      "ilvl": 40,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "415",
+              1
+            ],
+            [
+              "3.40",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "50% reduced Amount Recovered",
+        "135% increased Recovery rate",
+        "50% of Recovery applied Instantly"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 10,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zdGlibml0ZSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/2ae352bc6d/Item.png",
+      "league": "Heist",
+      "id": "0d90f42290b7cbef2f575a92e751a6148e872571052a4821b685b52fa731358e",
+      "name": "",
+      "typeLine": "Stibnite Flask",
+      "identified": true,
+      "ilvl": 53,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "14",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "100% increased Evasion Rating"
+      ],
+      "implicitMods": [
+        "Creates a Smoke Cloud on Use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/eed8ae4ad5/Item.png",
+      "league": "Heist",
+      "id": "25a0573e0820804093719aa2ad502cb1f129af8618dc05ad60db29132a9a9124",
+      "name": "",
+      "typeLine": "Eternal Life Flask",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2080",
+              0
+            ],
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 4,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2s2IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/38737bbeae/Item.png",
+      "league": "Heist",
+      "id": "2997708a7daf431b6676a5168a948456dcd4a73118cb0cfe48897d5b56492c03",
+      "name": "",
+      "typeLine": "Ample Giant Mana Flask of Infliction",
+      "identified": true,
+      "ilvl": 32,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "250",
+              0
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "51",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+15 to Maximum Charges",
+        "20% chance to Freeze, Shock and Ignite during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 0,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zdG9uZSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/f08ff22d64/Item.png",
+      "league": "Heist",
+      "id": "13efb5ca31d9b98260482d6f52f48d47c9673cc2fcf81a5a42f9af4467fdcfb4",
+      "name": "",
+      "typeLine": "Basalt Flask",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "40",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "15% additional Physical Damage Reduction",
+        "20% of Melee Physical Damage taken reflected to Attacker"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 4,
+      "y": 8,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9QaGFudG9tQmxvb2QiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/0d2070b13a/Item.png",
+      "league": "Heist",
+      "id": "11ddd53918643f1c26b456055fc8f1ee2581d1dc7d5e46388e4c1533d02e5057",
+      "name": "Forbidden Taste",
+      "typeLine": "Quartz Flask",
+      "identified": true,
+      "ilvl": 47,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "10% chance to Dodge Attack Hits",
+        "10% chance to Dodge Spell Hits",
+        "Phasing"
+      ],
+      "explicitMods": [
+        "Recover 83% of Life on use",
+        "8% of Maximum Life taken as Chaos Damage per second"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "flavourText": [
+        "Your reach exceeds your grasp."
+      ],
+      "frameType": 3,
+      "x": 6,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zcHJpbnQiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/5d974e29ea/Item.png",
+      "league": "Heist",
+      "id": "de035b5ac529efdb08f0cdf22b21c0d059ac0bf789eda049105f98d8f56d3a19",
+      "name": "",
+      "typeLine": "Surgeon's Quicksilver Flask of Acceleration",
+      "identified": true,
+      "ilvl": 15,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "40% increased Movement Speed"
+      ],
+      "explicitMods": [
+        "20% chance to gain a Flask Charge when you deal a Critical Strike",
+        "8% increased Attack Speed during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 1,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/473e2b7aea/Item.png",
+      "league": "Heist",
+      "id": "3fc8b0392f0dbb527b7a0d63c16a41ecd99dc0d7682667e24f94eed7edd6d01e",
+      "name": "",
+      "typeLine": "Divine Mana Flask",
+      "identified": true,
+      "ilvl": 67,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1400",
+              0
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 6,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9BbWV0aHlzdCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/08a8a2b1f9/Item.png",
+      "league": "Heist",
+      "id": "53cc83c9448d97521a20ed90163746d0b05ddbde8c2853f67fb862e7ea0d4b9e",
+      "name": "",
+      "typeLine": "Amethyst Flask",
+      "identified": true,
+      "ilvl": 36,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "3.50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+35% to Chaos Resistance"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/9256e1fb5b/Item.png",
+      "league": "Heist",
+      "id": "06d6075b3fa18dd40284ec2f6edfd01cc6099fb5fd03428a00d5c4b2423a2b0c",
+      "name": "",
+      "typeLine": "Hallowed Mana Flask",
+      "identified": true,
+      "ilvl": 51,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "700",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "6",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9ydWJ5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/94754e67a4/Item.png",
+      "league": "Heist",
+      "id": "f45621c9fb939699dd321b2502a4671bdc6f80f66abba8489150ac3ccfe5fdef",
+      "name": "",
+      "typeLine": "Ruby Flask",
+      "identified": true,
+      "ilvl": 46,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "30",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "+50% to Fire Resistance",
+        "20% less Fire Damage taken"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 0,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9nb2xkIiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/30c9ac9e60/Item.png",
+      "league": "Heist",
+      "id": "d1fd590c1404a16195d3f618bf983c14e0b133ceadb096aff219cb9275f9a158",
+      "name": "",
+      "typeLine": "Sulphur Flask of Heat",
+      "identified": true,
+      "ilvl": 50,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "40% increased Damage"
+      ],
+      "implicitMods": [
+        "Creates Consecrated Ground on Use"
+      ],
+      "explicitMods": [
+        "Immunity to Freeze and Chill during Flask effect\nRemoves Freeze and Chill on use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 1,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/9256e1fb5b/Item.png",
+      "league": "Heist",
+      "id": "b13d19fd9ececff50bf3ac4a777600cd96666c32e8382d17d0189e03015d6826",
+      "name": "",
+      "typeLine": "Catalysed Hallowed Mana Flask",
+      "identified": true,
+      "ilvl": 42,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "700",
+              0
+            ],
+            [
+              "4.00",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "6",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "50% increased Recovery rate"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 0,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9oeWJyaWRmbGFzazQiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/9a88bcca35/Item.png",
+      "league": "Heist",
+      "id": "cbe8efa15b21a93b80d291325cb548e2b6e5102624e38ba4d4f27f4af302b011",
+      "name": "",
+      "typeLine": "Superior Large Hybrid Flask",
+      "identified": true,
+      "ilvl": 37,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+11%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "566",
+              1
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "155",
+              1
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 1,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4d10cf0cac/Item.png",
+      "league": "Heist",
+      "id": "2cabecf5663a53f176d2d98aa47f0a0a89a43c11428d50be77c9123f6f7bed0c",
+      "name": "",
+      "typeLine": "Divine Life Flask",
+      "identified": true,
+      "ilvl": 68,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2400",
+              0
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 5,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s3IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/6caccf3c8a/Item.png",
+      "league": "Heist",
+      "id": "16dbcb4ac53afa6b2e0c269c0344af7a6613b844412b019576b1bb93a9751aa0",
+      "name": "",
+      "typeLine": "Superior Colossal Life Flask",
+      "identified": true,
+      "ilvl": 43,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+11%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1110",
+              1
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 1,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "b42092a7e274b267f2d552b7d2cb73b2e09c17f4eb4073d36fb5df8e85fa234b",
+      "name": "",
+      "typeLine": "Concentrated Sanctified Life Flask",
+      "identified": true,
+      "ilvl": 65,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1898",
+              1
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "18",
+              1
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "30% increased Amount Recovered",
+        "24% increased Charges used"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 7,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/eed8ae4ad5/Item.png",
+      "league": "Heist",
+      "id": "9d9896bda1e62919ce706f771697da0b418b79e5a7adf1b2adcb00f4a7f77695",
+      "name": "",
+      "typeLine": "Perpetual Eternal Life Flask of Grounding",
+      "identified": true,
+      "ilvl": 66,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2080",
+              0
+            ],
+            [
+              "4.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "30% increased Charge Recovery",
+        "Immunity to Shock during Flask effect\nRemoves Shock on use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 4,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/b4fce5c0f0/Item.png",
+      "league": "Heist",
+      "id": "f9751881d8a591af331b5a83537fa148155301992711c1036eaadb39225cecd8",
+      "name": "",
+      "typeLine": "Chemist's Eternal Mana Flask",
+      "identified": true,
+      "ilvl": 67,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1800",
+              0
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "6",
+              1
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "25% reduced Charges used"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 5,
+      "y": 4,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/c7adff8b0f/Item.png",
+      "league": "Heist",
+      "id": "bb93e430d7b1fba264955686f0d6803422aed5e9423f483264a7ea749789bf98",
+      "name": "",
+      "typeLine": "Surgeon's Hallowed Life Flask",
+      "identified": true,
+      "ilvl": 47,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1990",
+              0
+            ],
+            [
+              "8.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "20% chance to gain a Flask Charge when you deal a Critical Strike"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zdGlibml0ZSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/2ae352bc6d/Item.png",
+      "league": "Heist",
+      "id": "227e5a53708d7b3fd3979ca7f0f9db048365ab336e1b0f9d7d3d9506680848f9",
+      "name": "",
+      "typeLine": "Stibnite Flask",
+      "identified": true,
+      "ilvl": 42,
+      "properties": [
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "14",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "100% increased Evasion Rating"
+      ],
+      "implicitMods": [
+        "Creates a Smoke Cloud on Use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 11,
+      "y": 9,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "56c71edb9364863165c177fdf71e5e2c502d1bd8ed8d427613d648000c63851c",
+      "name": "",
+      "typeLine": "Panicked Sanctified Life Flask of Animation",
+      "identified": true,
+      "ilvl": 51,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1095",
+              1
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "25% reduced Amount Recovered",
+        "Instant Recovery when on Low Life",
+        "Grants 59% of Life Recovery to Minions"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 11,
+      "y": 2,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/473e2b7aea/Item.png",
+      "league": "Heist",
+      "id": "2ac755c9578e8d697de2d25d92a4d81582d5f9eddd6a0f7f8577901f40538388",
+      "name": "",
+      "typeLine": "Superior Divine Mana Flask",
+      "identified": true,
+      "ilvl": 68,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+8%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1512",
+              1
+            ],
+            [
+              "5.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 6,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/4db2618457/Item.png",
+      "league": "Heist",
+      "id": "f9182613fc8252bc9645063b17e5399b492ff0c84bfe6d77dde1819a9caa5fa6",
+      "name": "",
+      "typeLine": "Sanctified Life Flask",
+      "identified": true,
+      "ilvl": 61,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1460",
+              0
+            ],
+            [
+              "3.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 10,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/9bb858d54b/Item.png",
+      "league": "Heist",
+      "id": "f1e856115ab128c8b22781a0e05e24dc9a24d76597bfd520ceb4446e6aab3935",
+      "name": "",
+      "typeLine": "Sanctified Mana Flask",
+      "identified": true,
+      "ilvl": 59,
+      "properties": [
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "1100",
+              0
+            ],
+            [
+              "6.50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "7",
+              0
+            ],
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 5,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s4IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/65ab267813/Item.png",
+      "league": "Heist",
+      "id": "960a225bfdf887216f5a9d74f4f731b6d824cba72c37ca18cc79e26746d399ca",
+      "name": "",
+      "typeLine": "Surgeon's Sacred Life Flask of Fending",
+      "identified": true,
+      "ilvl": 36,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1200",
+              0
+            ],
+            [
+              "6.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "20% chance to gain a Flask Charge when you deal a Critical Strike",
+        "Adds Knockback to Melee Attacks during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 7,
+      "y": 6,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2s5IiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0/c7adff8b0f/Item.png",
+      "league": "Heist",
+      "id": "69b95d28f02fb540d37a5d00cff6b7c099b92f738cc2e263e3c5988b8886bd33",
+      "name": "",
+      "typeLine": "Hallowed Life Flask",
+      "identified": true,
+      "ilvl": 45,
+      "properties": [
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "1990",
+              0
+            ],
+            [
+              "8.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 1,
+      "y": 0,
+      "inventoryId": "Stash26"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9tYW5hZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/b4fce5c0f0/Item.png",
+      "league": "Heist",
+      "id": "b8841c6a42d4aee810974c5930d0e81718a99a81a0aeb824c0f481a77fbba1c5",
+      "name": "",
+      "typeLine": "Superior Eternal Mana Flask",
+      "identified": true,
+      "ilvl": 67,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+15%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Mana over {1} Seconds",
+          "values": [
+            [
+              "2070",
+              1
+            ],
+            [
+              "7.00",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "8",
+              0
+            ],
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 5,
+      "y": 8,
+      "inventoryId": "Stash26"
+    }
+  ]
+}

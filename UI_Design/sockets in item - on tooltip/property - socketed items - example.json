@@ -1,0 +1,690 @@
+{
+"socketedItems": [
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/VaalGems/VaalCyclone.png?v=f76ed4d125440c9598bb3c7bf3a6ed88&w=1&h=1&scale=1",
+        "support": false,
+        "league": "Standard",
+        "id": "b4d0fcde6110ae157b23b000f4af6b94789e3dd3f6d454010c909472fb1b0d3a",
+        "name": "",
+        "typeLine": "Vaal Cyclone",
+        "identified": true,
+        "ilvl": 0,
+        "corrupted": true,
+        "properties": [
+          {
+            "name": "Vaal, Attack, AoE, Duration, Melee, Movement, Channelling, Physical",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "19",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Cost",
+            "values": [
+              [
+                "2",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Attack Speed",
+            "values": [
+              [
+                "300% of base",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Effectiveness of Added Damage",
+            "values": [
+              [
+                "53%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+20%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "68",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Str",
+            "values": [
+              [
+                "66",
+                0
+              ]
+            ],
+            "displayMode": 1
+          },
+          {
+            "name": "Dex",
+            "values": [
+              [
+                "95",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "additionalProperties": [
+          {
+            "name": "Experience",
+            "values": [
+              [
+                "90123272/211708088",
+                0
+              ]
+            ],
+            "displayMode": 2,
+            "progress": 0.42569592595100403,
+            "type": 20
+          }
+        ],
+        "secDescrText": "Channel this skill to move towards a targeted location while spinning, building up stages while constantly attacking enemies in an area around you. While channelling this skill, you cannot be knocked back.",
+        "explicitMods": [
+          "Deals 53.5% of Base Damage",
+          "26 to 39 Added Attack Physical Damage",
+          "10% increased Area of Effect",
+          "8% increased Area of Effect per 1 additional Melee Strike Range",
+          "30% less Movement Speed",
+          "First Hit deals 50% less Damage",
+          "Gains 1 Stage every 0.2 seconds while Channelling",
+          "Maximum 6 Stages",
+          "+1 to radius per Stage",
+          "Lose 1 Stage every 0.3 seconds while not Channelling"
+        ],
+        "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "activegem"
+          ],
+          "baseType": "Vaal Cyclone"
+        },
+        "socket": 0,
+        "colour": "D",
+        "hybrid": {
+          "isVaalGem": true,
+          "baseTypeName": "Cyclone",
+          "properties": [
+            {
+              "name": "Souls Per Use",
+              "values": [
+                [
+                  "35",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Can Store %0 Use",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 3
+            },
+            {
+              "name": "Soul Gain Prevention",
+              "values": [
+                [
+                  "7 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Attack Speed",
+              "values": [
+                [
+                  "400% of base",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Effectiveness of Added Damage",
+              "values": [
+                [
+                  "61%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "explicitMods": [
+            "Deals 60.8% of Base Damage",
+            "Base duration is 5.00 seconds",
+            "26 to 39 Added Attack Physical Damage",
+            "Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention",
+            "10% increased Area of Effect",
+            "8% increased Area of Effect per 1 additional Melee Strike Range",
+            "Can't be Evaded"
+          ],
+          "secDescrText": "Spin and attack in place, damaging nearby enemies and pulling others towards you. While using this skill, you cannot be stunned or knocked back. Cannot be supported by Ruthless."
+        }
+      },
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/CloseCombat.png?v=c061b1ca77a2408c6ec04b8052ccc577&w=1&h=1&scale=1",
+        "support": true,
+        "league": "Standard",
+        "id": "4e6ccbce162fd6caf209b8b7286d40a16940f690d3093cf2c4184403127a379b",
+        "name": "",
+        "typeLine": "Close Combat Support",
+        "identified": true,
+        "ilvl": 0,
+        "corrupted": true,
+        "properties": [
+          {
+            "name": "Support, Melee, Attack, Duration",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "20 (Max)",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Multiplier",
+            "values": [
+              [
+                "140%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+21%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Str",
+            "values": [
+              [
+                "48",
+                0
+              ]
+            ],
+            "displayMode": 1
+          },
+          {
+            "name": "Dex",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "secDescrText": "Supports melee attack skills. Cannot support skills which create minions.",
+        "explicitMods": [
+          "Supported Skills deal 10% increased Melee Damage",
+          "Supported Skills grant Combat Rush on Hit\nCombat Rush lasts 2 seconds or until you use a Travel Skill",
+          "Combat Rush grants 24% more Attack and Cast Speed to Travel Skills that are not Supported by Close Combat",
+          "Supported Skills deal up to 59% more Melee Damage to Enemies, based on proximity",
+          "Supported Skills can only be used with Axes or Swords"
+        ],
+        "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "supportgem"
+          ],
+          "baseType": "Close Combat Support"
+        },
+        "socket": 1,
+        "colour": "D"
+      },
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/FortifyGem.png?v=6a69853aaf7278667bde43531541ef7d&w=1&h=1&scale=1",
+        "support": true,
+        "league": "Standard",
+        "id": "d9c02262a03e201bc5cb4bd0393b15b543133239131f4fb7e46a5a5b3bbb3e38",
+        "name": "",
+        "typeLine": "Fortify Support",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [
+          {
+            "name": "Attack, Support, Melee",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "20 (Max)",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Multiplier",
+            "values": [
+              [
+                "130%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+20%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Str",
+            "values": [
+              [
+                "111",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "secDescrText": "Supports melee attack skills that are not triggered.",
+        "explicitMods": [
+          "Supported Skills deal 10% increased Attack Damage",
+          "Supported Skills grant Fortify on Melee hit",
+          "Supported Skills have 34% increased Fortify duration",
+          "Supported Skills deal 34% more Damage with Ailments caused by Melee Hits",
+          "Supported Skills deal 34% more Melee Damage"
+        ],
+        "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "supportgem"
+          ],
+          "baseType": "Fortify Support"
+        },
+        "socket": 2,
+        "colour": "S"
+      },
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/IncreasedPhysicalDamage.png?v=c6b49c558eebd64e02e0cf4cd48d84d0&w=1&h=1&scale=1",
+        "support": true,
+        "league": "Standard",
+        "id": "0720be7a9d2e2df84e33161ff2a2e50723871844a1393821b4586f6403e7226b",
+        "name": "",
+        "typeLine": "Melee Physical Damage Support",
+        "identified": true,
+        "ilvl": 0,
+        "corrupted": true,
+        "properties": [
+          {
+            "name": "Melee, Physical, Support, Attack",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "20 (Max)",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Multiplier",
+            "values": [
+              [
+                "140%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+20%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Str",
+            "values": [
+              [
+                "111",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "secDescrText": "Supports melee attack skills.",
+        "explicitMods": [
+          "Supported Skills deal 49% more Melee Physical Damage",
+          "Supported Skills deal 49% more Damage with Bleeding and Poison caused by Melee Hits",
+          "Supported Skills deal 10% increased Melee Physical Damage"
+        ],
+        "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "supportgem"
+          ],
+          "baseType": "Melee Physical Damage Support"
+        },
+        "socket": 3,
+        "colour": "S"
+      },
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/Brutality.png?v=e39c3abec2992338acbbeac37e31fae7&w=1&h=1&scale=1",
+        "support": true,
+        "league": "Standard",
+        "id": "dd49126a38163e9ff1e0c9ec559498075a072a8a2f7cbde627006722369a5dfc",
+        "name": "",
+        "typeLine": "Brutality Support",
+        "identified": true,
+        "ilvl": 0,
+        "corrupted": true,
+        "properties": [
+          {
+            "name": "Physical, Support",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "20 (Max)",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Multiplier",
+            "values": [
+              [
+                "130%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+23%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Str",
+            "values": [
+              [
+                "111",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "secDescrText": "Supports any skill that hits enemies.",
+        "explicitMods": [
+          "Supported Skills deal 59% more Physical Damage",
+          "Supported Skills deal no Chaos Damage",
+          "Supported Skills deal no Elemental Damage",
+          "Supported Skills deal 11% increased Physical Damage"
+        ],
+        "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "supportgem"
+          ],
+          "baseType": "Brutality Support"
+        },
+        "socket": 4,
+        "colour": "S"
+      },
+      {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/StormBarrier.png?v=f95996a64a14463a1589eecb7196d4d7&w=1&h=1&scale=1",
+        "support": true,
+        "league": "Standard",
+        "id": "b6bdbf2a345f821bb7f9090b3dd633eaa46da9ca661414f4a2d3b932a556a3f2",
+        "name": "",
+        "typeLine": "Infused Channelling Support",
+        "identified": true,
+        "ilvl": 0,
+        "corrupted": true,
+        "properties": [
+          {
+            "name": "Support, Channelling, Duration",
+            "values": [],
+            "displayMode": 0
+          },
+          {
+            "name": "Level",
+            "values": [
+              [
+                "20 (Max)",
+                0
+              ]
+            ],
+            "displayMode": 0,
+            "type": 5
+          },
+          {
+            "name": "Mana Multiplier",
+            "values": [
+              [
+                "140%",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Quality",
+            "values": [
+              [
+                "+20%",
+                1
+              ]
+            ],
+            "displayMode": 0,
+            "type": 6
+          }
+        ],
+        "requirements": [
+          {
+            "name": "Level",
+            "values": [
+              [
+                "70",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Int",
+            "values": [
+              [
+                "111",
+                0
+              ]
+            ],
+            "displayMode": 1
+          }
+        ],
+        "secDescrText": "Supports any channelling skill, protecting you from damage while you channel it. Cannot support Minions that channel skills.",
+        "explicitMods": [
+          "Totems cannot gain Infusion",
+          "Infusion lasts 6 seconds after you finish Channelling",
+          "Gain Infusion after Channelling a Supported Skill for 0.6 seconds",
+          "Supported Skills deal 39% more Damage",
+          "Infusion grants 10% more Damage of Types matching Supported Skill Gem's tags",
+          "While Channelling a Supported Skill, take 8% less Damage from Hits of types matching the Skill Gem's Tags"
+        ],
+        "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+        "frameType": 4,
+        "extended": {
+          "category": "gems",
+          "subcategories": [
+            "supportgem"
+          ],
+          "baseType": "Infused Channelling Support"
+        },
+        "socket": 5,
+        "colour": "I"
+      }
+    ]  
+}

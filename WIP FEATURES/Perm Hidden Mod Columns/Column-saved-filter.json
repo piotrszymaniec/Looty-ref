@@ -1,0 +1,783 @@
+{
+  "cols": [
+    "name",
+    "type",
+    "ES",
+    "fAvg",
+    "iir"
+  ],
+  "columnFilters": [
+    {
+      "text": "chest",
+      "col": "type"
+    },
+    {
+      "text": "60",
+      "col": "ES"
+    }
+  ],
+  "containerFilters": [
+    {
+      "encoded": "StashTabIdx:120"
+    },
+    {
+      "encoded": "StashTabIdx:141"
+    },
+    {
+      "encoded": "StashTabIdx:93"
+    },
+    {
+      "encoded": "StashTabIdx:118"
+    },
+    {
+      "encoded": "StashTabIdx:159"
+    },
+    {
+      "encoded": "StashTabIdx:194"
+    },
+    {
+      "encoded": "StashTabIdx:184"
+    },
+    {
+      "encoded": "InventoryId:ThatsContagious"
+    },
+    {
+      "encoded": "StashTabIdx:105"
+    },
+    {
+      "encoded": "StashTabIdx:142"
+    },
+    {
+      "encoded": "StashTabIdx:14"
+    },
+    {
+      "encoded": "StashTabIdx:61"
+    },
+    {
+      "encoded": "StashTabIdx:10"
+    },
+    {
+      "encoded": "StashTabIdx:112"
+    },
+    {
+      "encoded": "StashTabIdx:177"
+    },
+    {
+      "encoded": "StashTabIdx:163"
+    },
+    {
+      "encoded": "StashTabIdx:17"
+    },
+    {
+      "encoded": "StashTabIdx:131"
+    },
+    {
+      "encoded": "StashTabIdx:219"
+    },
+    {
+      "encoded": "StashTabIdx:0"
+    },
+    {
+      "encoded": "StashTabIdx:167"
+    },
+    {
+      "encoded": "StashTabIdx:146"
+    },
+    {
+      "encoded": "StashTabIdx:220"
+    },
+    {
+      "encoded": "StashTabIdx:47"
+    },
+    {
+      "encoded": "StashTabIdx:136"
+    },
+    {
+      "encoded": "StashTabIdx:73"
+    },
+    {
+      "encoded": "StashTabIdx:4"
+    },
+    {
+      "encoded": "InventoryId:SiopkowaDama"
+    },
+    {
+      "encoded": "StashTabIdx:42"
+    },
+    {
+      "encoded": "StashTabIdx:46"
+    },
+    {
+      "encoded": "StashTabIdx:81"
+    },
+    {
+      "encoded": "StashTabIdx:169"
+    },
+    {
+      "encoded": "StashTabIdx:162"
+    },
+    {
+      "encoded": "StashTabIdx:214"
+    },
+    {
+      "encoded": "StashTabIdx:116"
+    },
+    {
+      "encoded": "StashTabIdx:39"
+    },
+    {
+      "encoded": "StashTabIdx:60"
+    },
+    {
+      "encoded": "StashTabIdx:211"
+    },
+    {
+      "encoded": "StashTabIdx:119"
+    },
+    {
+      "encoded": "StashTabIdx:224"
+    },
+    {
+      "encoded": "StashTabIdx:24"
+    },
+    {
+      "encoded": "StashTabIdx:230"
+    },
+    {
+      "encoded": "StashTabIdx:35"
+    },
+    {
+      "encoded": "StashTabIdx:218"
+    },
+    {
+      "encoded": "StashTabIdx:6"
+    },
+    {
+      "encoded": "StashTabIdx:62"
+    },
+    {
+      "encoded": "StashTabIdx:20"
+    },
+    {
+      "encoded": "StashTabIdx:32"
+    },
+    {
+      "encoded": "StashTabIdx:7"
+    },
+    {
+      "encoded": "StashTabIdx:202"
+    },
+    {
+      "encoded": "StashTabIdx:113"
+    },
+    {
+      "encoded": "StashTabIdx:121"
+    },
+    {
+      "encoded": "InventoryId:Blyskawicca"
+    },
+    {
+      "encoded": "StashTabIdx:96"
+    },
+    {
+      "encoded": "InventoryId:ArkharTheWanderer"
+    },
+    {
+      "encoded": "StashTabIdx:191"
+    },
+    {
+      "encoded": "StashTabIdx:1"
+    },
+    {
+      "encoded": "StashTabIdx:55"
+    },
+    {
+      "encoded": "StashTabIdx:27"
+    },
+    {
+      "encoded": "StashTabIdx:209"
+    },
+    {
+      "encoded": "StashTabIdx:150"
+    },
+    {
+      "encoded": "StashTabIdx:97"
+    },
+    {
+      "encoded": "StashTabIdx:77"
+    },
+    {
+      "encoded": "StashTabIdx:106"
+    },
+    {
+      "encoded": "StashTabIdx:233"
+    },
+    {
+      "encoded": "StashTabIdx:13"
+    },
+    {
+      "encoded": "StashTabIdx:145"
+    },
+    {
+      "encoded": "StashTabIdx:52"
+    },
+    {
+      "encoded": "StashTabIdx:56"
+    },
+    {
+      "encoded": "StashTabIdx:101"
+    },
+    {
+      "encoded": "StashTabIdx:144"
+    },
+    {
+      "encoded": "StashTabIdx:127"
+    },
+    {
+      "encoded": "StashTabIdx:100"
+    },
+    {
+      "encoded": "StashTabIdx:45"
+    },
+    {
+      "encoded": "StashTabIdx:87"
+    },
+    {
+      "encoded": "InventoryId:Traf_DivineIre"
+    },
+    {
+      "encoded": "StashTabIdx:149"
+    },
+    {
+      "encoded": "StashTabIdx:115"
+    },
+    {
+      "encoded": "StashTabIdx:66"
+    },
+    {
+      "encoded": "StashTabIdx:91"
+    },
+    {
+      "encoded": "StashTabIdx:107"
+    },
+    {
+      "encoded": "StashTabIdx:143"
+    },
+    {
+      "encoded": "StashTabIdx:89"
+    },
+    {
+      "encoded": "StashTabIdx:104"
+    },
+    {
+      "encoded": "StashTabIdx:98"
+    },
+    {
+      "encoded": "StashTabIdx:216"
+    },
+    {
+      "encoded": "InventoryId:Jowita"
+    },
+    {
+      "encoded": "StashTabIdx:85"
+    },
+    {
+      "encoded": "StashTabIdx:201"
+    },
+    {
+      "encoded": "InventoryId:JowixaQueenOfTheDamned"
+    },
+    {
+      "encoded": "InventoryId:MaKaturo"
+    },
+    {
+      "encoded": "StashTabIdx:197"
+    },
+    {
+      "encoded": "StashTabIdx:11"
+    },
+    {
+      "encoded": "StashTabIdx:210"
+    },
+    {
+      "encoded": "StashTabIdx:67"
+    },
+    {
+      "encoded": "InventoryId:SzmataCoPoNiebieLata"
+    },
+    {
+      "encoded": "StashTabIdx:69"
+    },
+    {
+      "encoded": "InventoryId:FlamingDragonReaver"
+    },
+    {
+      "encoded": "StashTabIdx:95"
+    },
+    {
+      "encoded": "StashTabIdx:137"
+    },
+    {
+      "encoded": "StashTabIdx:12"
+    },
+    {
+      "encoded": "StashTabIdx:59"
+    },
+    {
+      "encoded": "StashTabIdx:88"
+    },
+    {
+      "encoded": "StashTabIdx:208"
+    },
+    {
+      "encoded": "StashTabIdx:161"
+    },
+    {
+      "encoded": "StashTabIdx:138"
+    },
+    {
+      "encoded": "StashTabIdx:58"
+    },
+    {
+      "encoded": "StashTabIdx:3"
+    },
+    {
+      "encoded": "StashTabIdx:192"
+    },
+    {
+      "encoded": "StashTabIdx:126"
+    },
+    {
+      "encoded": "StashTabIdx:165"
+    },
+    {
+      "encoded": "StashTabIdx:5"
+    },
+    {
+      "encoded": "StashTabIdx:33"
+    },
+    {
+      "encoded": "StashTabIdx:103"
+    },
+    {
+      "encoded": "StashTabIdx:205"
+    },
+    {
+      "encoded": "StashTabIdx:99"
+    },
+    {
+      "encoded": "StashTabIdx:82"
+    },
+    {
+      "encoded": "StashTabIdx:185"
+    },
+    {
+      "encoded": "StashTabIdx:86"
+    },
+    {
+      "encoded": "StashTabIdx:180"
+    },
+    {
+      "encoded": "StashTabIdx:156"
+    },
+    {
+      "encoded": "StashTabIdx:125"
+    },
+    {
+      "encoded": "StashTabIdx:19"
+    },
+    {
+      "encoded": "StashTabIdx:203"
+    },
+    {
+      "encoded": "StashTabIdx:84"
+    },
+    {
+      "encoded": "StashTabIdx:63"
+    },
+    {
+      "encoded": "StashTabIdx:186"
+    },
+    {
+      "encoded": "StashTabIdx:51"
+    },
+    {
+      "encoded": "StashTabIdx:23"
+    },
+    {
+      "encoded": "StashTabIdx:83"
+    },
+    {
+      "encoded": "StashTabIdx:221"
+    },
+    {
+      "encoded": "StashTabIdx:227"
+    },
+    {
+      "encoded": "StashTabIdx:188"
+    },
+    {
+      "encoded": "StashTabIdx:48"
+    },
+    {
+      "encoded": "StashTabIdx:153"
+    },
+    {
+      "encoded": "StashTabIdx:178"
+    },
+    {
+      "encoded": "StashTabIdx:123"
+    },
+    {
+      "encoded": "StashTabIdx:78"
+    },
+    {
+      "encoded": "InventoryId:JowixaWilczaKrolowa"
+    },
+    {
+      "encoded": "StashTabIdx:53"
+    },
+    {
+      "encoded": "StashTabIdx:15"
+    },
+    {
+      "encoded": "StashTabIdx:160"
+    },
+    {
+      "encoded": "StashTabIdx:174"
+    },
+    {
+      "encoded": "StashTabIdx:176"
+    },
+    {
+      "encoded": "StashTabIdx:8"
+    },
+    {
+      "encoded": "StashTabIdx:166"
+    },
+    {
+      "encoded": "StashTabIdx:38"
+    },
+    {
+      "encoded": "StashTabIdx:114"
+    },
+    {
+      "encoded": "StashTabIdx:181"
+    },
+    {
+      "encoded": "StashTabIdx:40"
+    },
+    {
+      "encoded": "StashTabIdx:207"
+    },
+    {
+      "encoded": "StashTabIdx:204"
+    },
+    {
+      "encoded": "StashTabIdx:148"
+    },
+    {
+      "encoded": "StashTabIdx:158"
+    },
+    {
+      "encoded": "StashTabIdx:117"
+    },
+    {
+      "encoded": "InventoryId:DragonReaverSlash"
+    },
+    {
+      "encoded": "StashTabIdx:64"
+    },
+    {
+      "encoded": "StashTabIdx:152"
+    },
+    {
+      "encoded": "StashTabIdx:65"
+    },
+    {
+      "encoded": "InventoryId:ColdTouchJovita"
+    },
+    {
+      "encoded": "StashTabIdx:94"
+    },
+    {
+      "encoded": "StashTabIdx:217"
+    },
+    {
+      "encoded": "StashTabIdx:44"
+    },
+    {
+      "encoded": "StashTabIdx:76"
+    },
+    {
+      "encoded": "StashTabIdx:109"
+    },
+    {
+      "encoded": "StashTabIdx:231"
+    },
+    {
+      "encoded": "StashTabIdx:206"
+    },
+    {
+      "encoded": "StashTabIdx:79"
+    },
+    {
+      "encoded": "StashTabIdx:57"
+    },
+    {
+      "encoded": "StashTabIdx:140"
+    },
+    {
+      "encoded": "StashTabIdx:226"
+    },
+    {
+      "encoded": "StashTabIdx:122"
+    },
+    {
+      "encoded": "StashTabIdx:179"
+    },
+    {
+      "encoded": "StashTabIdx:9"
+    },
+    {
+      "encoded": "StashTabIdx:195"
+    },
+    {
+      "encoded": "StashTabIdx:172"
+    },
+    {
+      "encoded": "StashTabIdx:130"
+    },
+    {
+      "encoded": "StashTabIdx:187"
+    },
+    {
+      "encoded": "StashTabIdx:21"
+    },
+    {
+      "encoded": "StashTabIdx:225"
+    },
+    {
+      "encoded": "InventoryId:Arkhaar"
+    },
+    {
+      "encoded": "StashTabIdx:232"
+    },
+    {
+      "encoded": "StashTabIdx:229"
+    },
+    {
+      "encoded": "InventoryId:JovitaTheIceQueen"
+    },
+    {
+      "encoded": "StashTabIdx:170"
+    },
+    {
+      "encoded": "StashTabIdx:37"
+    },
+    {
+      "encoded": "StashTabIdx:199"
+    },
+    {
+      "encoded": "StashTabIdx:164"
+    },
+    {
+      "encoded": "StashTabIdx:182"
+    },
+    {
+      "encoded": "StashTabIdx:108"
+    },
+    {
+      "encoded": "StashTabIdx:189"
+    },
+    {
+      "encoded": "InventoryId:JowixaMistressOfFire"
+    },
+    {
+      "encoded": "StashTabIdx:41"
+    },
+    {
+      "encoded": "StashTabIdx:215"
+    },
+    {
+      "encoded": "StashTabIdx:72"
+    },
+    {
+      "encoded": "StashTabIdx:71"
+    },
+    {
+      "encoded": "InventoryId:PanSpopielacz"
+    },
+    {
+      "encoded": "StashTabIdx:168"
+    },
+    {
+      "encoded": "StashTabIdx:171"
+    },
+    {
+      "encoded": "StashTabIdx:36"
+    },
+    {
+      "encoded": "StashTabIdx:70"
+    },
+    {
+      "encoded": "StashTabIdx:28"
+    },
+    {
+      "encoded": "StashTabIdx:193"
+    },
+    {
+      "encoded": "StashTabIdx:212"
+    },
+    {
+      "encoded": "StashTabIdx:133"
+    },
+    {
+      "encoded": "StashTabIdx:129"
+    },
+    {
+      "encoded": "StashTabIdx:74"
+    },
+    {
+      "encoded": "StashTabIdx:151"
+    },
+    {
+      "encoded": "StashTabIdx:157"
+    },
+    {
+      "encoded": "StashTabIdx:16"
+    },
+    {
+      "encoded": "StashTabIdx:213"
+    },
+    {
+      "encoded": "StashTabIdx:147"
+    },
+    {
+      "encoded": "StashTabIdx:134"
+    },
+    {
+      "encoded": "InventoryId:ObliWanKenobi"
+    },
+    {
+      "encoded": "StashTabIdx:18"
+    },
+    {
+      "encoded": "StashTabIdx:80"
+    },
+    {
+      "encoded": "StashTabIdx:102"
+    },
+    {
+      "encoded": "StashTabIdx:68"
+    },
+    {
+      "encoded": "StashTabIdx:110"
+    },
+    {
+      "encoded": "InventoryId:ColdHeartArkahra"
+    },
+    {
+      "encoded": "StashTabIdx:26"
+    },
+    {
+      "encoded": "StashTabIdx:139"
+    },
+    {
+      "encoded": "StashTabIdx:155"
+    },
+    {
+      "encoded": "StashTabIdx:31"
+    },
+    {
+      "encoded": "StashTabIdx:49"
+    },
+    {
+      "encoded": "StashTabIdx:2"
+    },
+    {
+      "encoded": "StashTabIdx:135"
+    },
+    {
+      "encoded": "StashTabIdx:124"
+    },
+    {
+      "encoded": "InventoryId:SmashingThroughThat"
+    },
+    {
+      "encoded": "StashTabIdx:34"
+    },
+    {
+      "encoded": "StashTabIdx:200"
+    },
+    {
+      "encoded": "StashTabIdx:54"
+    },
+    {
+      "encoded": "StashTabIdx:29"
+    },
+    {
+      "encoded": "StashTabIdx:132"
+    },
+    {
+      "encoded": "StashTabIdx:175"
+    },
+    {
+      "encoded": "StashTabIdx:75"
+    },
+    {
+      "encoded": "StashTabIdx:92"
+    },
+    {
+      "encoded": "StashTabIdx:198"
+    },
+    {
+      "encoded": "StashTabIdx:111"
+    },
+    {
+      "encoded": "StashTabIdx:223"
+    },
+    {
+      "encoded": "StashTabIdx:190"
+    },
+    {
+      "encoded": "StashTabIdx:25"
+    },
+    {
+      "encoded": "StashTabIdx:43"
+    },
+    {
+      "encoded": "StashTabIdx:228"
+    },
+    {
+      "encoded": "StashTabIdx:196"
+    },
+    {
+      "encoded": "StashTabIdx:50"
+    },
+    {
+      "encoded": "StashTabIdx:22"
+    },
+    {
+      "encoded": "StashTabIdx:30"
+    },
+    {
+      "encoded": "StashTabIdx:183"
+    },
+    {
+      "encoded": "StashTabIdx:173"
+    },
+    {
+      "encoded": "StashTabIdx:128"
+    },
+    {
+      "encoded": "StashTabIdx:90"
+    },
+    {
+      "encoded": "StashTabIdx:222"
+    },
+    {
+      "encoded": "StashTabIdx:154"
+    }
+  ]
+}
