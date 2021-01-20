@@ -1,0 +1,90 @@
+<html>
+<head>
+	<style type="text/css">	
+	</style>
+	<link rel="stylesheet" type="text/css" href="script/horsey.css">
+</head>
+<body>
+<div class="columns-controls">
+			<div class="col-main">
+				<input id="search-mod" placeholder="find mod..." size="25">
+				<input id="search-value" placeholder="" size="25">
+				<a href="javascript:void(0)" class="col-btn">All +</a><a href="javascript:void(0)" class="col-btn">All -</a><a href="javascript:void(0)" class="col-btn">Default</a>
+			</div>
+			<div class="group-div">
+				 <span class="col-btn-toggle"><a href="javascript:void(0)" class="col-btn show">+</a><a href="javascript:void(0)" class="col-btn hide">-</a></span><span class="group-name">General:</span>
+				 <div style="display:inline-block" title="The name of the character / stash tab that contains the item." class="col-div on-col">loc</div>
+				 <div style="display:inline-block" title="Rarity of the item." class="col-div on-col">rarity</div>
+				 <div style="display:inline-block" title="The name of the item" class="col-div on-col">name</div>
+				 <div style="display:inline-block" title="The name of the base item type, you can enter more then one separating them with | which act as " or"="" "="" class="col-div on-col">type</div>
+				 <div style="display:inline-block" title="The type line of an item" class="col-div off-col">tpeln</div>
+				 <div style="display:inline-block" title="A list of all cosmetic effects applied to the item" class="col-div on-col">cosmetics</div>
+				 <div style="display:inline-block" title="The sockets sorted by number in group, then by color" class="col-div on-col">sockets</div>
+				 <div style="display:inline-block" title="Gem level / Items in Stack / # of Sockets /  Map Level" class="col-div on-col">misc</div>
+				 <div style="display:inline-block" title="The quality of the item" class="col-div off-col">qual</div>
+				 <div style="display:inline-block" title="The item level" class="col-div on-col">ilvl</div>
+				 <div style="display:inline-block" title="The number of explicit mods on an item" class="col-div off-col">emc</div>
+				 <div style="display:inline-block" title="The number crafted mods on an item" class="col-div off-col">cmc</div>
+				 <div style="display:inline-block" title="The number enchanted mods on an item" class="col-div off-col">enchc</div>
+				 <div style="display:inline-block" title="The number enchanted mods on an item" class="col-div off-col">frmc</div>
+				 <div style="display:inline-block" title="The keywords on a skill gem" class="col-div off-col">kws</div>
+			</div>
+			<div class="group-div">
+				 <span class="col-btn-toggle"><a href="javascript:void(0)" class="col-btn show">+</a><a href="javascript:void(0)" class="col-btn hide">-</a></span><span class="group-name">Misc:</span>
+				 <div style="display:inline-block" title="Item is Crafted" class="col-div off-col">crafted</div>
+				 <div style="display:inline-block" title="Item is Corrupted" class="col-div off-col">corrupted</div>
+				 <div style="display:inline-block" title="Item is Mirrored" class="col-div off-col">mirrored</div>
+				 <div style="display:inline-block" title="Item is Identified" class="col-div off-col">identified</div>
+				 <div style="display:inline-block" title="Item is Veiled" class="col-div off-col">veiled</div>
+				 <div style="display:inline-block" title="Item is Syntesised (have fractured mods)" class="col-div off-col">synthesised</div>
+				 <div style="display:inline-block" title="Influances" class="col-div off-col">influences</div>
+			</div>
+			<div class="group-div">
+				 <span class="col-btn-toggle"><a href="javascript:void(0)" class="col-btn show">+</a><a href="javascript:void(0)" class="col-btn hide">-</a></span><span class="group-name">Defensive:</span>
+				 <div style="display:inline-block" title="Armour" class="col-div on-col">AR</div>
+				 <div style="display:inline-block" title="Evasion" class="col-div on-col">EV</div>
+				 <div style="display:inline-block" title="Armour + Evasion" class="col-div off-col">AR+EV</div>
+				 <div style="display:inline-block" title="Energy Shield" class="col-div on-col">ES</div>
+				 <div style="display:inline-block" title="Increased Max Energy Shield Includes Intelligence Bonus" class="col-div off-col">+%ES</div>
+				 <div style="display:inline-block" title="Increased global Armour" class="col-div off-col">+%AR</div>
+				 <div style="display:inline-block" title="Increased global Evasion Rating Includes Dexterity Bonus" class="col-div off-col">+%EV</div>
+				 <div style="display:inline-block" title="Increased local % Energy Shield" class="col-div on-col">+%lES</div>
+				 <div style="display:inline-block" title="Increased local % Armour" class="col-div off-col">+%lAR</div>
+				 <div style="display:inline-block" title="Increased local % Evasion Rating" class="col-div off-col">+%lEV</div>
+				 <div style="display:inline-block" title="Chance to Block" class="col-div off-col">blk%</div>
+				 <div style="display:inline-block" title="Increased Block and Stun Recovery" class="col-div off-col">+bsrec</div>
+				 <div style="display:inline-block" title="Adds Chance to Dodge Spell Hits" class="col-div off-col">SpDg%</div>
+				 <div style="display:inline-block" title="Adds Chance to Block Spell Damage" class="col-div off-col">SpBlk%</div>
+			</div>
+</div>
+<script src="script/horsey.min.js">
+</script>
+<script type="text/javascript" >
+	
+  let hors = horsey(document.querySelector('input'), {
+    source: [{ list: [
+      { value: 'elDmg', text: 'Increased Elemental Damage' },
+      { value: 'elDmgWep', text: 'Increased Elemental Damage With Weapons' },
+      { value: 'firelDmg', text: 'Increased Fire Damage + Elemental Damage' },
+      { value: 'iphysdmg', text: 'Increased Physical Damage' }
+    ]}],
+    getText: 'text',
+    getValue: function(d) {
+    	console.log(d);
+    	return d;
+    },
+    limit: 5,
+    predictNextSearch(info) {
+        //get the suggestion selected by the user
+        //console.log(info.input.value);
+        //console.log(info.suggestions);
+        console.log(info.selection.value);
+        console.log(info.input);
+        console.table(info);
+  }
+  });
+  document.querySelector('#search-value').value = hors.getValue;
+
+</script>
+</body>
+</html>

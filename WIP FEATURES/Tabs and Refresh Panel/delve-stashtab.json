@@ -1,0 +1,976 @@
+{
+    "numTabs": 682,
+    "delveLayout": {
+        "0": {
+            "x": 322.51521298174447,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "1": {
+            "x": 203.2454361054767,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "2": {
+            "x": 382.7586206896552,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "3": {
+            "x": 83.36713995943205,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "4": {
+            "x": 262.8803245436106,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "5": {
+            "x": 442.39350912778906,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "6": {
+            "x": 143.00202839756594,
+            "y": 45.63894523326572,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "7": {
+            "x": 83.97565922920893,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "8": {
+            "x": 203.2454361054767,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "9": {
+            "x": 322.51521298174447,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "10": {
+            "x": 442.39350912778906,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "11": {
+            "x": 382.7586206896552,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "12": {
+            "x": 502.02839756592294,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "13": {
+            "x": 23.732251521298178,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "14": {
+            "x": 143.61054766734281,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "15": {
+            "x": 262.8803245436106,
+            "y": 105.2738336713996,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "16": {
+            "x": 262.8803245436106,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "17": {
+            "x": 442.39350912778906,
+            "y": 224.54361054766736,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "18": {
+            "x": 112.57606490872212,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "19": {
+            "x": 412.5760649087221,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "20": {
+            "x": 472.210953346856,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "21": {
+            "x": 83.36713995943205,
+            "y": 224.54361054766736,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "22": {
+            "x": 52.94117647058824,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "23": {
+            "x": 322.51521298174447,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "24": {
+            "x": 202.63691683569982,
+            "y": 164.90872210953347,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "25": {
+            "x": 82.75862068965517,
+            "y": 379.10750507099397,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "26": {
+            "x": 42.59634888438134,
+            "y": 438.74239350912785,
+            "w": 1,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "27": {
+            "x": 102.83975659229209,
+            "y": 438.74239350912785,
+            "w": 2,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "29": {
+            "x": 197.7687626774848,
+            "y": 438.74239350912785,
+            "w": 2,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "31": {
+            "x": 442.39350912778906,
+            "y": 379.10750507099397,
+            "w": 1,
+            "h": 1,
+            "scale": 0.9230769230769231
+        },
+        "32": {
+            "x": 483.1643002028398,
+            "y": 438.74239350912785,
+            "w": 1,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "33": {
+            "x": 388.2352941176471,
+            "y": 438.74239350912785,
+            "w": 2,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "35": {
+            "x": 292.08924949290065,
+            "y": 438.74239350912785,
+            "w": 2,
+            "h": 2,
+            "scale": 0.8205128205128205
+        },
+        "37": {
+            "x": 195.94320486815417,
+            "y": 242.79918864097365,
+            "w": 2,
+            "h": 4,
+            "scale": 0.8205128205128205
+        },
+        "39": {
+            "x": 295.7403651115619,
+            "y": 242.79918864097365,
+            "w": 2,
+            "h": 4,
+            "scale": 0.8205128205128205
+        }
+    },
+    "items": [{
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/SanctifiedFossil.png?v=06e401cb206eef0d0d2ed44487ee6098&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "b0f09a14ee7314456445b6b85bab7e1dd5308d2c8a577c2007152ce41e53cc36",
+        "name": "",
+        "typeLine": "Gilded Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["Item is overvalued by vendors"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 24,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Reroll1x1A.png?v=e1d44f3d008b43923e17788a3964ea5a&w=1&h=1&scale=1",
+        "stackSize": 6,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "c37f2e500006d321cd29fa5b71e224192440f67388d7b39faa9e5a55dbde1adf",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Primitive Chaotic Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["6\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{1} Socketed Fossil",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Reforges a rare item with new random modifiers"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 31,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/AethericFossil.png?v=9d31f88bba65e50eda14a969f1fca002&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "1dbfc60d6823ef0c262bc9d0f32359e05ccbc1a996e0b38aa9e45a54915fcf65",
+        "name": "",
+        "typeLine": "Aetheric Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Caster modifiers\r\nFewer Attack modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 9,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 2,
+        "h": 2,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Reroll2x2A.png?v=52e5aeed8456a111a3c686fdff25a7ea&w=2&h=2&scale=1",
+        "stackSize": 3,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "d6aa2afe2be616d061e08f9cf09253ac80888cfaa400bb7440863c5115e4b9ad",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 1,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 2,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Powerful Chaotic Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["3\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{3} Socketed Fossils",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Reforges a rare item with new random modifiers"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 33,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/PerfectFossil.png?v=cbce2c743aad0314753383fa1cf220e2&w=1&h=1&scale=1",
+        "stackSize": 4,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "7a416b9e8a3dc0bc3caf94227e3c697ab02f2e1daa950460473cd96008a54c4e",
+        "name": "",
+        "typeLine": "Perfect Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["4\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Applies to",
+            "values": [
+                ["Weapons, Body Armour, Gloves, Boots, Helmets, Shields, Maps", 0]
+            ],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Improved Quality"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 14,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/EncrustedFossil.png?v=41de1749ab9c3acdd85cf3e16b67dfaa&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "f62f6dcc168c11e905801a47748b66853322685f33823e47093ec5a7da7e4cf7",
+        "name": "",
+        "typeLine": "Encrusted Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Applies to",
+            "values": [
+                ["Weapons, Body Armour, Gloves, Boots, Helmets, Shields", 0]
+            ],
+            "displayMode": 0
+        }],
+        "explicitMods": ["More sockets\r\nCan have white sockets"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 16,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/ResonatingFossil.png?v=17265c7ab9b83cc6e91ba22db4dabde3&w=1&h=1&scale=1",
+        "stackSize": 2,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "1ddac140049ddf3fcb46c0187f292662854743e9e469912f69f9145778c86af5",
+        "name": "",
+        "typeLine": "Bound Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["2\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Minion, Aura or Curse modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 13,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/PristineFossil.png?v=d8d8938da9c6edf3b0c9aa9056908805&w=1&h=1&scale=1",
+        "stackSize": 20,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "3f8b51b8d232f29d03360bc453c3b4e1dd46b6cf0273814cb904eb31325854b5",
+        "name": "",
+        "typeLine": "Pristine Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["20\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Life modifiers\r\nNo Defence modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 5,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Upgrade1x1A.png?v=b1e654a4fc6338833a86053c8c9f803c&w=1&h=1&scale=1",
+        "stackSize": 60,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "84a3d60d06d9da81994d8d48140e991e5017529ebd05061407d1faf2ab4359c1",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Primitive Alchemical Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["60\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{1} Socketed Fossil",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Upgrades a normal item to a rare item"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 25,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/PrismaticFossil.png?v=8889a1bf7ae2cd4665bb5d42c3707ab8&w=1&h=1&scale=1",
+        "stackSize": 2,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "d81523dbc5c1a540bbef5c2a39e7ca4210be449823bd33da1aa5b6072b4f2fc0",
+        "name": "",
+        "typeLine": "Prismatic Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["2\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Elemental modifiers\r\nNo Physical Ailment or Chaos Ailment modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 8,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/EnchantedFossil.png?v=f0c439ecbd6c8ef6ead41fe4907d59d2&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "7348465b00f37324dc63b8f0a715e8ecbed1a61214cf68a9148bd535e7fe21a1",
+        "name": "",
+        "typeLine": "Enchanted Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Applies to",
+            "values": [
+                ["Helmets, Gloves, Boots", 0]
+            ],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Has a Labyrinth Enchantment"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 15,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 2,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Upgrade2x1A.png?v=45c5ee68d1c4d7e98fd605c6780cbe52&w=1&h=2&scale=1",
+        "stackSize": 16,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "35c85397343fc9808699a5bc573cc7dab02e6b8b134e30a538baabd70bb81bb0",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 1,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Potent Alchemical Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["16\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{2} Socketed Fossils",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Upgrades a normal item to a rare item"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 26,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 3,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/Wands\/ConvokingWand.png?v=c785ffaa2fe0c137693c1a923fa7551f&w=1&h=3&scale=1",
+        "league": "Standard",
+        "id": "c35003181c55fccf2fbb7689711d0f7f164cc4e93251b234705ec28ce2e241cb",
+        "sockets": [{
+            "group": 0,
+            "attr": "D",
+            "sColour": "G"
+        }, {
+            "group": 1,
+            "attr": "I",
+            "sColour": "B"
+        }, {
+            "group": 1,
+            "attr": "I",
+            "sColour": "B"
+        }],
+        "name": "Sol Weaver",
+        "typeLine": "Convoking Wand",
+        "identified": true,
+        "ilvl": 84,
+        "properties": [{
+            "name": "Wand",
+            "values": [],
+            "displayMode": 0
+        }, {
+            "name": "Quality",
+            "values": [
+                ["+20%", 1]
+            ],
+            "displayMode": 0,
+            "type": 6
+        }, {
+            "name": "Physical Damage",
+            "values": [
+                ["36-67", 1]
+            ],
+            "displayMode": 0,
+            "type": 9
+        }, {
+            "name": "Critical Strike Chance",
+            "values": [
+                ["7.00%", 0]
+            ],
+            "displayMode": 0,
+            "type": 12
+        }, {
+            "name": "Attacks per Second",
+            "values": [
+                ["1.40", 0]
+            ],
+            "displayMode": 0,
+            "type": 13
+        }],
+        "requirements": [{
+            "name": "Level",
+            "values": [
+                ["72", 0]
+            ],
+            "displayMode": 0
+        }, {
+            "name": "Int",
+            "values": [
+                ["242", 0]
+            ],
+            "displayMode": 1
+        }],
+        "implicitMods": ["Can roll Minion Modifiers"],
+        "explicitMods": ["+19% to Chaos Resistance", "Minions have 22% increased Movement Speed", "Minions deal 22% increased Damage", "Minions have 19% increased Attack Speed", "Minions have 17% increased Cast Speed"],
+        "frameType": 2,
+        "x": 37,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/AmberFireFly.png?v=07bf03f11f34c03905d0d1c65f5b001c&w=1&h=1&scale=1",
+        "stackSize": 43,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "30e764b85376f80e4141a3038c12372e18496e0d7903e96412eb6c64e08a01bd",
+        "name": "",
+        "typeLine": "Scorched Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["43\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Fire modifiers\r\nNo Cold modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 0,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/AmberFang.png?v=5ad7bc2cc225c2cc27774cf81f390506&w=1&h=1&scale=1",
+        "stackSize": 27,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "7ccc4699d0fc369616e8c51cd4a84c7e18af38c17cfcd6b7349d88c835d5f913",
+        "name": "",
+        "typeLine": "Frigid Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["27\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Cold modifiers\r\nNo Fire modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 1,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/CorrodedFossil.png?v=13ecceed03b1b56183516130c7d8d587&w=1&h=1&scale=1",
+        "stackSize": 3,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "90fcffb456506d9c508b8028ab56f69dc5a9be6bfa47ea9e227debd67de233a1",
+        "name": "",
+        "typeLine": "Corroded Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["3\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Physical Ailment or Chaos Ailment modifiers\r\nNo Elemental modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 7,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/MetallicFossil.png?v=cd53ee25a1625393929dec5f114b7f03&w=1&h=1&scale=1",
+        "stackSize": 39,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "1a687c4ddd48f474b93fb0b515f530ec58b549be73f1e473b7587bf54d962e5b",
+        "name": "",
+        "typeLine": "Metallic Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["39\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Lightning modifiers\r\nNo Physical modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 2,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/AbberantFossil.png?v=517fe1f29702c7f6f9b11d10206ab0e2&w=1&h=1&scale=1",
+        "stackSize": 26,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "37ffed250e2135a78526489b833d97388a935e03390ca20e5cf770173ea6a147",
+        "name": "",
+        "typeLine": "Aberrant Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["26\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Chaos modifiers\r\nNo Lightning modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 4,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 2,
+        "h": 2,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Upgrade2x2A.png?v=7c6cd63b2bec84f7972763c31e1079b4&w=2&h=2&scale=1",
+        "stackSize": 8,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "cd3023ec322427afca5fc337797264a5a152822dc252546d8713876eb836c8c3",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 1,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 2,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Powerful Alchemical Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["8\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{3} Socketed Fossils",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Upgrades a normal item to a rare item"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 27,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/LucentFossil.png?v=cbec4eaf61103bfeaa2e97b1a67a18d9&w=1&h=1&scale=1",
+        "stackSize": 2,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "1b8a42e76ff34b8853551007ac06f20a587a93b2502cd524543b22f3a1e5ae18",
+        "name": "",
+        "typeLine": "Lucent Fossil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["2\/20", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "explicitMods": ["More Mana modifiers\r\nNo Speed modifiers"],
+        "descrText": "Place in a Resonator to influence item crafting.",
+        "frameType": 5,
+        "x": 11,
+        "y": 0,
+        "inventoryId": "Stash69"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 2,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Delve\/Reroll2x1A.png?v=5426a15e85e4dc95e23ce23873bb0751&w=1&h=2&scale=1",
+        "stackSize": 14,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "a9626f5392cbb033e625a6622a978d1391a471ac896d9ceb64d197ff10cc3a37",
+        "delve": true,
+        "sockets": [{
+            "group": 0,
+            "attr": "DV",
+            "sColour": "DV"
+        }, {
+            "group": 1,
+            "attr": "DV",
+            "sColour": "DV"
+        }],
+        "name": "",
+        "typeLine": "Potent Chaotic Resonator",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["14\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }, {
+            "name": "Requires <unmet>{2} Socketed Fossils",
+            "values": [],
+            "displayMode": 0
+        }],
+        "explicitMods": ["Reforges a rare item with new random modifiers"],
+        "descrText": "All sockets must be filled with Fossils before this item can be used.",
+        "frameType": 5,
+        "x": 32,
+        "y": 0,
+        "inventoryId": "Stash69",
+        "socketedItems": []
+    }]
+}

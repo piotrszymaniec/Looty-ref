@@ -1,0 +1,90 @@
+
+/*modal window */
+.columns-controls {
+    height: 400px;
+    background: var(--column-controls-background);
+    padding-bottom: 5px;
+    padding-left: 5px;
+    overflow-y: scroll;
+    position: fixed;
+    z-index: 100;
+    top: 237px;
+    left: 114px;
+    padding: 9px;
+    border: 2px solid #000000;
+    opacity: 0.95;
+}	
+
+.columns-controls .group-div .group-name {
+    color: black;
+    font-size: 1em;
+    font-size: var(--column-controls-mod-group-name-font-size);
+    color: var(--column-controls-mod-group-name-font-color);
+    width: 174px;
+    display: inline-block;
+    text-align: right;
+    padding-right: 11px;
+    font-weight: bold;
+    padding-bottom: 1px;
+}
+
+/*odstep miedzy wierszami modow*/
+.group-div {
+    border-bottom: 1px solid #101010b5;
+}
+
+/* search filtering selection*/
+.searched-mod-selection {
+	border-radius: 7px;
+	border: 3px solid #f30ed0ad;
+}
+
+
+/*hover indicator*/
+.group-div:hover {
+    /* background: #23232324; */
+    /* border-top: 1px solid black; */
+    background: repeating-linear-gradient(180deg, #94949454, #0000004d 27px);    
+    z-index: 1000;
+    cursor: pointer;
+}
+
+/*input window group*/
+.columns-controls .col-main {
+    margin-bottom: 5px;
+    padding-top: 5px;
+}
+
+/*search-mod floating*/
+input#mod-search {
+    display: block;
+    margin-bottom: 4px;
+    width: 152px;
+    position: fixed;
+}
+/*turned modal window*/
+div#grid {
+    opacity: 0.6;
+}
+
+/*shadowbox background under modal window*/
+div {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  top: 50px;
+  left: 50px;
+  /* for IE */
+  box-shadow: 0 0 0 1000px rgba(0,0,0,.3);
+  /* for real browsers */
+  box-shadow: 0 0 0 100vmax rgba(0,0,0,.3);
+  pointer-events: none;
+}
+
+.col-div.on-col {
+    opacity: 0.5; jak wlaczamy modal window to przyciemniamy przyciski :D ;
+}
+
+Note:
+wywal ostylowanie w nazwie grup i przyciskach (rozlacz te dotyczace modow od innych przyciskow i utnij style),
+ a za to przenies style do group-div

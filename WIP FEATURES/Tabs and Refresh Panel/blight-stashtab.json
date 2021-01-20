@@ -1,0 +1,828 @@
+{
+    "numTabs": 682,
+    "blightLayout": {
+        "0": {
+            "x": 111.35902636916836,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "1": {
+            "x": 172.210953346856,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "2": {
+            "x": 232.45436105476676,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "3": {
+            "x": 294.52332657200816,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "4": {
+            "x": 354.158215010142,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "5": {
+            "x": 416.2271805273834,
+            "y": 24.34077079107505,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "6": {
+            "x": 80.32454361054768,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "7": {
+            "x": 141.1764705882353,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "8": {
+            "x": 201.41987829614607,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "9": {
+            "x": 263.48884381338746,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "10": {
+            "x": 323.12373225152135,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "11": {
+            "x": 385.1926977687627,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "12": {
+            "x": 446.0446247464503,
+            "y": 77.28194726166329,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "13": {
+            "x": 221.50101419878297,
+            "y": 139.95943204868155,
+            "w": 2,
+            "h": 4,
+            "scale": 0.7564102564102564
+        },
+        "15": {
+            "x": 303.0425963488844,
+            "y": 139.95943204868155,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "16": {
+            "x": 303.0425963488844,
+            "y": 191.07505070993918,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "17": {
+            "x": 303.0425963488844,
+            "y": 242.19066937119678,
+            "w": 1,
+            "h": 1,
+            "scale": 0.8717948717948718
+        },
+        "18": {
+            "x": 31.643002028397568,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "19": {
+            "x": 74.42190680977781,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "20": {
+            "x": 117.20081159115806,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "21": {
+            "x": 159.9797163725383,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "22": {
+            "x": 202.75862115391854,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "23": {
+            "x": 245.5375259352988,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "24": {
+            "x": 288.316430716679,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "25": {
+            "x": 331.0953354980593,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "26": {
+            "x": 373.8742402794395,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "27": {
+            "x": 416.6531450608198,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "28": {
+            "x": 459.4320498422,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "29": {
+            "x": 502.2109546235803,
+            "y": 337.72819472616635,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "30": {
+            "x": 31.643002028397568,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "31": {
+            "x": 74.42190680977781,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "32": {
+            "x": 117.20081159115806,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "33": {
+            "x": 159.9797163725383,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "34": {
+            "x": 202.75862115391854,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "35": {
+            "x": 245.5375259352988,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "36": {
+            "x": 288.316430716679,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "37": {
+            "x": 331.0953354980593,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "38": {
+            "x": 373.8742402794395,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "39": {
+            "x": 416.6531450608198,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "40": {
+            "x": 459.4320498422,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "41": {
+            "x": 502.2109546235803,
+            "y": 380.5070995075466,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "42": {
+            "x": 31.643002028397568,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "43": {
+            "x": 74.42190680977781,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "44": {
+            "x": 117.20081159115806,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "45": {
+            "x": 159.9797163725383,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "46": {
+            "x": 202.75862115391854,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "47": {
+            "x": 245.5375259352988,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "48": {
+            "x": 288.316430716679,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "49": {
+            "x": 331.0953354980593,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "50": {
+            "x": 373.8742402794395,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "51": {
+            "x": 416.6531450608198,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "52": {
+            "x": 459.4320498422,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "53": {
+            "x": 502.2109546235803,
+            "y": 423.28600428892685,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "54": {
+            "x": 31.643002028397568,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "55": {
+            "x": 74.42190680977781,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "56": {
+            "x": 117.20081159115806,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "57": {
+            "x": 159.9797163725383,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "58": {
+            "x": 202.75862115391854,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "59": {
+            "x": 245.5375259352988,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "60": {
+            "x": 288.316430716679,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "61": {
+            "x": 331.0953354980593,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "62": {
+            "x": 373.8742402794395,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "63": {
+            "x": 416.6531450608198,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "64": {
+            "x": 459.4320498422,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "65": {
+            "x": 502.2109546235803,
+            "y": 466.06490907030707,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "66": {
+            "x": 31.643002028397568,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "67": {
+            "x": 74.42190680977781,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "68": {
+            "x": 117.20081159115806,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "69": {
+            "x": 159.9797163725383,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "70": {
+            "x": 202.75862115391854,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "71": {
+            "x": 245.5375259352988,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "72": {
+            "x": 288.316430716679,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "73": {
+            "x": 331.0953354980593,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "74": {
+            "x": 373.8742402794395,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "75": {
+            "x": 416.6531450608198,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "76": {
+            "x": 459.4320498422,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        },
+        "77": {
+            "x": 502.2109546235803,
+            "y": 508.84381385168734,
+            "w": 1,
+            "h": 1,
+            "scale": 0.717948717948718
+        }
+    },
+    "items": [{
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/gen\/image\/WzI4LDE0LHsiZiI6IjJESXRlbXNcL01hcHNcL0F0bGFzMk1hcHNcL05ld1wvQ2hhdGVhdSIsInciOjEsImgiOjEsInNjYWxlIjp0cnVlLCJtbiI6OSwibXQiOjUsIm1iIjp0cnVlfV0\/2e3c9130d5\/Item.png",
+        "league": "Standard",
+        "id": "6a93e30091483a26eb145ae1565f286d79eeb2e3e7ab7170565dd12202bbd95a",
+        "name": "",
+        "typeLine": "Blighted Chateau Map",
+        "identified": true,
+        "ilvl": 72,
+        "properties": [{
+            "name": "Map Tier",
+            "values": [
+                ["5", 0]
+            ],
+            "displayMode": 0,
+            "type": 1
+        }],
+        "implicitMods": ["Area is infested with Fungal Growths", "Natural inhabitants of this area have been removed"],
+        "descrText": "Travel to this Map by using it in a personal Map Device. Maps can only be used once.",
+        "frameType": 0,
+        "x": 19,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/VioletOil.png?v=97c565b4873349cd094e87ecf89dfbb3&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "6c178e2fa8fb8ff15354deb944f97b4a7184a56cb18dc03025e51d260db98530",
+        "name": "",
+        "typeLine": "Violet Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 7,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/AzureOil.png?v=66a6ac68a7e98e558585deed1ea72fcc&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "12d9ad02298ac7bff30f8c2ee6d486637a9911ed425e68dc6103c6b0db805095",
+        "name": "",
+        "typeLine": "Azure Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 5,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/AmberOil.png?v=bb68a14adbd47ebf3cd4f3e2d1c00d86&w=1&h=1&scale=1",
+        "stackSize": 4,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "da80accae67b10c4bcfa44eb70f80b0d334cf4c6ee0f2e334378a502e16d55ed",
+        "name": "",
+        "typeLine": "Amber Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["4\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 2,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/gen\/image\/WzI4LDE0LHsiZiI6IjJESXRlbXNcL01hcHNcL0F0bGFzMk1hcHNcL05ld1wvVm9sY2FubyIsInciOjEsImgiOjEsInNjYWxlIjp0cnVlLCJtbiI6OSwibXQiOjEsIm1iIjp0cnVlfV0\/e0e95df8df\/Item.png",
+        "league": "Standard",
+        "id": "a39f8431d5646d3fb9dbc785268f05a1e5da66974610f8f1d614f8a7724a8a79",
+        "name": "",
+        "typeLine": "Blighted Volcano Map",
+        "identified": true,
+        "ilvl": 71,
+        "properties": [{
+            "name": "Map Tier",
+            "values": [
+                ["1", 0]
+            ],
+            "displayMode": 0,
+            "type": 1
+        }],
+        "implicitMods": ["Area is infested with Fungal Growths", "Natural inhabitants of this area have been removed"],
+        "descrText": "Travel to this Map by using it in a personal Map Device. Maps can only be used once.",
+        "frameType": 0,
+        "x": 18,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/BlackOil.png?v=1546a2c090924f9ce55ec5661b985f64&w=1&h=1&scale=1",
+        "stackSize": 2,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "f3b16be93ace4ad8581271552b3b16aba00fc120bbd5b494536112cde03b8215",
+        "name": "",
+        "typeLine": "Black Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["2\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 9,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/SepiaOil.png?v=f3183599d3c2c74ac600ec1a5bd0fc9b&w=1&h=1&scale=1",
+        "stackSize": 6,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "4c0f39703f4e7918f0c00ec95bdd1b50576d0cda278982c2888a1d8cefce2e46",
+        "name": "",
+        "typeLine": "Sepia Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["6\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 1,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/gen\/image\/WzI4LDE0LHsiZiI6IjJESXRlbXNcL01hcHNcL0F0bGFzMk1hcHNcL05ld1wvVGVtcGxlIiwidyI6MSwiaCI6MSwic2NhbGUiOnRydWUsIm1uIjo5LCJtdCI6MywibWIiOnRydWV9XQ\/585cfde87d\/Item.png",
+        "league": "Standard",
+        "id": "b41028965dab4fc4d11922777b931f70b4dcc7f5798c146ef6d7cd5a2d809f3d",
+        "name": "",
+        "typeLine": "Blighted Temple Map",
+        "identified": true,
+        "ilvl": 72,
+        "properties": [{
+            "name": "Map Tier",
+            "values": [
+                ["3", 0]
+            ],
+            "displayMode": 0,
+            "type": 1
+        }],
+        "implicitMods": ["Area is infested with Fungal Growths", "Natural inhabitants of this area have been removed"],
+        "descrText": "Travel to this Map by using it in a personal Map Device. Maps can only be used once.",
+        "frameType": 0,
+        "x": 20,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/VerdantOil.png?v=ab946f4f41529e1c8345fe4eabf9e7d7&w=1&h=1&scale=1",
+        "stackSize": 4,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "09ec8f07ca7ca7e53613c6075cb6e6dac12b9ad31050e12060b3354ca5de3714",
+        "name": "",
+        "typeLine": "Verdant Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["4\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 3,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/ClearOil.png?v=7e94917a8ab308cd44507d432f6427e0&w=1&h=1&scale=1",
+        "stackSize": 9,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "f3e3da7bbdf9db2d44ab314e1cb02b75cd8cbfb0f0548dae486215fca8fe76a1",
+        "name": "",
+        "typeLine": "Clear Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["9\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 0,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }, {
+        "verified": false,
+        "w": 1,
+        "h": 1,
+        "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Oils\/CrimsonOil.png?v=7a9b8849c48523a671a3e10a7e75b3c9&w=1&h=1&scale=1",
+        "stackSize": 1,
+        "maxStackSize": 5000,
+        "league": "Standard",
+        "id": "05391162b8c714f25dd952a3b518ceb32ab6dbbdd010aed8029f18dc94023753",
+        "name": "",
+        "typeLine": "Crimson Oil",
+        "identified": true,
+        "ilvl": 0,
+        "properties": [{
+            "name": "Stack Size",
+            "values": [
+                ["1\/10", 0]
+            ],
+            "displayMode": 0,
+            "type": 32
+        }],
+        "descrText": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.",
+        "frameType": 5,
+        "x": 8,
+        "y": 0,
+        "inventoryId": "Stash82"
+    }]
+}
