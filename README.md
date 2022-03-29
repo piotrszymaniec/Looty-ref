@@ -11,10 +11,8 @@ to have all in one place remotely available
 1. [How To create json data](https://github.com/Traf27/Looty-ref/blob/master/howto-item-sample.md) for loading json to looty for testing purposes  
 1. [Ideas](https://github.com/Traf27/Looty-ref/blob/master/ideas.md)  
 1. [Issues](https://github.com/Traf27/Looty-ref/blob/master/issues.md) I have with coding recently  
-1. [notes for tutorial](https://github.com/Traf27/Looty-ref/blob/master/wip/tutorial.md)
 
-### usefull resources
-
+### usefull resources  
 1. [PoE Ninja API How-to](https://github.com/Traf27/misc-poe-tools/blob/master/doc/poe-ninja-api.md) 
 1. [SlickGrid](https://github.com/mleibman/SlickGrid/wiki) Wiki - grid used in Looty
 1. [http://allaboutscala.com/](http://allaboutscala.com/) - nice introduction tut to scala
@@ -32,7 +30,7 @@ https://github.com/chicagoscala/beginning-exercises scala tutorial project from 
 
 ---
 ### TODO  
-#### Code:
+#### Code:  
 - [x] read how looty caches data and rules of refreshing content
 - [x] add jewel types for search/filter
 - [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
