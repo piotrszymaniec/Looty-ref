@@ -26,8 +26,8 @@ to have all in one place remotely available
 
 
 ### Dev Documentation
-[ttps://github.com/chicagoscala/beginning-exercises scala tutorial project from the ground up
-[scala.js beginner tutorial](https://www.scala-js.org/doc/tutorial/basic/)  
+https://github.com/chicagoscala/beginning-exercises scala tutorial project from the ground up
+[https://www.scala-js.org/doc/tutorial/basic/](scala.js beginner tutorial)  
 [http://www.dotnetfunda.com/forums/show/21633/is-it-possible-to-detect-a-page-refresh-f5-using-jquery](Ajax onload onbeforeunload)  
 
 ---
