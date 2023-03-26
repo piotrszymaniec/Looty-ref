@@ -31,6 +31,7 @@ https://github.com/chicagoscala/beginning-exercises scala tutorial project from 
 ---
 ### TODO  
 #### Code:  
+- [ ] find way to change User-Agent string investigate 
 - [x] read how looty caches data and rules of refreshing content
 - [x] add jewel types for search/filter
 - [x] add influence property : (elder, shaper, crusader, redemeer, hunter, warlord) 
