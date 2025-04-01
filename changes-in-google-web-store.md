@@ -20,10 +20,10 @@ from changelog
 ## changes in GGG request url 
 
 For account names previously it was enough to ask for "account-name" but now it requires unique identificator added as folowing "account-name#1234"
-Character request url changed following format "account-name" requiring "account-name#6036" which in url is encoded as "account-name%23256036
+Character request url changed following format "account-name" requiring "account-name#6036" which in url is encoded as "account-name%25236036
 
 ### todo 
 
 1. find where request is being made
-2. get information about account part "#1234" and concatanete it like following "%23251234" to request urls
+2. get information about account part "#1234" and concatanete it like following "%25231234" to request urls
 3. see if it works
